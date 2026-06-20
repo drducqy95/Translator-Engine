@@ -1,0 +1,17 @@
+{
+  "providers": [
+    {
+      "name": "default",
+      "base_url": "http://127.0.0.1:20128/v1/chat/completions",
+      "api_key": "sk-7465af9a7d3dc616-pyybjj-04ec0f31",
+      "model": "transbot",
+      "priority": 1,
+      "enabled": true
+    }
+  ],
+  "cli_fallback": [
+    "agy",
+    "claude"
+  ],
+  "cooldown_seconds": 300
+}

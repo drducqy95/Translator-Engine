@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translator Engine - Crawl Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="logo">🚀 TransCore</div>
+        <nav>
+            <a href="#" class="active">🗂️ Crawl Manager</a>
+            <a href="#">⚙️ Settings</a>
+            <a href="#">📊 Pipeline Status</a>
+        </nav>
+    </div>
+
+    <main class="content">
+        <header>
+            <h1>Crawl Dashboard</h1>
+            <button class="btn-primary" onclick="scanSites()">🔄 Scan Catalog Sites</button>
+        </header>
+
+        <div class="card-grid" id="novel-grid">
+            <!-- Novels will be populated here -->
+        </div>
+    </main>
+
+    <script>
+        async function loadNovels() {
+            const res = await fetch('/api/novels');
+            const novels = await res.json();
+            const grid = document.getElementById('novel-grid');
+            grid.innerHTML = '';
+            
+            novels.forEach(novel => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                let statusBadge = `<span class="badge badge-${novel.status}">${novel.status.toUpperCase()}</span>`;
+                
+                card.innerHTML = `
+                    <div class="card-header">
+                        <h3>${novel.title}</h3>
+                        ${statusBadge}
+                    </div>
+                    <div class="card-body">
+                        <p><strong>Nguồn:</strong> ${novel.site_name}</p>
+                        <p><strong>URL:</strong> <a href="${novel.url}" target="_blank" title="${novel.url}">${novel.url.substring(0, 30)}...</a></p>
+                    </div>
+                    <div class="card-footer">
+                        ${novel.status === 'discovered' || novel.status === 'error' ? 
+                            `<button class="btn-crawl" onclick="startCrawl('${novel.id}', '${novel.url}')">Tải Truyện & Khởi Tạo</button>` : 
+                            `<button class="btn-crawl" disabled>Đang xử lý...</button>`}
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        async function scanSites() {
+            alert("Bắt đầu quét các trang mục lục. Quá trình chạy ngầm, vui lòng chờ...");
+            await fetch('/api/scan', {method: 'POST'});
+            setTimeout(loadNovels, 5000);
+        }
+
+        async function startCrawl(id, url) {
+            await fetch('/api/crawl', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({id, url})
+            });
+            loadNovels();
+        }
+
+        // Load initially and poll every 5 seconds
+        loadNovels();
+        setInterval(loadNovels, 5000);
+    </script>
+</body>
+</html>

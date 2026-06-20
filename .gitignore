@@ -1,0 +1,22 @@
+# Environments
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Databases
+Dict/*.db
+Dict/*.db-shm
+Dict/*.db-wal
+
+# Runtime logs and temporary data
+logs/
+Temp/
+Archive/
+
+# Output directories (usually large)
+Output/
+Source_Full/
+Source_Split/
+Translated/
+Users/
