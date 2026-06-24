@@ -1,6 +1,8 @@
 import time
 import json
 import threading
+import os
+import re
 from concurrent.futures import ThreadPoolExecutor
 from Bot.config import logger, load_settings, engine_dir, source_mgr
 from Bot import crawl_queue
@@ -17,8 +19,111 @@ def _load_toc(toc_path):
         return json.load(f)
 
 def _save_toc(toc_path, toc):
-    with open(toc_path, "w", encoding="utf-8") as f:
+    tmp_path = toc_path.with_name(f".{toc_path.name}.tmp")
+    with open(tmp_path, "w", encoding="utf-8") as f:
         json.dump(toc, f, ensure_ascii=False, indent=4)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp_path, toc_path)
+
+def _chapter_index(name):
+    match = re.search(r"(?:Chapter|Chương)\s*0*([0-9]+)", name or "", re.IGNORECASE)
+    return int(match.group(1)) if match else None
+
+def _chapter_sort_key(path):
+    idx = _chapter_index(path.name)
+    return (0, idx, path.name) if idx is not None else (1, path.name)
+
+def _source_chapter_files(novel_id):
+    source_dir = engine_dir / "Source_Split" / novel_id
+    if not source_dir.exists():
+        return []
+    files = [p for p in source_dir.glob("Chapter *.md") if p.is_file()]
+    if not files:
+        files = [p for p in source_dir.glob("*.md") if p.is_file() and p.name not in {"Intro.md", "README.md", "metadata.json"}]
+    return sorted(files, key=_chapter_sort_key)
+
+def _repair_toc_from_source(novel_id):
+    files = _source_chapter_files(novel_id)
+    if not files:
+        return False
+    toc_path = engine_dir / "Output" / novel_id / "State" / "toc.json"
+    final_dir = engine_dir / "Output" / novel_id / "Final_Translated"
+    toc_path.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        toc = _load_toc(toc_path) if toc_path.exists() and toc_path.stat().st_size > 0 else {}
+    except Exception:
+        toc = {}
+    old_rows = {}
+    for row in toc.get("chapters", []) if isinstance(toc, dict) else []:
+        key = row.get("file", row.get("name")) if isinstance(row, dict) else None
+        if key:
+            old_rows[key] = row
+    translated_by_idx = {}
+    if final_dir.exists():
+        for path in final_dir.glob("*.md"):
+            idx = _chapter_index(path.name)
+            if idx:
+                translated_by_idx[idx] = path.name
+    chapters = []
+    changed = False
+    for fallback_idx, path in enumerate(files, 1):
+        idx = _chapter_index(path.name) or fallback_idx
+        row = dict(old_rows.get(path.name, {}))
+        if row.get("file") != path.name:
+            row["file"] = path.name
+            changed = True
+        row["index"] = idx
+        translated = translated_by_idx.get(idx)
+        if translated:
+            row["status"] = "done"
+            row["translated_file"] = translated
+            row.pop("processing_started_at", None)
+        else:
+            if row.get("status") in {"processing", "done"}:
+                row["status"] = "pending"
+                row.pop("translated_file", None)
+                row.pop("processing_started_at", None)
+                changed = True
+            row.setdefault("status", "pending")
+        chapters.append(row)
+    if toc.get("chapters") != chapters:
+        changed = True
+    toc = toc if isinstance(toc, dict) else {}
+    toc.setdefault("novel_id", novel_id)
+    toc.setdefault("source_type", "crawl")
+    toc["chapters"] = chapters
+    if changed:
+        _save_toc(toc_path, toc)
+    return changed
+
+def _requeue_incomplete_crawls():
+    try:
+        items = crawl_queue.load_queue()
+        changed = False
+        now = int(time.time())
+        for item in items:
+            if item.get("status") not in {"done", "error"}:
+                continue
+            novel_id = item.get("novel_id")
+            source_dir = engine_dir / "Source_Split" / novel_id
+            if not novel_id or not source_dir.exists():
+                continue
+            last_idx = max((_chapter_index(p.name) or 0 for p in source_dir.glob("Chapter *.md")), default=0)
+            if last_idx and item.get("max_chapters") in (None, "", 0, "0", "all"):
+                # Full crawls should remain resumable unless an explicit end_chapter was reached.
+                end = item.get("end_chapter")
+                if not end or last_idx < int(end):
+                    item["status"] = "queued"
+                    item["start_chapter"] = last_idx + 1
+                    item["error"] = f"Auto-resume incomplete crawl from chapter {last_idx + 1}"
+                    item["updated_at"] = now
+                    item.pop("finished_at", None)
+                    changed = True
+        if changed:
+            crawl_queue.save_queue(items)
+    except Exception as exc:
+        logger.info(f"[Daemon Crawl] Không requeue được crawl incomplete: {exc}")
 
 def _recover_stale_processing(toc, force=False):
     now = time.time()
@@ -115,6 +220,7 @@ def daemon_crawl_executor():
     """Mỗi 5 phút claim tối đa 1 job crawl trong queue."""
     while True:
         try:
+            _requeue_incomplete_crawls()
             if not load_settings().get("daemon_crawl", True):
                 time.sleep(30)
                 continue
@@ -139,8 +245,6 @@ def daemon_crawl_executor():
                         start_chapter=job.get("start_chapter"),
                         end_chapter=job.get("end_chapter"),
                     )
-                    if not source_mgr.init_novel_from_split(novel_id):
-                        raise RuntimeError("Khởi tạo pipeline crawl thất bại")
                     source_mgr.crawl_jobs[novel_id]["status"] = "completed"
                     crawl_queue.finish_job(job.get("job_id"), "done")
                     _mark_discovered_status(novel_id, "done")
@@ -159,6 +263,7 @@ def daemon_project_init():
     """Mỗi 5 phút: Quét Source_Split, nếu chưa có project trong Output -> Chạy Init pipeline."""
     while True:
         try:
+            _requeue_incomplete_crawls()
             if not load_settings().get("daemon_init", True):
                 time.sleep(30)
                 continue
@@ -216,13 +321,22 @@ def daemon_pipeline_executor():
     def process_task(novel_id, chapter_name):
         logger.info(f"[Daemon Pipeline] Bắt đầu dịch: {novel_id} - {chapter_name}")
         pm = PipelineManager(novel_id, str(engine_dir / "Source_Split" / novel_id), str(engine_dir / "Output" / novel_id))
-        success, err = pm.process_chapter(chapter_name)
+        success, err = False, ""
+        for attempt in range(1, 4):
+            success, err = pm.process_chapter(chapter_name)
+            if success:
+                break
+            logger.info(f"[Daemon Pipeline] Retry {attempt}/3 cho {novel_id}/{chapter_name}: {str(err)[:160]}")
+            time.sleep(5 * attempt)
         _finish_task(novel_id, chapter_name, success, err)
         if not success:
             logger.info(f"[Daemon Pipeline] Lỗi tại {novel_id}/{chapter_name}: {err[:300]}")
 
     while True:
         try:
+            for pdir in (engine_dir / "Output").iterdir() if (engine_dir / "Output").exists() else []:
+                if pdir.is_dir():
+                    _repair_toc_from_source(pdir.name)
             if not load_settings().get("daemon_pipeline", True):
                 time.sleep(30)
                 continue

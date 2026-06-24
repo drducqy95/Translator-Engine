@@ -4,6 +4,15 @@ from pathlib import Path
 from qt_engine import QTEngine
 import re
 
+def _atomic_write_json(path: Path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp_path = path.with_name(f".{path.name}.tmp")
+    with open(tmp_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp_path, path)
+
 
 class PipelineManager:
     FULL_INIT_SCAN_CHAPTERS = 50
@@ -280,8 +289,7 @@ class PipelineManager:
         data["scan_chapter_count"] = len(seed_files)
         data["scan_limit"] = scan_limit
         data["files"] = [p.name for p in seed_files]
-        with open(self.state_dir / "init_entity_review.json", 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+        _atomic_write_json(self.state_dir / "init_entity_review.json", data)
         return data
 
     def _write_common_project_files(self, chapter_files, readme_content, source_type, metadata=None, cover_prompt=""):
@@ -297,11 +305,9 @@ class PipelineManager:
                 for idx, cf in enumerate(chapter_files, 1)
             ],
         }
-        with open(self.toc_file, 'w', encoding='utf-8') as f:
-            json.dump(toc, f, ensure_ascii=False, indent=2)
+        _atomic_write_json(self.toc_file, toc)
 
-        with open(self.timeline_file, 'w', encoding='utf-8') as f:
-            json.dump([], f, ensure_ascii=False, indent=2)
+        _atomic_write_json(self.timeline_file, [])
 
         self._copy_master_config()
 

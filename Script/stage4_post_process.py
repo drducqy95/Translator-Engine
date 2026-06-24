@@ -4,6 +4,16 @@ import re
 from pathlib import Path
 import sys
 from pathlib import Path
+import os
+
+def _atomic_write_json(path: Path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp_path = path.with_name(f".{path.name}.tmp")
+    with open(tmp_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp_path, path)
 
 # Thêm đường dẫn để import lock_mgr
 engine_dir = Path(__file__).parent
@@ -295,8 +305,7 @@ def run(novel_id: str, out_dir: Path, chapter_filename: str, ai_output: dict, co
             if toc_file.exists():
                 total = len(chapters)
                 done = sum(1 for ch in chapters if isinstance(ch, dict) and ch.get('status') == 'done')
-                with open(toc_file, 'w', encoding='utf-8') as f:
-                    json.dump(toc, f, ensure_ascii=False, indent=2)
+                _atomic_write_json(toc_file, toc)
 
                 if readme_file.exists():
                     with open(readme_file, 'r', encoding='utf-8') as f:

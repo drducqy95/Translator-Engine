@@ -1,12 +1,14 @@
 import json
 import threading
 import time
+import os
 from pathlib import Path
 
 from Bot.config import engine_dir
 
 _queue_lock = threading.RLock()
 QUEUE_PATH = engine_dir / "Temp" / "crawl_queue.json"
+STALE_RUNNING_SECONDS = 300
 
 
 def _now():
@@ -27,7 +29,12 @@ def load_queue():
 def save_queue(items):
     with _queue_lock:
         QUEUE_PATH.parent.mkdir(parents=True, exist_ok=True)
-        QUEUE_PATH.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
+        tmp_path = QUEUE_PATH.with_name(f".{QUEUE_PATH.name}.tmp")
+        with open(tmp_path, "w", encoding="utf-8") as f:
+            json.dump(items, f, ensure_ascii=False, indent=2)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp_path, QUEUE_PATH)
 
 
 def enqueue_job(chat_id, title, url, site_id=None, novel_id=None, max_chapters=None, start_chapter=None, end_chapter=None):
@@ -63,14 +70,15 @@ def claim_next_job():
         changed = False
         now = _now()
         for item in items:
-            if item.get("status") == "running" and now - int(item.get("started_at") or item.get("updated_at") or 0) > 1800:
+            if item.get("status") == "running" and now - int(item.get("started_at") or item.get("updated_at") or 0) > STALE_RUNNING_SECONDS:
                 item["status"] = "queued"
                 item["error"] = "Recovered stale running crawl job"
                 item["updated_at"] = now
                 changed = True
         if changed:
             save_queue(items)
-        if any(item.get("status") == "running" for item in items):
+        running_jobs = [item for item in items if item.get("status") == "running"]
+        if running_jobs:
             return None
         for item in items:
             if item.get("status") == "queued":

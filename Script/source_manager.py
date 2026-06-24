@@ -319,8 +319,12 @@ class SourceManager:
         if cover_file:
             metadata["cover_file"] = cover_file
 
-        with open(novel_split_dir / "metadata.json", "w", encoding="utf-8") as f:
+        tmp_path = (novel_split_dir / "metadata.json").with_name(".metadata.json.tmp")
+        with open(tmp_path, "w", encoding="utf-8") as f:
             json.dump(metadata, f, ensure_ascii=False, indent=2)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp_path, novel_split_dir / "metadata.json")
         print(f"✅ Đã lưu metadata: {novel_split_dir / 'metadata.json'}")
         return metadata
 
@@ -367,6 +371,34 @@ class SourceManager:
         filename = f"Chapter {index:04d} {clean_title}.md" if clean_title else f"Chapter {index:04d}.md"
         with open(novel_split_dir / filename, "w", encoding="utf-8") as f:
             f.write(f"# {title}\n\n{body_text}\n")
+
+    def _chapter_exists(self, novel_split_dir: Path, index: int) -> bool:
+        pattern = f"Chapter {index:04d} *.md"
+        return any(p.is_file() for p in novel_split_dir.glob(pattern))
+
+    def _crawl_state_path(self, novel_split_dir: Path) -> Path:
+        return novel_split_dir / "crawl_state.json"
+
+    def _save_crawl_state(self, novel_split_dir: Path, state: dict):
+        path = self._crawl_state_path(novel_split_dir)
+        tmp_path = path.with_name(f".{path.name}.tmp")
+        with open(tmp_path, 'w', encoding='utf-8') as f:
+            json.dump(state, f, ensure_ascii=False, indent=2)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp_path, path)
+
+    def _chapter_retry(self, func, *, attempts=3, delay=3, label="chapter"):
+        last_exc = None
+        for attempt in range(1, attempts + 1):
+            try:
+                return func()
+            except Exception as exc:
+                last_exc = exc
+                if attempt < attempts:
+                    print(f"⚠️ Retry {label} {attempt}/{attempts} failed: {exc}")
+                    time.sleep(delay)
+        raise last_exc
 
     def _extract_chapter_links_from_soup(self, soup, base_url: str):
         selectors = ["#list dl dd a", ".box_con #list dl dd a", "#chapterlist p a", ".chapter-list li a", ".dirList li a", "ul.chapterlist li a"]
@@ -417,12 +449,23 @@ class SourceManager:
 
         selected_chapters = self._select_chapters(chapters, max_chapters, start_chapter, end_chapter)
         total = len(selected_chapters)
+        self._save_crawl_state(novel_split_dir, {
+            "status": "running", "source_url": url, "total_available": len(chapters),
+            "selected_total": total, "start_chapter": int(start_chapter or 1),
+            "end_chapter": end_chapter, "updated_at": int(time.time())
+        })
         print(f"Đã lấy được danh sách {len(chapters)} chương bằng HTTP fallback. Đang tải {total} chương...")
         content_selectors = ["#content", "#nr_body", ".Readarea", ".read-content", "#chaptercontent", ".panel-body"]
 
+        skipped = 0
+        base_index = int(start_chapter or 1)
         for i, chapter in enumerate(selected_chapters, 1):
+            chapter_index = base_index + i - 1
             title = chapter["title"]
-            chapter_html = self._fetch_html(chapter["url"])
+            if self._chapter_exists(novel_split_dir, chapter_index):
+                skipped += 1
+                continue
+            chapter_html = self._chapter_retry(lambda: self._fetch_html(chapter["url"]), label=f"crawl {chapter_index}")
             chapter_soup = BeautifulSoup(chapter_html, "html.parser")
             content = None
             for selector in content_selectors:
@@ -431,9 +474,19 @@ class SourceManager:
                     break
             body_text = content.get_text("\n", strip=True) if content else chapter_soup.get_text("\n", strip=True)
             body_text = "\n".join(line.strip() for line in body_text.splitlines() if line.strip())
-            self._write_crawled_chapter(novel_split_dir, i, title, body_text)
+            self._write_crawled_chapter(novel_split_dir, chapter_index, title, body_text)
+            self._save_crawl_state(novel_split_dir, {
+                "status": "running", "source_url": url, "total_available": len(chapters),
+                "selected_total": total, "last_chapter": chapter_index,
+                "next_chapter": chapter_index + 1, "updated_at": int(time.time())
+            })
 
-        print(f"✅ Đã crawl xong {total} chương vào: {novel_split_dir}")
+        self._save_crawl_state(novel_split_dir, {
+            "status": "done", "source_url": url, "total_available": len(chapters),
+            "selected_total": total, "last_chapter": (int(start_chapter or 1) + total - 1) if total else None,
+            "updated_at": int(time.time())
+        })
+        print(f"✅ Đã crawl xong {total} chương vào: {novel_split_dir} (skipped={skipped})")
 
     def crawl_novel_playwright(self, url: str, novel_id: str, max_chapters=None, site_id: str = None, start_chapter=None, end_chapter=None):
         """Crawl truyện từ web vào Source_Split, dùng Playwright nếu có và fallback HTTP nếu browser không chạy được."""
@@ -451,6 +504,7 @@ class SourceManager:
         try:
             with sync_playwright() as p:
                 browser = _launch_chromium(p)
+                chapter_failures = []
                 try:
                     page = browser.new_page(**self._get_browser_context_kwargs(site_id))
                     self._route_text_site_images(page, toc_url, site_id)
@@ -503,43 +557,87 @@ class SourceManager:
 
                     selected_chapters = self._select_chapters(chapters, max_chapters, start_chapter, end_chapter)
                     total = len(selected_chapters)
+                    self._save_crawl_state(novel_split_dir, {
+                        "status": "running", "source_url": url, "total_available": len(chapters),
+                        "selected_total": total, "start_chapter": int(start_chapter or 1),
+                        "end_chapter": end_chapter, "updated_at": int(time.time())
+                    })
                     print(f"Đã lấy được danh sách {len(chapters)} chương. Đang tải nội dung {total} chương...")
                     import random
                     import time
 
+                    skipped = 0
+                    base_index = int(start_chapter or 1)
                     for i, chapter in enumerate(selected_chapters, 1):
+                        chapter_index = base_index + i - 1
                         try:
                             title = chapter["title"]
+                            if self._chapter_exists(novel_split_dir, chapter_index):
+                                skipped += 1
+                                continue
                             print(f"  [{i}/{total}] Đang tải: {title}")
                             chap_page = browser.new_page(**self._get_browser_context_kwargs(site_id))
                             self._route_text_site_images(chap_page, chapter["url"], site_id)
                             try:
-                                chap_page.goto(chapter["url"], timeout=60000, wait_until="domcontentloaded")
-                                chap_page.wait_for_timeout(1500)
-                                if _is_cloudflare_html(chap_page.content()):
-                                    raise RuntimeError("Cloudflare challenge detected on chapter page")
-                                body_text = ""
-                                for c_sel in ["#content", "#nr_body", ".Readarea", ".read-content", "#chaptercontent", ".panel-body"]:
-                                    c_el = chap_page.query_selector(c_sel)
-                                    if c_el:
-                                        body_text = c_el.inner_text()
-                                        break
-                                if not body_text:
-                                    body_text = chap_page.inner_text("body")
-                                body_text = "\n".join(part.strip() for part in body_text.split("\n") if part.strip())
-                                self._write_crawled_chapter(novel_split_dir, i, title, body_text)
+                                def _fetch_chapter_text():
+                                    chap_page.goto(chapter["url"], timeout=60000, wait_until="domcontentloaded")
+                                    chap_page.wait_for_timeout(1500)
+                                    if _is_cloudflare_html(chap_page.content()):
+                                        raise RuntimeError("Cloudflare challenge detected on chapter page")
+                                    body_text = ""
+                                    for c_sel in ["#content", "#nr_body", ".Readarea", ".read-content", "#chaptercontent", ".panel-body"]:
+                                        c_el = chap_page.query_selector(c_sel)
+                                        if c_el:
+                                            body_text = c_el.inner_text()
+                                            break
+                                    if not body_text:
+                                        body_text = chap_page.inner_text("body")
+                                    return "\n".join(part.strip() for part in body_text.split("\n") if part.strip())
+                                body_text = self._chapter_retry(_fetch_chapter_text, label=f"crawl {chapter_index}")
+                                self._write_crawled_chapter(novel_split_dir, chapter_index, title, body_text)
+                                self._save_crawl_state(novel_split_dir, {
+                                    "status": "running", "source_url": url, "total_available": len(chapters),
+                                    "selected_total": total, "last_chapter": chapter_index,
+                                    "next_chapter": chapter_index + 1, "updated_at": int(time.time())
+                                })
                             finally:
                                 chap_page.close()
                             time.sleep(_crawl_delay_seconds())
                         except Exception as e:
                             print(f"  ❌ Lỗi tải chương {i}: {e}")
+                            chapter_failures.append((i, title, str(e)))
                 finally:
                     browser.close()
         except Exception as e:
             print(f"⚠️ Playwright không chạy được ({e}). Chuyển sang HTTP fallback.")
             return self._crawl_novel_http(url, novel_id, max_chapters, start_chapter, end_chapter)
 
-        print(f"✅ Đã crawl xong {total} chương vào: {novel_split_dir}")
+        if chapter_failures:
+            failed_path = novel_split_dir / "failed_chapters.json"
+            failed_payload = [
+                {"index": idx, "title": title, "error": err, "updated_at": int(time.time())}
+                for idx, title, err in chapter_failures
+            ]
+            tmp_failed = failed_path.with_name(f".{failed_path.name}.tmp")
+            with open(tmp_failed, 'w', encoding='utf-8') as f:
+                json.dump(failed_payload, f, ensure_ascii=False, indent=2)
+                f.flush(); os.fsync(f.fileno())
+            os.replace(tmp_failed, failed_path)
+            self._save_crawl_state(novel_split_dir, {
+                "status": "error", "source_url": url, "total_available": len(chapters) if 'chapters' in locals() else None,
+                "selected_total": total if 'total' in locals() else None,
+                "next_chapter": max((self._chapter_index_from_file(p.name) for p in novel_split_dir.glob('Chapter *.md')), default=0) + 1 if False else None,
+                "error_count": len(chapter_failures), "updated_at": int(time.time())
+            })
+            sample = "; ".join(f"{idx}:{title}" for idx, title, _ in chapter_failures[:5])
+            raise RuntimeError(f"Crawl incomplete: failed {len(chapter_failures)}/{total} chapters; sample={sample}")
+
+        self._save_crawl_state(novel_split_dir, {
+            "status": "done", "source_url": url, "total_available": len(chapters),
+            "selected_total": total, "last_chapter": (int(start_chapter or 1) + total - 1) if total else None,
+            "updated_at": int(time.time())
+        })
+        print(f"✅ Đã crawl xong {total} chương vào: {novel_split_dir} (skipped={skipped})")
         print("💡 Gợi ý: Bạn có thể chạy SourceManager.split_and_init_novel() với mode tuỳ chỉnh để khởi tạo Pipeline sau khi crawl.")
 
     def crawl_novel_via_plugin(self, url: str, novel_id: str, site_id: str, max_chapters: int = 10):
