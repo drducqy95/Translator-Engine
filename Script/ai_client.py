@@ -13,7 +13,7 @@ Config: ai_providers.json at ROOT. If absent, it is bootstrapped from the legacy
 ai_config.json (single provider) so nothing breaks on first run.
 
 Public API:
-    call_ai(prompt, *, stream=False, temperature=0.2, timeout=240) -> str   # '' on total failure
+    call_ai(prompt, *, stream=False, temperature=0.2, timeout=600) -> str   # '' on total failure
     call_ai_checked(prompt, **kw) -> (text|None, error|None)                # for the bot
     load_providers() / save_providers(data)                                 # for bot management
 """
@@ -95,20 +95,56 @@ def _bootstrap_from_legacy():
 
 
 def load_providers():
-    """Return the providers config dict, bootstrapping from ai_config.json if needed.
-    First-time bootstrap is persisted so the bot has a real file to manage."""
+    """Return provider config, migrating older bot-written shapes if needed."""
     data = _read_json(PROVIDERS_JSON)
-    bootstrapped = False
+    changed = False
+
+    if isinstance(data, list):
+        data = {'providers': data, 'cli_fallback': list(DEFAULT_CLI_FALLBACK), 'cooldown_seconds': DEFAULT_COOLDOWN}
+        changed = True
+
     if not isinstance(data, dict) or not data.get('providers'):
         data = _bootstrap_from_legacy()
-        bootstrapped = True
+        changed = True
+
     data.setdefault('cli_fallback', list(DEFAULT_CLI_FALLBACK))
     data.setdefault('cooldown_seconds', DEFAULT_COOLDOWN)
-    if bootstrapped:
+
+    try:
+        from dotenv import load_dotenv
+        load_dotenv(ROOT / ".env")
+    except ImportError:
+        env_path = ROOT / ".env"
+        if env_path.exists():
+            for line in env_path.read_text(encoding='utf-8').splitlines():
+                line = line.strip()
+                if not line or line.startswith('#') or '=' not in line:
+                    continue
+                key, value = line.split('=', 1)
+                os.environ.setdefault(key.strip(), value.strip().strip(chr(34)).strip(chr(39)))
+
+    env_key = os.getenv("AI_API_KEY")
+    for idx, prov in enumerate(data.get('providers', []), 1):
+        if not prov.get('model') and prov.get('model_name'):
+            prov['model'] = prov.pop('model_name')
+            changed = True
+        if 'priority' not in prov:
+            prov['priority'] = idx
+            changed = True
+        if 'enabled' not in prov:
+            prov['enabled'] = True
+            changed = True
+        if prov.get('local') or 'offline' in prov.get('role', ''):
+            if not prov.get('api_key'):
+                prov['api_key'] = 'local'
+        elif not prov.get('api_key') and env_key:
+            prov['api_key'] = env_key
+
+    if changed:
         try:
             _write_json(PROVIDERS_JSON, data)
         except Exception:
-            pass  # read-only FS or race; in-RAM config still works
+            pass
     return data
 
 
@@ -251,9 +287,9 @@ def _call_cli(tool, prompt, timeout):
 # ---------------------------------------------------------------------------
 # public API
 # ---------------------------------------------------------------------------
-def call_ai_checked(prompt, *, stream=False, temperature=0.2, timeout=240, system_prompt=None, max_retries=None):
+def call_ai_checked_with_meta(prompt, *, stream=False, temperature=0.2, timeout=600, system_prompt=None, max_retries=None):
     """Try every enabled provider in priority order, then CLI fallbacks.
-    Returns (text, None) on success, (None, error_summary) if everything failed."""
+    Returns (text, None, meta) on success, (None, error_summary, None) if everything failed."""
     if max_retries is None: max_retries = 3
     
     cfg = load_providers()
@@ -273,7 +309,10 @@ def call_ai_checked(prompt, *, stream=False, temperature=0.2, timeout=240, syste
             try:
                 text = _call_provider(prov, prompt, stream, temperature, timeout, system_prompt)
                 if text:
-                    return text, None
+                    meta = {"provider": name, "role": prov.get("role", "primary"), "mode": "online"}
+                    if prov.get("local") or "offline" in prov.get("role", ""):
+                        meta["mode"] = "offline_fallback"
+                    return text, None, meta
                 errors.append(f'{name}: empty')
             except _RateLimited as e:
                 _log(f'{name} rate-limited -> cooldown {cooldown_secs}s ({e})')
@@ -287,18 +326,24 @@ def call_ai_checked(prompt, *, stream=False, temperature=0.2, timeout=240, syste
         if attempt < max_retries - 1:
             time.sleep(5)
 
-    # CLI fallback tier
+    # CLI fallback tier. CLI tools receive one prompt string, so preserve the
+    # stage system contract by prefixing it instead of dropping it.
+    cli_prompt = f"{system_prompt}\n\n{prompt}" if system_prompt else prompt
     for tool in cfg.get('cli_fallback', []):
-        if system_prompt: # CLI tools typically don't support custom system prompt via simple argv
-            pass
-        text = _call_cli(tool, prompt, timeout)
+        text = _call_cli(tool, cli_prompt, timeout)
         if text:
-            return text, None
+            return text, None, {"provider": tool, "role": "cli_fallback", "mode": "cli_fallback"}
         errors.append(f'{tool}: empty/fail')
 
     if skipped_cooldown and not providers_available(providers, cooldowns):
         errors.append(f'all providers in cooldown: {skipped_cooldown}')
-    return None, '; '.join(errors) or 'no providers configured'
+    return None, '; '.join(errors) or 'no providers configured', None
+
+
+def call_ai_checked(prompt, *, stream=False, temperature=0.2, timeout=600, system_prompt=None, max_retries=None):
+    """Backward compatible API. Returns (text, err)."""
+    text, err, meta = call_ai_checked_with_meta(prompt, stream=stream, temperature=temperature, timeout=timeout, system_prompt=system_prompt, max_retries=max_retries)
+    return text, err
 
 
 def providers_available(providers, cooldowns):
@@ -321,7 +366,7 @@ def call_one_checked(name, prompt, *, stream=False, temperature=0.2, timeout=60,
         return None, str(e)[:120]
 
 
-def call_ai(prompt, *, stream=False, temperature=0.2, timeout=240, max_retries=None, system_prompt=None):
+def call_ai(prompt, *, stream=False, temperature=0.2, timeout=600, max_retries=None, system_prompt=None):
     """Text-returning variant ('' on failure). max_retries accepted for backward
     compatibility with the old pipeline_common.call_ai(prompt, max_retries=2) shim."""
     text, _err = call_ai_checked(prompt, stream=stream, temperature=temperature, timeout=timeout, system_prompt=system_prompt, max_retries=max_retries)

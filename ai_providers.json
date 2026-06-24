@@ -3,10 +3,21 @@
     {
       "name": "default",
       "base_url": "http://127.0.0.1:20128/v1/chat/completions",
-      "api_key": "sk-7465af9a7d3dc616-pyybjj-04ec0f31",
+      "api_key": "",
       "model": "transbot",
       "priority": 1,
-      "enabled": true
+      "enabled": true,
+      "role": "primary"
+    },
+    {
+      "name": "local_hymt",
+      "base_url": "http://127.0.0.1:8088/v1/chat/completions",
+      "api_key": "local",
+      "model": "Hy-MT1.5-1.8B-2bit",
+      "priority": 2,
+      "enabled": false,
+      "role": "offline_fallback",
+      "local": true
     }
   ],
   "cli_fallback": [

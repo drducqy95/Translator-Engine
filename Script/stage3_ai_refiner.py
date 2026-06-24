@@ -1,155 +1,157 @@
 import json
+import re
 from pathlib import Path
 
-def build_stage3_prompt(context_pack):
+_CJK = None
+def _has_cjk(s):
+    global _CJK
+    if _CJK is None:
+        _CJK = re.compile(r'[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]')
+    return bool(_CJK.search(s))
+
+def _trim_context(cp: dict) -> dict:
+    """Chỉ giữ locked dict terms có trong raw_segments."""
+    segs_text = " ".join(s.get("text","") for s in cp.get("raw_segments",[]) if isinstance(s,dict))
+    result = dict(cp)
+    for key in ("locked_dictionary","suggested_dictionary"):
+        d = cp.get(key,{})
+        if isinstance(d,dict):
+            trimmed = {}
+            for group, values in d.items():
+                if isinstance(values, dict):
+                    trimmed[group] = {raw: target for raw, target in values.items() if raw and raw in segs_text}
+                elif group and group in segs_text:
+                    trimmed[group] = values
+            result[key] = trimmed
+    return result
+
+def build_stage3_prompt(context_pack: dict) -> str:
     config = context_pack.get("translation_config", {})
     goal = config.get("translation_goal", {})
-    style = goal.get("style", "văn xuôi tiếng Việt mượt, rõ nghĩa, không máy móc")
+    style = goal.get("style", "văn xuôi tiếng Việt mượt")
     anti_goals = goal.get("anti_goals", [])
-    
-    # Build dynamic prompt
-    prompt = f"""Bạn là một Bậc thầy Dịch thuật Văn học (Tiếng Trung -> Tiếng Việt).
-Nhiệm vụ của bạn là dịch chương truyện dựa trên một Gói Ngữ Cảnh (Context Pack) được cung cấp.
+    segs = context_pack.get("raw_segments", [])
+    ids = [s.get("id") for s in segs if isinstance(s, dict)]
+    rules = [
+        f"Bạn là biên dịch viên văn học Trung→Việt.",
+        f"Phong cách: {style}",
+        "",
+        "QUY TẮC CỨNG:",
+        "1. Locked Dictionary: BẮT BUỘC dùng target đã khóa. KHÔNG dùng raw/tên gốc.",
+        "   Nếu target là Latin (Ex: Pette Chinar) thì PHẢI dùng Latin, không phiên âm Hán Việt.",
+        "2. RAW là bản Trung gốc; QT là bản dịch máy/QT. Nhiệm vụ chính: hiệu chỉnh QT thành văn Việt tự nhiên, đối chiếu RAW để sửa sai nghĩa.",
+        "3. KHÔNG sót ký tự CJK.",
+        f"4. Giữ đúng số lượng, thứ tự, id. Expected IDs: {ids}.",
+        "4. Heading Markdown → giữ heading.",
+        "5. Chỉ output JSON, không giải thích.",
+        "6. Trích xuất entity mới vào new_entities.",
+        "7. Đề xuất grammar_notes khi phát hiện mẫu dịch/xưng hô/cụm cố định cần khóa.",
+        "8. Tóm tắt story timeline 1-2 câu.",
+        "",
+        "SCHEMA OUTPUT:",
+        json.dumps({
+            "refined_segments": [{"id": 1, "refined_translation": "# Chương 0001 ..."}],
+            "story_timeline": {"summary": {"main_events": "...", "new_characters": []}},
+            "new_entities": [{"raw": "中文名", "target": "Tên Việt", "type": "character", "origin": "chinese", "name_type": "person"}],
+            "relationships": [{"source": "A", "target": "B", "relationship": "ally_of"}],
+            "grammar_notes": []
+        }, ensure_ascii=False, indent=2)
+    ]
+    for a in (anti_goals or [])[:5]:
+        rules.insert(3, f"- Tránh: {a}")
+    rules.insert(4, f"- IDs = {ids}")
+    return "\n".join(rules)
 
-MỤC TIÊU DỊCH THUẬT:
-- Phong cách: {style}
-- Những điều tuyệt đối TRÁNH:
-"""
-    for anti in anti_goals:
-        prompt += f"  - {anti}\n"
-        
-    prompt += """
-LUẬT LỆ ÉP BUỘC (CRITICAL):
-1. BÁM SÁT TỪ ĐIỂN CUNG CẤP TRONG CONTEXT PACK: Bất kỳ tên nhân vật, địa danh, chiêu thức nào xuất hiện trong phần 'Locked Dictionary' của Context Pack ĐỀU PHẢI được dùng đúng như vậy. Cấm tự ý thay đổi tên nhân vật đã khóa.
-2. XƯNG HÔ (PRONOUNS): Bắt buộc phải tuân theo hệ thống xưng hô trong phần 'Pronouns & Addressing'.
-3. ĐỊNH DẠNG (BẮT BUỘC): Bạn phải dịch từng đoạn (segment) một, giữ nguyên số lượng và ID của các đoạn. Tuyệt đối không gộp đoạn hay tách đoạn.
-4. TIÊU ĐỀ CHƯƠNG: Đoạn đầu tiên (thường có id=1) BẮT BUỘC phải là tiêu đề chương đã được dịch sang tiếng Việt, giữ nguyên định dạng Markdown heading (ví dụ: # Chương 1: Tên chương).
-5. SUGGESTED DICTIONARY & TÊN RIÊNG MỚI (NEW ENTITIES): Phần 'Suggested Dictionary' là các gợi ý từ máy dịch (QT), KHÔNG BẮT BUỘC. Nếu phát hiện tên riêng (character, place) CHƯA CÓ trong Locked Dictionary, bạn BẮT BUỘC phải sử dụng Âm Hán Việt chuẩn, tuyệt đối KHÔNG dịch nghĩa đen, KHÔNG bám theo Suggested Dictionary nếu nó dịch nghĩa đen sai lệch (Ví dụ: "赵奇" phải dịch là "Triệu Kỳ", tuyệt đối không dịch là "Triệu Đơn").
-6. TRẢ VỀ DUY NHẤT JSON: Đầu ra của bạn phải là một chuỗi JSON hợp lệ, tuyệt đối không có text dư thừa, không có ```json markdown.
-
-ĐỊNH DẠNG JSON ĐẦU RA YÊU CẦU:
-{
-  "refined_segments": [
-    {
-      "id": 1,
-      "refined_translation": "# Chương 1: Tiêu đề chương"
-    },
-    {
-      "id": 2,
-      "refined_translation": "Nội dung bản dịch của đoạn 2..."
-    }
-  ],
-  "story_timeline": {
-    "summary": {
-      "main_events": "Tóm tắt ngắn gọn 1-2 câu về sự kiện chính xảy ra trong chương này",
-      "new_characters": ["Tên nhân vật mới 1", "Tên nhân vật mới 2"]
-    }
-  },
-  "new_entities": [
-    {
-      "raw": "Tên/Thuật ngữ gốc tiếng Trung",
-      "target": "Tên/Thuật ngữ dịch sang tiếng Việt (chuẩn Hán Việt)",
-      "type": "character",
-      "origin": "chinese",
-      "name_type": "person"
-    }
-  ],
-  "relationships": [
-    {
-      "source": "Tên nhân vật A",
-      "target": "Tên nhân vật B",
-      "relationship": "Mối quan hệ (ví dụ: master_of, enemy_of, spouse_of)"
-    }
-  ]
-}
-"""
-    return prompt
-
-def run(novel_id: str, context_pack: dict, output_dir: str):
-    print(f"[Stage 3] Khởi tạo AI Refiner (Translator) cho truyện {novel_id}")
-    
-    system_prompt = build_stage3_prompt(context_pack)
-    raw_segments = context_pack.get("raw_segments", [])
-    raw_text = "\n".join([f"[{s['id']}] {s['text']}" for s in raw_segments])
-    dict_locked = context_pack.get("locked_dictionary", {})
-    dict_suggest = context_pack.get("suggested_dictionary", {})
-    pronouns = context_pack.get("pronouns_addressing", {})
-    
-    user_prompt = f"""
-=== LOCKED DICTIONARY (BẮT BUỘC) ===
-{json.dumps(dict_locked, ensure_ascii=False, indent=2)}
-
-=== SUGGESTED DICTIONARY (CHỈ THAM KHẢO) ===
-{json.dumps(dict_suggest, ensure_ascii=False, indent=2)}
-
-=== RELATIONSHIP GRAPH ===
-{json.dumps(context_pack.get("relationships_graph", []), ensure_ascii=False, indent=2)}
-
-=== PRONOUNS & ADDRESSING ===
-{json.dumps(pronouns, ensure_ascii=False, indent=2)}
-
-=== RAW SEGMENTS TO TRANSLATE ===
-{raw_text}
-"""
-    
-    # Gọi API thực sự thông qua ai_client
-    print("[Stage 3] Đang gửi Request tới AI LLM để dịch thuật...")
-    
+def _extract_json_object(text: str) -> dict:
+    text = (text or "").strip()
+    if not text: raise ValueError("AI trả về rỗng")
+    fence = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", text, re.DOTALL)
+    if fence: text = fence.group(1).strip()
+    start = text.find("{")
+    if start < 0: raise ValueError("Không tìm thấy JSON object")
     try:
-        import ai_client
-        full_prompt = system_prompt + "\n\n" + user_prompt
-        
-        response_text = ai_client.call_ai(full_prompt, temperature=0.2, timeout=300)
-        
-        if not response_text:
-            raise Exception("AI không trả về kết quả hoặc bị timeout toàn bộ.")
-            
-        # Parse JSON từ response_text
-        # Có thể AI trả về kèm theo tag ```json ... ```, ta cần bóc tách
-        import re
-        json_match = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', response_text, re.DOTALL)
-        if json_match:
-            json_str = json_match.group(1)
-        else:
-            json_str = response_text
-            
-        data = json.loads(json_str)
-        
-        # VALIDATE VÀ CHUẨN HÓA CẤU TRÚC JSON
-        if not isinstance(data, dict):
-            raise Exception(f"AI trả về {type(data).__name__}, kỳ vọng dict (JSON object).")
-
-        # 1. Validate refined_segments
-        raw_segments = data.get('refined_segments', [])
-        if not isinstance(raw_segments, list):
-            raw_segments = []
-        clean_segments = []
-        for i, seg in enumerate(raw_segments):
-            if isinstance(seg, dict) and 'refined_translation' in seg:
-                clean_segments.append(seg)
-            elif isinstance(seg, str):
-                clean_segments.append({"id": i+1, "refined_translation": seg})
-        data['refined_segments'] = clean_segments
-
-        # 2. Validate new_entities
-        raw_entities = data.get('new_entities', [])
-        if not isinstance(raw_entities, list):
-            raw_entities = []
-        clean_entities = []
-        for ent in raw_entities:
-            if isinstance(ent, dict) and 'raw' in ent and 'target' in ent:
-                ent.setdefault('type', 'unknown')
-                clean_entities.append(ent)
-        data['new_entities'] = clean_entities
-
-        # 3. Validate story_timeline
-        timeline = data.get('story_timeline', {})
-        if not isinstance(timeline, dict):
-            data['story_timeline'] = {}
-            
-        print("[Stage 3] AI trả về JSON hợp lệ. Dịch thuật hoàn tất.")
-        return data
+        data, _ = json.JSONDecoder().raw_decode(text[start:])
     except json.JSONDecodeError as e:
-        raise Exception(f"[Stage 3] Lỗi Parse JSON từ AI. Chuỗi trả về:\n{response_text[:200]}...\nLỗi: {e}")
-    except Exception as e:
-        raise Exception(f"[Stage 3] Giao tiếp AI lỗi: {e}")
+        raise ValueError(f"JSON không hợp lệ: {e}")
+    if not isinstance(data, dict): raise ValueError("AI không trả dict")
+    return data
+
+def _normalize_output(data: dict, expected_ids: list[int]) -> dict:
+    raw = data.get("refined_segments", [])
+    if not isinstance(raw, list): raise ValueError("refined_segments phải là list")
+    seen, clean, errors = set(), [], []
+    for s in raw:
+        if isinstance(s, str): s = {"id": len(seen)+1, "refined_translation": s}
+        if not isinstance(s, dict): continue
+        sid = s.get("id")
+        try: sid = int(sid)
+        except: errors.append("segment thiếu id"); continue
+        t = s.get("refined_translation","")
+        if not isinstance(t, str) or not t.strip(): errors.append(f"seg {sid} thiếu text"); continue
+        if sid in seen: errors.append(f"trùng id {sid}"); continue
+        seen.add(sid); clean.append({"id": sid, "refined_translation": t.strip()})
+    missing = [e for e in expected_ids if e not in seen]
+    if missing: errors.append(f"Thiếu segment id: {missing}")
+    if errors: raise ValueError("; ".join(errors))
+    order = {e:i for i,e in enumerate(expected_ids)}
+    data["refined_segments"] = sorted(clean, key=lambda x: order.get(x["id"],10**9))
+    data.setdefault("new_entities",[]); data.setdefault("relationships",[]); data.setdefault("grammar_notes",[])
+    return data
+
+def run(novel_id: str, context_pack: dict, output_dir: str) -> dict:
+    print(f"[Stage 3] AI Refiner: {novel_id}")
+
+    cp = _trim_context(context_pack)
+    n_segs = len(cp.get("raw_segments", []))
+    print(f"[Stage 3] {n_segs} segments")
+
+    # Build prompt
+    system_prompt = build_stage3_prompt(cp)
+    seg_text = "\n".join(
+        f"[{s['id']}]\nRAW: {s.get('text','')}\nQT: {s.get('qt','')}"
+        for s in cp.get("raw_segments",[]) if isinstance(s,dict)
+    )
+    locked = cp.get("locked_dictionary",{})
+    suggest = cp.get("suggested_dictionary",{})
+    pronouns = cp.get("pronouns_addressing",{})
+    tm_hits = cp.get("translation_memory_hits",[])
+
+    user_prompt = f"""=== LOCKED DICTIONARY ===
+{json.dumps(locked, ensure_ascii=False)}
+=== SUGGESTED DICTIONARY ===
+{json.dumps(suggest, ensure_ascii=False)}
+=== PRONOUNS ===
+{json.dumps(pronouns, ensure_ascii=False)}
+=== TRANSLATION MEMORY ===
+{json.dumps(tm_hits, ensure_ascii=False)[:400]}
+=== SEGMENTS (RAW + QT DRAFT) ===
+{seg_text}"""
+
+    print("[Stage 3] Gọi AI...")
+    import ai_client
+    response_text, ai_err, meta = ai_client.call_ai_checked_with_meta(
+        user_prompt, system_prompt=system_prompt, temperature=0.2, timeout=300, max_retries=2)
+
+    if ai_err or not response_text:
+        raise Exception(f"AI failed: {ai_err}")
+
+    try:
+        data = _extract_json_object(response_text)
+        data = _normalize_output(data, [s.get("id") for s in cp.get("raw_segments",[]) if isinstance(s,dict)])
+    except Exception as je:
+        print(f"[Stage 3] JSON fail, fallback: {je}")
+        import stage3_offline_hymt
+        meta_safe = meta or {"provider":"fallback","mode":"fallback"}
+        data = stage3_offline_hymt.run_fallback(novel_id, cp, output_dir, response_text, meta_safe)
+
+    # Validate đủ segment
+    all_ids = [s.get("id") for s in context_pack.get("raw_segments",[]) if isinstance(s,dict)]
+    got_ids = [s["id"] for s in data.get("refined_segments",[])]
+    missing = [e for e in all_ids if e not in got_ids]
+    if missing: raise ValueError(f"Thiếu segment: {missing}")
+
+    cjk = [s for s in data["refined_segments"] if _has_cjk(s.get("refined_translation",""))]
+    if cjk: raise ValueError(f"CJK trong segments: {[s['id'] for s in cjk]}")
+
+    data["provider_meta"] = meta or {"provider":"online","mode":"online"}
+    print("[Stage 3] OK"); return data

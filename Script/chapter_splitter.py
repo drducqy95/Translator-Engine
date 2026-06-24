@@ -160,6 +160,28 @@ def detect_chapter_heading(line: str):
         title = m.group(2).strip() or s
         return num, title, s
 
+    # Non-numbered chapter markers commonly present in Chinese web novels.
+    # They are real <h1> chapters in many full-source dumps, so keep them as
+    # split boundaries instead of dropping author notices or final remarks.
+    compact = re.sub(r'\s+', '', s)
+    if 2 <= len(compact) <= 80:
+        looks_like_sentence = (
+            s.lstrip().startswith(('（', '(', '“', '"', '【', '['))
+            or compact.endswith(('。', '！', '？', '；', '…', '”', '"', '）', ')', '】', ']', '.', '!', '?'))
+        )
+        if not looks_like_sentence:
+            notice_keywords = (
+                '上架', '请假', '請假', '请假条', '感言', '完本感言',
+                '后记', '後記', '番外', '停更', '致读者', '致讀者',
+            )
+            if any(key in compact for key in notice_keywords):
+                return 0, s, s
+
+        # Volume-only headings occasionally encode a source chapter boundary
+        # even when they do not contain 章/节/回, e.g. '第十卷 ... 第十三卷 ...'.
+        if re.match(r'^第[0-9０-９零〇○一二三四五六七八九十百千万兩两]+卷', compact):
+            return 0, s, s
+
     return None
 
 

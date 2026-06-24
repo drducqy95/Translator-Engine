@@ -213,21 +213,23 @@ class DictManager:
         Tra cứu theo thứ tự ưu tiên:
         Project > Universe (Active) > Style > Global
         """
-        if key in self.project_dict:
-            return self.project_dict[key]
-            
-        if active_universes:
-            for u in active_universes:
-                if u in self.universe_dicts and key in self.universe_dicts[u]:
-                    return self.universe_dicts[u][key]
-                    
-        if key in self.style_dict:
-            return self.style_dict[key]
-            
-        if key in self.global_dict:
-            return self.global_dict[key]
-            
-        return None
+        with _CACHE_LOCK:
+            if key in self.project_dict:
+                return self.project_dict[key]
+                
+            if active_universes:
+                for u in active_universes:
+                    if u in self.universe_dicts and key in self.universe_dicts[u]:
+                        return self.universe_dicts[u][key]
+                        
+            if key in self.style_dict:
+                return self.style_dict[key]
+                
+            if key in self.global_dict:
+                return self.global_dict[key]
+                
+            return None
         
     def get_hv(self, char: str):
-        return self.hanviet_dict.get(char)
+        with _CACHE_LOCK:
+            return self.hanviet_dict.get(char)

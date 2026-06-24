@@ -1,9 +1,50 @@
 import json
-from pathlib import Path
-import time
+import os
 import random
+import shutil
+import time
+from pathlib import Path
+from urllib.parse import urljoin
 
 DATA_DIR = Path(__file__).parent / "data"
+DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+def _launch_chromium(playwright):
+    candidates = [
+        os.getenv("CHROMIUM_EXECUTABLE"),
+        shutil.which("chromium"),
+        shutil.which("google-chrome"),
+        getattr(playwright.chromium, "executable_path", None),
+        shutil.which("chromium-browser"),
+        None,
+    ]
+    last_error = None
+    for executable in candidates:
+        if executable == "":
+            continue
+        kwargs = {"headless": True, "args": ["--no-sandbox", "--disable-setuid-sandbox"]}
+        if executable:
+            kwargs["executable_path"] = executable
+        try:
+            return playwright.chromium.launch(**kwargs)
+        except Exception as exc:
+            last_error = exc
+    raise last_error
+
+
+
+def route_text_site_images(page, site):
+    if site.get("content_type") != "text":
+        return
+
+    def route_handler(route):
+        if route.request.resource_type == "image":
+            route.abort()
+        else:
+            route.continue_()
+
+    page.route("**/*", route_handler)
+
 
 def load_sites():
     with open(DATA_DIR / "crawl_sites.json", 'r', encoding='utf-8') as f:
@@ -30,20 +71,25 @@ def scan_all_sites():
     try:
         from playwright.sync_api import sync_playwright
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True, executable_path='/usr/bin/chromium-browser')
+            browser = _launch_chromium(p)
             for site in sites:
                 print(f"Đang quét trang: {site['name']}...")
                 page = browser.new_page()
+                route_text_site_images(page, site)
                 try:
-                    page.goto(site['catalog_url'], timeout=30000)
+                    page.goto(site['catalog_url'], timeout=90000, wait_until="domcontentloaded")
                     items = page.query_selector_all(site['selectors']['novel_item'])
                     for item in items[:20]: # Giới hạn lấy 20 truyện mỗi site để demo nhanh
                         title_el = item.query_selector(site['selectors']['title'])
                         if not title_el:
                             continue
                         title = title_el.inner_text().strip()
-                        url = title_el.get_attribute("href")
-                        
+                        url_selector = site['selectors'].get('url', site['selectors']['title'])
+                        url_el = item.query_selector(url_selector) or title_el
+                        url = url_el.get_attribute("href")
+                        if url:
+                            url = urljoin(site['catalog_url'], url)
+
                         if url and url not in old_urls:
                             discovered.append({
                                 "id": f"novel_{int(time.time())}_{random.randint(100,999)}",
@@ -57,6 +103,8 @@ def scan_all_sites():
                             old_urls.add(url)
                 except Exception as e:
                     print(f"Lỗi khi quét {site['name']}: {e}")
+                finally:
+                    page.close()
             browser.close()
     except ImportError:
         print("⚠️ Playwright chưa được cài đặt. Đang sử dụng chế độ MOCK DATA để test hệ thống...")
@@ -74,6 +122,7 @@ def scan_all_sites():
             
     # Gộp data mới và cũ
     final_data = old_data + discovered
+    discovered_file.parent.mkdir(parents=True, exist_ok=True)
     with open(discovered_file, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
         

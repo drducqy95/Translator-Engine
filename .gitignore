@@ -1,5 +1,8 @@
 # Environments
 .env
+ai_providers.json
+.vscode/
+.idea/
 __pycache__/
 *.pyc
 .pytest_cache/
@@ -11,6 +14,7 @@ Dict/*.db-wal
 
 # Runtime logs and temporary data
 logs/
+*.log
 Temp/
 Archive/
 
@@ -20,3 +24,6 @@ Source_Full/
 Source_Split/
 Translated/
 Users/
+
+# Local model weights
+models/hymt/*.gguf

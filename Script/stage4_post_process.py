@@ -10,6 +10,55 @@ engine_dir = Path(__file__).parent
 sys.path.append(str(engine_dir))
 import lock_mgr
 
+CJK_RE = re.compile(r'[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]')
+
+
+def _chapter_index_from_filename(chapter_filename: str):
+    match = re.search(r'(?:Chapter|Chương)\s*0*([0-9]+)', chapter_filename, re.IGNORECASE)
+    return int(match.group(1)) if match else None
+
+
+def _safe_filename_part(text: str) -> str:
+    text = re.sub(r'[\\/:*?"<>|]', '', text or '')
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text[:120]
+
+
+def _strip_chapter_prefix(title: str) -> str:
+    title = re.sub(r'^\s*#+\s*', '', title or '').strip()
+    title = re.sub(r'^\s*(?:Chương|Chapter)\s*[0-9０-９一二三四五六七八九十百千万萬零〇两兩]+\s*[:：.\-、]?\s*', '', title, flags=re.IGNORECASE)
+    return title.strip()
+
+
+def _normalize_final_title(final_text: str, chapter_index: int | None):
+    lines = final_text.splitlines()
+    first_line = lines[0].strip() if lines else ""
+    title = _strip_chapter_prefix(first_line) if first_line.startswith("#") else ""
+    if title and CJK_RE.search(title):
+        title = ""
+
+    if chapter_index is None:
+        return final_text, _safe_filename_part(title) or "chapter"
+
+    heading = f"Chương {chapter_index:04d}" + (f" {title}" if title else "")
+    if lines and first_line.startswith("#"):
+        lines[0] = f"# {heading}"
+        final_text = "\n".join(lines)
+    else:
+        final_text = f"# {heading}\n\n{final_text}".strip() + "\n"
+    return final_text, heading
+
+
+def _assert_no_cjk(final_text: str):
+    hits = []
+    for line_no, line in enumerate(final_text.splitlines(), 1):
+        if CJK_RE.search(line):
+            hits.append(f"L{line_no}: {line[:120]}")
+            if len(hits) >= 5:
+                break
+    if hits:
+        raise ValueError("Final còn sót CJK, chặn ghi file: " + " | ".join(hits))
+
 def run(novel_id: str, out_dir: Path, chapter_filename: str, ai_output: dict, context_pack: dict = None):
     """BƯỚC 4: Hậu Xử Lý
     - Tách ghép output trả bản dịch (_vi.md)
@@ -33,16 +82,50 @@ def run(novel_id: str, out_dir: Path, chapter_filename: str, ai_output: dict, co
         state_dir = out_dir / "State"
         final_dir = out_dir / "Final_Translated"
         
-        # Lấy tiêu đề từ dòng đầu tiên để đặt tên file
-        first_line = final_text.split('\n')[0].strip() if final_text else ""
-        if first_line.startswith('# '):
-            title = first_line.replace('# ', '')
-            title = re.sub(r'[\\/:*?"<>|]', '', title)
-            final_filename = f"{title}.md"
-        else:
-            final_filename = chapter_filename.replace(".md", "_vi.md")
+        toc_file = state_dir / "toc.json"
+        old_translated_file = ""
+        chapter_index = _chapter_index_from_filename(chapter_filename)
+        if toc_file.exists():
+            try:
+                with open(toc_file, 'r', encoding='utf-8') as f:
+                    current_toc = json.load(f)
+                for idx, row in enumerate(current_toc.get("chapters", []), 1):
+                    if row.get('file', row.get('name')) == chapter_filename:
+                        chapter_index = row.get('index') if isinstance(row.get('index'), int) else chapter_index or idx
+                        old_translated_file = row.get('translated_file') or ""
+                        break
+            except Exception:
+                pass
+
+        final_text, final_title = _normalize_final_title(final_text, chapter_index)
+        _assert_no_cjk(final_text)
+        final_filename = f"{_safe_filename_part(final_title)}.md"
             
+        # Xóa file cũ (tránh duplicate)
+        prefixes = []
+        m = re.match(r'^(Chapter \d+)', chapter_filename, re.IGNORECASE)
+        if m:
+            prefixes.append(m.group(1))
+        if chapter_index is not None:
+            prefixes.extend([f"Chương {chapter_index}", f"Chương {chapter_index:04d}"])
+        for prefix in prefixes:
+            for old_file in final_dir.glob(f"{prefix}*.md"):
+                if old_file.name != final_filename:
+                    try: old_file.unlink()
+                    except: pass
+        if old_translated_file and old_translated_file != final_filename:
+            try:
+                (final_dir / old_translated_file).unlink()
+            except FileNotFoundError:
+                pass
+            except Exception:
+                pass
+        
         out_chap_path = final_dir / final_filename
+        if out_chap_path.exists():
+            try: out_chap_path.unlink()
+            except: pass
+
         with open(out_chap_path, 'w', encoding='utf-8') as f:
             f.write(final_text)
     except Exception as e:
@@ -130,53 +213,91 @@ def run(novel_id: str, out_dir: Path, chapter_filename: str, ai_output: dict, co
     # --- 4d. Cập nhật Timeline, TOC, README ---
     try:
         with lock_mgr.file_lock:
+            toc_file = state_dir / "toc.json"
+            readme_file = out_dir / "README.md"
+            toc = {}
+            chapters = []
+            chapter_index = None
+
+            if toc_file.exists():
+                with open(toc_file, 'r', encoding='utf-8') as f:
+                    toc = json.load(f)
+                chapters = toc.get('chapters', []) if isinstance(toc.get('chapters', []), list) else []
+
+            for idx, ch in enumerate(chapters, 1):
+                if not isinstance(ch, dict):
+                    continue
+                if not isinstance(ch.get('index'), int):
+                    ch['index'] = idx
+                if ch.get('file', ch.get('name')) == chapter_filename:
+                    chapter_index = ch['index']
+                    ch['status'] = 'done'
+                    ch['translated_file'] = final_filename
+                    ch['error'] = ''
+                    ch.pop('processing_started_at', None)
+
+            if chapter_index is None:
+                match = re.search(r'(?:Chapter|Chương)\s*0*([0-9]+)', chapter_filename, re.IGNORECASE)
+                chapter_index = int(match.group(1)) if match else None
+
             timeline_file = state_dir / "story_timeline.json"
             timeline = []
             if timeline_file.exists():
-                try: 
-                    with open(timeline_file, 'r', encoding='utf-8') as f: timeline = json.load(f)
-                except: pass
-                    
+                try:
+                    with open(timeline_file, 'r', encoding='utf-8') as f:
+                        loaded = json.load(f)
+                    timeline = loaded if isinstance(loaded, list) else []
+                except Exception:
+                    timeline = []
+            timeline = [ev for ev in timeline if isinstance(ev, dict)]
+
             ai_timeline = ai_output.get('story_timeline', {})
             if isinstance(ai_timeline, dict):
+                summary = ai_timeline.get('summary', {})
+                if not isinstance(summary, dict):
+                    summary = {"main_events": str(summary), "new_characters": []}
+                timeline = [
+                    ev for ev in timeline
+                    if ev.get('chapter_file') != chapter_filename and ev.get('chapter') != final_filename
+                ]
                 timeline.append({
+                    "chapter_index": chapter_index,
+                    "chapter_file": chapter_filename,
+                    "translated_file": final_filename,
                     "chapter": final_filename,
-                    "summary": ai_timeline.get('summary', {})
+                    "summary": summary,
                 })
+
+            timeline.sort(key=lambda ev: (
+                ev.get('chapter_index') if isinstance(ev.get('chapter_index'), int) else 10**9,
+                ev.get('chapter_file') or ev.get('chapter') or '',
+            ))
             with open(timeline_file, 'w', encoding='utf-8') as f:
                 json.dump(timeline, f, ensure_ascii=False, indent=2)
-                
+
             timeline_md = state_dir / "story-timeline.md"
             with open(timeline_md, 'w', encoding='utf-8') as f:
                 f.write("# Story Timeline\n\n")
                 for ev in timeline:
-                    if not isinstance(ev, dict): continue
-                    chap = ev.get('chapter', '')
+                    chap = ev.get('translated_file') or ev.get('chapter') or ev.get('chapter_file') or ''
+                    idx = ev.get('chapter_index')
+                    heading = f"Chương {idx}: {chap}" if isinstance(idx, int) else chap
                     sm = ev.get('summary', {})
-                    if not isinstance(sm, dict): sm = {}
-                    f.write(f"## {chap}\n")
+                    if not isinstance(sm, dict):
+                        sm = {}
+                    f.write(f"## {heading}\n")
                     f.write(f"- **Sự kiện chính:** {sm.get('main_events', '')}\n")
                     new_c = sm.get('new_characters', [])
                     if new_c and isinstance(new_c, list):
                         f.write(f"- **Nhân vật mới xuất hiện:** {', '.join(str(x) for x in new_c)}\n")
                     f.write("\n")
-                
-            toc_file = state_dir / "toc.json"
-            readme_file = out_dir / "README.md"
+
             if toc_file.exists():
-                with open(toc_file, 'r', encoding='utf-8') as f:
-                    toc = json.load(f)
-                total = len(toc.get('chapters', []))
-                done = 0
-                for ch in toc.get('chapters', []):
-                    if ch.get('file', ch.get('name')) == chapter_filename:
-                        ch['status'] = 'done'
-                        ch['translated_file'] = final_filename
-                    if ch.get('status') == 'done':
-                        done += 1
+                total = len(chapters)
+                done = sum(1 for ch in chapters if isinstance(ch, dict) and ch.get('status') == 'done')
                 with open(toc_file, 'w', encoding='utf-8') as f:
                     json.dump(toc, f, ensure_ascii=False, indent=2)
-                    
+
                 if readme_file.exists():
                     with open(readme_file, 'r', encoding='utf-8') as f:
                         readme = f.read()

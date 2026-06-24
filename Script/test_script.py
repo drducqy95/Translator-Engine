@@ -34,7 +34,7 @@ def test_chapter():
         
         segments = ChapterParser.segment_chapter(body)
         for idx, seg in enumerate(segments):
-            draft, cov, unk = qt.translate(seg)
+            draft, cov, unk, known = qt.translate(seg)
             chapter_data["segments"].append({
                 "id": idx + 1,
                 "raw": seg,

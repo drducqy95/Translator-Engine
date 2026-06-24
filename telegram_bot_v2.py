@@ -8,7 +8,26 @@ from pathlib import Path
 import json
 import os
 import html
-from dotenv import load_dotenv
+import re
+
+def load_env_file(path: Path):
+    """Load .env without making python-dotenv a hard startup dependency."""
+    try:
+        from dotenv import load_dotenv
+        load_dotenv(path)
+        return
+    except ImportError:
+        pass
+
+    if not path.exists():
+        return
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            os.environ.setdefault(key.strip(), value.strip().strip(chr(34)).strip(chr(39)))
 
 def md_escape(text):
     """Escape các ký tự đặc biệt cho Markdown V1."""
@@ -16,6 +35,12 @@ def md_escape(text):
     text = str(text)
     for ch in ['_', '*', '`', '[']:
         text = text.replace(ch, '\\' + ch)
+    return text
+
+def clean_ui_title(text):
+    text = str(text or '').strip()
+    text = re.sub(r'\s*[（(][^）)]{1,80}[）)]\s*$', '', text).strip()
+    text = re.sub(r'\s+', ' ', text)
     return text
 
 # Thêm đường dẫn để import các module cốt lõi
@@ -39,62 +64,63 @@ from plugin_manager import PluginManager
 from user_manager import UserManager
 
 # Tải cấu hình Bot
-load_dotenv()
+load_env_file(engine_dir / ".env")
 TOKEN = os.getenv("BOT_TOKEN")
-if not TOKEN:
-    print("WARNING: BOT_TOKEN is not set in .env")
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(TOKEN or "MISSING_BOT_TOKEN")
 
-# Đăng ký Slash Commands trên Telegram Menu
-bot.set_my_commands([
-    telebot.types.BotCommand("/start", "Hiển thị menu chính"),
-    telebot.types.BotCommand("/search", "Tìm truyện trên mạng"),
-    telebot.types.BotCommand("/read", "Đọc truyện đã dịch"),
-    telebot.types.BotCommand("/cancel", "Hủy bỏ thao tác hiện tại"),
-    telebot.types.BotCommand("/quick", "Dịch nhanh (File/Văn bản)"),
-    telebot.types.BotCommand("/crawl", "Quản lý tiến trình Crawl"),
-    telebot.types.BotCommand("/sources", "Quản lý Nguồn Truyện"),
-    telebot.types.BotCommand("/raw", "Kho Truyện Raw"),
-    telebot.types.BotCommand("/translate", "Quản lý Dịch Truyện"),
-    telebot.types.BotCommand("/progress", "Tiến độ chung"),
-    telebot.types.BotCommand("/settings", "Cài đặt Hệ thống"),
-    telebot.types.BotCommand("/admin", "Khu vực Quản trị viên"),
-])
+_original_answer_callback_query = bot.answer_callback_query
+
+def _safe_answer_callback_query(callback_query_id, *args, **kwargs):
+    if not callback_query_id or str(callback_query_id) == "0":
+        return None
+    try:
+        return _original_answer_callback_query(callback_query_id, *args, **kwargs)
+    except Exception as exc:
+        msg = str(exc).lower()
+        if "query is too old" in msg or "query id is invalid" in msg or "query_id_invalid" in msg:
+            logger.warning(f"Ignored stale callback query: {exc}")
+            return None
+        raise
+
+bot.answer_callback_query = _safe_answer_callback_query
+
+def register_bot_commands():
+    bot.set_my_commands([
+        telebot.types.BotCommand("/start", "Hiển thị menu chính"),
+        telebot.types.BotCommand("/search", "Tìm truyện trên mạng"),
+        telebot.types.BotCommand("/read", "Đọc truyện đã dịch"),
+        telebot.types.BotCommand("/cancel", "Hủy bỏ thao tác hiện tại"),
+        telebot.types.BotCommand("/quick", "Dịch nhanh (File/Văn bản)"),
+        telebot.types.BotCommand("/crawl", "Quản lý tiến trình Crawl"),
+        telebot.types.BotCommand("/sources", "Quản lý Nguồn Truyện"),
+        telebot.types.BotCommand("/raw", "Kho Truyện Raw"),
+        telebot.types.BotCommand("/translate", "Quản lý Dịch Truyện"),
+        telebot.types.BotCommand("/progress", "Tiến độ chung"),
+        telebot.types.BotCommand("/settings", "Cài đặt Hệ thống"),
+        telebot.types.BotCommand("/admin", "Khu vực Quản trị viên"),
+    ])
 
 # Khởi tạo core managers
 source_mgr = SourceManager(str(engine_dir))
 user_mgr = UserManager(engine_dir)
 
-# State của user: lưu ngữ cảnh đang ở menu nào
-user_state = {}
-state_lock = threading.Lock()
-
-# Pinned message data
-pinned_messages = {} # novel_id -> message_id
-pinned_lock = threading.Lock()
+import Bot.shared_state as state
+from Bot import crawl_queue
 
 def load_persistent_state():
-    global user_state, pinned_messages
     try:
         p1 = engine_dir / "Temp" / "user_state.json"
         if p1.exists():
             with open(p1, 'r', encoding='utf-8') as f:
-                user_state = json.load(f)
-        p2 = engine_dir / "Temp" / "pinned_messages.json"
-        if p2.exists():
-            with open(p2, 'r', encoding='utf-8') as f:
-                pinned_messages = json.load(f)
+                state.user_state.update({int(k) if k.isdigit() else k: v for k, v in json.load(f).items()})
     except Exception as e:
         logger.error(f"Error loading state: {e}")
 
 def save_persistent_state():
     try:
-        with state_lock:
+        with state.state_lock:
             with open(engine_dir / "Temp" / "user_state.json", 'w', encoding='utf-8') as f:
-                json.dump(user_state, f, ensure_ascii=False)
-        with pinned_lock:
-            with open(engine_dir / "Temp" / "pinned_messages.json", 'w', encoding='utf-8') as f:
-                json.dump(pinned_messages, f, ensure_ascii=False)
+                json.dump(state.user_state, f, ensure_ascii=False)
     except Exception as e:
         logger.error(f"Error saving state: {e}")
 
@@ -103,27 +129,23 @@ def daemon_state_saver():
         time.sleep(60)
         save_persistent_state()
 
-load_persistent_state()
-threading.Thread(target=daemon_state_saver, daemon=True).start()
-
-
-admin_cache = None
+def start_state_persistence():
+    load_persistent_state()
+    threading.Thread(target=daemon_state_saver, daemon=True).start()
 
 def load_admins():
-    global admin_cache
-    if admin_cache: return admin_cache
+    if state.admin_cache is not None: return state.admin_cache
     path = engine_dir / "Temp" / "admins.json"
     if path.exists():
         try:
             with open(path, 'r', encoding='utf-8') as f:
-                admin_cache = json.load(f)
-                return admin_cache
+                state.admin_cache = json.load(f)
+                return state.admin_cache
         except Exception as e: logger.error(f"Error loading admins: {e}")
     return {"master": None, "admins": []}
 
 def save_admins(data):
-    global admin_cache
-    admin_cache = data
+    state.admin_cache = data
     path = engine_dir / "Temp" / "admins.json"
     path.parent.mkdir(exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
@@ -140,18 +162,31 @@ def is_admin(chat_id):
 def check_access(chat_id, require_admin=True):
     adm = load_admins()
     if adm.get("master") is None:
-        adm["master"] = chat_id
-        save_admins(adm)
-        user_mgr.init_user_profile(str(chat_id), True)
-        bot.send_message(chat_id, "👑 **Chào Sếp lớn!** Hệ thống đã tự động ghi nhận ngài là **MASTER ADMIN** rồi nhé. Mọi quyền lực giờ nằm trong tay sếp!", parse_mode="Markdown")
-        return True
+        configured_master = os.getenv("MASTER_ADMIN_ID")
+        allow_bootstrap = os.getenv("ALLOW_FIRST_ADMIN_BOOTSTRAP", "false").lower() == "true"
+        if configured_master and str(chat_id) == configured_master.strip():
+            adm["master"] = chat_id
+            save_admins(adm)
+            user_mgr.init_user_profile(str(chat_id), True)
+            bot.send_message(chat_id, "👑 **MASTER ADMIN** đã được xác nhận từ cấu hình hệ thống.", parse_mode="Markdown")
+            return True
+        if allow_bootstrap:
+            adm["master"] = chat_id
+            save_admins(adm)
+            user_mgr.init_user_profile(str(chat_id), True)
+            bot.send_message(chat_id, "👑 **MASTER ADMIN** đã được bootstrap theo cấu hình ALLOW_FIRST_ADMIN_BOOTSTRAP.", parse_mode="Markdown")
+            return True
+        user_mgr.init_user_profile(str(chat_id), False)
+        bot.send_message(chat_id, "⛔️ Hệ thống chưa cấu hình MASTER_ADMIN_ID. Vui lòng cấu hình master trước khi dùng bot.")
+        return False
         
-    if require_admin and not is_admin(chat_id):
-        user_mgr.init_user_profile(str(chat_id), is_admin(chat_id))
+    admin_status = is_admin(chat_id)
+    if require_admin and not admin_status:
+        user_mgr.init_user_profile(str(chat_id), admin_status)
         bot.send_message(chat_id, "⛔️ **Ây da!** Tính năng này bảo mật lắm, chỉ có Sếp (Admin) mới xài được thôi ạ.")
         return False
         
-    user_mgr.init_user_profile(str(chat_id), is_admin(chat_id))
+    user_mgr.init_user_profile(str(chat_id), admin_status)
     return True
 
 def load_settings():
@@ -161,13 +196,16 @@ def load_settings():
             with open(path, 'r', encoding='utf-8') as f:
                 return json.load(f)
         except: pass
-    return {"daemon_raw": True, "daemon_init": True, "daemon_pipeline": True}
+    return {"daemon_raw": True, "daemon_crawl": True, "daemon_init": True, "daemon_pipeline": True}
 
 def save_settings(settings):
     path = engine_dir / "Temp" / "settings.json"
     path.parent.mkdir(exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(settings, f, ensure_ascii=False, indent=2)
+
+user_state = state.user_state
+state_lock = state.state_lock
 
 def trigger_auto_debug(chat_id, err_desc):
     bot.send_message(chat_id, f"🚀 **Kích hoạt AGY Auto-Debug!**\n\n**Mô tả lỗi:** {md_escape(err_desc)}\n\nAGY Agent đang được khởi chạy ngầm. Quá trình phân tích, sửa lỗi và restart bot có thể mất 3-10 phút. Bạn sẽ nhận được báo cáo khi hoàn tất.", parse_mode="Markdown")
@@ -178,6 +216,87 @@ def trigger_auto_debug(chat_id, err_desc):
         subprocess.Popen(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     except Exception as e:
         bot.send_message(chat_id, f"❌ Không thể khởi chạy AGY: {e}")
+
+
+
+def make_novel_id(title: str, url: str = ""):
+    import hashlib
+    import re
+    base = re.sub(r"[^A-Za-z0-9_\-]+", "_", (title or "novel").strip()).strip("_").lower()
+    if not base:
+        base = "novel"
+    digest = hashlib.sha1((url or title or base).encode("utf-8")).hexdigest()[:8]
+    return f"{base[:48]}_{digest}"
+
+def make_vi_novel_id(title: str, author: str = "", url: str = ""):
+    import hashlib
+    import re
+    base = clean_ui_title(title or "novel")
+    if author:
+        base = f"{base}_{clean_ui_title(author)}"
+    base = re.sub(r"[^\w\u00C0-\u024F\u1EA0-\u1EFF]+", "_", base, flags=re.UNICODE).strip("_")
+    if not base:
+        base = "novel"
+    digest = hashlib.sha1((url or title or base).encode("utf-8")).hexdigest()[:8]
+    return f"{base[:64]}_{digest}"
+
+
+def load_discovered_novels():
+    path = engine_dir / "Dashboard" / "data" / "discovered_novels.json"
+    if not path.exists():
+        return []
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return data if isinstance(data, list) else []
+    except Exception as exc:
+        logger.error(f"Cannot load discovered novels: {exc}")
+        return []
+
+
+def save_discovered_novels(items):
+    path = engine_dir / "Dashboard" / "data" / "discovered_novels.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(items, f, ensure_ascii=False, indent=2)
+
+
+def mark_discovered_status(novel_id, status):
+    items = load_discovered_novels()
+    changed = False
+    for item in items:
+        if item.get('id') == novel_id:
+            item['status'] = status
+            changed = True
+            break
+    if changed:
+        save_discovered_novels(items)
+
+
+def start_crawl_job(chat_id, title, url, site_id=None, novel_id=None, max_chapters=5):
+    novel_id = novel_id or make_novel_id(title, url)
+    if not url:
+        bot.send_message(chat_id, "❌ Crawl thiếu URL nguồn.")
+        return
+    try:
+        job, created = crawl_queue.enqueue_job(chat_id, title, url, site_id=site_id, novel_id=novel_id, max_chapters=max_chapters)
+        mark_discovered_status(novel_id, 'queued')
+        if created:
+            bot.send_message(
+                chat_id,
+                f"📥 Đã đưa `{md_escape(title or novel_id)}` vào hàng đợi crawl.\n"
+                f"ID: `{md_escape(novel_id)}`\n"
+                f"Daemon crawl sẽ chạy tối đa 1 job mỗi chu kỳ 5 phút.",
+                parse_mode="Markdown",
+            )
+        else:
+            bot.send_message(
+                chat_id,
+                f"ℹ️ `{md_escape(novel_id)}` đã có trong hàng đợi hoặc đang crawl.",
+                parse_mode="Markdown",
+            )
+    except Exception as exc:
+        bot.send_message(chat_id, f"❌ Không thể enqueue crawl: {md_escape(exc)}", parse_mode="Markdown")
 
 # ==========================================
 # GIAO DIỆN CHÍNH (MAIN MENU)
@@ -345,6 +464,7 @@ def handle_menu(call):
 
     elif data.startswith("readproj||"):
         parts = data.split("||")
+        if len(parts) < 3: return
         novel_id = parts[1]
         page = int(parts[2])
         
@@ -374,6 +494,7 @@ def handle_menu(call):
 
     elif data.startswith("readchap||"):
         parts = data.split("||")
+        if len(parts) < 3: return
         novel_id = parts[1]
         chap_file = parts[2]
         chap_path = engine_dir / "Output" / novel_id / "Final_Translated" / chap_file
@@ -469,7 +590,7 @@ def handle_menu(call):
                 from qt_engine import QTEngine
                 qt = QTEngine()
                 for c in cats:
-                    c['name_vi'] = qt.translate(c['name'])[0]
+                    c['name_vi'] = clean_ui_title(qt.translate(c['name'])[0])
                 
                 # Lưu vào state
                 user_state[chat_id] = {'site_id': site_id, 'cats': cats}
@@ -509,15 +630,17 @@ def handle_menu(call):
                 from qt_engine import QTEngine
                 qt = QTEngine()
                 for n in novels:
-                    n['title_vi'] = qt.translate(n['title'])[0]
-                    n['author_vi'] = qt.translate(n['author'])[0]
+                    n['title_vi'] = clean_ui_title(qt.translate(n['title'])[0])
+                    n['author_vi'] = clean_ui_title(qt.translate(n['author'])[0])
                 
                 user_state[chat_id]['novels'] = novels
                 
                 markup = InlineKeyboardMarkup(row_width=1)
                 for i, n in enumerate(novels[:10]):
-                    title = n.get('title_vi', n['title'])
-                    markup.add(InlineKeyboardButton(f"{title} ({n.get('author_vi', '')})", callback_data=f"selnov_{i}"))
+                    title = clean_ui_title(n.get('title_vi', n['title']))
+                    author = clean_ui_title(n.get('author_vi', ''))
+                    label = title if not author else f"{title} ({author})"
+                    markup.add(InlineKeyboardButton(label, callback_data=f"selnov_{i}"))
                 markup.add(InlineKeyboardButton("🔙 Quay lại", callback_data=f"source_{site_id}"))
                 
                 bot.edit_message_text(f"🔥 **Top Truyện ({md_escape(cat_name)}):**\nBấm vào truyện để thêm vào Hàng đợi Crawl tự động.", chat_id, call.message.message_id, reply_markup=markup, parse_mode="Markdown")
@@ -530,11 +653,15 @@ def handle_menu(call):
         novels = user_state.get(chat_id, {}).get('novels', [])
         site_id = user_state.get(chat_id, {}).get('site_id')
         if idx >= len(novels):
+            bot.answer_callback_query(call.id, "Session hết hạn, vui lòng chọn lại.", show_alert=True)
             return
         novel = novels[idx]
-        # Thêm vào Plan Crawl
-        bot.send_message(chat_id, f"✅ Đã thêm **{md_escape(novel['title'])}** vào danh sách Crawl tự động.\nHệ thống sẽ tải ngầm toàn bộ chương.", parse_mode="Markdown")
-        # TODO: Trigger Crawl Daemon for this URL
+        title = clean_ui_title(novel.get('title_vi') or novel.get('title') or 'novel')
+        author = clean_ui_title(novel.get('author_vi') or novel.get('author') or '')
+        url = novel.get('url')
+        novel_id = make_vi_novel_id(title, author, url)
+        bot.answer_callback_query(call.id, "Đã đưa vào job crawl")
+        start_crawl_job(chat_id, title, url, site_id=site_id, novel_id=novel_id, max_chapters=5)
 
     # 2. KHO TRUYỆN RAW
     elif data == "menu_raw":
@@ -559,13 +686,62 @@ def handle_menu(call):
         bot.edit_message_text(msg, chat_id, call.message.message_id, reply_markup=InlineKeyboardMarkup().add(InlineKeyboardButton("🔙 Quay lại", callback_data="menu_raw")), parse_mode="Markdown")
 
     elif data == "menu_crawl_mgr":
-        bot.edit_message_text("🕸 **Quản lý Crawl:**\nTính năng này đang được phát triển...", chat_id, call.message.message_id, reply_markup=InlineKeyboardMarkup().add(InlineKeyboardButton("🔙 Quay lại", callback_data="menu_main")), parse_mode="Markdown")
+        queue_counts, queue_items = crawl_queue.stats()
+        discovered = [d for d in load_discovered_novels() if d.get('status') in ('discovered', 'error')]
+        msg = "🕸 **Quản lý Crawl**\n\n"
+        msg += f"Queue: `queued={queue_counts.get('queued', 0)}` | `running={queue_counts.get('running', 0)}` | `done={queue_counts.get('done', 0)}` | `error={queue_counts.get('error', 0)}`\n"
+        active_items = [item for item in queue_items if item.get('status') in ('queued', 'running', 'error')]
+        for item in active_items[:5]:
+            msg += f"- `{md_escape(item.get('novel_id', ''))}`: {md_escape(item.get('status', 'queued'))}\n"
+        msg += f"\nTruyện chờ crawl: `{len(discovered)}`"
+        markup = InlineKeyboardMarkup(row_width=1)
+        markup.add(InlineKeyboardButton("🔍 Quét nguồn hiện có", callback_data="crawl_scan_sources"))
+        for idx, item in enumerate(discovered[:8]):
+            title = item.get('title') or item.get('id') or f'novel_{idx}'
+            site_name = item.get('site_name') or item.get('source_name') or item.get('site_id') or ''
+            markup.add(InlineKeyboardButton(f"📥 {title[:45]} {site_name[:18]}", callback_data=f"crawl_disc_{idx}"))
+        markup.add(InlineKeyboardButton("🔙 Quay lại", callback_data="menu_main"))
+        bot.edit_message_text(msg, chat_id, call.message.message_id, reply_markup=markup, parse_mode="Markdown")
+
+    elif data == "crawl_scan_sources":
+        bot.answer_callback_query(call.id, "Đang quét nguồn...")
+        bot.edit_message_text("⏳ Đang quét các nguồn hiện có...", chat_id, call.message.message_id)
+        def scan_task():
+            try:
+                sys.path.append(str(engine_dir / "Dashboard"))
+                import crawl_scanner
+                items = crawl_scanner.scan_all_sites()
+                count = len([x for x in items if x.get('status') == 'discovered'])
+                bot.send_message(chat_id, f"✅ Quét xong. Tìm thấy `{count}` truyện chờ crawl. Mở /crawl để chọn.", parse_mode="Markdown")
+            except Exception as exc:
+                logger.exception("Crawl scan failed")
+                bot.send_message(chat_id, f"❌ Quét nguồn lỗi: {md_escape(exc)}", parse_mode="Markdown")
+        threading.Thread(target=scan_task, daemon=True).start()
+
+    elif data.startswith("crawl_disc_"):
+        idx = int(data.replace("crawl_disc_", ""))
+        items = [d for d in load_discovered_novels() if d.get('status') in ('discovered', 'error')]
+        if idx >= len(items):
+            bot.answer_callback_query(call.id, "Danh sách đã thay đổi, mở lại /crawl.", show_alert=True)
+            return
+        item = items[idx]
+        title = item.get('title') or item.get('id') or 'novel'
+        url = item.get('url')
+        novel_id = item.get('id') or make_vi_novel_id(title, item.get('author') or '', url)
+        site_id = item.get('site_id') or item.get('source_id')
+        bot.answer_callback_query(call.id, "Đã đưa vào job crawl")
+        start_crawl_job(chat_id, title, url, site_id=site_id, novel_id=novel_id, max_chapters=5)
 
     elif data.startswith("searchcrawl_"):
         idx = int(data.replace("searchcrawl_", ""))
-        url = user_state.get(chat_id, {}).get(f'search_res_{idx}')
+        st = user_state.get(chat_id, {})
+        url = st.get(f'search_res_{idx}')
+        title = st.get(f'search_title_{idx}') or f'search_result_{idx}'
         if url:
-            bot.send_message(chat_id, f"✅ Đã nhận lệnh tải từ: {url}\nChức năng Crawl tự động đang được phát triển...", parse_mode="Markdown")
+            bot.answer_callback_query(call.id, "Đã đưa vào job crawl")
+            start_crawl_job(chat_id, title, url, site_id=None, novel_id=make_vi_novel_id(title, '', url), max_chapters=5)
+        else:
+            bot.answer_callback_query(call.id, "Không tìm thấy URL trong session.", show_alert=True)
             
     elif data == "noop":
         bot.answer_callback_query(call.id)
@@ -755,19 +931,30 @@ def handle_menu(call):
     # 4. TIẾN ĐỘ CHUNG
     elif data == "menu_progress":
         bot.answer_callback_query(call.id, "Đang tổng hợp tiến độ...")
+        settings = load_settings()
+        queue_counts, _queue_items = crawl_queue.stats()
+        msg = "📊 **Tiến Độ Hệ Thống:**\n\n"
+        msg += f"Crawl: `queued={queue_counts.get('queued', 0)}` | `running={queue_counts.get('running', 0)}` | `done={queue_counts.get('done', 0)}` | `error={queue_counts.get('error', 0)}`\n"
+        msg += f"Daemons: raw=`{settings.get('daemon_raw', True)}` crawl=`{settings.get('daemon_crawl', True)}` init=`{settings.get('daemon_init', True)}` pipeline=`{settings.get('daemon_pipeline', True)}`\n\n"
         out_dir = engine_dir / "Output"
         if out_dir.exists():
-            msg = "📊 **Tiến Độ Các Dự Án Đang Chạy:**\n\n"
+            projects = []
             for pdir in out_dir.iterdir():
-                if pdir.is_dir() and (pdir / "State" / "toc.json").exists():
-                    with open(pdir / "State" / "toc.json", 'r', encoding='utf-8') as f:
+                toc_path = pdir / "State" / "toc.json"
+                if pdir.is_dir() and toc_path.exists():
+                    with open(toc_path, 'r', encoding='utf-8') as f:
                         toc = json.load(f)
                     chaps = toc.get('chapters', [])
                     total = len(chaps)
                     done = sum(1 for c in chaps if c.get('status') == 'done')
-                    msg += f"📘 **{pdir.name}**: {done}/{total} chương ({int(done/total*100) if total else 0}%)\n"
-            markup = InlineKeyboardMarkup().add(InlineKeyboardButton("🔙 Quay lại", callback_data="menu_main"))
-            bot.edit_message_text(msg, chat_id, call.message.message_id, parse_mode="Markdown", reply_markup=markup)
+                    processing = sum(1 for c in chaps if c.get('status') == 'processing')
+                    pending = sum(1 for c in chaps if c.get('status') == 'pending')
+                    projects.append((pdir.name, done, total, processing, pending))
+            for name, done, total, processing, pending in sorted(projects, key=lambda x: x[0].lower())[:20]:
+                pct = int(done / total * 100) if total else 0
+                msg += f"📘 **{md_escape(name)}**: {done}/{total} ({pct}%) | running `{processing}` | pending `{pending}`\n"
+        markup = InlineKeyboardMarkup().add(InlineKeyboardButton("🔙 Quay lại", callback_data="menu_main"))
+        bot.edit_message_text(msg or "Chưa có dữ liệu tiến độ.", chat_id, call.message.message_id, parse_mode="Markdown", reply_markup=markup)
 
     # 5. CÀI ĐẶT
     elif data == "menu_settings":
@@ -791,9 +978,11 @@ def handle_menu(call):
         settings = load_settings()
         markup = InlineKeyboardMarkup(row_width=1)
         r_state = "🟢 ĐANG BẬT" if settings.get("daemon_raw", True) else "🔴 ĐÃ TẮT"
+        c_state = "🟢 ĐANG BẬT" if settings.get("daemon_crawl", True) else "🔴 ĐÃ TẮT"
         i_state = "🟢 ĐANG BẬT" if settings.get("daemon_init", True) else "🔴 ĐÃ TẮT"
         p_state = "🟢 ĐANG BẬT" if settings.get("daemon_pipeline", True) else "🔴 ĐÃ TẮT"
         markup.add(InlineKeyboardButton(f"Raw Processing: {r_state}", callback_data="toggle_raw"))
+        markup.add(InlineKeyboardButton(f"Crawl Executor: {c_state}", callback_data="toggle_crawl"))
         markup.add(InlineKeyboardButton(f"Project Init: {i_state}", callback_data="toggle_init"))
         markup.add(InlineKeyboardButton(f"Pipeline Executor: {p_state}", callback_data="toggle_pipeline"))
         markup.add(InlineKeyboardButton("🔙 Quay lại Cài đặt", callback_data="menu_settings"))
@@ -887,12 +1076,13 @@ def handle_text(message):
                     
                 markup = telebot.types.InlineKeyboardMarkup()
                 for i, r in enumerate(results):
-                    title = r.get('title', '')[:30]
+                    title = clean_ui_title(r.get('title', ''))[:30]
                     url = r.get('href', '')
                     with state_lock:
                         if chat_id not in user_state:
                             user_state[chat_id] = {}
                     user_state[chat_id][f'search_res_{i}'] = url
+                    user_state[chat_id][f'search_title_{i}'] = title
                     markup.add(telebot.types.InlineKeyboardButton(f"📘 {title}", callback_data=f"searchcrawl_{i}"))
                 bot.send_message(chat_id, "✅ Kết quả tìm kiếm (Bấm để Cào):", reply_markup=markup)
             except Exception as e:
@@ -998,23 +1188,31 @@ def handle_text(message):
 
     elif step == 'waiting_api_key':
         parts = [p.strip() for p in text.split('|')]
-        if len(parts) >= 3:
-            name, base_url, key = parts[:3]
-            model = parts[3] if len(parts) > 3 else ""
-            api_path = engine_dir / "Temp" / "ai_providers.json"
+        if len(parts) >= 4:
+            name, base_url, key, model = parts[:4]
             try:
-                providers = []
-                if api_path.exists():
-                    with open(api_path, 'r', encoding='utf-8') as f:
-                        providers = json.load(f)
-                providers.append({"name": name, "base_url": base_url, "api_key": key, "model_name": model})
-                with open(api_path, 'w', encoding='utf-8') as f:
-                    json.dump(providers, f, ensure_ascii=False, indent=4)
-                bot.send_message(chat_id, "✅ Đã thêm API Provider mới.")
+                import ai_client
+                cfg = ai_client.load_providers()
+                providers = cfg.setdefault('providers', [])
+                existing = next((p for p in providers if p.get('name') == name), None)
+                payload = {
+                    "name": name,
+                    "base_url": base_url,
+                    "api_key": key,
+                    "model": model,
+                    "enabled": True,
+                }
+                if existing:
+                    existing.update(payload)
+                else:
+                    payload["priority"] = max([p.get('priority', 0) for p in providers] or [0]) + 1
+                    providers.append(payload)
+                ai_client.save_providers(cfg)
+                bot.send_message(chat_id, "✅ Đã lưu API Provider mới.")
             except Exception as e:
                 bot.send_message(chat_id, f"❌ Lỗi lưu API: {e}")
         else:
-            bot.send_message(chat_id, "❌ Sai cú pháp. Vui lòng thử lại.")
+            bot.send_message(chat_id, "❌ Sai cú pháp. Cần đủ: Tên | Base URL | API Key | Model.")
         del user_state[chat_id]['step']
         
     elif step == 'waiting_new_source':
@@ -1071,7 +1269,7 @@ def handle_text(message):
         def process_ai():
             try:
                 import sys
-import logging
+                import logging
                 sys.path.append(str(engine_dir / "Script"))
                 from ai_client import call_ai
                 
@@ -1118,26 +1316,18 @@ def handle_document(message):
 # BACKGROUND DAEMONS (CRON JOBS)
 # ==========================================
 def update_pinned_progress(novel_id, status_msg):
-    master_id = load_admins().get("master")
-    if not master_id: return
-    chat_id = master_id
-    
-    msg_id = pinned_messages.get(novel_id)
-    # Use HTML to avoid markdown _ parsing errors in novel_id
-    text = f"📌 <b>DỰ ÁN LIVE: {html.escape(novel_id)}</b>\n\n{status_msg}"
-    if msg_id:
-        try:
-            bot.edit_message_text(text, chat_id, msg_id, parse_mode="HTML")
-        except Exception:
-            pass
-    else:
-        try:
-            m = bot.send_message(chat_id, text, parse_mode="HTML")
-            bot.pin_chat_message(chat_id, m.message_id)
-            pinned_messages[novel_id] = m.message_id
-        except Exception as e:
-            print(f"Lỗi ghim tin nhắn: {e}")
+    # Progress is reported by /progress and feature menus; no pinned Telegram messages.
+    return None
 
-from Bot.daemons import daemon_raw_processing, daemon_project_init, daemon_pipeline_executor
-print("🚀 TỔNG TRẠM ĐIỀU HÀNH (Dashboard V2) đang chạy...")
-bot.infinity_polling()
+def main():
+    if not TOKEN:
+        raise ValueError("BOT_TOKEN is missing or empty in .env. Please set it before running the bot.")
+    register_bot_commands()
+    start_state_persistence()
+    from Bot.daemons import start_daemons
+    start_daemons()
+    print("🚀 TỔNG TRẠM ĐIỀU HÀNH (Dashboard V2) đang chạy...")
+    bot.infinity_polling()
+
+if __name__ == "__main__":
+    main()

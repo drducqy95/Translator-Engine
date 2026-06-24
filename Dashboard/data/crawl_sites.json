@@ -2,19 +2,21 @@
   "sites": [
     {
       "id": "biquge",
-      "name": "BiQuGe (Bút Thú Các)",
-      "catalog_url": "https://www.biquge.com.cn/quanbu/",
+      "name": "BiGeE / BiQuGe (bigee.cc)",
+      "catalog_url": "https://www.bigee.cc/",
       "selectors": {
-        "novel_item": "#main .novellist ul li",
-        "title": "a",
-        "url": "a",
-        "author": ".author"
+        "novel_item": ".l li",
+        "title": ".s2 a",
+        "url": ".s2 a",
+        "author": ".s4"
       },
       "crawl_selectors": {
-        "chapter_list": "#list dd a",
+        "chapter_list": ".listmain dd a",
         "chapter_title": "text",
-        "chapter_content": "#content"
-      }
+        "chapter_content": ".Readarea"
+      },
+      "content_type": "text",
+      "requires_js": true
     },
     {
       "id": "uukanshu",
@@ -30,39 +32,42 @@
         "chapter_list": "#chapterList li a",
         "chapter_title": "text",
         "chapter_content": "#contentbox"
-      }
+      },
+      "content_type": "text"
     },
     {
       "id": "69shuba",
       "name": "69shuba (69 Thư Ba)",
-      "catalog_url": "https://www.69shuba.cx/modules/article/toplist.php?sort=lastupdate",
+      "catalog_url": "https://www.69shuba.com/novels/hot",
       "selectors": {
-        "novel_item": "#article_list .item-desc",
-        "title": "a",
-        "url": "a",
-        "author": ".author"
+        "novel_item": "#article_list_content li",
+        "title": "h3 a",
+        "url": "h3 a",
+        "author": ".labelbox label:nth-of-type(2)"
       },
       "crawl_selectors": {
         "chapter_list": "div#catalog li a",
         "chapter_title": "text",
         "chapter_content": ".txtnav"
-      }
+      },
+      "content_type": "text"
     },
     {
       "id": "shuhaige",
       "name": "ShuHaiGe (Thư Hải Các)",
-      "catalog_url": "https://www.shuhaige.net/top/",
+      "catalog_url": "https://www.shuhaige.net/lastupdate/",
       "selectors": {
-        "novel_item": ".novellist ul li",
-        "title": "a",
-        "url": "a",
-        "author": ".author"
+        "novel_item": "li",
+        "title": ".s2 a",
+        "url": ".s2 a",
+        "author": ".s4"
       },
       "crawl_selectors": {
         "chapter_list": "#list dd a",
         "chapter_title": "text",
         "chapter_content": "#content"
-      }
+      },
+      "content_type": "text"
     },
     {
       "id": "idwxs",
@@ -78,23 +83,30 @@
         "chapter_list": "#list dd a",
         "chapter_title": "text",
         "chapter_content": "#content"
-      }
+      },
+      "content_type": "text"
     },
     {
       "id": "ptwxz",
-      "name": "Phiêu Thiên (ptwxz.com)",
-      "catalog_url": "https://www.ptwxz.com/top/",
+      "name": "PiaoTian Mobile / Phiêu Thiên (m.ptwxz.org)",
+      "catalog_url": "https://m.ptwxz.org/top/",
       "selectors": {
-        "novel_item": ".novellist ul li",
-        "title": "a",
+        "novel_item": ".hot_sale",
+        "title": ".title",
         "url": "a",
         "author": ".author"
       },
       "crawl_selectors": {
-        "chapter_list": ".centent li a",
+        "toc_url_regex": "/ptwx/(\\d+)/?$",
+        "toc_url_template": "https://m.ptwxz.org/ptwx/{group1}/index.html",
+        "chapter_list": "#chapterlist p a",
         "chapter_title": "text",
-        "chapter_content": "body"
-      }
+        "chapter_content": "#nr_body",
+        "next_content_selector": "a",
+        "next_content_text": "下一页",
+        "max_content_pages": 5
+      },
+      "content_type": "text"
     },
     {
       "id": "sto",
@@ -110,7 +122,8 @@
         "chapter_list": ".book_list a",
         "chapter_title": "text",
         "chapter_content": "#BookContent"
-      }
+      },
+      "content_type": "text"
     },
     {
       "id": "pbtxt",
@@ -126,7 +139,8 @@
         "chapter_list": "#list dd a",
         "chapter_title": "text",
         "chapter_content": "#content"
-      }
+      },
+      "content_type": "text"
     },
     {
       "id": "ranwen",
@@ -142,23 +156,27 @@
         "chapter_list": "#list dd a",
         "chapter_title": "text",
         "chapter_content": "#content"
-      }
+      },
+      "content_type": "text"
     },
     {
       "id": "piaotian",
-      "name": "PiaoTian (piaotian.com)",
-      "catalog_url": "https://www.piaotian.com/top/",
+      "name": "PiaoTian / PiaoTia (piaotia.com)",
+      "catalog_url": "https://www.piaotia.com/booktopallvisit/0/1.html",
       "selectors": {
-        "novel_item": ".novellist ul li",
-        "title": "a",
-        "url": "a",
-        "author": ".author"
+        "novel_item": "table tr",
+        "title": "td:first-child a",
+        "url": "td:first-child a",
+        "author": "td:nth-child(3)"
       },
       "crawl_selectors": {
+        "toc_url_regex": "/bookinfo/(\\d+)/(\\d+)\\.html",
+        "toc_url_template": "https://www.piaotia.com/html/{group1}/{group2}/",
         "chapter_list": ".centent li a",
         "chapter_title": "text",
         "chapter_content": "body"
-      }
+      },
+      "content_type": "text"
     }
   ]
 }

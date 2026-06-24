@@ -4,6 +4,10 @@ import importlib
 from pathlib import Path
 from plugins.base_plugin import BasePlugin
 from plugins.json_plugin import JsonPlugin
+try:
+    from plugins.legado_plugin import LegadoPlugin
+except Exception:
+    LegadoPlugin = None
 
 class PluginManager:
     def __init__(self, base_dir: str):
@@ -25,7 +29,21 @@ class PluginManager:
             except Exception as e:
                 print(f"[PluginManager] Lỗi tải JSON plugins: {e}")
 
-        # 2. Load Python plugins (override JSON if duplicated)
+        # 2. Load imported Legado sources when a cache exists.
+        legado_path = self.base_dir / "Dashboard" / "data" / "legado" / "sources.json"
+        if LegadoPlugin is not None and legado_path.exists():
+            try:
+                with open(legado_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                for source in data.get("sources", []):
+                    if not source.get("enabled", True):
+                        continue
+                    plugin = LegadoPlugin(source, base_dir=str(self.base_dir))
+                    self.plugins[plugin.source_id] = plugin
+            except Exception as e:
+                print(f"[PluginManager] Lỗi tải Legado sources: {e}")
+
+        # 3. Load Python plugins (override JSON/Legado if duplicated)
         plugins_dir = self.base_dir / "Script" / "plugins"
         if not plugins_dir.exists():
             return

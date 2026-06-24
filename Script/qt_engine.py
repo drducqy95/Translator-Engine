@@ -343,7 +343,8 @@ class QTEngine:
 
     def close(self):
         try:
-            self.conn.close()
+            if hasattr(self, 'dict_mgr'):
+                self.dict_mgr.close()
         except Exception:
             pass
 

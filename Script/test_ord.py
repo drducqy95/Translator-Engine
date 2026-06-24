@@ -1,4 +1,16 @@
-from numgrammar import *
+import re
+
+from numgrammar import (
+    _CURRENCY,
+    _MEASURE,
+    _TIME,
+    _WEEKDAY_HEAD,
+    _fmt,
+    _num_run_len,
+    is_number_char,
+    read_number,
+    read_number_span,
+)
 
 def patched_match_at(text, i):
     n = len(text)
@@ -54,6 +66,12 @@ def patched_read_number_span(han):
         return None
     return read_number_span(han)
 
-for t in ["第8章", "第一百零一回", "第三名", "第一个", "第五次", "第十"]:
-    res = patched_match_at(t, 0)
-    print(f"{t} -> {res}")
+def test_patched_match_at_smoke():
+    assert patched_match_at("第8章", 0) == (3, "chương 8")
+    assert patched_match_at("第三名", 0) == (3, "hạng 3")
+
+
+if __name__ == "__main__":
+    for t in ["第8章", "第一百零一回", "第三名", "第一个", "第五次", "第十"]:
+        res = patched_match_at(t, 0)
+        print(f"{t} -> {res}")

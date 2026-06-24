@@ -19,6 +19,12 @@ def run(out_dir: Path, chapter_filename: str):
         # Commit
         commit_msg = f"Auto-translate: {chapter_filename}" if chapter_filename != "Initialization" else "Initialize Translation Project"
         res = subprocess.run(["git", "commit", "-m", commit_msg], cwd=out_dir, capture_output=True, text=True)
+        commit_output = (res.stdout or "") + (res.stderr or "")
+        if res.returncode != 0:
+            if "nothing to commit" in commit_output.lower() or "no changes added" in commit_output.lower():
+                print("[Stage 5] Không có thay đổi mới để commit.")
+            else:
+                raise ValueError(f"git commit failed: {commit_output.strip()[:500]}")
         
         # Push (Chỉ push nếu có remote)
         remote_check = subprocess.run(["git", "remote"], cwd=out_dir, capture_output=True, text=True)
@@ -31,5 +37,5 @@ def run(out_dir: Path, chapter_filename: str):
     except Exception as e:
         raise ValueError(f"[Stage 5 FAILED] Lỗi Git: {e}")
         
-    print("✅ [Stage 5 PASS] Commit và Push thành công.")
+    print("✅ [Stage 5 PASS] Git checkpoint hoàn tất.")
     return True
