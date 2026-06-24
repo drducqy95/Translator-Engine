@@ -126,7 +126,7 @@ def daemon_crawl_executor():
                 source_mgr.crawl_jobs[novel_id] = {
                     "status": "running",
                     "progress": 0,
-                    "total": int(job.get("max_chapters") or 5),
+                    "total": job.get("max_chapters") or 0,
                     "current_chap": job.get("title", ""),
                 }
                 try:
@@ -134,8 +134,10 @@ def daemon_crawl_executor():
                     source_mgr.crawl_novel_playwright(
                         job.get("url"),
                         novel_id,
-                        max_chapters=int(job.get("max_chapters") or 5),
+                        max_chapters=job.get("max_chapters"),
                         site_id=job.get("site_id") or None,
+                        start_chapter=job.get("start_chapter"),
+                        end_chapter=job.get("end_chapter"),
                     )
                     if not source_mgr.init_novel_from_split(novel_id):
                         raise RuntimeError("Khởi tạo pipeline crawl thất bại")

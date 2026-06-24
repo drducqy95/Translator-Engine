@@ -46,6 +46,12 @@ def _is_cloudflare_html(html: str) -> bool:
     return any(marker in text for marker in markers)
 
 
+def _crawl_delay_seconds():
+    """Randomized crawl pacing to reduce IP-ban risk."""
+    import random
+    return random.choice([5, 15, 30]) + random.uniform(0, 2.5)
+
+
 
 class SourceManager:
     def __init__(self, base_dir: str):
@@ -385,7 +391,17 @@ class SourceManager:
             chapters.append({"title": el.get_text(" ", strip=True) or f"Chapter {len(chapters) + 1}", "url": chapter_url})
         return normalize_chapter_order(chapters)
 
-    def _crawl_novel_http(self, url: str, novel_id: str, max_chapters: int = 10):
+    def _select_chapters(self, chapters, max_chapters=None, start_chapter=None, end_chapter=None):
+        selected = chapters
+        if start_chapter is not None or end_chapter is not None:
+            start = int(start_chapter or 1)
+            end = int(end_chapter or len(chapters))
+            selected = chapters[max(0, start - 1):max(0, end)]
+        if max_chapters not in (None, 0, "0", "all"):
+            selected = selected[:int(max_chapters)]
+        return selected
+
+    def _crawl_novel_http(self, url: str, novel_id: str, max_chapters=None, start_chapter=None, end_chapter=None):
         from bs4 import BeautifulSoup
 
         novel_split_dir = self.source_split_dir / novel_id
@@ -399,11 +415,12 @@ class SourceManager:
         if not chapters:
             raise ValueError("Không tìm thấy danh sách chương.")
 
-        total = min(len(chapters), max_chapters)
+        selected_chapters = self._select_chapters(chapters, max_chapters, start_chapter, end_chapter)
+        total = len(selected_chapters)
         print(f"Đã lấy được danh sách {len(chapters)} chương bằng HTTP fallback. Đang tải {total} chương...")
         content_selectors = ["#content", "#nr_body", ".Readarea", ".read-content", "#chaptercontent", ".panel-body"]
 
-        for i, chapter in enumerate(chapters[:max_chapters], 1):
+        for i, chapter in enumerate(selected_chapters, 1):
             title = chapter["title"]
             chapter_html = self._fetch_html(chapter["url"])
             chapter_soup = BeautifulSoup(chapter_html, "html.parser")
@@ -418,14 +435,14 @@ class SourceManager:
 
         print(f"✅ Đã crawl xong {total} chương vào: {novel_split_dir}")
 
-    def crawl_novel_playwright(self, url: str, novel_id: str, max_chapters: int = 10, site_id: str = None):
+    def crawl_novel_playwright(self, url: str, novel_id: str, max_chapters=None, site_id: str = None, start_chapter=None, end_chapter=None):
         """Crawl truyện từ web vào Source_Split, dùng Playwright nếu có và fallback HTTP nếu browser không chạy được."""
         print(f"\n[SourceManager] Bắt đầu Crawl web: {url} cho {novel_id}")
         try:
             from playwright.sync_api import sync_playwright
         except ImportError:
             print("⚠️ Playwright chưa được cài đặt. Chuyển sang HTTP fallback.")
-            return self._crawl_novel_http(url, novel_id, max_chapters)
+            return self._crawl_novel_http(url, novel_id, max_chapters, start_chapter, end_chapter)
 
         novel_split_dir = self.source_split_dir / novel_id
         novel_split_dir.mkdir(parents=True, exist_ok=True)
@@ -484,12 +501,13 @@ class SourceManager:
                         print("❌ Không tìm thấy danh sách chương.")
                         return
 
-                    total = min(len(chapters), max_chapters)
+                    selected_chapters = self._select_chapters(chapters, max_chapters, start_chapter, end_chapter)
+                    total = len(selected_chapters)
                     print(f"Đã lấy được danh sách {len(chapters)} chương. Đang tải nội dung {total} chương...")
                     import random
                     import time
 
-                    for i, chapter in enumerate(chapters[:max_chapters], 1):
+                    for i, chapter in enumerate(selected_chapters, 1):
                         try:
                             title = chapter["title"]
                             print(f"  [{i}/{total}] Đang tải: {title}")
@@ -512,14 +530,14 @@ class SourceManager:
                                 self._write_crawled_chapter(novel_split_dir, i, title, body_text)
                             finally:
                                 chap_page.close()
-                            time.sleep(random.uniform(1.0, 3.0))
+                            time.sleep(_crawl_delay_seconds())
                         except Exception as e:
                             print(f"  ❌ Lỗi tải chương {i}: {e}")
                 finally:
                     browser.close()
         except Exception as e:
             print(f"⚠️ Playwright không chạy được ({e}). Chuyển sang HTTP fallback.")
-            return self._crawl_novel_http(url, novel_id, max_chapters)
+            return self._crawl_novel_http(url, novel_id, max_chapters, start_chapter, end_chapter)
 
         print(f"✅ Đã crawl xong {total} chương vào: {novel_split_dir}")
         print("💡 Gợi ý: Bạn có thể chạy SourceManager.split_and_init_novel() với mode tuỳ chỉnh để khởi tạo Pipeline sau khi crawl.")
@@ -588,8 +606,7 @@ class SourceManager:
                 with open(novel_split_dir / filename, 'w', encoding='utf-8') as f:
                     f.write(f"# {title}\n\n{body_text}\n")
                     
-                delay = random.uniform(2.0, 5.0)
-                time.sleep(delay)
+                time.sleep(_crawl_delay_seconds())
                 
             print(f"\n✅ Đã hoàn tất crawl {total} chương bằng Plugin hệ mới.")
             if self.crawl_jobs.get(novel_id, {}).get('status') != 'cancelled':

@@ -273,19 +273,21 @@ def mark_discovered_status(novel_id, status):
         save_discovered_novels(items)
 
 
-def start_crawl_job(chat_id, title, url, site_id=None, novel_id=None, max_chapters=5):
+def start_crawl_job(chat_id, title, url, site_id=None, novel_id=None, max_chapters=None, start_chapter=None, end_chapter=None):
     novel_id = novel_id or make_novel_id(title, url)
     if not url:
         bot.send_message(chat_id, "❌ Crawl thiếu URL nguồn.")
         return
     try:
-        job, created = crawl_queue.enqueue_job(chat_id, title, url, site_id=site_id, novel_id=novel_id, max_chapters=max_chapters)
+        job, created = crawl_queue.enqueue_job(chat_id, title, url, site_id=site_id, novel_id=novel_id, max_chapters=max_chapters, start_chapter=start_chapter, end_chapter=end_chapter)
         mark_discovered_status(novel_id, 'queued')
         if created:
+            scope_txt = "toàn bộ chương" if max_chapters in (None, '', 0, '0', 'all') and not start_chapter and not end_chapter else f"chương {start_chapter or 1}..{end_chapter or 'EOF'}" if start_chapter or end_chapter else f"tối đa {max_chapters} chương"
             bot.send_message(
                 chat_id,
                 f"📥 Đã đưa `{md_escape(title or novel_id)}` vào hàng đợi crawl.\n"
                 f"ID: `{md_escape(novel_id)}`\n"
+                f"Phạm vi: `{md_escape(scope_txt)}`\n"
                 f"Daemon crawl sẽ chạy tối đa 1 job mỗi chu kỳ 5 phút.",
                 parse_mode="Markdown",
             )
@@ -297,6 +299,27 @@ def start_crawl_job(chat_id, title, url, site_id=None, novel_id=None, max_chapte
             )
     except Exception as exc:
         bot.send_message(chat_id, f"❌ Không thể enqueue crawl: {md_escape(exc)}", parse_mode="Markdown")
+
+def show_crawl_scope_menu(chat_id, call, title, url, site_id=None, novel_id=None):
+    user_state[chat_id] = user_state.get(chat_id, {})
+    user_state[chat_id]['pending_crawl'] = {
+        'title': title,
+        'url': url,
+        'site_id': site_id,
+        'novel_id': novel_id or make_vi_novel_id(title, '', url),
+    }
+    markup = InlineKeyboardMarkup(row_width=2)
+    markup.add(
+        InlineKeyboardButton("📚 Toàn bộ", callback_data="crawl_scope_all"),
+        InlineKeyboardButton("50 chương", callback_data="crawl_scope_50"),
+        InlineKeyboardButton("100 chương", callback_data="crawl_scope_100"),
+        InlineKeyboardButton("✍️ Chỉ định", callback_data="crawl_scope_custom"),
+    )
+    text = f"🕸 Chọn phạm vi crawl cho:\n`{md_escape(title)}`"
+    if call and getattr(call, 'message', None):
+        bot.edit_message_text(text, chat_id, call.message.message_id, reply_markup=markup, parse_mode="Markdown")
+    else:
+        bot.send_message(chat_id, text, reply_markup=markup, parse_mode="Markdown")
 
 # ==========================================
 # GIAO DIỆN CHÍNH (MAIN MENU)
@@ -660,8 +683,8 @@ def handle_menu(call):
         author = clean_ui_title(novel.get('author_vi') or novel.get('author') or '')
         url = novel.get('url')
         novel_id = make_vi_novel_id(title, author, url)
-        bot.answer_callback_query(call.id, "Đã đưa vào job crawl")
-        start_crawl_job(chat_id, title, url, site_id=site_id, novel_id=novel_id, max_chapters=5)
+        bot.answer_callback_query(call.id, "Chọn phạm vi crawl")
+        show_crawl_scope_menu(chat_id, call, title, url, site_id=site_id, novel_id=novel_id)
 
     # 2. KHO TRUYỆN RAW
     elif data == "menu_raw":
@@ -729,8 +752,8 @@ def handle_menu(call):
         url = item.get('url')
         novel_id = item.get('id') or make_vi_novel_id(title, item.get('author') or '', url)
         site_id = item.get('site_id') or item.get('source_id')
-        bot.answer_callback_query(call.id, "Đã đưa vào job crawl")
-        start_crawl_job(chat_id, title, url, site_id=site_id, novel_id=novel_id, max_chapters=5)
+        bot.answer_callback_query(call.id, "Chọn phạm vi crawl")
+        show_crawl_scope_menu(chat_id, call, title, url, site_id=site_id, novel_id=novel_id)
 
     elif data.startswith("searchcrawl_"):
         idx = int(data.replace("searchcrawl_", ""))
@@ -738,10 +761,26 @@ def handle_menu(call):
         url = st.get(f'search_res_{idx}')
         title = st.get(f'search_title_{idx}') or f'search_result_{idx}'
         if url:
-            bot.answer_callback_query(call.id, "Đã đưa vào job crawl")
-            start_crawl_job(chat_id, title, url, site_id=None, novel_id=make_vi_novel_id(title, '', url), max_chapters=5)
+            bot.answer_callback_query(call.id, "Chọn phạm vi crawl")
+            show_crawl_scope_menu(chat_id, call, title, url, site_id=None, novel_id=make_vi_novel_id(title, '', url))
         else:
             bot.answer_callback_query(call.id, "Không tìm thấy URL trong session.", show_alert=True)
+
+    elif data.startswith("crawl_scope_"):
+        pending = user_state.get(chat_id, {}).get('pending_crawl')
+        if not pending:
+            bot.answer_callback_query(call.id, "Session crawl hết hạn.", show_alert=True)
+            return
+        mode = data.replace("crawl_scope_", "")
+        if mode == "custom":
+            bot.answer_callback_query(call.id)
+            user_state[chat_id]['step'] = 'waiting_crawl_scope'
+            bot.send_message(chat_id, "Nhập phạm vi crawl: `all`, `50`, `100`, `10-30`, hoặc `25`.", parse_mode="Markdown")
+            return
+        max_chapters = None if mode == "all" else int(mode)
+        bot.answer_callback_query(call.id, "Đã đưa vào job crawl")
+        start_crawl_job(chat_id, pending.get('title'), pending.get('url'), site_id=pending.get('site_id'), novel_id=pending.get('novel_id'), max_chapters=max_chapters)
+        user_state.get(chat_id, {}).pop('pending_crawl', None)
             
     elif data == "noop":
         bot.answer_callback_query(call.id)
@@ -1089,6 +1128,35 @@ def handle_text(message):
                 bot.send_message(chat_id, f"❌ Lỗi tìm kiếm: {e}")
         
         threading.Thread(target=do_search, daemon=True).start()
+        return
+
+    if step == 'waiting_crawl_scope':
+        pending = state.get('pending_crawl', {})
+        raw = (text or '').strip().lower().replace(' ', '')
+        if raw in {'all', '0'}:
+            max_chapters = None
+            start_chapter = end_chapter = None
+        elif '-' in raw:
+            try:
+                a, b = raw.split('-', 1)
+                start_chapter = int(a)
+                end_chapter = int(b)
+                max_chapters = None
+            except Exception:
+                bot.send_message(chat_id, "❌ Phạm vi không hợp lệ. Dùng `10-30` hoặc `all`.", parse_mode="Markdown")
+                return
+        else:
+            try:
+                max_chapters = int(raw)
+                start_chapter = end_chapter = None
+            except Exception:
+                bot.send_message(chat_id, "❌ Số chương không hợp lệ.", parse_mode="Markdown")
+                return
+        if 'step' in user_state.get(chat_id, {}):
+            del user_state[chat_id]['step']
+        if pending:
+            start_crawl_job(chat_id, pending.get('title'), pending.get('url'), site_id=pending.get('site_id'), novel_id=pending.get('novel_id'), max_chapters=max_chapters, start_chapter=start_chapter, end_chapter=end_chapter)
+            user_state.get(chat_id, {}).pop('pending_crawl', None)
         return
 
     if step == 'waiting_search_translation':

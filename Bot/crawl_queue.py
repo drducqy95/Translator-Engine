@@ -30,7 +30,7 @@ def save_queue(items):
         QUEUE_PATH.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def enqueue_job(chat_id, title, url, site_id=None, novel_id=None, max_chapters=5):
+def enqueue_job(chat_id, title, url, site_id=None, novel_id=None, max_chapters=None, start_chapter=None, end_chapter=None):
     if not url or not novel_id:
         raise ValueError("crawl job thiếu url hoặc novel_id")
     with _queue_lock:
@@ -45,7 +45,9 @@ def enqueue_job(chat_id, title, url, site_id=None, novel_id=None, max_chapters=5
             "url": url,
             "site_id": site_id or "",
             "novel_id": novel_id,
-            "max_chapters": int(max_chapters or 5),
+            "max_chapters": None if max_chapters in (None, '', 0, '0', 'all') else int(max_chapters),
+            "start_chapter": int(start_chapter) if start_chapter not in (None, '', '0') else None,
+            "end_chapter": int(end_chapter) if end_chapter not in (None, '', '0') else None,
             "status": "queued",
             "created_at": _now(),
             "updated_at": _now(),
