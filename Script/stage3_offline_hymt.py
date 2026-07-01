@@ -105,7 +105,7 @@ def run_fallback(novel_id: str, context_pack: dict, output_dir: str,
             continue
 
         prompt = _single_segment_prompt(raw_seg.get("text", ""), sid, context_pack)
-        ans, err = call_one_checked(meta.get("provider", "local_hymt"), prompt, timeout=60)
+        ans, err = call_one_checked(meta.get("provider", "agy"), prompt, timeout=900)
         if ans and not CJK_RE.search(ans):
             refined.append({"id": sid, "segment_id": seg_id, "refined_translation": ans.strip()})
         elif err and "không thấy provider" in err:

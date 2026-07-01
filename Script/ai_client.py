@@ -276,10 +276,19 @@ def _call_cli(tool, prompt, timeout):
     if not cmd:
         return ''
     try:
-        result = subprocess.run([*cmd, prompt], capture_output=True, text=True,
-                                timeout=timeout, env=clean_env())
-        if result.stdout.strip():
-            return result.stdout.strip()
+        result = subprocess.run(
+            [*cmd, prompt],
+            capture_output=True,
+            text=False,
+            timeout=timeout,
+            env=clean_env(),
+        )
+        stdout = (result.stdout or b'').decode('utf-8', 'replace').strip()
+        stderr = (result.stderr or b'').decode('utf-8', 'replace').strip()
+        if stdout:
+            return stdout
+        if stderr:
+            _log(f'{tool} stderr: {stderr[:500]}')
     except subprocess.TimeoutExpired:
         _log(f'{tool} timeout')
     except Exception as e:
@@ -360,6 +369,10 @@ def call_one_checked(name, prompt, *, stream=False, temperature=0.2, timeout=60,
     cfg = load_providers()
     prov = next((p for p in cfg.get('providers', []) if p.get('name') == name), None)
     if not prov:
+        if name in _CLI_CMDS:
+            cli_prompt = f"{system_prompt}\n\n{prompt}" if system_prompt else prompt
+            text = _call_cli(name, cli_prompt, timeout)
+            return (text, None) if text else (None, f'cli {name} empty/fail')
         return None, f'không thấy provider {name}'
     try:
         text = _call_provider(prov, prompt, stream, temperature, timeout, system_prompt)

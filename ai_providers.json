@@ -6,7 +6,7 @@
       "api_key": "",
       "model": "transbot",
       "priority": 1,
-      "enabled": true,
+      "enabled": false,
       "role": "primary",
       "timeout": 180
     },
