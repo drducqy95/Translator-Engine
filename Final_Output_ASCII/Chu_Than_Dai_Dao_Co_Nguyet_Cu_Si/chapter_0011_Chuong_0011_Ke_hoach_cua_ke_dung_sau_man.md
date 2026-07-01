@@ -1,0 +1,46 @@
+# Chương 0011 Kế hoạch của kẻ đứng sau màn
+
+Ngay lúc vô số người chơi đang nỗ lực phấn đấu, đổ máu nóng trong game, thì tại tầng cao nhất của thế giới này, nơi mà ngay cả sáu vị thần chỉ vĩ đại kia cũng không thể chạm tới, ba vị Chí Cao Thần đang ngồi vây quanh nhau. Mệnh Dụng Đồ Cuốn của Mệnh Dụng Chủ Thần to lớn khôn cùng, hiển thị tình cảnh của tất cả người chơi trên toàn thế giới ở bên trong. Bất kể là Cơ Thành đang mang theo người chơi chống cự những đợt tấn công trên bình nguyên, hay là nhóm Tiểu Hòa Thượng Hằng Lỗ đang mang vẻ mặt không tình nguyện tiếp nhận huấn luyện của lão mập. Người chơi ở Chiến Thần Học Viện, Tinh Linh Mộc Ốc, Thuật Sĩ Chi Gia, hay thậm chí ở dưới đáy hải dương, Thiên Không Phù Thành, Quang Minh Bí Cảnh, U Ám Quốc Độ - những thần quốc nơi các vị thần chỉ cư ngụ, đều được Mệnh Dụng Đồ Cuốn hiển thị ra!
+
+"Các ngươi nhìn xem, các ngươi nhìn xem." Triệu Kì nhìn đồ cuốn, nói với hai vị kia: "Từng tên đều tâm tư nhiều thật. Đều muốn vươn xúc tu ra hiện thực, cũng không sợ biến khéo thành vụng." Địch Nại Nhĩ vuốt chòm râu trắng trước ngực, cười nói: "Thưa ngài, bọn họ làm như vậy chẳng phải đều do ngài dẫn dắt sao? Nếu không có ngài cho phép, ai dám động đậy một bước?"
+"Không chỉ vậy, ta nghĩ ngài cũng muốn nhân cơ hội này thăm dò phản ứng của hiện thực chứ gì." Mệnh Dụng Chủ Thần nhìn Triệu Kì, cười xấu xa hỏi.
+
+Triệu Kì cũng không tiếp lời. Quả thật, nếu không có hắn ngầm đồng ý, kẻ nào dám manh động một bước, Triệu Kì sẽ cho kẻ đó biết thế nào gọi là sấm sét mưa móc đều là ơn vua! Hơn nữa, phản ứng của hiện thực cũng là một vấn đề lớn. Sáu vị thần không rõ ràng, nhưng mấy người Triệu Kì đều biết hiện thực mới là căn cơ của thế giới này! Những việc này đều được Triệu Kì nhìn rõ mồn một. Hắn cũng đã chuẩn bị sẵn sàng, một khi sáu vị thần làm quá trớn, hắn sẽ lập tức tiếp quản. Dù sao hắn cũng là thần sáng tạo của thế giới này, vị cách của hắn mới là lớn nhất thế giới! Xảy ra chuyện, chỉ có hắn mới có thể chịu trách nhiệm, Mệnh Vận không được, Hủy Diệt cũng không xong!
+
+Hắn chuyển hướng sang hỏi Chủ Thần Hủy Diệt: "Ngươi xem những thần chỉ này, trong lòng đều có kế hoạch, ngay cả Vua Võ Tăng kia cũng đang câu kết với người trong phó bản Đại Thiền Tự, một lòng muốn đẩy nghề nghiệp võ tăng của ông ta lên thêm một bước, thậm chí là vài bước! Ngươi có kế hoạch gì không? Phải biết rằng đây chính là lúc quy tắc của hai thế giới va chạm mãnh liệt nhất, mọi thứ đều đang biến hóa, ngươi phải nắm chắc cơ hội đấy."
+
+Nói rồi, Triệu Kì liền kéo Mệnh Dụng Chủ Thần ra làm tấm gương: "Ngươi xem hắn, chẳng qua chỉ là mượn đống mảnh vỡ thời không còn sót lại hồi chúng ta sáng tạo sáu vị thần, hiện tại cũng sắp ngưng luyện ra thần chức Chư Thiên Vạn Giới Chi Chủ rồi. Ngươi nhìn xem, đây chính là tấm gương sáng đấy!"
+"Ta chẳng qua chỉ là tận dụng đồ bỏ đi thôi mà, đừng nhắm vào ta thế chứ?" Bí mật nhỏ của mình bị Triệu Kì vạch trần, Mệnh Dụng Chủ Thần tỏ vẻ lúng túng, y như bộ dạng tên trộm bị khổ chủ bắt quả tang tại trận.
+
+"Thưa ngài, sao ngài biết ta không có kế hoạch?" Chủ Thần Hủy Diệt Địch Nại Nhĩ nở nụ cười đầy bí ẩn.
+"Ồ? Nhìn không ra nha, ngươi mang cái dáng vẻ người thành thật mà cũng có tư tưởng muốn làm kẻ đứng sau màn giật dây ư?" Nghe vậy, Mệnh Dụng Chủ Thần lập tức tỉnh táo tinh thần.
+"Để ta nói nhé, chúng ta thân là Chí Cao Thần thì phải có hoài bão lớn, khí phách lớn, vĩ lực lớn. Khoan nói những việc khác, việc chúng ta muốn làm thì hậu quả phải quét sạch toàn vũ trụ, giống như biến giả thành thật, tái tạo hỗn độn của Chủ Tôn. Rồi chư thiên vạn giới, vô tận phó bản của ta vậy. Bằng không chẳng phải sẽ để đám đàn em theo sau cười cho thối mũi à?"
+"Mệnh Vận, mẹ nó, ngươi ngậm miệng lại cho ta!" Triệu Kì nghe Mệnh Dụng Chủ Thần càng nói càng lạc đề, cuối cùng thực sự nghe không nổi nữa, há miệng ngắt lời đối phương.
+Triệu Kì cảm thấy mình thật mệt mỏi: "Vị chủ thần mặt lạnh năm xưa tốt biết mấy, sao càng lớn càng hỏng bét, biến thành kẻ lắm mồm thế này? Lẽ nào sự phát triển về sau lại quan trọng đến thế ư?" Trong lòng Triệu Kì đến cả càm ràm cũng lười nhả chữ.
+
+"Ha ha ha, thưa ngài, ta dám khẳng định, nếu chuyện này thành công, sức ảnh hưởng gây ra tuyệt đối không hề kém cạnh Mệnh Dụng Chủ Thần đâu!" Địch Nại Nhĩ cũng không định úp mở, "Ta tính sáng tạo một chốn quy túc vĩnh hằng, và một chủng tộc chuyên thanh trừng tội nghiệt thế giới. Tên thì ta nghĩ cả rồi, chốn quy túc vĩnh hằng đó sẽ gọi là Quy Khư, còn chủng tộc kia thì gọi là Ma Ngoại Thiên. Thế nào, cũng được chứ nhỉ?"
+
+"Cái này???" Triệu Kì và Mệnh Vận đưa mắt nhìn nhau, Triệu Kì chợt cảm thấy mình còn mệt mỏi hơn ban nãy.
+"Ta nói này Địch Nại Nhĩ, có phải ngươi đọc tiểu thuyết tiên hiệp nhiều quá rồi không, còn Quy Khư nữa chứ? Ma Ngoại Thiên hả? Có phải Ma Ngoại Thiên còn có thể kết hợp với nhau thành các loại chí bảo đại đạo để oanh sát kẻ địch không?" Mệnh Dụng Chủ Thần bĩu môi nói.
+"Ha ha." Mắt Địch Nại Nhĩ nhìn chằm chằm hư không, hoàn toàn không thèm đáp lời.
+
+Triệu Kì lười phải nói thêm với ông lão vừa bộc phát bệnh trung nhị này. Hơn nữa Địch Nại Nhĩ quả thật làm không tồi, hiện tại vũ trụ này đúng là cần một chốn quy túc vĩnh hằng và một công nhân quét rác vũ trụ. Nhất là khi chư thiên vạn giới, vô tận phó bản của Mệnh Vận sắp sửa đi vào vận hành! Dù sao sức mạnh mà toàn bộ hư không có thể gánh chịu cũng có giới hạn.
+
+"Trí não, báo cáo tình hình thế giới hiện tại và tình hình của người chơi cho ta."
+"Rõ! Lúc đầu có tổng cộng 51.200 người tiến vào game, sau đó có gần 10.000 người trực tiếp thoát game. Kế đó, các học viện khắp nơi cùng các bí cảnh của chư thần đã tiêu hóa gần 5.000 người, nên hiện tại đang có 37.067 người dạo chơi trên đại lục. Tính đến ban nãy, đã có 3.491 người bị truyền tống ra khỏi game vì tử vong, dự tính trong vòng hai ngày tới, họ sẽ không thể đăng nhập vào game."
+
+Thế giới giả tưởng của Triệu Kì rốt cuộc cũng là kế thừa từ trong 《Toàn Dân Đại Xuyên Việt》. Ở nơi đó, chúng sinh tiến vào game dựa vào hình chiếu của tinh thần lực; nếu hình chiếu bị chém giết, như vậy với tư cách là bản thể tối thiểu sẽ gặp phải một khoảng thời gian tinh thần suy yếu. Khoảng thời gian này kéo dài từ hai đến ba ngày không chừng, thực lực của bản thể càng tăng cao thì thời gian tinh thần suy yếu sẽ càng được rút ngắn.
+
+"Trong số những người chơi này, có tổng cộng 4.632 người đã sử dụng kích hoạt mã để nhận được túi quà nhỏ. Trong đó có 100 người nhận được kỳ vật cấp một, 31 người nhận được kỳ vật cấp hai, 8 người nhận được kỳ vật cấp ba, 2 người nhận được kỳ vật cấp bốn, những người còn lại đều nhận được giải an ủi là Thần tệ. Tất cả phần thưởng tổng cộng tiêu hao hết 78 điểm thần lực. Thần lực hiện có là 11 điểm."
+Nghe đến đây, khuôn mặt Triệu Kì như đắng chát chau lại thành một cục, sắc mặt của hai vị kia cũng chẳng khá hơn là bao. Thật sự quá mức xót xa, 78 điểm thần lực này cứ như ném đá ao bèo một đi không trở lại, thế nhưng khoản chi phí này vẫn bắt buộc phải bỏ ra. Cái gọi là không xót đứa nhỏ thì không bắt được sói, không xót vợ thì không tóm được lưu manh. Ngươi không cho người trong hiện thực chút lợi lộc thiết thực, vậy ai thèm lóc cóc chui vào?
+
+"Trí não, lướt qua mấy chuyện này đi, nói chút chuyện vui vẻ xem nào." Triệu Kì xót xa cho đống thần lực đó, e sợ Trí não lại khơi gợi ký ức đau thương nên vội vã bảo nó kể tiếp đoạn sau.
+"Rõ. Sau khi những người chơi này tiến vào game, thế giới giả tưởng thể hiện rõ việc bước vào thời kỳ sinh động, bình quân mỗi ngày có thể thu vào 3 đến 4 điểm thần lực. Qua tính toán, nếu số lượng người chơi tăng thêm thì lượng thần lực thu về cũng sẽ nhiều hơn, dự đoán mức cao nhất sẽ đạt tới 9 đến 10 điểm thần lực!"
+"Đây quả là tin tốt." Triệu Kì không khỏi gật đầu. Thần lực mới có thể đại biểu cho tất cả. Nếu Triệu Kì bây giờ sở hữu mấy vạn điểm thần lực trở lên, cớ gì phải đi làm kẻ đứng sau màn như lúc này, cứ trực tiếp lật bàn luôn cho xong!
+
+"Xem ra quy mô của trò chơi này còn phải mở rộng hơn nữa nha." Dù không vì tạo ra thần lực, nhưng riêng lượng tinh thần lực tự do mà ngần ấy người giải phóng mỗi ngày đã là một khoản thu nhập cực lớn rồi. Thậm chí có thể nói đây mới chính là mấu chốt để Triệu Kì tự tin biến thế giới giả tưởng này luyện giả thành thật.
+
+Ở nơi cao hơn cả ba vị thần chỉ, ngay chỗ giao hội giữa hư không và thai màng thế giới, hai món thần khí chí cao đại diện cho Sáng Tạo và Hủy Diệt to lớn khôn cùng, thần uy của chúng bao phủ toàn bộ thế giới! Từng mảng tinh thần lực nhuốm đầy những cảm xúc của chúng sinh bị thần khí hút lên, rồi ngay lập tức bị uy năng của hai đại thần khí xóa sạch dấu ấn cảm xúc trong đó. Nó chỉ còn lại nguồn sức mạnh tinh khiết nhất, rồi bị thế giới cùng hai đại thần khí chia nhau cắn nuốt. Còn thứ cặn bã không thể bị xóa sạch sẽ rơi vào trong Mệnh Dụng Đồ Cuốn, vừa vặn mượn những cảm xúc mãnh liệt đến mức không thể xóa bỏ này để thai nghén sinh mệnh trong phó bản!
+
+"Cũng không biết cần bao lâu nữa thì chúng ta mới có thể đạt được sinh mệnh chân chính." Nhìn cảnh tượng thần thoại vượt quá trí tưởng tượng của người phàm này, Địch Nại Nhĩ cảm thán nói.
+"Căn cứ vào tính toán, cần phải mất một ngàn ba trăm năm tế luyện tinh thần không gián đoạn thì mới có khả năng biến thành hiện thực!" Âm thanh điện tử của Trí não vang vọng trong không gian trống trải....
