@@ -1713,5 +1713,33 @@
     "type": "character",
     "origin": "chinese",
     "name_type": "person"
+  },
+  {
+    "raw": "赵奇",
+    "target": "Triệu Kì",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "凯瑟那",
+    "target": "Khải Sắt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "约瑟夫",
+    "target": "Ước Sắt Phu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老亚瑞",
+    "target": "Rouazui",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
   }
 ]

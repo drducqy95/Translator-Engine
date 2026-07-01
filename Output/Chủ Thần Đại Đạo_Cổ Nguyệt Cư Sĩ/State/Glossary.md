@@ -402,3 +402,7 @@
 - **无人区** (location) -> Mujinku
 - **地脉** (concept) -> địa mạch
 - **世界树** (artifact) -> Thế Giới Thụ
+- **美利坚众合国** (location) -> Mỹ Lợi Kiên chúng hợp quốc
+- **白宫** (location) -> Shiromiya
+- **华尔街** (location) -> Hanajimachi
+- **神币** (item) -> Thần tệ

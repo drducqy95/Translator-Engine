@@ -1066,3 +1066,7 @@
 ## Chương 310: Chương 0310 Càn Khôn Ma Động, Căn Cơ Thế Giới.md
 - **Sự kiện chính:** Sau khi mở rộng Trái đất bằng Thế Giới Thụ, Triệu Kì ngồi dưới gốc cây tỉ mỉ chỉnh lý địa mạch và quy tắc cơ bản để ổn định thế giới siêu phàm mới, đồng thời nhận thấy một biến động bất ngờ từ sâu bên trong Trái đất.
 
+## Chương 312: Chương 0312 Rối ren khắp chốn, thế gian u ám.md
+- **Sự kiện chính:** Triệu Kì đang ở sâu trong lòng đất quan sát lịch sử và suy tính kế hoạch. Trong lúc đó, trái đất mở rộng gây ra khủng hoảng toàn cầu; tại Mỹ Lợi Kiên, các nghị viên phải đối mặt với biểu tình phẫn nộ trước Shiromiya, và một ông già dùng mây đen, sấm sét dẹp loạn.
+- **Nhân vật mới xuất hiện:** Triệu Kì, Khải Sắt, Ước Sắt Phu, Rouazui
+

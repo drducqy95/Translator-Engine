@@ -2811,5 +2811,33 @@
     "type": "artifact",
     "origin": "chinese",
     "name_type": "item"
+  },
+  {
+    "raw": "美利坚众合国",
+    "target": "Mỹ Lợi Kiên chúng hợp quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "白宫",
+    "target": "Shiromiya",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "华尔街",
+    "target": "Hanajimachi",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "神币",
+    "target": "Thần tệ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "concept"
   }
 ]
