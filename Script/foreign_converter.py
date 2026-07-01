@@ -75,7 +75,8 @@ def _romanize_japanese(text: str) -> str:
         try:
             src = zhconv.convert(remaining, 'zh-hant') if zhconv else remaining
             result = kakasi.convert(src)
-            parts.append("".join(item.get('hepburn') or item.get('kunrei') or item.get('kana') or '' for item in result).title())
+            romanized = "".join(item.get('hepburn') or item.get('kunrei') or item.get('kana') or '' for item in result)
+            parts.append(romanized[:1].upper() + romanized[1:] if romanized else "")
         except Exception:
             parts.append(remaining)
     elif remaining:
@@ -89,11 +90,13 @@ def analyze_and_convert_entity(entity: str) -> dict | None:
     if len(entity) < 2:
         return None
 
+    entity = re.sub(r"\s+", " ", entity)
+
     if entity in JAPANESE_FULL_NAME_OVERRIDES:
         return {"type": "Japanese", "converted": JAPANESE_FULL_NAME_OVERRIDES[entity]}
 
     if LATIN_RE.search(entity) and not CJK_RE.search(entity):
-        return {"type": "Latin", "converted": entity}
+        return {"type": "Latin", "converted": entity.strip(" _-.")}
 
     if HANGUL_RE.search(entity):
         first = entity[0]
@@ -108,20 +111,21 @@ def analyze_and_convert_entity(entity: str) -> dict | None:
         return {"type": "Korean", "converted": entity}
 
     if CJK_RE.search(entity):
+        if entity in JAPANESE_FULL_NAME_OVERRIDES:
+            return {"type": "Japanese", "converted": JAPANESE_FULL_NAME_OVERRIDES[entity]}
+        if any(entity.startswith(prefix) for prefix in JAPANESE_SPECIAL_NAMES) or HIRAGANA_RE.search(entity) or KATAKANA_RE.search(entity):
+            converted = _romanize_japanese(entity)
+            return {"type": "Japanese", "converted": converted} if converted else None
         if entity in KOREAN_HANJA_NAME_OVERRIDES:
             return {"type": "Korean", "converted": KOREAN_HANJA_NAME_OVERRIDES[entity]}
         if len(entity) >= 2 and entity[0] in KOREAN_HANJA_SURNAMES:
             converted = f"{KOREAN_HANJA_SURNAMES[entity[0]]} {entity[1:]}".strip()
             return {"type": "Korean", "converted": converted} if not CJK_RE.search(converted) else None
-        if any(entity.startswith(prefix) for prefix in JAPANESE_SPECIAL_NAMES) or HIRAGANA_RE.search(entity) or KATAKANA_RE.search(entity):
-            converted = _romanize_japanese(entity)
-            return {"type": "Japanese", "converted": converted} if converted else None
-        if any(entity.startswith(prefix) for prefix in JAPANESE_SPECIAL_NAMES):
-            converted = _romanize_japanese(entity)
-            return {"type": "Japanese", "converted": converted} if converted else None
-        if CJK_RE.search(entity):
-            converted = _romanize_japanese(entity)
-            return {"type": "Japanese", "converted": converted} if converted else None
+
+        # Nếu không nhận ra là Hàn, thử romanize như tên Nhật để tránh rơi về Hán-Việt sai.
+        converted = _romanize_japanese(entity)
+        if converted and not CJK_RE.search(converted):
+            return {"type": "Japanese", "converted": converted}
 
     return None
 
