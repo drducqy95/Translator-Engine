@@ -8,6 +8,6 @@
 Chapters: 3
 
 ## Chapters
-- 1. [chapter_0001_Chuong_0001_The_gioi_phu_thuy.md](chapter_0001_Chuong_0001_The_gioi_phu_thuy.md)
-- 2. [chapter_0002_Chuong_0002_Mot_phu_thuy.md](chapter_0002_Chuong_0002_Mot_phu_thuy.md)
-- 3. [chapter_0003_Chuong_0003_Ma_quai.md](chapter_0003_Chuong_0003_Ma_quai.md)
+- 1. [Chương 0001 Thế giới phù thuỷ](chapter_0001_Chuong_0001_The_gioi_phu_thuy.md)
+- 2. [Chương 0002 Một phù thuỷ](chapter_0002_Chuong_0002_Mot_phu_thuy.md)
+- 3. [Chương 0003 Ma quái](chapter_0003_Chuong_0003_Ma_quai.md)

@@ -8,7 +8,7 @@
 Chapters: 4
 
 ## Chapters
-- 1. [chapter_0001_Chuong_0001_Loi_tua.md](chapter_0001_Chuong_0001_Loi_tua.md)
-- 2. [chapter_0002_Chuong_0002_Vuong_tu_sa_co.md](chapter_0002_Chuong_0002_Vuong_tu_sa_co.md)
-- 3. [chapter_0003_Chuong_0003_Song_Con_Gian_Nan.md](chapter_0003_Chuong_0003_Song_Con_Gian_Nan.md)
-- 4. [chapter_0004_Chuong_0004_Chi_la_Pham_Can.md](chapter_0004_Chuong_0004_Chi_la_Pham_Can.md)
+- 1. [Chương 0001 Lời tựa](chapter_0001_Chuong_0001_Loi_tua.md)
+- 2. [Chương 0002 Vương tử sa cơ](chapter_0002_Chuong_0002_Vuong_tu_sa_co.md)
+- 3. [Chương 0003 Sống Còn Gian Nan](chapter_0003_Chuong_0003_Song_Con_Gian_Nan.md)
+- 4. [Chương 0004 Chỉ là Phàm Căn](chapter_0004_Chuong_0004_Chi_la_Pham_Can.md)

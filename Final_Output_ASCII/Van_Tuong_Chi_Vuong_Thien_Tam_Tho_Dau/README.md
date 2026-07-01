@@ -8,8 +8,8 @@
 Chapters: 5
 
 ## Chapters
-- 1. [chapter_0001_Chuong_0001_Ta_co_ba_cai_tuong_cung.md](chapter_0001_Chuong_0001_Ta_co_ba_cai_tuong_cung.md)
-- 2. [chapter_0002_Chuong_0002_Vi_hon_the_khong_muon_tu_hon.md](chapter_0002_Chuong_0002_Vi_hon_the_khong_muon_tu_hon.md)
-- 3. [chapter_0003_Chuong_0003_Ly_Lac_muon_tu_hon.md](chapter_0003_Chuong_0003_Ly_Lac_muon_tu_hon.md)
-- 4. [chapter_0004_Chuong_0004_Kim_Long_Bao_Hanh.md](chapter_0004_Chuong_0004_Kim_Long_Bao_Hanh.md)
-- 5. [chapter_0005_Chuong_0005_Bui_Hao.md](chapter_0005_Chuong_0005_Bui_Hao.md)
+- 1. [Chương 0001 Ta có ba cái tướng cung](chapter_0001_Chuong_0001_Ta_co_ba_cai_tuong_cung.md)
+- 2. [Chương 0002 Vị hôn thê không muốn từ hôn](chapter_0002_Chuong_0002_Vi_hon_the_khong_muon_tu_hon.md)
+- 3. [Chương 0003 Lý Lạc muốn từ hôn](chapter_0003_Chuong_0003_Ly_Lac_muon_tu_hon.md)
+- 4. [Chương 0004 Kim Long Bảo Hành](chapter_0004_Chuong_0004_Kim_Long_Bao_Hanh.md)
+- 5. [Chương 0005 Bùi Hạo](chapter_0005_Chuong_0005_Bui_Hao.md)

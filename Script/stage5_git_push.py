@@ -17,6 +17,14 @@ def _git_add_force(cwd: Path, paths: list[str]) -> None:
     for path in paths:
         subprocess.run(["git", "add", "-f", path], cwd=cwd, check=False)
 
+
+def _refresh_final_output_indexes(git_root: Path) -> None:
+    try:
+        from final_output_indexer import refresh
+    except ImportError:
+        from Script.final_output_indexer import refresh
+    refresh(git_root / "Final_Output_ASCII")
+
 def run(out_dir: Path, chapter_filename: str):
     """BƯỚC 5: Push Git
     - Nếu mọi thứ pass, push lên Git
@@ -33,6 +41,7 @@ def run(out_dir: Path, chapter_filename: str):
         # Thêm file (force include large ignored outputs + final artifacts)
         subprocess.run(["git", "config", "user.name", "Translator Engine Bot"], cwd=git_root, check=False)
         subprocess.run(["git", "config", "user.email", "translator-engine-bot@localhost"], cwd=git_root, check=False)
+        _refresh_final_output_indexes(git_root)
         tracked = [
             "README.md",
             "toc.json",

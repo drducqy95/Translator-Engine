@@ -90,6 +90,20 @@ def _sync_readme_progress(readme_file: Path, done: int, total: int):
         next_readme = "\n".join(lines).rstrip() + "\n"
     readme_file.write_text(next_readme.rstrip() + "\n", encoding="utf-8")
 
+
+def _extract_vietnamese_title(md_path: Path) -> str:
+    try:
+        with open(md_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                text = line.strip()
+                if text.startswith('# '):
+                    return text[2:].strip()
+                if text:
+                    break
+    except Exception:
+        pass
+    return md_path.stem
+
 def run(novel_id: str, out_dir: Path, chapter_filename: str, ai_output: dict, context_pack: dict = None):
     """BƯỚC 4: Hậu Xử Lý
     - Tách ghép output trả bản dịch (_vi.md)
@@ -265,6 +279,7 @@ def run(novel_id: str, out_dir: Path, chapter_filename: str, ai_output: dict, co
                     chapter_index = ch['index']
                     ch['status'] = 'done'
                     ch['translated_file'] = final_filename
+                    ch['title'] = _extract_vietnamese_title(final_dir / final_filename)
                     ch['error'] = ''
                     ch.pop('processing_started_at', None)
 
