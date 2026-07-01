@@ -445,6 +445,7 @@ def daemon_pipeline_executor():
             serial_mode = max_workers <= 1 or not settings.get("pipeline_round_robin", True)
             out_dir = engine_dir / "Output"
             project_rows = []
+            allowed_projects = {k for k, v in project_locks.items() if v is True}
 
             if out_dir.exists():
                 import lock_mgr
@@ -474,6 +475,10 @@ def daemon_pipeline_executor():
                             _log_pipeline(f"skip locked {novel_id}")
                             continue
                         project_rows.append((novel_id, pending_chaps))
+            if allowed_projects:
+                _log_pipeline(f"candidates {len(project_rows)} allowed={sorted(allowed_projects)} current={current_project}")
+            else:
+                _log_pipeline(f"candidates {len(project_rows)} current={current_project}")
 
             capacity = max(0, max_workers - len(active))
             if serial_mode and current_project and current_project not in active_projects and current_project not in {row[0] for row in project_rows}:
@@ -490,6 +495,7 @@ def daemon_pipeline_executor():
                 )
 
             for novel_id, chapter_name in tasks:
+                _log_pipeline(f"dispatch {novel_id} {chapter_name}")
                 if _claim_task(novel_id, chapter_name):
                     current_project = novel_id if serial_mode else current_project
                     _write_pipeline_heartbeat({"state": "claimed", "novel_id": novel_id, "chapter": chapter_name, "updated_at": time.time()})

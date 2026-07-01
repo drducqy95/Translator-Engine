@@ -239,8 +239,9 @@ def _call_provider(prov, prompt, stream, temperature, timeout, system_prompt=Non
         'Content-Type': 'application/json',
         'Authorization': f'Bearer {key}',
     })
+    effective_timeout = int(prov.get('timeout', timeout) or timeout)
     try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
+        with urllib.request.urlopen(req, timeout=effective_timeout) as resp:
             if stream:
                 return _parse_stream(resp)
             data = json.loads(resp.read().decode('utf-8', 'replace'))
