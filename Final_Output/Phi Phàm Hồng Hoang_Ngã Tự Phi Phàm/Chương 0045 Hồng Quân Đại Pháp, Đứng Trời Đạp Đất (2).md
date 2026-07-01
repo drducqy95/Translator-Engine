@@ -1,1 +1,0 @@
-# Chương 0045 Hồng Quân Đại Pháp, Đứng Trời Đạp Đất (2)

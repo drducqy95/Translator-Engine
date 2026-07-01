@@ -1,1 +1,0 @@
-# Chương 0010 Giai đoạn mới ra mắt mỗi ngày hai chương, mọi người cứ tích dần nhé... Sau khi lên kệ sẽ là ba chương mỗi ngày, bản thân tôi cũng thấy tiến độ hơi chậm, haha~~

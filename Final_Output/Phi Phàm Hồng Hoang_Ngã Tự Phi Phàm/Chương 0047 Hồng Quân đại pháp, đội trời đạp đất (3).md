@@ -1,1 +1,0 @@
-# Chương 0047 Hồng Quân đại pháp, đội trời đạp đất (3)

@@ -1,3 +1,0 @@
-# Chương 0163 Giới thiệu sách
-
-‘Ta ở dị giới quay phim’, cuốn sách này không tệ. Rất hay, mọi người rảnh rỗi thì cứ xem thôi…

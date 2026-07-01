@@ -1,1 +1,0 @@
-# Chương 0043 Hồng Quân đại pháp, đội trời đạp đất (1)

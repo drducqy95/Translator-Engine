@@ -1,1 +1,0 @@
-# Chương 0025 Chín tầng gió, sấm, lửa, sét được phân chia; bầu trời sao vô tận chứa thiên địa
