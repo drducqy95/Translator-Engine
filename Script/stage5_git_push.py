@@ -13,7 +13,16 @@ def run(out_dir: Path, chapter_filename: str):
             subprocess.run(["git", "init"], cwd=out_dir, check=True)
             subprocess.run(["git", "branch", "-M", "main"], cwd=out_dir, check=False)
             
-        # Thêm file
+        # Thêm file (force include large ignored outputs + final artifacts)
+        subprocess.run(["git", "config", "user.name", "Translator Engine Bot"], cwd=out_dir, check=False)
+        subprocess.run(["git", "config", "user.email", "translator-engine-bot@localhost"], cwd=out_dir, check=False)
+        tracked = [
+            "README.md", "toc.json", "story_timeline.json", "State/", "Final_Translated/",
+            "State/toc.json", "State/metadata.json", "State/prompt_cover.txt", "State/story_timeline.json",
+            "State/cover_generation.json",
+        ]
+        for path in tracked:
+            subprocess.run(["git", "add", "-f", path], cwd=out_dir, check=False)
         subprocess.run(["git", "add", "."], cwd=out_dir, check=True)
         
         # Commit

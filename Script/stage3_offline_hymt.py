@@ -1,6 +1,10 @@
 import json
 import re
 from ai_client import call_one_checked
+try:
+    from entity_locks import apply_locked_terms_to_output
+except ImportError:
+    from Script.entity_locks import apply_locked_terms_to_output
 
 CJK_RE = re.compile(r'[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]')
 
@@ -88,8 +92,9 @@ def run_fallback(novel_id: str, context_pack: dict, output_dir: str,
 
     refined = []
     for sid in expected_ids:
+        seg_id = next((s.get("segment_id") for s in context_pack.get("raw_segments", []) if isinstance(s, dict) and s.get("id") == sid), None)
         if sid in segments and segments[sid] and not CJK_RE.search(segments[sid]):
-            refined.append({"id": sid, "refined_translation": segments[sid]})
+            refined.append({"id": sid, "segment_id": seg_id, "refined_translation": segments[sid]})
             continue
 
         reason = "CJK" if sid in segments and segments[sid] else "missing"
@@ -102,7 +107,7 @@ def run_fallback(novel_id: str, context_pack: dict, output_dir: str,
         prompt = _single_segment_prompt(raw_seg.get("text", ""), sid, context_pack)
         ans, err = call_one_checked(meta.get("provider", "local_hymt"), prompt, timeout=60)
         if ans and not CJK_RE.search(ans):
-            refined.append({"id": sid, "refined_translation": ans.strip()})
+            refined.append({"id": sid, "segment_id": seg_id, "refined_translation": ans.strip()})
         elif err and "không thấy provider" in err:
             raise ValueError(f"Thiếu segment id: [{sid}]")
         else:
@@ -115,11 +120,11 @@ def run_fallback(novel_id: str, context_pack: dict, output_dir: str,
     if missing:
         raise ValueError(f"Thiếu segment id sau fallback: {missing}")
 
-    return {
+    return apply_locked_terms_to_output({
         "refined_segments": refined,
         "story_timeline": {"summary": {"main_events": "Offline fallback mode", "new_characters": []}},
         "new_entities": [],
         "relationships": [],
         "provider_meta": {"provider": meta.get("provider", "local_hymt"),
                           "mode": meta.get("mode", "offline_fallback")},
-    }
+    }, context_pack)

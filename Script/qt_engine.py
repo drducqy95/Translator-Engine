@@ -15,6 +15,10 @@ import numgrammar
 import grammar
 from tm_lookup import TMEngine
 
+HV_OVERRIDES = {
+    "释": "Thích",
+}
+
 # Bảng map dấu câu tiếng Trung -> tiếng Việt
 PUNCT_MAP = {
     '，': ', ', '。': '. ', '！': '! ', '？': '? ', '、': ', ',
@@ -57,14 +61,22 @@ class QTEngine:
         from dict_manager import DictManager
         self.db_path = Path(db_path)
         self.dict_mgr = DictManager(self.db_path.parent)
-        self.dict_mgr.load_global(self.db_path.name)
+        try:
+            self.dict_mgr.load_global(self.db_path.name)
+        except Exception as exc:
+            print(f"[QTEngine] load_global warning: {exc}")
         
         # Các dictionary proxy
         self.prefix = self.dict_mgr.prefix
         self.hanviet = self.dict_mgr.hanviet_dict
+        self.hanviet.update(HV_OVERRIDES)
         self.t2s = self.dict_mgr.t2s
         
-        self.tm_engine = TMEngine(self.db_path)
+        try:
+            self.tm_engine = TMEngine(self.db_path)
+        except Exception as exc:
+            print(f"[QTEngine] TMEngine warning: {exc}")
+            self.tm_engine = None
         
         self.max_len = self.dict_mgr.max_len
         self.active_universes = []
@@ -358,4 +370,3 @@ if __name__ == '__main__':
     print("Unknown :", unk)
     print("Known   :", known)
     qt.close()
-

@@ -10,6 +10,12 @@ _T2S_CACHE = None
 _HANVIET_CACHE = None
 _MAX_LEN_CACHE = 0
 _CACHE_LOCK = threading.Lock()
+_JIEBA_READY = False
+_INJECT_JIEBA = True
+
+HV_OVERRIDES = {
+    "释": "Thích",
+}
 
 class DictManager:
     def __init__(self, dict_dir="/sdcard/My Agent/Translator Engine/Dict"):
@@ -63,6 +69,7 @@ class DictManager:
                 self.hanviet_dict[r['han']] = r['viet']
             for r in conn.execute("SELECT simp, hanviet FROM kb_han_char WHERE hanviet IS NOT NULL AND hanviet != ''"):
                 self.hanviet_dict[r['simp']] = r['hanviet']
+            self.hanviet_dict.update(HV_OVERRIDES)
             
             # Tải Prefix
             for r in conn.execute('SELECT head, max_len FROM kb_term_prefix'):
@@ -73,6 +80,8 @@ class DictManager:
                 self.t2s[r['trad']] = r['simp']
             
             # Tải Từ vựng (Bóc tách Tiers)
+            old_inject = _INJECT_JIEBA
+            _INJECT_JIEBA = False
             query = """
             SELECT n.key, t.vietnamese, n.type, t.pos, t.priority, t.source_dict, n.tier, n.scope
             FROM kb_node n
@@ -109,6 +118,7 @@ class DictManager:
                         self.global_dict[key] = data
                         if tier == 0: # Chỉ đưa Global core vào Jieba để tránh phình to
                             self._inject_to_jieba(key, r['type'])
+            _INJECT_JIEBA = old_inject
             
             _GLOBAL_DICT_CACHE = self.global_dict
             _UNIVERSE_DICT_CACHE = self.universe_dicts
@@ -191,7 +201,19 @@ class DictManager:
 
     def _inject_to_jieba(self, key, type_val):
         """Tự động nạp danh từ riêng (Entity) vào bộ token của Jieba"""
-        import jieba
+        global _JIEBA_READY
+        if not _INJECT_JIEBA:
+            return
+        try:
+            import jieba
+        except ImportError:
+            return
+        if not _JIEBA_READY:
+            try:
+                jieba.initialize()
+            except Exception:
+                pass
+            _JIEBA_READY = True
         if type_val in ('character', 'name', 'entity'):
             jieba.add_word(key, freq=10000, tag='nr')
         elif type_val == 'sect':
@@ -232,4 +254,4 @@ class DictManager:
         
     def get_hv(self, char: str):
         with _CACHE_LOCK:
-            return self.hanviet_dict.get(char)
+            return HV_OVERRIDES.get(char) or self.hanviet_dict.get(char)

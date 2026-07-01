@@ -1,6 +1,10 @@
 import json
 import re
 from pathlib import Path
+try:
+    from entity_locks import apply_locked_terms_to_output
+except ImportError:
+    from Script.entity_locks import apply_locked_terms_to_output
 
 _CJK = None
 def _has_cjk(s):
@@ -38,8 +42,9 @@ def build_stage3_prompt(context_pack: dict) -> str:
         "",
         "QUY TẮC CỨNG:",
         "1. Locked Dictionary: BẮT BUỘC dùng target đã khóa. KHÔNG dùng raw/tên gốc.",
-        "   Nếu target là Latin (Ex: Pette Chinar) thì PHẢI dùng Latin, không phiên âm Hán Việt.",
+        "   Entity Latin/Nhật/Hàn đã có target Latin/Romaji/Hangul-Latin thì PHẢI dùng đúng target; cấm Hán Việt hóa.",
         "2. RAW là bản Trung gốc; QT là bản dịch máy/QT. Nhiệm vụ chính: hiệu chỉnh QT thành văn Việt tự nhiên, đối chiếu RAW để sửa sai nghĩa.",
+        "2b. Suggested Dictionary là entity mới phát hiện; với tên riêng/nhân vật/địa danh, hãy dùng target đã gợi ý nếu không mâu thuẫn context.",
         "3. KHÔNG sót ký tự CJK.",
         f"4. Giữ đúng số lượng, thứ tự, id. Expected IDs: {ids}.",
         "4. Heading Markdown → giữ heading.",
@@ -76,7 +81,9 @@ def _extract_json_object(text: str) -> dict:
     if not isinstance(data, dict): raise ValueError("AI không trả dict")
     return data
 
-def _normalize_output(data: dict, expected_ids: list[int]) -> dict:
+def _normalize_output(data: dict, expected_segments: list[dict]) -> dict:
+    expected_ids = [s.get("id") for s in expected_segments if isinstance(s, dict)]
+    segment_id_map = {s.get("id"): s.get("segment_id") for s in expected_segments if isinstance(s, dict)}
     raw = data.get("refined_segments", [])
     if not isinstance(raw, list): raise ValueError("refined_segments phải là list")
     seen, clean, errors = set(), [], []
@@ -89,7 +96,11 @@ def _normalize_output(data: dict, expected_ids: list[int]) -> dict:
         t = s.get("refined_translation","")
         if not isinstance(t, str) or not t.strip(): errors.append(f"seg {sid} thiếu text"); continue
         if sid in seen: errors.append(f"trùng id {sid}"); continue
-        seen.add(sid); clean.append({"id": sid, "refined_translation": t.strip()})
+        item = {"id": sid, "refined_translation": t.strip()}
+        if segment_id_map.get(sid):
+            item["segment_id"] = segment_id_map[sid]
+        clean.append(item)
+        seen.add(sid)
     missing = [e for e in expected_ids if e not in seen]
     if missing: errors.append(f"Thiếu segment id: {missing}")
     if errors: raise ValueError("; ".join(errors))
@@ -137,12 +148,14 @@ def run(novel_id: str, context_pack: dict, output_dir: str) -> dict:
 
     try:
         data = _extract_json_object(response_text)
-        data = _normalize_output(data, [s.get("id") for s in cp.get("raw_segments",[]) if isinstance(s,dict)])
+        data = _normalize_output(data, [s for s in cp.get("raw_segments",[]) if isinstance(s,dict)])
     except Exception as je:
         print(f"[Stage 3] JSON fail, fallback: {je}")
         import stage3_offline_hymt
         meta_safe = meta or {"provider":"fallback","mode":"fallback"}
         data = stage3_offline_hymt.run_fallback(novel_id, cp, output_dir, response_text, meta_safe)
+
+    data = apply_locked_terms_to_output(data, cp)
 
     # Validate đủ segment
     all_ids = [s.get("id") for s in context_pack.get("raw_segments",[]) if isinstance(s,dict)]
@@ -150,8 +163,18 @@ def run(novel_id: str, context_pack: dict, output_dir: str) -> dict:
     missing = [e for e in all_ids if e not in got_ids]
     if missing: raise ValueError(f"Thiếu segment: {missing}")
 
-    cjk = [s for s in data["refined_segments"] if _has_cjk(s.get("refined_translation",""))]
-    if cjk: raise ValueError(f"CJK trong segments: {[s['id'] for s in cjk]}")
+    cjk = [s for s in data["refined_segments"] if _has_cjk(s.get("refined_translation", ""))]
+    if cjk:
+        print(f"[Stage 3] CJK residue in segments {[s['id'] for s in cjk]}, trying segment fallback...")
+        import stage3_offline_hymt
+        meta_safe = meta or {"provider": "fallback", "mode": "fallback"}
+        try:
+            data = stage3_offline_hymt.run_fallback(novel_id, cp, output_dir, json.dumps(data, ensure_ascii=False), meta_safe)
+        except Exception as fb_err:
+            raise ValueError(f"CJK trong segments: {[s['id'] for s in cjk]}; fallback failed: {fb_err}")
+        cjk = [s for s in data["refined_segments"] if _has_cjk(s.get("refined_translation", ""))]
+        if cjk:
+            raise ValueError(f"CJK trong segments: {[s['id'] for s in cjk]}")
 
     data["provider_meta"] = meta or {"provider":"online","mode":"online"}
     print("[Stage 3] OK"); return data

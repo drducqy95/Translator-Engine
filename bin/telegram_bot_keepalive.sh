@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -uo pipefail
+set -euo pipefail
 
 ENGINE_DIR="${ENGINE_DIR:-/sdcard/My Agent/Translator Engine}"
 BOT_SCRIPT="${BOT_SCRIPT:-$ENGINE_DIR/telegram_bot_v2.py}"
@@ -12,11 +12,17 @@ LOCK_DIR="$RUN_DIR/telegram_bot_keepalive.lock"
 SUP_PID_FILE="$RUN_DIR/telegram_bot_keepalive.pid"
 BOT_PID_FILE="$RUN_DIR/telegram_bot_v2.pid"
 RESTART_DELAY="${RESTART_DELAY:-10}"
+HAS_LOCK=0
 
 mkdir -p "$LOG_DIR" "$RUN_DIR"
 
 ts() { date '+%Y-%m-%d %H:%M:%S'; }
 log() { printf '[%s] %s\n' "$(ts)" "$*" | tee -a "$LOG_FILE"; }
+
+if [[ -f "$ENGINE_DIR/Temp/MAINTENANCE.lock" ]]; then
+  log "maintenance lock present; keepalive disabled"
+  exit 0
+fi
 
 is_pid_alive() {
   local pid="${1:-}"
@@ -28,6 +34,7 @@ existing_bot_pid() {
 }
 
 cleanup() {
+  [[ "$HAS_LOCK" == "1" ]] || exit 0
   log "supervisor stopping"
   if [[ -f "$BOT_PID_FILE" ]]; then
     local pid
@@ -66,6 +73,10 @@ fi
 log "supervisor started engine=$ENGINE_DIR bot=$BOT_SCRIPT"
 
 while true; do
+  if [[ -f "$ENGINE_DIR/Temp/MAINTENANCE.lock" ]]; then
+    log "maintenance lock present; stopping supervisor"
+    exit 0
+  fi
   pid="$(existing_bot_pid)"
   if is_pid_alive "$pid"; then
     echo "$pid" > "$BOT_PID_FILE"

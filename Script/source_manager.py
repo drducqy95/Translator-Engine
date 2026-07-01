@@ -564,7 +564,6 @@ class SourceManager:
                     })
                     print(f"Đã lấy được danh sách {len(chapters)} chương. Đang tải nội dung {total} chương...")
                     import random
-                    import time
 
                     skipped = 0
                     base_index = int(start_chapter or 1)
@@ -677,7 +676,6 @@ class SourceManager:
             print(f"✅ Đã tìm thấy {len(chapters)} chương. Tiến hành cào {total} chương...")
             self.crawl_jobs[novel_id] = {'status': 'running', 'progress': 0, 'total': total, 'current_chap': ''}
             
-            import time
             import random
             for i, chap in enumerate(chapters[:max_chapters], 1):
                 while self.crawl_jobs.get(novel_id, {}).get('status') == 'paused':

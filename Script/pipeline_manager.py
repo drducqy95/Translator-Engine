@@ -1,7 +1,8 @@
 import os
 import json
+import shutil
+import subprocess
 from pathlib import Path
-from qt_engine import QTEngine
 import re
 
 def _atomic_write_json(path: Path, data):
@@ -12,6 +13,77 @@ def _atomic_write_json(path: Path, data):
         f.flush()
         os.fsync(f.fileno())
     os.replace(tmp_path, path)
+
+def _is_bad_prompt_value(value: str) -> bool:
+    text = str(value or "").strip()
+    return not text or text.lower() in {"unknown", "đang cập nhật", "dang cap nhat", "n/a", "na"} or "object object" in text.lower() or "{" in text or "}" in text
+
+def _clean_prompt_text(value: str) -> str:
+    text = str(value or "").replace("\uFFFD", "").strip()
+    text = re.sub(r"\s+", " ", text)
+    return text
+
+def _normalize_cover_metadata(novel_id: str, metadata: dict | None, ai_response: dict | None = None):
+    metadata = dict(metadata or {})
+    ai_response = ai_response or {}
+    canonical_title = novel_id.split("_", 1)[0].strip() or novel_id
+    canonical_author = novel_id.split("_", 1)[1].strip() if "_" in novel_id else "Unknown"
+    title_vi = canonical_title
+    author = canonical_author if not _is_bad_prompt_value(canonical_author) else "Unknown"
+    if _is_bad_prompt_value(title_vi):
+        title_vi = canonical_title
+    if _is_bad_prompt_value(author):
+        author = "Unknown"
+    # Only accept AI title/author if they are clean and clearly non-placeholder; otherwise keep canonical project title.
+    ai_title = _clean_prompt_text(ai_response.get("title_vi") or metadata.get("title_vi") or "")
+    ai_author = _clean_prompt_text(ai_response.get("author") or metadata.get("author") or "")
+    if ai_title and not _is_bad_prompt_value(ai_title) and len(ai_title) <= max(50, len(canonical_title) * 2) and ai_title != title_vi:
+        # still prefer canonical title for cover consistency; keep AI title only in synopsis/extra metadata elsewhere
+        pass
+    if ai_author and not _is_bad_prompt_value(ai_author) and len(ai_author) <= 80 and ai_author != author:
+        # keep canonical author for cover consistency
+        pass
+    genres = metadata.get("genres") or ai_response.get("genres") or []
+    if isinstance(genres, dict):
+        genres = list(genres.values())
+    if not isinstance(genres, list):
+        genres = [genres] if genres else []
+    genres = [_clean_prompt_text(g) for g in genres if _clean_prompt_text(g) and not _is_bad_prompt_value(g)]
+    synopsis = _clean_prompt_text(ai_response.get("synopsis") or metadata.get("synopsis") or "")
+    cover_prompt = _clean_prompt_text(ai_response.get("cover_prompt") or metadata.get("cover_prompt") or "")
+    return {
+        "title_vi": title_vi,
+        "author": author,
+        "genres": genres,
+        "synopsis": synopsis,
+        "cover_prompt": cover_prompt,
+    }
+
+def _build_cover_prompt(novel_id: str, title_vi: str, author: str, genres: list[str], synopsis: str, cover_prompt: str = "") -> str:
+    title_vi = _clean_prompt_text(title_vi)
+    author = _clean_prompt_text(author)
+    if _is_bad_prompt_value(title_vi):
+        title_vi = novel_id.split("_", 1)[0].strip() or novel_id
+    if _is_bad_prompt_value(author):
+        author = novel_id.split("_", 1)[1].strip() if "_" in novel_id else "Unknown"
+        if _is_bad_prompt_value(author):
+            author = "Unknown"
+    genres = [_clean_prompt_text(g) for g in (genres or []) if _clean_prompt_text(g) and not _is_bad_prompt_value(g)]
+    synopsis = _clean_prompt_text(synopsis)
+    extra = _clean_prompt_text(cover_prompt)
+    if not extra:
+        extra = f"Visual mood derived from genres: {', '.join(genres) if genres else 'literary fiction'}"
+    return (
+        f"Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. "
+        f"[TITLE]: '{title_vi}' centered, large, legible, premium Vietnamese web novel typography. "
+        f"[AUTHOR]: '{author}' smaller near the title. "
+        f"[FOCUS]: A single protagonist, emblem, or symbolic object that strongly represents the story; avoid generic placeholders. "
+        f"[WORLD]: {synopsis[:500] if synopsis else 'Use the story premise to define world, era, and key visual motifs.'} "
+        f"[GENRE]: {', '.join(genres) if genres else 'novelistic drama, adventure'}; reflect the genre with scene, costume, lighting, and props. "
+        f"[STYLE]: high contrast, clear composition, polished, premium cover art. "
+        f"[TEXT RULES]: Only the exact title and author may be readable; no random text, no subtitles, no watermarks. "
+        f"[EXTRA]: {extra}"
+    )
 
 
 class PipelineManager:
@@ -33,12 +105,7 @@ class PipelineManager:
 
         self.toc_file = self.state_dir / "toc.json"
 
-        # Liên kết với QT Engine
-        import qt_engine
-        self.qt = qt_engine.QTEngine()
-
-        # Đảm bảo Project DB tồn tại và được load
-        self.qt.dict_mgr.load_project(self.novel_id)
+        self._qt = None
 
         self.readme_file = self.out_dir / "README.md"
         self.timeline_file = self.state_dir / "story_timeline.json"
@@ -47,6 +114,13 @@ class PipelineManager:
 
     def _stage_fail(self, stage: str, message: str):
         raise ValueError(f"[{stage} FAILED] {message}")
+
+    def _get_qt(self):
+        if self._qt is None:
+            import qt_engine
+            self._qt = qt_engine.QTEngine()
+            self._qt.dict_mgr.load_project(self.novel_id)
+        return self._qt
 
     def _load_json_required(self, path: Path, stage: str):
         if not path.exists():
@@ -73,6 +147,7 @@ class PipelineManager:
         required = [
             "translation_config",
             "story_timeline",
+            "source_manifest",
             "locked_dictionary",
             "suggested_dictionary",
             "relationships_graph",
@@ -85,6 +160,9 @@ class PipelineManager:
             self._stage_fail("Stage 2", f"Context Pack thiếu trường: {missing}")
         if not isinstance(context_pack.get("translation_config"), dict) or not context_pack["translation_config"]:
             self._stage_fail("Stage 2", "translation_config rỗng hoặc sai kiểu")
+        manifest = context_pack.get("source_manifest")
+        if not isinstance(manifest, dict):
+            self._stage_fail("Stage 2", "source_manifest phải là object")
         raw_segments = context_pack.get("raw_segments")
         if not isinstance(raw_segments, list) or not raw_segments:
             self._stage_fail("Stage 2", "raw_segments rỗng hoặc sai kiểu")
@@ -100,9 +178,34 @@ class PipelineManager:
             if not isinstance(seg.get("qt"), str):
                 self._stage_fail("Stage 2", f"segment id {sid} thiếu qt")
             seen_ids.add(sid)
+        if manifest.get("segment_count") != len(raw_segments):
+            self._stage_fail("Stage 2", "source_manifest.segment_count lệch raw_segments")
+        manifest_segments = manifest.get("segments")
+        if not isinstance(manifest_segments, list):
+            self._stage_fail("Stage 2", "source_manifest.segments phải là list")
+        if len(manifest_segments) != len(raw_segments):
+            self._stage_fail("Stage 2", "source_manifest.segments lệch raw_segments")
+        try:
+            import hashlib
+            for raw_seg, manifest_seg in zip(raw_segments, manifest_segments):
+                if manifest_seg.get("id") != raw_seg.get("id"):
+                    self._stage_fail("Stage 2", f"manifest id lệch raw segment: {manifest_seg.get('id')} vs {raw_seg.get('id')}")
+                if manifest_seg.get("segment_id") != raw_seg.get("segment_id"):
+                    self._stage_fail("Stage 2", f"manifest segment_id lệch id {raw_seg.get('id')}")
+                source_hash = hashlib.sha256(str(raw_seg.get("text") or "").encode("utf-8")).hexdigest()
+                if manifest_seg.get("source_hash") != source_hash:
+                    self._stage_fail("Stage 2", f"source_hash lệch segment id {raw_seg.get('id')}")
+        except Exception as exc:
+            self._stage_fail("Stage 2", f"source_manifest validation lỗi: {exc}")
         for key in ("locked_dictionary", "suggested_dictionary", "pronouns_addressing"):
             if not isinstance(context_pack.get(key), dict):
                 self._stage_fail("Stage 2", f"{key} phải là object")
+        for key in ("locked_dictionary", "suggested_dictionary"):
+            payload = context_pack.get(key, {})
+            if isinstance(payload, dict):
+                for group_name in ("characters", "glossary"):
+                    if group_name in payload and not isinstance(payload.get(group_name), dict):
+                        self._stage_fail("Stage 2", f"{key}.{group_name} phải là object")
         for key in ("story_timeline", "relationships_graph", "translation_memory_hits"):
             if not isinstance(context_pack.get(key), list):
                 self._stage_fail("Stage 2", f"{key} phải là list")
@@ -114,9 +217,11 @@ class PipelineManager:
         refined = stage3_data.get("refined_segments")
         raw_segments = context_pack.get("raw_segments", []) if isinstance(context_pack, dict) else []
         expected_ids = [seg.get("id") for seg in raw_segments if isinstance(seg, dict)]
+        expected_segment_ids = [seg.get("segment_id") for seg in raw_segments if isinstance(seg, dict)]
         if not isinstance(refined, list):
             self._stage_fail("Stage 3", "refined_segments phải là list")
         got_ids = []
+        got_segment_ids = []
         for idx, seg in enumerate(refined, 1):
             if not isinstance(seg, dict):
                 self._stage_fail("Stage 3", f"refined segment #{idx} không phải object")
@@ -127,13 +232,24 @@ class PipelineManager:
             if not isinstance(text, str) or not text.strip():
                 self._stage_fail("Stage 3", f"refined segment id {sid} thiếu bản dịch")
             got_ids.append(sid)
+            if seg.get("segment_id"):
+                got_segment_ids.append(seg.get("segment_id"))
         if got_ids != expected_ids:
             self._stage_fail("Stage 3", f"Segment ids không khớp workflow: expected={expected_ids}, got={got_ids}")
+        if got_segment_ids and got_segment_ids != expected_segment_ids:
+            self._stage_fail("Stage 3", f"segment_id không khớp workflow: expected={expected_segment_ids}, got={got_segment_ids}")
         if not isinstance(stage3_data.get("story_timeline", {}), dict):
             self._stage_fail("Stage 3", "story_timeline phải là object")
         for key in ("new_entities", "relationships"):
             if not isinstance(stage3_data.get(key, []), list):
                 self._stage_fail("Stage 3", f"{key} phải là list")
+        try:
+            from qc_checker import QCChecker
+            qc = QCChecker(context_pack, stage3_data).check()
+        except Exception as exc:
+            self._stage_fail("Stage 3", f"QC checker lỗi: {exc}")
+        if not qc.get("passed"):
+            self._stage_fail("Stage 3", f"QC fail: {qc.get('errors', [])}")
         print("✅ [Stage 3 PASS] AI output đạt schema workflow.")
 
     def _validate_stage4(self, chapter_filename: str):
@@ -222,6 +338,39 @@ class PipelineManager:
                     seg["qt"] = seg.get("text", "")
         return context_pack
 
+    def _hydrate_stage2_manifest(self, chapter_filename: str, raw_content: str, context_pack: dict):
+        if not isinstance(context_pack, dict) or context_pack.get("source_manifest"):
+            return context_pack
+        raw_segments = context_pack.get("raw_segments")
+        if not isinstance(raw_segments, list):
+            return context_pack
+        import hashlib
+        chapter_id = self._chapter_artifact_key(chapter_filename)
+        manifest_segments = []
+        for seg in raw_segments:
+            if not isinstance(seg, dict):
+                continue
+            sid = seg.get("id")
+            text = str(seg.get("text") or "")
+            segment_id = f"{chapter_id}:seg_{int(sid):04d}" if isinstance(sid, int) else None
+            if segment_id:
+                seg["segment_id"] = segment_id
+            manifest_segments.append({
+                "id": sid,
+                "segment_id": segment_id,
+                "source_hash": hashlib.sha256(text.encode('utf-8')).hexdigest(),
+                "source": text,
+            })
+        context_pack["source_manifest"] = {
+            "schema_version": "legacy-compatible-v2",
+            "chapter_id": chapter_id,
+            "chapter_file": chapter_filename,
+            "source_hash": hashlib.sha256((raw_content or "").encode('utf-8')).hexdigest(),
+            "segment_count": len(manifest_segments),
+            "segments": manifest_segments,
+        }
+        return context_pack
+
     def _read_text_sample(self, chapter_files, limit_chars=8000):
         all_text = ""
         for cf in chapter_files:
@@ -293,23 +442,80 @@ class PipelineManager:
         return data
 
     def _write_common_project_files(self, chapter_files, readme_content, source_type, metadata=None, cover_prompt=""):
-        self.readme_file.write_text(readme_content, encoding="utf-8")
-        (self.state_dir / "prompt_cover.txt").write_text(cover_prompt or "", encoding="utf-8")
+        metadata = metadata or {}
+        self.readme_file.write_text(readme_content.rstrip() + "\n", encoding="utf-8")
+        norm = _normalize_cover_metadata(self.novel_id, metadata, {"cover_prompt": cover_prompt})
+        prompt_text = _build_cover_prompt(
+            self.novel_id,
+            norm["title_vi"],
+            norm["author"],
+            norm["genres"],
+            norm["synopsis"],
+            norm["cover_prompt"],
+        )
+        (self.state_dir / "prompt_cover.txt").write_text(prompt_text + "\n", encoding="utf-8")
+        _atomic_write_json(self.state_dir / "metadata.json", metadata)
 
         toc = {
             "novel_id": self.novel_id,
             "source_type": source_type,
-            "metadata": metadata or {},
+            "metadata": metadata,
             "chapters": [
-                {"index": idx, "file": cf.name, "status": "pending"}
+                {"index": idx, "file": cf.name, "title": self._chapter_title_from_file(cf.name), "status": "pending"}
                 for idx, cf in enumerate(chapter_files, 1)
             ],
         }
         _atomic_write_json(self.toc_file, toc)
+        _atomic_write_json(self.out_dir / "toc.json", toc)
 
         _atomic_write_json(self.timeline_file, [])
 
         self._copy_master_config()
+
+    def _chapter_title_from_file(self, filename: str) -> str:
+        stem = Path(filename).stem
+        title = re.sub(r"^Chapter\s*\d+\s*", "", stem, flags=re.IGNORECASE).strip()
+        return title or stem
+
+    def _copy_source_cover(self, metadata: dict):
+        cover_file = (metadata or {}).get("cover_file")
+        if not cover_file:
+            return ""
+        src = self.raw_dir / cover_file
+        if not src.exists():
+            return ""
+        dst = self.out_dir / ("cover" + src.suffix.lower())
+        try:
+            shutil.copy2(src, dst)
+            return dst.name
+        except Exception as exc:
+            print(f"⚠️ Copy cover failed: {exc}")
+            return ""
+
+    def _generate_cover_from_prompt(self, metadata: dict | None = None):
+        metadata = metadata or {}
+        copied = self._copy_source_cover(metadata)
+        prompt_file = self.state_dir / "prompt_cover.txt"
+        prompt = prompt_file.read_text(encoding="utf-8").strip() if prompt_file.exists() else ""
+        report = {"prompt": prompt, "copied_cover": copied, "generated": False, "output": copied}
+        if copied:
+            _atomic_write_json(self.state_dir / "cover_generation.json", report)
+            return True
+        if not prompt:
+            _atomic_write_json(self.state_dir / "cover_generation.json", report)
+            return False
+        cmd = ["agy", "-p", f"Generate a vertical 6:9 book cover image and save it as cover.png in current directory. Prompt: {prompt}"]
+        try:
+            proc = subprocess.run(cmd, cwd=str(self.out_dir), timeout=180, capture_output=True, text=True)
+            report.update({"returncode": proc.returncode, "stdout": proc.stdout[-2000:], "stderr": proc.stderr[-2000:]})
+        except Exception as exc:
+            report["error"] = str(exc)
+        for name in ("cover.png", "cover.jpg", "cover.jpeg", "cover.webp"):
+            if (self.out_dir / name).exists():
+                report.update({"generated": True, "output": name})
+                break
+        _atomic_write_json(self.state_dir / "cover_generation.json", report)
+        return bool(report.get("output"))
 
     def _run_init_git_push(self):
         import stage5_git_push
@@ -366,6 +572,7 @@ Nội dung trích xuất:
             required_keys = ['title_vi', 'author', 'genres', 'synopsis', 'cover_prompt']
             if not isinstance(ai_response, dict) or not all(k in ai_response for k in required_keys):
                 raise ValueError("[Init Stage 2 FAILED] AI trả về thiếu các trường dữ liệu khởi tạo bắt buộc.")
+            ai_response = _normalize_cover_metadata(self.novel_id, ai_response, ai_response)
             print("✅ [Init Stage 2 PASS] Dữ liệu tổng quan từ AI đạt chuẩn.")
 
             print("[Init Stage 3] Đang tạo README, TOC, Config...")
@@ -379,27 +586,16 @@ Nội dung trích xuất:
                 chapter_files,
                 readme_content,
                 source_type="source_full",
-                metadata={"title_vi": ai_response.get("title_vi"), "author": ai_response.get("author")},
+                metadata=ai_response,
                 cover_prompt=ai_response.get('cover_prompt', ''),
             )
             print("✅ [Init Stage 3 PASS] Đã tạo file hệ thống.")
 
             print("[Init Stage 4] Sinh cover từ prompt...")
-            import subprocess
-            cp_file = self.state_dir / "prompt_cover.txt"
-            cv_img = self.out_dir / "cover.png"
-            if cp_file.exists():
-                cp_txt = cp_file.read_text(encoding="utf-8").strip()
-                if cp_txt:
-                    try:
-                        subprocess.run(["agy", "-p", f"Generate a book cover image: {cp_txt}"],
-                            timeout=120, capture_output=True)
-                        if cv_img.exists():
-                            print(f"✅ Cover saved: {cv_img}")
-                        else:
-                            print("⚠️ agy không tạo cover.png; kiểm tra backend sinh ảnh/skill imagegen.")
-                    except Exception as ce:
-                        print(f"⚠️ Cover gen failed: {ce}")
+            if self._generate_cover_from_prompt({"cover_file": ""}):
+                print("✅ Cover generation flow completed.")
+            else:
+                print("⚠️ Không sinh được cover; kiểm tra prompt_cover.txt / agy backend.")
 
             print("[Init Stage 5] Push lên Git...")
             self._run_init_git_push()
@@ -445,32 +641,22 @@ Nội dung trích xuất:
                 readme.extend(["", f"![Cover]({rel_cover})"])
             readme.extend(["", "## Giới Thiệu", synopsis or "Chưa có mô tả.", ""])
 
-            cover_prompt = metadata.get("cover_prompt") or f"Book cover for {title}. Chinese web novel style."
+            norm_meta = _normalize_cover_metadata(self.novel_id, metadata, {})
+            cover_prompt = norm_meta.get("cover_prompt") or f"Book cover for {title}. Chinese web novel style."
             self._write_common_project_files(
                 chapter_files,
                 "\n".join(readme),
                 source_type="crawl",
-                metadata=metadata,
+                metadata={**metadata, **norm_meta},
                 cover_prompt=cover_prompt,
             )
             print("✅ [Crawl Init Stage 2 PASS] Đã tạo README, TOC, Config từ metadata.")
 
             print("[Crawl Init Stage 3] Sinh cover từ prompt...")
-            import subprocess
-            cover_prompt_file = self.state_dir / "prompt_cover.txt"
-            cover_img = self.out_dir / "cover.png"
-            if cover_prompt_file.exists():
-                cp_text = cover_prompt_file.read_text(encoding="utf-8").strip()
-                if cp_text:
-                    try:
-                        subprocess.run(["agy", "-p", f"Generate a book cover image: {cp_text}"],
-                            timeout=120, capture_output=True)
-                        if cover_img.exists():
-                            print(f"✅ Cover saved: {cover_img}")
-                        else:
-                            print("⚠️ Cover generation did not produce a file")
-                    except Exception as ce:
-                        print(f"⚠️ Cover gen failed: {ce}")
+            if self._generate_cover_from_prompt(metadata):
+                print("✅ Cover generation flow completed.")
+            else:
+                print("⚠️ Không sinh được cover; kiểm tra prompt/metadata/backend.")
 
             print("[Crawl Init Stage 4] Push lên Git...")
             self._run_init_git_push()
@@ -556,6 +742,7 @@ Nội dung trích xuất:
             else:
                 context_pack = self._load_stage_artifact(chapter_filename, 2, "Stage 2")
                 context_pack = self._ensure_stage2_qt(context_pack)
+                context_pack = self._hydrate_stage2_manifest(chapter_filename, raw_content, context_pack)
                 self._validate_stage2(context_pack)
 
             # --- STAGE 3: AI REFINER ---

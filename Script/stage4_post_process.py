@@ -19,9 +19,13 @@ def _atomic_write_json(path: Path, data):
 engine_dir = Path(__file__).parent
 sys.path.append(str(engine_dir))
 import lock_mgr
+try:
+    from entity_locks import apply_locked_terms
+except ImportError:
+    from Script.entity_locks import apply_locked_terms
 
 CJK_RE = re.compile(r'[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]')
-
+LATIN_RE = re.compile(r'[A-Za-z]')
 
 def _chapter_index_from_filename(chapter_filename: str):
     match = re.search(r'(?:Chapter|Chương)\s*0*([0-9]+)', chapter_filename, re.IGNORECASE)
@@ -69,6 +73,23 @@ def _assert_no_cjk(final_text: str):
     if hits:
         raise ValueError("Final còn sót CJK, chặn ghi file: " + " | ".join(hits))
 
+def _apply_locked_name_aliases(final_text: str, context_pack: dict | None):
+    return apply_locked_terms(final_text, context_pack)
+
+def _sync_readme_progress(readme_file: Path, done: int, total: int):
+    progress_line = f"**Tiến độ:** {done} / {total} chương"
+    if not readme_file.exists():
+        return
+    readme = readme_file.read_text(encoding="utf-8")
+    pattern = r'^\*\*Tiến độ:\*\*\s*\d+\s*/\s*\d+(?:\s*chương)?\s*$'
+    next_readme, count = re.subn(pattern, progress_line, readme, count=1, flags=re.MULTILINE)
+    if count == 0:
+        lines = next_readme.splitlines()
+        insert_at = 1 if lines and lines[0].startswith('#') else 0
+        lines.insert(insert_at, progress_line)
+        next_readme = "\n".join(lines).rstrip() + "\n"
+    readme_file.write_text(next_readme.rstrip() + "\n", encoding="utf-8")
+
 def run(novel_id: str, out_dir: Path, chapter_filename: str, ai_output: dict, context_pack: dict = None):
     """BƯỚC 4: Hậu Xử Lý
     - Tách ghép output trả bản dịch (_vi.md)
@@ -107,6 +128,7 @@ def run(novel_id: str, out_dir: Path, chapter_filename: str, ai_output: dict, co
             except Exception:
                 pass
 
+        final_text = _apply_locked_name_aliases(final_text, context_pack)
         final_text, final_title = _normalize_final_title(final_text, chapter_index)
         _assert_no_cjk(final_text)
         final_filename = f"{_safe_filename_part(final_title)}.md"
@@ -306,13 +328,10 @@ def run(novel_id: str, out_dir: Path, chapter_filename: str, ai_output: dict, co
                 total = len(chapters)
                 done = sum(1 for ch in chapters if isinstance(ch, dict) and ch.get('status') == 'done')
                 _atomic_write_json(toc_file, toc)
+                _atomic_write_json(out_dir / "toc.json", toc)
+                _atomic_write_json(out_dir / "story_timeline.json", timeline)
 
-                if readme_file.exists():
-                    with open(readme_file, 'r', encoding='utf-8') as f:
-                        readme = f.read()
-                    readme = re.sub(r'\*\*Tiến độ:\*\* \d+ / \d+', f'**Tiến độ:** {done} / {total}', readme)
-                    with open(readme_file, 'w', encoding='utf-8') as f:
-                        f.write(readme)
+                _sync_readme_progress(readme_file, done, total)
     except Exception as e:
         errors.append(f"[4d TOC/Timeline] {e}")
 

@@ -20,6 +20,21 @@ try:
 except ImportError:
     opencc = None
 
+try:
+    from foreign_converter import analyze_and_convert_entity
+except Exception:
+    analyze_and_convert_entity = None
+
+HV_OVERRIDES = {
+    "释": "Thích",
+}
+
+def _hv_reading(qt, char: str):
+    if char in HV_OVERRIDES:
+        return HV_OVERRIDES[char]
+    hv = qt.dict_mgr.get_hv(char)
+    return hv.split(',')[0].strip() if hv else char
+
 def convert_traditional_to_simplified(text: str) -> str:
     """Chuyển đổi Phồn thể sang Giản thể sử dụng OpenCC."""
     if opencc:
@@ -57,15 +72,16 @@ def extract_entities_and_pronouns_offline(novel_id: str, content: str) -> dict:
                 if res and res[0]:
                     tgt = res[0]
                 else:
-                    # 2. Nếu chưa có, dịch Hán Việt từng chữ ghép lại
-                    tgt_chars = []
-                    for char in cleaned_w:
-                        hv = qt.dict_mgr.get_hv(char)
-                        if hv:
-                            tgt_chars.append(hv.split(',')[0].strip())
-                        else:
-                            tgt_chars.append(char)
-                    tgt = ' '.join(tgt_chars).title()
+                    # 2. Ưu tiên bối cảnh Latin/Western nếu nhận diện được
+                    foreign = analyze_and_convert_entity(cleaned_w) if analyze_and_convert_entity else None
+                    if foreign and foreign.get("converted"):
+                        tgt = foreign["converted"]
+                    else:
+                        # 3. Nếu chưa có, dịch Hán Việt từng chữ ghép lại
+                        tgt_chars = []
+                        for char in cleaned_w:
+                            tgt_chars.append(_hv_reading(qt, char))
+                        tgt = ' '.join(tgt_chars).title()
                 
                 # Phân loại
                 if flag == 'nr':
