@@ -1,0 +1,401 @@
+# Term Glossary
+
+- **量子智能副脑** (item) -> Lượng tử trí năng phó não
+- **Metatext** (item) -> Cuốn sách cuối cùng
+- **theseed** (item) -> theseed
+- **智脑** (glossary) -> Trí não
+- **吟游诗人** (class) -> thi nhân lang thang
+- **圣武士** (class) -> thánh võ sĩ
+- **术士** (class) -> thuật sĩ
+- **祭司长** (class) -> tế ti trưởng
+- **刺客** (class) -> thích khách
+- **射手** (class) -> xạ thủ
+- **学者** (class) -> học giả
+- **镜像副本** (term) -> phó bản không gian gương
+- **中二期** (term) -> hội chứng chuuni
+- **大终结** (terminology) -> Đại Chung Kết
+- **混沌** (terminology) -> Hỗn Độn
+- **牛魔大力拳** (terminology) -> Ngưu Ma Đại Lực Quyền
+- **幕后黑手** (glossary) -> kẻ đứng sau màn
+- **炼假成真** (glossary) -> luyện giả thành thật
+- **漫威** (glossary) -> Marvel
+- **大力牛魔拳** (item) -> Ngưu Ma Quyền
+- **生化危机** (concept) -> Khủng hoảng sinh hóa
+- **魔兽世界** (concept) -> thế giới Warcraft
+- **十字军东征** (organization) -> Thập Tự Quân Đông Chinh
+- **生化危机** (world) -> Sinh Hóa Nguy Cơ
+- **月色的杀戮者** (item) -> Kẻ Sát Lục Ánh Trăng
+- **舔食者** (creature) -> Licker
+- **金刚印** (skill) -> Kim Cương Ấn
+- **保护伞公司** (organization) -> công ty Umbrella
+- **生化危机** (misc) -> Sinh Hóa Nguy Cơ
+- **始祖病毒** (object) -> virus Thủy Tổ
+- **C病毒** (object) -> virus C
+- **G病毒** (object) -> virus G
+- **T病毒** (object) -> virus T
+- **主板** (object) -> mainboard
+- **网监** (organization) -> Cảnh sát mạng
+- **生化危机** (glossary) -> Resident Evil
+- **中情局** (organization) -> Trung Tình Cục
+- **克林姆林宫** (place) -> Điện Kremlin
+- **英国** (place) -> Vương quốc Anh
+- **伦敦** (place) -> London
+- **巴黎** (place) -> Paris
+- **柏林** (place) -> Berlin
+- **阳神世界** (setting) -> Thế giới Dương Thần
+- **天子世界** (setting) -> Thế giới Thiên Tử
+- **神兵世界** (setting) -> Thế giới Thần Binh
+- **武神世界** (setting) -> Thế giới Võ Thần
+- **龙珠世界** (setting) -> Thế giới Long Châu
+- **一世世界** (setting) -> Thế giới Nhất Thế
+- **太素白鱼** (monster) -> Thái Tố Bạch Ngư
+- **七彩玲珑妖** (monster) -> Thất Thải Linh Lung Yêu
+- **诸神世界** (place) -> thế giới Chư Thần
+- **副本世界** (place) -> thế giới phó bản
+- **阿宝其卡尔城** (place) -> Thành A Bảo Kỳ Ca Nhĩ
+- **盛世皇朝** (organization) -> Thịnh Thế Hoàng Triều
+- **幽冥之地** (location) -> U Ám Chi Địa
+- **白银之手** (organization) -> Bạch Ngân Chi Thủ
+- **千城** (organization) -> Thiên Thành
+- **神币** (currency) -> Thần tệ
+- **毁灭主神** (title) -> Chủ Thần Hủy Diệt
+- **冥界** (place) -> Minh Giới
+- **幽冥通道** (place) -> U Minh Thông Đạo
+- **太阳神殿** (place) -> Đền Thờ Thần Mặt Trời
+- **永恒骄阳** (artifact) -> Vĩnh Hằng Kiêu Dương
+- **艾奇** (location) -> Ngải Kì
+- **魔法议会** (organization) -> Ma pháp Nghị hội
+- **精灵族** (organization) -> Tinh Linh tộc
+- **羽族** (organization) -> Vũ tộc
+- **初旭** (weapon) -> Sơ Húc
+- **比丘印** (technique) -> Tì Khưu Ấn
+- **菩萨印** (technique) -> Bồ Tát Ấn
+- **骑士의祝福** (item) -> Kỵ Sĩ Chúc Phúc
+- **阳神** (book) -> Dương Thần
+- **现在如来经** (technique) -> Hiện Tại Như Lai Kinh
+- **查水表** (slang) -> bị sờ gáy
+- **国安** (organization) -> Quốc An
+- **打酱油** (concept) -> cổ vũ / làm nền
+- **扑街** (concept) -> ngỏm củ tỏi / bại trận
+- **玲珑妖** (creature) -> Yêu quái Linh Lung
+- **玄黄塔** (structure) -> Tháp Huyền Hoàng
+- **神祗** (concept) -> thần linh
+- **神符** (item) -> thần phù
+- **太阳神符** (item) -> Bùa Thần Mặt Trời
+- **奇物** (item) -> kỳ vật
+- **光明与太阳神殿** (location) -> Điện Thờ Ánh Sáng và Thần Mặt Trời
+- **神币** (currency) -> Thần Tệ
+- **亡灵** (creature) -> vong linh
+- **六丁六甲符** (item) -> Bùa Lục Đinh Lục Giáp
+- **僵尸先生** (work) -> Tiên Sinh Cương Thi
+- **不死生物** (creature) -> sinh vật bất tử
+- **黑暗天幕** (skill) -> Màn Đêm Tối
+- **斯吟声** (sound) -> Tư Ngâm Thanh
+- **阳刚气血** (concept) -> khí huyết dương cương
+- **长江** (location) -> Trường Giang
+- **白骨箭** (skill) -> Mũi Tên Xương Trắng
+- **亡灵魔法** (skill) -> Ma Pháp Vong Linh
+- **魔力** (concept) -> ma lực
+- **魔宠** (creature) -> thú cưng
+- **七彩光芒** (visual_effect) -> ánh sáng thất thải
+- **氤氲弥漫的玄黄二气** (visual_effect) -> khí huyền hoàng mờ ảo
+- **命运长河** (location) -> Trường Hà Mệnh Vận
+- **创造神力** (concept) -> Sáng Tạo Thần Lực
+- **主世界** (glossary) -> chủ thế giới
+- **幽冥入侵** (event) -> U Minh xâm lấn
+- **神学家** (term) -> nhà thần học
+- **本尊** (concept) -> bản tôn
+- **传奇阶** (concept) -> giai Truyền Kỳ
+- **百年战争** (work_title) -> Bách Niên Chiến Tranh
+- **惊情五百年** (work_title) -> Kinh Tình Ngũ Bách Niên
+- **守夜人** (work_title) -> Người Gác Đêm
+- **天之琼矛** (artifact) -> Thiên Chi Quỳnh Mâu
+- **约柜** (artifact) -> Ước Quỹ
+- **天地玄黄玲珑宝塔** (artifact) -> Tháp Huyền Hoàng Linh Lung
+- **彼岸金桥** (concept) -> Cầu Vàng Bỉ Ngạn
+- **国安局** (organization) -> Cục Quốc An
+- **青玉米** (item) -> Thanh Ngọc Mễ
+- **雷击水** (item) -> nước sét đánh
+- **石中火** (item) -> thạch trung hỏa
+- **核子炉** (item) -> lò hạt nhân
+- **百米冰岩** (location) -> băng nham trăm mét
+- **九章法服** (object) -> cửu chương pháp phục
+- **十二行珠冠冕旒** (object) -> mũ miện mười hai hàng châu ngọc
+- **雷部真赦太域金德诏书** (artifact) -> Lôi Bộ Chân Xá Thái Vực Kim Đức Chiếu Thư
+- **三轮圣转报应诀** (technique) -> Tam Luân Thánh Chuyển Báo Ứng Quyết
+- **虚空造梦术** (technique) -> Hư Không Tạo Mộng Thuật
+- **无念轮回观想法** (technique) -> Vô Niệm Luân Hồi Quan Tưởng Pháp
+- **九品渡世术** (technique) -> Cửu Phẩm Độ Thế Thuật
+- **虚无点化诀** (technique) -> Hư Vô Điểm Hóa Quyết
+- **世界轮回大术** (technique) -> Thế Giới Luân Hồi Đại Thuật
+- **国师** (title) -> quốc sư
+- **飞天蜈蚣** (creature) -> phi thiên Ngộ Công
+- **内景真雷** (concept) -> nội cảnh chân lôi
+- **五色华盖** (concept) -> ngũ sắc hoa cái
+- **食人魔狼** (creature) -> Thực Nhân Ma Lang
+- **无阶** (level) -> vô giai
+- **咸鱼** (slang) -> cá ướp muối
+- **黑白玉笔** (item) -> Ngọc bút đen trắng
+- **铀子核爆拳** (skill) -> Uranium Hạt Nhân Bạo quyền
+- **海虎爆破拳** (skill) -> Hải Hổ Bạo Phá quyền
+- **天地霸拳** (skill) -> Thiên Địa Bá quyền
+- **金翅大鹏** (creature) -> Kim Sí Đại Bàng
+- **聚神钟** (artifact) -> Tụ Thần Chung
+- **斗部神剑** (artifact) -> Đấu Bộ Thần Kiếm
+- **司命宫** (place) -> Tư Mệnh Cung
+- **天蜈妖庭** (organization) -> Thiên Ngô Yêu Đình
+- **雕塑** (concept) -> tượng thần
+- **无限官网** (location) -> trang web chính thức của Trò Chơi Vô Hạn
+- **虚无深处** (concept) -> sâu trong hư vô
+- **神道符诏** (concept) -> phù chiếu thần đạo
+- **无尽罪孽之地** (location) -> Vùng Đất Tội Nghiệt Vô Tận
+- **那六位** (concept) -> sáu vị kia (ám chỉ sáu vị thần sáng thế)
+- **大威天龙菩萨金身** (skill) -> Đại Uy Thiên Long Bồ Tát Kim Thân
+- **九识六神通** (skill) -> Cửu Thức Lục Thần Thông
+- **中本教** (organization) -> Trung Bổn Giáo
+- **纽约** (place) -> New York
+- **美利坚** (place) -> Mỹ Lợi Kiên
+- **哈利路亚** (term) -> Ha-lê-lu-gia
+- **内虚黄芽丹** (item) -> Nội Hư Hoàng Nha Đan
+- **图卷** (item) -> cuộn tranh
+- **精气神** (concept) -> tinh khí thần
+- **莱斯莱斯** (item) -> Rolls-Royce
+- **变天击地大_法** (glossary) -> Biến Thiên Kích Địa Đại Pháp
+- **特勤九组** (glossary) -> Tổ Đặc Cần Số 9
+- **浮空巨城** (location) -> Phù Không Cự Thành
+- **魔法学院** (concept) -> Học Viện Ma Pháp
+- **异域来客** (concept) -> Khách Dị Vực
+- **元素泯灭者** (title) -> Kẻ Hủy Diệt Nguyên Tố
+- **大气之王** (title) -> Vua Khí Quyển
+- **辉煌法师** (title) -> Huy Hoàng Pháp Sư
+- **时空观测者** (title) -> Kẻ Quan Trắc Thời Không
+- **冰雪女巫** (title) -> Băng Tuyết Nữ Vu
+- **雷电王座** (title) -> Lôi Điện Vương Tọa
+- **万法之地** (location) -> Vạn Pháp Chi Địa
+- **预言法师** (class) -> Pháp Sư Tiên Đoán
+- **血腥使者** (glossary) -> Huyết Tinh Sứ Giả
+- **西方七宿** (organization) -> Tây Phương Thất Tú
+- **五爪炎龙** (creature) -> Ngũ Trảo Viêm Long
+- **三大伟大神力** (concept) -> ba vị vĩ đại thần lực
+- **三恒四象二十八星宿三百六十五各色星斗** (concept) -> tam hành tứ tượng nhị thập bát tú tam bách lục thập ngũ các loại tinh đẩu
+- **灾劫白帝** (title) -> Bạch Đế Tai Kiếp
+- **菩萨蛮** (technique) -> Bồ Tát Man
+- **炎祸焚宇** (technique) -> Viêm Họa Phần Vũ
+- **动须弥** (technique) -> Động Sumeru
+- **妖祸撼穹** (technique) -> Yêu Họa Hám Khung
+- **三界** (location) -> Tam giới
+- **至恶世界** (concept) -> thế giới chí ác
+- **主角模板** (concept) -> mô bản nhân vật chính
+- **木鞭** (artifact) -> roi gỗ
+- **幽冥** (place) -> U Minh
+- **天灾冕冠** (item) -> vương miện Thiên Tai
+- **雷霆权杖** (item) -> Lôi Đình Quyền Bính
+- **神灵法阵** (concept) -> thần linh pháp trận
+- **水晶神殿** (place) -> Thần điện pha lê
+- **神袍** (item) -> thần bào
+- **神座** (item) -> Thần tọa
+- **幽冥世界** (place) -> U Minh thế giới
+- **火焰世界** (place) -> thế giới lửa
+- **神后** (title) -> Thần hậu
+- **海洋与生命之神** (title) -> Thần Hải Dương và Sinh Mệnh
+- **风暴与灾难之神** (title) -> Thần Bão Tố và Tai Nạn
+- **大教宗** (title) -> Đại Giáo tông
+- **暴风与灾难教会** (organization) -> Giáo hội Bão Tố và Tai Nạn
+- **帝皇** (title) -> đế hoàng
+- **花里胡骚** (idiom) -> trong hoa hồ tao
+- **金龙** (creature) -> kim long
+- **超凡者** (class) -> siêu phàm giả
+- **兵家** (organization) -> Binh gia
+- **卫星** (object) -> vệ tinh
+- **金羽** (attribute) -> kim vũ
+- **片羽** (attribute) -> phiến vũ
+- **龙蛇** (creature) -> rồng rắn
+- **金翅鸟** (creature) -> kim sí điểu
+- **亡帝** (title) -> Vong Đế
+- **诸天轮回盘** (artifact) -> Chư Thiên Luân Hồi Bàn
+- **原初混沌之源核** (concept) -> Hạch tâm Hỗn Độn Nguyên sơ
+- **不周** (other) -> Bất Chu
+- **封神大战** (event) -> phong thần đại chiến
+- **神帝** (title) -> Thần Đế
+- **传奇巅峰** (level) -> truyền kỳ đỉnh phong
+- **神音** (concept) -> thần âm
+- **炽天使** (entity) -> xích thiên sứ
+- **十戒** (concept) -> Mười Điều Răn
+- **金鹏** (creature) -> Kim Bằng
+- **战神神殿** (artifact) -> Chiến Thần Điện
+- **邪帝舍利** (artifact) -> Tà Đế Xá Lợi
+- **长生诀** (artifact) -> Trường Sinh Quyết
+- **李阀** (organization) -> Lý phiệt
+- **剑心通明** (skill) -> Kiếm Tâm Thông Minh
+- **静念禅寺** (organization) -> Tĩnh Niệm Thiền Viện
+- **邪神信徒** (term) -> tín đồ tà thần
+- **龙象纹理** (concept) -> long tượng văn
+- **苍龙通天冠** (object) -> Thương Long Thông Thiên Quan
+- **听** (organization) -> Nghe
+- **邪王** (title) -> Tà Vương
+- **幽林小筑** (location) -> U Lâm Tiểu Trúc
+- **不死七幻** (technique) -> Bất Tử Thất Huyễn
+- **天启** (concept) -> Thiên Khải
+- **天堂圣炎** (artifact) -> Thánh viêm thiên đường
+- **权杖** (artifact) -> Quyền Trượng
+- **血海** (location) -> Huyết Hải
+- **山海界** (place) -> Sơn Hải Giới
+- **击天变地** (terminology) -> Kích Thiên Biến Địa
+- **天鹏纵横法** (terminology) -> Thiên Bằng Tung Hoành Pháp
+- **天罚之眼** (concept) -> Thiên Phạt Chi Nhãn
+- **血龙虚影** (concept) -> huyết long hư ảnh
+- **九层天堂圣山** (place) -> chín tầng thiên đường Thánh San
+- **顿条钢铁骑士** (group) -> Đốn Cành Thiết Kỵ Sĩ
+- **法兰西圣堂骑士** (group) -> Thánh Đường Kỵ Sĩ Pháp
+- **天之尾羽张** (artifact) -> Thiên Chi Vĩ Vũ Trương
+- **十握神剑** (artifact) -> Thập Ác Thần Kiếm
+- **念动力** (ability) -> niệm động lực
+- **天神组** (organization) -> Thiên Thần Tổ
+- **战警** (class) -> Chiến Cảnh
+- **邪神** (concept) -> Tà Thần
+- **核弹洗地** (phrase) -> rửa sạch bằng bom hạt nhân
+- **莱西** (location) -> Lai Tây
+- **梵蒂冈** (location) -> Phạm Đế Cương
+- **拟物替劫** (term) -> Mô Phỏng Vật Thay Cướp
+- **龙运天柱** (concept) -> Long Vận Thiên Trụ
+- **突厥** (organization) -> Đột Quyết
+- **玄女诏书** (artifact) -> Huyền Nữ chiếu thư
+- **九层天堂山** (location) -> núi Thiên Đường chín tầng
+- **星辰巨网** (artifact) -> lưới lớn tinh thần
+- **阴影之面** (concept) -> mặt bóng tối
+- **九章苍穹帝服** (artifact) -> Cửu Chương Thương Khung Đế Phục
+- **十二行珠冠冕** (artifact) -> Thập Nhị Hành Châu Miện
+- **阴影世界** (location) -> thế giới bóng tối
+- **炼假成真** (concept) -> luyện giả thành thật
+- **气机** (concept) -> khí cơ
+- **灵脉** (concept) -> linh mạch
+- **神权** (concept) -> thần quyền
+- **吞星** (concept) -> nuốt sao
+- **降灵药** (item) -> Hàng Linh Dược
+- **降灵丹** (item) -> Hàng Linh Đan
+- **六识养神散** (item) -> Lục Thức Dưỡng Thần Tán
+- **蜜丸** (item) -> mật hoàn
+- **碧池** (common) -> Bitch
+- **封神战场** (place) -> Phong Thần chiến trường
+- **入阶** (glossary) -> nhập giai
+- **镜报社** (glossary) -> Kính Báo xã
+- **圣堂武士** (glossary) -> Thánh Đường Võ Sĩ
+- **顿条骑士** (glossary) -> Kỵ Sĩ Đốn Điều
+- **十字军** (glossary) -> Thập Tự Quân
+- **霓虹** (location) -> Nhật Bản
+- **古之荧惑** (place) -> Cổ Chi Huỳnh Hoặc
+- **火卫一** (object) -> Phobos
+- **火卫二** (object) -> Deimos
+- **神鞭** (item) -> thần tiên
+- **妖幡** (item) -> yêu phiên
+- **大地地脉之力** (concept) -> sức mạnh địa mạch đại địa
+- **妖族** (organization) -> Yêu tộc
+- **透骨幽狼** (creature) -> Thấu Cốt U Lang
+- **神意** (concept) -> Thần Ý
+- **菩萨道** (concept) -> đạo Bồ Tát
+- **鸟居** (location) -> cổng Torii
+- **神官** (occupation) -> thần quan
+- **巫女** (occupation) -> vu nữ
+- **稻荷神社** (location) -> đền Inari
+- **诸天万象人道圣台** (organization) -> Chư Thiên Vạn Tượng Nhân Đạo Thánh Thai
+- **命运巴别塔** (organization) -> Tháp Babel Mệnh Vận
+- **至高观察者** (title) -> Chí Cao Quan Sát Giả
+- **六阶** (concept) -> lục giai
+- **时空锚** (concept) -> mỏ neo thời không
+- **真空量子仪** (object) -> Máy Đo Lượng Tử Chân Không
+- **阿瓦隆** (place) -> Avalon
+- **八宝罗汉果位** (term) -> bát bảo La Hán quả vị
+- **舍利** (term) -> xá lợi
+- **高天原** (location) -> Cao Thiên Nguyên
+- **黄泉之国** (location) -> Suối Vàng Chi Quốc
+- **十握剑** (object) -> Thập Ủy Kiếm
+- **血钻** (object) -> huyết toản
+- **血晶** (object) -> huyết tinh
+- **血海魔身** (concept) -> Ma Thân Huyết Hải
+- **菩提之树** (artifact) -> cây Bồ Đề
+- **白云法帖** (item) -> Bạch Vân pháp thiếp
+- **幽州** (place) -> U Châu
+- **土地神诏** (item) -> Thổ Địa Thần Chiếu
+- **神道** (concept) -> thần đạo
+- **金刚界智慧曼佗罗无上佛阵** (glossary) -> Vô thượng Phật trận Kim Cương giới Trí Tuệ Mạn Đà La
+- **白骨巨人** (creature) -> khổng lồ xương trắng
+- **龙众之都** (location) -> Long Chúng Chi Đô
+- **魔道九脉** (organization) -> Ma đạo cửu mạch
+- **幽冥白骨魔幡** (artifact) -> U Minh Bạch Cốt Ma Phiên
+- **白骨大磨盘** (concept) -> cối xay xương trắng
+- **天部** (organization) -> Thiên Bộ
+- **夜叉部** (organization) -> Dạ Xoa Bộ
+- **修罗部** (organization) -> Tu La Bộ
+- **幽魂白骨幡** (item) -> U Hồn Bạch Cốt Phiên
+- **浮屠塔** (item) -> Phù Đồ Tháp
+- **七宝幢** (item) -> Thất Bảo Chàng
+- **日轮印** (skill) -> Nhật Luân Ấn
+- **月轮印** (skill) -> Nguyệt Luân Ấn
+- **日月宝光大光明印** (skill) -> Nhật Nguyệt Bảo Quang Đại Quang Minh Ấn
+- **他化大自在** (concept) -> Hắn Hóa Đại Tự Tại
+- **天魔之子** (title) -> Thiên Ma chi tử
+- **七宝发幢** (artifact) -> Thất Bảo Phất Tràng
+- **祖魔烙印** (item) -> Tổ Ma Lạc Ấn
+- **日月宝轮印** (skill) -> Nhật Nguyệt Bảo Luân Ấn
+- **幽冥白骨神幡** (item) -> U Minh Bạch Cốt Thần Phiên
+- **神国灵界** (location) -> Thần Quốc Linh Giới
+- **日月轮印** (skill) -> Nhật Nguyệt Luân Ấn
+- **灵境佛国** (location) -> Linh Cảnh Phật Quốc
+- **乾达婆部** (organization) -> Càn Thát Bà Bộ
+- **万毒血河** (location) -> Vạn Độc Huyết Hà
+- **大地山魔令** (artifact) -> Đại Địa Sơn Ma Lệnh
+- **二十四诸天** (concept) -> 24 chư thiên
+- **天魔宫** (location) -> Thiên Ma Cung
+- **大天魔宫** (location) -> Đại Thiên Ma Cung
+- **天众之都** (location) -> Thiên Chúng Chi Đô
+- **阴司魔国** (location) -> Âm Ty Ma Quốc
+- **阴庭鬼府** (location) -> Âm Đình Quỷ Phủ
+- **大破坏神** (title) -> Đại Phá Hoại Thần
+- **万鬼帝皇如意** (artifact) -> Vạn Quỷ Đế Hoàng Như Ý
+- **九州天庭** (organization) -> Cửu Châu Thiên Đình
+- **金刚神杵** (item) -> Kim Cang thần xử
+- **他心通** (skill) -> Tha Tâm Thông
+- **梵唱** (term) -> Phạn xướng
+- **金刚杵** (object) -> Kim (금강저)
+- **南无一切山王佛** (concept) -> Nam Mô Nhất Thiết Sơn Vương Phật
+- **三转寰宇造化大金丹** (item) -> Tam Chuyển Hoàn Vũ Tạo Hóa Đại Kim Đan
+- **灵霄火部斗君真神** (title) -> Linh Tiêu Hỏa bộ Đấu Quân Chân Thần
+- **净世天炎** (skill) -> Tịnh Thế Thiên Diễm
+- **魔道大世界** (location) -> Ma đạo Đại thế giới
+- **天众部** (organization) -> Thiên Chúng bộ
+- **太初骨魔之身** (concept) -> Thái Sơ Cốt Ma chi thân
+- **龙象菩提如意金刚菩萨身** (concept) -> Long Tượng Bồ Đề Như Ý Kim Cương Bồ Tát Thân
+- **万龙之母** (concept) -> Vạn Long Chi Mẫu
+- **龙神教堂** (place) -> giáo đường Long Thần
+- **文明杖** (item) -> gậy văn minh
+- **祭祀** (class) -> tế tự
+- **龙神** (deity) -> Long Thần
+- **牧首** (title) -> Mục thủ
+- **半龙人** (species) -> bán long nhân
+- **龙裔** (species) -> long duệ
+- **神像** (object) -> tượng thần
+- **少林** (organization) -> Thiếu Lâm
+- **黑暗议会** (organization) -> Hội đồng Bóng tối
+- **副议会长** (title) -> phó chủ tịch
+- **大祭酒** (title) -> Đại Tế Tửu
+- **世尊** (title) -> Thế Tôn
+- **七香宝车** (glossary) -> Thất Hương Bảo xa
+- **九品金莲** (glossary) -> cửu phẩm kim liên
+- **六瘟天疫册** (item) -> Lục Ôn Thiên Dịch Sách
+- **瀛洲岛** (location) -> Doanh Châu Đảo
+- **华国公立超凡学校** (organization) -> Trường Công lập Siêu phàm Hoa Quốc
+- **神主** (title) -> Thần Chủ
+- **开慧妖族** (organization) -> Yêu tộc khai tuệ
+- **龙脉军团** (organization) -> Long Mạch quân đoàn
+- **驻世半神** (title) -> Bán thần trú thế
+- **人造圣贤** (title) -> Thánh hiền nhân tạo
+- **百家圣人** (title) -> Thánh nhân bách gia
+- **地震局** (organization) -> Cục Địa chấn
+- **世界之树** (artifact) -> Thế Giới Thụ
+- **地脉** (concept) -> địa mạch
+- **地核** (concept) -> địa hạch
+- **星核** (concept) -> tinh hạch
+- **太阳系** (place) -> Hệ Mặt Trời
+- **木星** (place) -> Mộc Tinh
+- **土星** (place) -> Thổ Tinh
+- **太阳星** (place) -> Thái Dương Tinh

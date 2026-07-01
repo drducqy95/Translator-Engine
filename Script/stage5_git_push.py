@@ -23,6 +23,19 @@ def _git_reset_paths(cwd: Path, paths: list[str]) -> None:
         subprocess.run(["git", "reset", "--", path], cwd=cwd, check=False, capture_output=True)
 
 
+def _collect_output_files(out_dir: Path) -> list[str]:
+    files = []
+    for path in sorted(out_dir.rglob("*")):
+        if not path.is_file():
+            continue
+        if "Intermediate" in path.parts:
+            continue
+        if path.name == ".git":
+            continue
+        files.append(path.as_posix())
+    return files
+
+
 def _rel_to_git_root(git_root: Path, path: Path) -> str:
     try:
         return path.resolve().relative_to(git_root.resolve()).as_posix()
@@ -67,7 +80,8 @@ def run(out_dir: Path, chapter_filename: str):
         subprocess.run(["git", "config", "user.email", "translator-engine-bot@localhost"], cwd=git_root, check=False)
         _refresh_final_output_indexes(git_root)
         out_dir = Path(out_dir)
-        tracked = [_rel_to_git_root(git_root, out_dir), _rel_to_git_root(git_root, git_root / "Final_Output_ASCII")]
+        tracked = _collect_output_files(out_dir)
+        tracked.append(_rel_to_git_root(git_root, git_root / "Final_Output_ASCII"))
         _git_add_force(git_root, tracked)
         _git_reset_paths(git_root, [_rel_to_git_root(git_root, out_dir / "Intermediate")])
         subprocess.run(["git", "add", "."], cwd=git_root, check=True)

@@ -1,0 +1,39 @@
+# Chương 0003 Khai thiên tích địa, tiểu thế giới
+
+"Trí não, tính toán xem ta còn bao nhiêu thần lực." Triệu Kì nắm bảo châu trong tay, ánh mắt lóe lên thần quang, không biết đang suy tính điều gì. "Chủ nhân, thần lực của ngài hiện chỉ còn lại 3.611 điểm." "Ra là vậy sao."
+
+Triệu Kì khép hờ hai mắt, tâm thần trong chớp mắt đã tiến vào bên trong bảo châu. Làn sương mù xám xịt lượn lờ quanh hắn, theo tâm ý mà huyễn hóa ra vô số sinh vật và cảnh tượng, tùy thời có thể phun trào ra ngoài, hóa thành ảo ảnh mê hoặc địch nhân. Chỉ tiếc những ảo ảnh này chẳng có chút lực sát thương nào, bất cứ ai cũng có thể phớt lờ chúng.
+
+Trong 《Toàn Dân Đại Xuyên Việt》, nhân vật chính vốn phải dựa vào việc lắp đặt một hệ thống năng lượng để thu thập và chuyển hóa năng lượng cần thiết cho việc tế luyện, bắt đầu từ một vòng tuần hoàn tốt, sau đó dùng công phu mài giũa, dựa vào mấy trăm tỷ người Trái Đất trong gần ba trăm năm mới khiến nó trở thành thần khí Chí Cao trấn áp Vạn Giới. Triệu Kì thì không cần làm vậy, bởi hệ thống năng lượng nào có thể sánh bằng hơi thở của một thế giới? Hơn nữa, hắn đâu chỉ định mở ra một thế giới bên trong đó, giấc mộng của hắn là biến nó thành một đa nguyên vũ trụ thực thụ!
+
+Triệu Kì nhìn làn sương xám trước mặt, giơ tay chỉ một cái, 3 điểm thần lực sáng tạo hóa thành một đạo thần quang thất thải bay ra. Theo một tiếng nổ lớn, làn sương mù lập tức trở nên hỗn loạn! Sương mù cuồn cuộn không ngớt, hình thành hàng chục vòng xoáy thất thải lớn nhỏ, cái nhỏ chỉ bằng bàn tay, cái lớn lại tựa như tinh tú. Mọi thứ lưu chuyển không ngừng, các vòng xoáy ma sát va chạm vào nhau, âm thanh vang dội, đây chính là thế khai thiên tích địa!
+
+Chỉ thấy các vòng xoáy càng lúc càng dữ dội, sôi trào va chạm, cảnh tượng ấy ngôn từ khó lòng miêu tả được một phần vạn, sự vĩ đại của nó gần như chạm đến Đạo! Cảnh tượng này chỉ mình Triệu Kì nhìn thấy, nếu là người khác, e rằng đã sớm quỳ rạp xuống đất, tán tụng thần ân như biển, thần uy tựa ngục!
+
+Triệu Kì thấy sương mù bị thần quang sáng tạo đánh tan, các vòng xoáy dần bắt đầu tán loạn rồi dung hợp, hắn điểm nhẹ tay, một hạt giống hư ảo lao thẳng vào trong vòng xoáy. Tựa như giọt nước rơi vào chảo dầu nóng, các vòng xoáy phồng lên từng đợt bọt khí. Bọt khí liên hoàn nổ tung trong vòng xoáy, vô số dòng chảy hư ảo không ngừng giao thoa, bện chặt trong không gian.
+
+Dần dần, một thế giới mơ hồ hiện ra trong mắt Triệu Kì. Không biết đã qua bao lâu, đại địa dần trở nên rõ nét, dày đặc và ngưng kết, từ hư ảo chuyển thành thực chất, rồi diễn hóa ra sông núi. Trên bầu trời, các dòng chảy giao thoa, tạo nên những điểm tinh tú, nhật nguyệt, tỏa ra ánh sáng. Một tiểu thế giới đã chính thức thành hình!
+
+Khi thế giới thành hình, Triệu Kì cảm thấy cơ thể mình bỗng trở nên sung mãn, như thể trước kia hắn chỉ là tòa Sa Bảo trên bãi cát, sóng biển vỗ nhẹ là tan. Còn bây giờ, hắn như đã có căn cơ, không còn là hư ảo nữa. "Chủ nhân, chúc mừng ngài sáng thế thành công. Ngài nhận được 30 điểm thần lực." Tiếng Trí não vang vọng khắp bên trong bảo châu. "Thần lực được sinh ra từ đâu, ngươi có tìm được không?" Triệu Kì nhìn thế giới mênh mông trước mắt hỏi. "Xin lỗi chủ nhân, thần lực là tự nhiên sinh ra từ hư không. Do tài liệu truyền thừa không đầy đủ, hiện tại không thể tìm ra nguồn gốc của nó." "Ồ, vậy thôi bỏ đi, dù sao sau này ta sẽ không ngừng mở ra thế giới, rồi sẽ biết nguồn gốc của thần lực thôi." Vì không tìm được, Triệu Kì cũng không truy cứu thêm.
+
+Nhìn thế giới trước mắt, Triệu Kì đưa tay kéo một cái trên người mình, một bóng hình tỏa ánh sáng thất thải bị kéo ra. Nhìn kỹ, bóng hình đó giống hệt Triệu Kì, diện mạo vô cùng rõ nét, chỉ là thần thái cứng nhắc như một con rối!
+
+Triệu Kì nói với bóng hình đó: "Chuyện sau này giao cho ngươi, biết phải làm gì rồi chứ?" "Đó là tự nhiên, công việc khai thiên đã xong, việc của ta đương nhiên là vận hành thế giới này." Bóng hình đó nói từng chữ một, nghe vô cùng gượng gạo.
+
+Triệu Kì xua tay: "Cũng đừng quá liều mạng, dù sao đó là nghề của Hồng Quân đạo nhân, ngươi bây giờ chưa chắc đã chơi nổi đâu. Đợi thêm thời gian nữa, khi ta xử lý xong mọi việc trong tay, chúng ta sẽ làm một mẻ lớn. Đến lúc đó ngươi muốn làm gì thì làm, không ai cản được ngươi nữa, ha ha ha..."
+
+"Ngươi và ta vốn là một thể, ngươi biết gì thì ta cũng biết, cần gì phải nói lời vô nghĩa!" Bóng hình vừa nói vừa dần nhạt đi, như hòa làm một với không gian. Triệu Kì thấy vậy cũng không lấy làm lạ, hắn hô lớn: "Tuy không bảo ngươi quá liều mạng, nhưng cũng phải để tâm một chút, ít nhất phải tạo ra bối cảnh cho thế giới này, đừng để người ta nhìn vào là biết giả ngay!" "Đã rõ." Dư âm còn đó, nhưng bóng hình đã biến mất. "Thật là, không ngờ lại tạo ra một gã mặt lạnh, chẳng lẽ trong linh hồn ta còn ẩn giấu thuộc tính mặt lạnh sao?" Triệu Kì sờ mặt, nhớ ra điều gì đó, không khỏi rùng mình.
+
+Mở mắt ra lần nữa, Triệu Kì vẫn đang ngồi trên giường trong phòng thuê, bảo châu trong tay ánh sáng lưu chuyển, không còn vẻ xám xịt như trước. Triệu Kì cũng không quá để ý đến dáng vẻ hiện tại của bảo châu, đưa tay vuốt nhẹ, nó liền biến mất trong lòng bàn tay hắn.
+
+"Trí não, ta đã tốn bao nhiêu thời gian để mở ra thế giới giả tưởng?" "Tổng cộng mất 25 giờ 41 phút." "Tốn nhiều thời gian vậy sao?" Nghe câu trả lời, Triệu Kì không khỏi kinh ngạc, hắn rõ ràng cảm thấy không tốn bao nhiêu thời gian, không ngờ đã qua lâu như vậy. "Vâng, trong ký ức của vị thần văn học Địch Nại Nhĩ, thế giới tinh thần là thứ khó nắm bắt nhất, ngàn năm một chớp mắt, một chớp mắt ngàn năm đều có thể xảy ra." "Vậy sau này ta vào thế giới giả tưởng còn xảy ra chuyện như vậy không?" Triệu Kì hỏi. "Sẽ không nữa, vì chủ nhân đã mở ra thế giới bên trong, tương đương với việc đặt một tọa độ thời gian và không gian, thời gian trong thế giới đó đã bắt đầu đồng bộ với thế giới chân thật."
+
+Lúc này Triệu Kì mới sực nhớ đã qua 26 tiếng, nghĩa là hắn đã mất liên lạc với thế giới bên ngoài tròn một ngày! Triệu Kì cầm điện thoại lên, quả nhiên có hàng loạt cuộc gọi nhỡ và tin nhắn. Hắn lướt qua, phần lớn là từ công ty, còn vài cuộc từ nhà. "Xem ra phải tìm cách giải quyết vấn đề này, nếu không sau này ta bế quan mười mấy hai mươi ngày mà không liên lạc được, người nhà chắc phát điên mất."
+
+Triệu Kì vừa nghĩ vừa gọi về nhà: "Alo, cha, là con đây." Đầu dây bên kia truyền đến giọng nam trung niên trầm ổn: "Ta biết là con, sao hôm qua gọi bao nhiêu cuộc con không nghe, nhắn tin cũng không trả lời, con làm cái gì vậy? Có chuyện gì xảy ra à? Có cần chúng ta qua xem không?"
+
+"Đừng ạ, cha, cha đừng tự dọa mình, hôm qua điện thoại con bị hỏng, vừa mới sửa xong, đây không phải con đang gọi lại cho cha đây sao." Dù sao những chuyện xảy ra với hắn quá huyền ảo, nếu nói cho hai ông bà, Triệu Kì có thể tưởng tượng ra cảnh họ sẽ đặt sẵn một giường trong bệnh viện tâm thần cho hắn. Thế nên Triệu Kì tùy tiện tìm lý do lừa cha mình qua chuyện.
+
+"Tiếp theo là chuyện công việc." Triệu Kì trực tiếp gọi cho chủ nhiệm công ty. "Triệu Kì!!! Ngươi còn biết gọi điện thoại à!!! Ngươi có biết hôm qua ta gọi cho ngươi bao nhiêu cuộc không!! Bây giờ ngươi lập tức đến công ty ngay cho ta, nghe rõ chưa!!!" Nghe tiếng gầm gừ phẫn nộ của chủ nhiệm trong điện thoại, Triệu Kì cười: "Alo, chủ nhiệm, hôm nay con gọi điện là muốn nói với ngài, con xin nghỉ việc, không làm nữa." "Cái gì??!!" "Alo, chủ nhiệm, tiền lương tháng này ngài cứ tùy ý xử lý, có hay không cũng không quan trọng. Vậy con cúp máy đây, tạm biệt." Triệu Kì tiện tay cúp điện thoại.
+
+Thật là đùa giỡn, giờ đây chỉ cần Triệu Kì muốn, bất cứ lúc nào hắn cũng có thể tụ tập được lượng tiền khổng lồ, dù là dùng Trí não gian lận hay trực tiếp sáng tạo ra, thực sự là muốn gì có đó. Cần gì phải làm việc dưới trướng người khác, chịu sự tức giận của kẻ khác? "Thật muốn trực tiếp mua lại công ty đó, rồi xem sắc mặt của đám người kia, nghĩ thôi đã thấy mong chờ." Triệu Kì thầm nghĩ trong lòng.

@@ -1,0 +1,242 @@
+# Character Dictionary
+
+- **茅场晶彦** -> Kayaba Akihiko
+- **赵奇** -> Triệu Kì
+- **迪奈尔** -> Địch Nại Nhĩ
+- **鸿钧道人** -> Hồng Quân đạo nhân
+- **印月** -> Địch Nại Nhĩ
+- **主神** -> Chủ thần
+- **Deneir** -> Deneir
+- **塔烙斯** -> Tháp Lạc Tư
+- **阿尔丰斯** -> Alphonse
+- **泰勒** -> Taylor
+- **武僧之王** -> Vua Võ Tăng
+- **王麻子** -> Vương Ma Tử
+- **亚伯拉罕，厄斯金** -> Abraham Erskine
+- **舔食者** -> Licker
+- **暴君** -> bạo quân
+- **创造神** -> Sáng Tạo Thần
+- **慈祥道人** -> Từ Tường Đạo Nhân
+- **咸鱼翻** -> Hàm Ngư Phiên
+- **狼牙** -> Lang Nha
+- **约翰** -> John
+- **汤姆** -> Tom
+- **葛丹** -> Cát Đan
+- **赵爸** -> Ba Triệu
+- **赵妈** -> Mẹ Triệu
+- **培罗** -> Bồi La
+- **王麻子** -> Vương Ma Tử
+- **奇拉** -> Kì Lạp
+- **卡尔** -> Karl
+- **狼牙** -> Răng Sói
+- **常舒** -> Thường Thư
+- **诚子** -> Thành tử
+- **大地与自然之神** -> Thần Đại Địa Và Tự Nhiên
+- **太阳与光明之神** -> Thần Thái Dương Và Quang Minh
+- **光明神** -> Quang Minh Thần
+- **上帝** -> Thượng Đế
+- **亡灵巫师** -> pháp sư vong linh
+- **表姐** -> Biểu tỷ
+- **小女生** -> Tiểu nữ sinh
+- **主尊** -> Chủ tôn
+- **犬夜叉** -> Inuyasha
+- **上帝** -> Thượng Đế
+- **摩西** -> Ma Tây
+- **奥丁** -> Áo Đinh
+- **玲珑妖** -> Yêu quái Linh Lung
+- **洪老魔** -> Hồng Lão Ma
+- **党起志** -> Đảng Khởi Chí
+- **党胖子** -> Đảng Bàn Tử
+- **约翰牛** -> John Bull
+- **贞德** -> Trinh Đức
+- **德古拉伯爵** -> Bá tước Dracula
+- **杀生丸** -> Sesshomaru
+- **树姥姥** -> Cây Mỗ Mỗ
+- **枉死城** -> Uổng Tử Thành
+- **圆光术** -> Viên Quang Thuật
+- **草头神** -> Thảo Đầu Thần
+- **天帝** -> Thiên Đế
+- **人皇** -> Nhân Hoàng
+- **地尊** -> Địa Tôn
+- **邋遢道士** -> Đạo sĩ lôi thôi
+- **鬼王** -> Quỷ vương
+- **鹏举** -> Bằng Cử
+- **创造** -> Sáng Tạo
+- **五别天神** -> Ngũ Biệt Thiên Thần
+- **拉** -> Ra
+- **明神** -> Minh Thần
+- **光明与太阳神** -> Quang Minh và Thần Mặt Trời
+- **凯瑟** -> Khải Sắt
+- **凯瑟** -> Khải Sắt
+- **姬诚** -> Cơ Thành
+- **张仪** -> Trương Nghi
+- **安德鲁** -> An Đức Lỗ
+- **陈朝露** -> Trần Triều Lộ
+- **大力王菩萨** -> Đại Lực Vương Bồ Tát
+- **党施主** -> Đảng thí chủ
+- **期尔修** -> Kỳ Nhĩ Tu
+- **美琪丝** -> Mỹ Kỳ Ti
+- **阿撒托斯** -> A Tát Thác Tư
+- **琼斯** -> Jones
+- **甄康** -> Chân Khang
+- **党起志** -> Đảng Khởi Chí
+- **小瑶** -> Tiểu Dao
+- **血海使者** -> Sứ giả Huyết Hải
+- **九天应元雷声普化天君** -> Cửu Thiên Ứng Nguyên Lôi Thanh Phổ Hóa Thiên Quân
+- **Hạo Thiên** -> Hạo Thiên
+- **Thái Bạch** -> Thái Bạch
+- **落叶** -> Lạc Diệp
+- **祸** -> Tề Họa
+- **王浩** -> Vương Hạo
+- **袁冰** -> Viên Băng
+- **甄康** -> Chân Khang
+- **姜维凌** -> Khương Duy Lăng
+- **古远** -> Cổ Viễn
+- **张齐** -> Trương Tề
+- **张也** -> Trương Dã
+- **紫极混元** -> Tử Cực Hỗn Nguyên
+- **追风** -> Truy Phong
+- **无梦** -> Vô Mộng
+- **往事如烟** -> Vãng Sự Như Yên
+- **普翔真人** -> Phổ Tường chân nhân
+- **商纣王** -> Thương Trụ vương
+- **老人（神帝）** -> lão nhân thần bí
+- **塔洛斯** -> Talos
+- **灾难之神** -> Thần Tai Nạn
+- **塔洛斯** -> Talos
+- **金翅大鹏鸟** -> Kim Sí Đại Bàng Điểu
+- **天蜈** -> Thiên Ngô
+- **鹏魔王** -> Bằng Ma Vương
+- **七号** -> Số 7
+- **十一号** -> Số 11
+- **十号** -> Số 10
+- **九号** -> Số 9
+- **四号** -> Số 4
+- **达摩克利斯** -> Đạt Ma Khắc Lợi Tư
+- **无名道人** -> Vô Danh đạo nhân
+- **苍龙** -> Thương Long
+- **杰森** -> Kiệt Sâm
+- **莉莉** -> Lily
+- **安森斯** -> An Sâm Tư
+- **厄尔尼博士** -> Tiến sĩ Nhĩ
+- **凌夜** -> Lăng Dạ
+- **路远** -> Lộ Viễn
+- **那英俊** -> Na Anh Tuấn
+- **真言和尚** -> Chân Ngôn hòa thượng
+- **宇文化及** -> Vũ Văn Hóa Cập
+- **莰蒂丝** -> Khảm Đế Tư
+- **镇南王** -> Trấn Nam Vương
+- **释和尚** -> Hòa thượng Thích
+- **期尔修** -> Kỳ Nhĩ Tu
+- **赵奇** -> Triệu Kì
+- **米迦勒** -> Mễ Già Lặc
+- **诺顿** -> Nặc Đốn
+- **魔神** -> Ma thần
+- **大炽天使长** -> Đại xích thiên sứ trưởng
+- **弗朗西斯** -> Francis
+- **埃利斯** -> Ai Lợi Tư
+- **巴泽尔** -> Ba Trạch Nhĩ
+- **金姆** -> Kim Mỗ
+- **撒姆尔** -> Sa Môn
+- **奥狄斯** -> Áo Địch Tư
+- **天界副君** -> Thiên giới Phó quân
+- **黄老将军** -> Hoàng Tướng già
+- **虚无** -> Hư Vô
+- **至尊** -> Chí Tôn
+- **刘乔** -> Lưu Kiều
+- **丁盛** -> Đinh Thịnh
+- **半秃的那位** -> người hói nửa đầu
+- **老谷** -> lão Cốc
+- **老郝** -> lão Hách
+- **路将军** -> Lộ tướng quân
+- **垕青璃** -> Hậu Thanh Ly
+- **西奥多** -> Tây Áo Đa
+- **雅安上帝** -> Gia-vê Thượng Đế
+- **修尔斯** -> Tu Nhĩ Tư
+- **伊莉斯** -> Y Lỵ Ti
+- **朴老道** -> Lão đạo Phác
+- **朴老道士** -> Lão đạo sĩ Phác
+- **咬金** -> Dược Kim
+- **叔宝** -> Thúc Bảo
+- **朴衍真** -> Phác Diễn Chân
+- **老宋** -> Lão Tống
+- **小小宋** -> Tiểu Tiểu Tống
+- **天国副君** -> Thiên Đường Phó Quân
+- **造物主** -> Tạo Vật Chủ
+- **罗叶** -> La Dã
+- **鸟羽** -> Toba
+- **玉藻前** -> Ngọc Tảo Tiền
+- **纪千** -> Kỉ Thiên
+- **炎之加具士** -> Viêm Chi Gia Cụ Sĩ
+- **稻荷神** -> Inari
+- **玛尔斯** -> Mars
+- **由佳** -> Do Gia
+- **老路** -> Lão Lộ
+- **千耐** -> Thiên Nại
+- **山王如来** -> Sơn Vương Như Lai
+- **福莱里** -> Phúc Lai Lý
+- **大威天龙菩萨** -> Đại Uy Thiên Long Bồ Tát
+- **黄将军** -> Hoàng tướng quân
+- **无限官网管理员** -> Quản lý trang web chính thức của Trò Chơi Vô Hạn
+- **帝摩斯** -> Morse
+- **慈恩罗汉** -> Từ Ân La Hán
+- **离武帝** -> Ly Vũ Đế
+- **太白白帝** -> Thái Bạch Bạch Đế
+- **李炜** -> Lý Vĩ
+- **郑立** -> Trịnh Lập
+- **郑力** -> Trịnh Lực
+- **勾陈上帝** -> Câu Trần Thượng Đế
+- **邪魔** -> Tà Ma
+- **佛尊** -> Phật Tôn
+- **波旬** -> Ba-tuần
+- **五佛陀** -> năm Phật Đà
+- **大菩萨** -> Đại Bồ Tát
+- **大罗汉** -> Đại La Hán
+- **飞天** -> Phi Thiên
+- **神女** -> Thần Nữ
+- **佛祖** -> Phật Tổ
+- **高秀** -> Cao Tú
+- **白骨帝皇** -> Bạch Cốt Đế Hoàng
+- **沙竭罗龙王** -> Sa Kiệt La Long Vương
+- **骨夕** -> Cốt Tịch
+- **魔骨** -> Ma Cốt
+- **沙褐罗** -> Cát Hạt La
+- **十地尊者** -> Thập Địa Tôn Giả
+- **苍天** -> Trời Xanh
+- **气魔** -> Khí Ma
+- **疫魔** -> Dịch Ma
+- **人魔** -> Nhân Ma
+- **大天魔** -> Đại Thiên Ma
+- **白袍男子** -> bạch bào nam tử
+- **大天尊** -> Đại Thiên Tôn
+- **无上邪魔** -> Vô Thượng Tà Ma
+- **亚迪波罗** -> Á Địch Ba La
+- **芬里厄特** -> Phân Lý Ngột Đặc
+- **白云** -> Bạch Vân
+- **吞天魔狼** -> Thôn Thiên Ma Lang
+- **祖魔** -> Tổ ma
+- **妙相天女** -> Diệu Tướng Thiên nữ
+- **骨尊** -> Cốt Tôn
+- **仓冥鬼帝** -> Thương Minh Quỷ Đế
+- **鬼弃** -> Quỷ Khí
+- **冥魔鬼泣** -> Minh Ma Quỷ Khấp
+- **乾达婆** -> Gandharva
+- **紧那罗** -> Kinnara
+- **天魔苍天** -> Thiên Ma Trời Xanh
+- **山王世尊** -> Sơn Vương Thế Tôn
+- **伊凡胩** -> Ivan
+- **艾伯特** -> Ngải Bá Đặc
+- **帝摩斯.比其尔** -> Morse Bỉ Kỳ Nhĩ
+- **恒一** -> Hằng Nhất
+- **古衡元** -> Cổ Hành
+- **恒鲁** -> Hằng Lỗ
+- **齐祸** -> Tề Họa
+- **释和尚** -> Hòa thượng Thích
+- **大黑天嗔怒明王** -> Đại Hắc Thiên Sân Nộ Minh Vương
+- **裴正阳** -> Bùi Chính Dương
+- **白袍青年** -> Thanh niên áo trắng
+- **自由女神** -> Nữ thần Tự do
+- **美利坚那位总统** -> Tổng thống Mỹ Lợi Kiên
+- **烙腮胡子** -> râu mép
+- **老方** -> Lão Phương
+- **首长** -> Thủ trưởng

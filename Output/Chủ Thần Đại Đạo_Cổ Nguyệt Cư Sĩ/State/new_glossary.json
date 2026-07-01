@@ -1,0 +1,2794 @@
+[
+  {
+    "raw": "量子智能副脑",
+    "target": "Lượng tử trí năng phó não",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "technology"
+  },
+  {
+    "raw": "Metatext",
+    "target": "Cuốn sách cuối cùng",
+    "type": "item",
+    "origin": "english",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "theseed",
+    "target": "theseed",
+    "type": "item",
+    "origin": "fictional",
+    "name_type": "object"
+  },
+  {
+    "raw": "智脑",
+    "target": "Trí não",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "吟游诗人",
+    "target": "thi nhân lang thang",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "job"
+  },
+  {
+    "raw": "圣武士",
+    "target": "thánh võ sĩ",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "job"
+  },
+  {
+    "raw": "术士",
+    "target": "thuật sĩ",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "job"
+  },
+  {
+    "raw": "祭司长",
+    "target": "tế ti trưởng",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "job"
+  },
+  {
+    "raw": "刺客",
+    "target": "thích khách",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "job"
+  },
+  {
+    "raw": "射手",
+    "target": "xạ thủ",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "job"
+  },
+  {
+    "raw": "学者",
+    "target": "học giả",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "job"
+  },
+  {
+    "raw": "镜像副本",
+    "target": "phó bản không gian gương",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "中二期",
+    "target": "hội chứng chuuni",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "大终结",
+    "target": "Đại Chung Kết",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "magic"
+  },
+  {
+    "raw": "混沌",
+    "target": "Hỗn Độn",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "magic"
+  },
+  {
+    "raw": "牛魔大力拳",
+    "target": "Ngưu Ma Đại Lực Quyền",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "幕后黑手",
+    "target": "kẻ đứng sau màn",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "炼假成真",
+    "target": "luyện giả thành thật",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "漫威",
+    "target": "Marvel",
+    "type": "glossary",
+    "origin": "english",
+    "name_type": "other"
+  },
+  {
+    "raw": "大力牛魔拳",
+    "target": "Ngưu Ma Quyền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "生化危机",
+    "target": "Khủng hoảng sinh hóa",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "魔兽世界",
+    "target": "thế giới Warcraft",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "十字军东征",
+    "target": "Thập Tự Quân Đông Chinh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "生化危机",
+    "target": "Sinh Hóa Nguy Cơ",
+    "type": "world",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "月色的杀戮者",
+    "target": "Kẻ Sát Lục Ánh Trăng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "舔食者",
+    "target": "Licker",
+    "type": "creature",
+    "origin": "game",
+    "name_type": "monster"
+  },
+  {
+    "raw": "金刚印",
+    "target": "Kim Cương Ấn",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "保护伞公司",
+    "target": "công ty Umbrella",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "生化危机",
+    "target": "Sinh Hóa Nguy Cơ",
+    "type": "misc",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "始祖病毒",
+    "target": "virus Thủy Tổ",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "C病毒",
+    "target": "virus C",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "G病毒",
+    "target": "virus G",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "T病毒",
+    "target": "virus T",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "主板",
+    "target": "mainboard",
+    "type": "object",
+    "origin": "english",
+    "name_type": "item"
+  },
+  {
+    "raw": "网监",
+    "target": "Cảnh sát mạng",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "生化危机",
+    "target": "Resident Evil",
+    "type": "glossary",
+    "origin": "others",
+    "name_type": "title"
+  },
+  {
+    "raw": "中情局",
+    "target": "Trung Tình Cục",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "克林姆林宫",
+    "target": "Điện Kremlin",
+    "type": "place",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "英国",
+    "target": "Vương quốc Anh",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "country"
+  },
+  {
+    "raw": "伦敦",
+    "target": "London",
+    "type": "place",
+    "origin": "latin",
+    "name_type": "city"
+  },
+  {
+    "raw": "巴黎",
+    "target": "Paris",
+    "type": "place",
+    "origin": "latin",
+    "name_type": "city"
+  },
+  {
+    "raw": "柏林",
+    "target": "Berlin",
+    "type": "place",
+    "origin": "latin",
+    "name_type": "city"
+  },
+  {
+    "raw": "阳神世界",
+    "target": "Thế giới Dương Thần",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "world"
+  },
+  {
+    "raw": "天子世界",
+    "target": "Thế giới Thiên Tử",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "world"
+  },
+  {
+    "raw": "神兵世界",
+    "target": "Thế giới Thần Binh",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "world"
+  },
+  {
+    "raw": "武神世界",
+    "target": "Thế giới Võ Thần",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "world"
+  },
+  {
+    "raw": "龙珠世界",
+    "target": "Thế giới Long Châu",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "world"
+  },
+  {
+    "raw": "一世世界",
+    "target": "Thế giới Nhất Thế",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "world"
+  },
+  {
+    "raw": "太素白鱼",
+    "target": "Thái Tố Bạch Ngư",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "七彩玲珑妖",
+    "target": "Thất Thải Linh Lung Yêu",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "诸神世界",
+    "target": "thế giới Chư Thần",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "副本世界",
+    "target": "thế giới phó bản",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "阿宝其卡尔城",
+    "target": "Thành A Bảo Kỳ Ca Nhĩ",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "盛世皇朝",
+    "target": "Thịnh Thế Hoàng Triều",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "幽冥之地",
+    "target": "U Ám Chi Địa",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "白银之手",
+    "target": "Bạch Ngân Chi Thủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "千城",
+    "target": "Thiên Thành",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "神币",
+    "target": "Thần tệ",
+    "type": "currency",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "毁灭主神",
+    "target": "Chủ Thần Hủy Diệt",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "冥界",
+    "target": "Minh Giới",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "幽冥通道",
+    "target": "U Minh Thông Đạo",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "太阳神殿",
+    "target": "Đền Thờ Thần Mặt Trời",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "永恒骄阳",
+    "target": "Vĩnh Hằng Kiêu Dương",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "艾奇",
+    "target": "Ngải Kì",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "魔法议会",
+    "target": "Ma pháp Nghị hội",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "精灵族",
+    "target": "Tinh Linh tộc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "羽族",
+    "target": "Vũ tộc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "初旭",
+    "target": "Sơ Húc",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "比丘印",
+    "target": "Tì Khưu Ấn",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "菩萨印",
+    "target": "Bồ Tát Ấn",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "骑士의祝福",
+    "target": "Kỵ Sĩ Chúc Phúc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "阳神",
+    "target": "Dương Thần",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "work"
+  },
+  {
+    "raw": "现在如来经",
+    "target": "Hiện Tại Như Lai Kinh",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "查水表",
+    "target": "bị sờ gáy",
+    "type": "slang",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "国安",
+    "target": "Quốc An",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "打酱油",
+    "target": "cổ vũ / làm nền",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "扑街",
+    "target": "ngỏm củ tỏi / bại trận",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "玲珑妖",
+    "target": "Yêu quái Linh Lung",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "玄黄塔",
+    "target": "Tháp Huyền Hoàng",
+    "type": "structure",
+    "origin": "chinese",
+    "name_type": "structure"
+  },
+  {
+    "raw": "神祗",
+    "target": "thần linh",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "神符",
+    "target": "thần phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "太阳神符",
+    "target": "Bùa Thần Mặt Trời",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "奇物",
+    "target": "kỳ vật",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "光明与太阳神殿",
+    "target": "Điện Thờ Ánh Sáng và Thần Mặt Trời",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "神币",
+    "target": "Thần Tệ",
+    "type": "currency",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "亡灵",
+    "target": "vong linh",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "六丁六甲符",
+    "target": "Bùa Lục Đinh Lục Giáp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "僵尸先生",
+    "target": "Tiên Sinh Cương Thi",
+    "type": "work",
+    "origin": "chinese",
+    "name_type": "work"
+  },
+  {
+    "raw": "不死生物",
+    "target": "sinh vật bất tử",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "黑暗天幕",
+    "target": "Màn Đêm Tối",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "斯吟声",
+    "target": "Tư Ngâm Thanh",
+    "type": "sound",
+    "origin": "chinese",
+    "name_type": "sound"
+  },
+  {
+    "raw": "阳刚气血",
+    "target": "khí huyết dương cương",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "长江",
+    "target": "Trường Giang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "白骨箭",
+    "target": "Mũi Tên Xương Trắng",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "亡灵魔法",
+    "target": "Ma Pháp Vong Linh",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "魔力",
+    "target": "ma lực",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "魔宠",
+    "target": "thú cưng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "七彩光芒",
+    "target": "ánh sáng thất thải",
+    "type": "visual_effect",
+    "origin": "chinese",
+    "name_type": "visual_effect"
+  },
+  {
+    "raw": "氤氲弥漫的玄黄二气",
+    "target": "khí huyền hoàng mờ ảo",
+    "type": "visual_effect",
+    "origin": "chinese",
+    "name_type": "visual_effect"
+  },
+  {
+    "raw": "命运长河",
+    "target": "Trường Hà Mệnh Vận",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "创造神力",
+    "target": "Sáng Tạo Thần Lực",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "主世界",
+    "target": "chủ thế giới",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "幽冥入侵",
+    "target": "U Minh xâm lấn",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "神学家",
+    "target": "nhà thần học",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": ""
+  },
+  {
+    "raw": "本尊",
+    "target": "bản tôn",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "传奇阶",
+    "target": "giai Truyền Kỳ",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "百年战争",
+    "target": "Bách Niên Chiến Tranh",
+    "type": "work_title",
+    "origin": "french",
+    "name_type": "work_title"
+  },
+  {
+    "raw": "惊情五百年",
+    "target": "Kinh Tình Ngũ Bách Niên",
+    "type": "work_title",
+    "origin": "english",
+    "name_type": "work_title"
+  },
+  {
+    "raw": "守夜人",
+    "target": "Người Gác Đêm",
+    "type": "work_title",
+    "origin": "russian",
+    "name_type": "work_title"
+  },
+  {
+    "raw": "天之琼矛",
+    "target": "Thiên Chi Quỳnh Mâu",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "约柜",
+    "target": "Ước Quỹ",
+    "type": "artifact",
+    "origin": "jewish",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "天地玄黄玲珑宝塔",
+    "target": "Tháp Huyền Hoàng Linh Lung",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "彼岸金桥",
+    "target": "Cầu Vàng Bỉ Ngạn",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "国安局",
+    "target": "Cục Quốc An",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "青玉米",
+    "target": "Thanh Ngọc Mễ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "雷击水",
+    "target": "nước sét đánh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "石中火",
+    "target": "thạch trung hỏa",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "核子炉",
+    "target": "lò hạt nhân",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "百米冰岩",
+    "target": "băng nham trăm mét",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "九章法服",
+    "target": "cửu chương pháp phục",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "十二行珠冠冕旒",
+    "target": "mũ miện mười hai hàng châu ngọc",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "雷部真赦太域金德诏书",
+    "target": "Lôi Bộ Chân Xá Thái Vực Kim Đức Chiếu Thư",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "三轮圣转报应诀",
+    "target": "Tam Luân Thánh Chuyển Báo Ứng Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "虚空造梦术",
+    "target": "Hư Không Tạo Mộng Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "无念轮回观想法",
+    "target": "Vô Niệm Luân Hồi Quan Tưởng Pháp",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "九品渡世术",
+    "target": "Cửu Phẩm Độ Thế Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "虚无点化诀",
+    "target": "Hư Vô Điểm Hóa Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "世界轮回大术",
+    "target": "Thế Giới Luân Hồi Đại Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "国师",
+    "target": "quốc sư",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "飞天蜈蚣",
+    "target": "phi thiên Ngộ Công",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "mythical"
+  },
+  {
+    "raw": "内景真雷",
+    "target": "nội cảnh chân lôi",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "五色华盖",
+    "target": "ngũ sắc hoa cái",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "食人魔狼",
+    "target": "Thực Nhân Ma Lang",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "monster"
+  },
+  {
+    "raw": "无阶",
+    "target": "vô giai",
+    "type": "level",
+    "origin": "chinese",
+    "name_type": "rank"
+  },
+  {
+    "raw": "咸鱼",
+    "target": "cá ướp muối",
+    "type": "slang",
+    "origin": "chinese",
+    "name_type": "metaphor"
+  },
+  {
+    "raw": "黑白玉笔",
+    "target": "Ngọc bút đen trắng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "铀子核爆拳",
+    "target": "Uranium Hạt Nhân Bạo quyền",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "general"
+  },
+  {
+    "raw": "海虎爆破拳",
+    "target": "Hải Hổ Bạo Phá quyền",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "general"
+  },
+  {
+    "raw": "天地霸拳",
+    "target": "Thiên Địa Bá quyền",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "general"
+  },
+  {
+    "raw": "金翅大鹏",
+    "target": "Kim Sí Đại Bàng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "mythical_creature"
+  },
+  {
+    "raw": "聚神钟",
+    "target": "Tụ Thần Chung",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "斗部神剑",
+    "target": "Đấu Bộ Thần Kiếm",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "司命宫",
+    "target": "Tư Mệnh Cung",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "天蜈妖庭",
+    "target": "Thiên Ngô Yêu Đình",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "org"
+  },
+  {
+    "raw": "雕塑",
+    "target": "tượng thần",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "无限官网",
+    "target": "trang web chính thức của Trò Chơi Vô Hạn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "虚无深处",
+    "target": "sâu trong hư vô",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "神道符诏",
+    "target": "phù chiếu thần đạo",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "无尽罪孽之地",
+    "target": "Vùng Đất Tội Nghiệt Vô Tận",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "那六位",
+    "target": "sáu vị kia (ám chỉ sáu vị thần sáng thế)",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "大威天龙菩萨金身",
+    "target": "Đại Uy Thiên Long Bồ Tát Kim Thân",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "九识六神通",
+    "target": "Cửu Thức Lục Thần Thông",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "中本教",
+    "target": "Trung Bổn Giáo",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "纽约",
+    "target": "New York",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "美利坚",
+    "target": "Mỹ Lợi Kiên",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "哈利路亚",
+    "target": "Ha-lê-lu-gia",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "内虚黄芽丹",
+    "target": "Nội Hư Hoàng Nha Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "图卷",
+    "target": "cuộn tranh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "精气神",
+    "target": "tinh khí thần",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "莱斯莱斯",
+    "target": "Rolls-Royce",
+    "type": "item",
+    "origin": "english",
+    "name_type": "brand"
+  },
+  {
+    "raw": "变天击地大_法",
+    "target": "Biến Thiên Kích Địa Đại Pháp",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "特勤九组",
+    "target": "Tổ Đặc Cần Số 9",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "浮空巨城",
+    "target": "Phù Không Cự Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "魔法学院",
+    "target": "Học Viện Ma Pháp",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "异域来客",
+    "target": "Khách Dị Vực",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "元素泯灭者",
+    "target": "Kẻ Hủy Diệt Nguyên Tố",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "大气之王",
+    "target": "Vua Khí Quyển",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "辉煌法师",
+    "target": "Huy Hoàng Pháp Sư",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "时空观测者",
+    "target": "Kẻ Quan Trắc Thời Không",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "冰雪女巫",
+    "target": "Băng Tuyết Nữ Vu",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "雷电王座",
+    "target": "Lôi Điện Vương Tọa",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "万法之地",
+    "target": "Vạn Pháp Chi Địa",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "预言法师",
+    "target": "Pháp Sư Tiên Đoán",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "class"
+  },
+  {
+    "raw": "血腥使者",
+    "target": "Huyết Tinh Sứ Giả",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "西方七宿",
+    "target": "Tây Phương Thất Tú",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "五爪炎龙",
+    "target": "Ngũ Trảo Viêm Long",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "三大伟大神力",
+    "target": "ba vị vĩ đại thần lực",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "三恒四象二十八星宿三百六十五各色星斗",
+    "target": "tam hành tứ tượng nhị thập bát tú tam bách lục thập ngũ các loại tinh đẩu",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "灾劫白帝",
+    "target": "Bạch Đế Tai Kiếp",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "菩萨蛮",
+    "target": "Bồ Tát Man",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "炎祸焚宇",
+    "target": "Viêm Họa Phần Vũ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "动须弥",
+    "target": "Động Sumeru",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "妖祸撼穹",
+    "target": "Yêu Họa Hám Khung",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "三界",
+    "target": "Tam giới",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "至恶世界",
+    "target": "thế giới chí ác",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "主角模板",
+    "target": "mô bản nhân vật chính",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "木鞭",
+    "target": "roi gỗ",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "幽冥",
+    "target": "U Minh",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "天灾冕冠",
+    "target": "vương miện Thiên Tai",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "雷霆权杖",
+    "target": "Lôi Đình Quyền Bính",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "神灵法阵",
+    "target": "thần linh pháp trận",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "水晶神殿",
+    "target": "Thần điện pha lê",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "神袍",
+    "target": "thần bào",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "神座",
+    "target": "Thần tọa",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "幽冥世界",
+    "target": "U Minh thế giới",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "火焰世界",
+    "target": "thế giới lửa",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "神后",
+    "target": "Thần hậu",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "海洋与生命之神",
+    "target": "Thần Hải Dương và Sinh Mệnh",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "风暴与灾难之神",
+    "target": "Thần Bão Tố và Tai Nạn",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "大教宗",
+    "target": "Đại Giáo tông",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "暴风与灾难教会",
+    "target": "Giáo hội Bão Tố và Tai Nạn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "帝皇",
+    "target": "đế hoàng",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "花里胡骚",
+    "target": "trong hoa hồ tao",
+    "type": "idiom",
+    "origin": "chinese",
+    "name_type": "idiom"
+  },
+  {
+    "raw": "金龙",
+    "target": "kim long",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "超凡者",
+    "target": "siêu phàm giả",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "class"
+  },
+  {
+    "raw": "兵家",
+    "target": "Binh gia",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "卫星",
+    "target": "vệ tinh",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "金羽",
+    "target": "kim vũ",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "attribute"
+  },
+  {
+    "raw": "片羽",
+    "target": "phiến vũ",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "attribute"
+  },
+  {
+    "raw": "龙蛇",
+    "target": "rồng rắn",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "金翅鸟",
+    "target": "kim sí điểu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "亡帝",
+    "target": "Vong Đế",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "诸天轮回盘",
+    "target": "Chư Thiên Luân Hồi Bàn",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "原初混沌之源核",
+    "target": "Hạch tâm Hỗn Độn Nguyên sơ",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "不周",
+    "target": "Bất Chu",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "封神大战",
+    "target": "phong thần đại chiến",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "神帝",
+    "target": "Thần Đế",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "传奇巅峰",
+    "target": "truyền kỳ đỉnh phong",
+    "type": "level",
+    "origin": "chinese",
+    "name_type": "level"
+  },
+  {
+    "raw": "神音",
+    "target": "thần âm",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "炽天使",
+    "target": "xích thiên sứ",
+    "type": "entity",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "十戒",
+    "target": "Mười Điều Răn",
+    "type": "concept",
+    "origin": "christianity",
+    "name_type": "term"
+  },
+  {
+    "raw": "金鹏",
+    "target": "Kim Bằng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "战神神殿",
+    "target": "Chiến Thần Điện",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "邪帝舍利",
+    "target": "Tà Đế Xá Lợi",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "长生诀",
+    "target": "Trường Sinh Quyết",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "李阀",
+    "target": "Lý phiệt",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "剑心通明",
+    "target": "Kiếm Tâm Thông Minh",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "静念禅寺",
+    "target": "Tĩnh Niệm Thiền Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "邪神信徒",
+    "target": "tín đồ tà thần",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "general"
+  },
+  {
+    "raw": "龙象纹理",
+    "target": "long tượng văn",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "苍龙通天冠",
+    "target": "Thương Long Thông Thiên Quan",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "听",
+    "target": "Nghe",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "邪王",
+    "target": "Tà Vương",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "幽林小筑",
+    "target": "U Lâm Tiểu Trúc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "不死七幻",
+    "target": "Bất Tử Thất Huyễn",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "天启",
+    "target": "Thiên Khải",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "天堂圣炎",
+    "target": "Thánh viêm thiên đường",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "权杖",
+    "target": "Quyền Trượng",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "血海",
+    "target": "Huyết Hải",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "山海界",
+    "target": "Sơn Hải Giới",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "world"
+  },
+  {
+    "raw": "击天变地",
+    "target": "Kích Thiên Biến Địa",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "天鹏纵横法",
+    "target": "Thiên Bằng Tung Hoành Pháp",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "天罚之眼",
+    "target": "Thiên Phạt Chi Nhãn",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "血龙虚影",
+    "target": "huyết long hư ảnh",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "九层天堂圣山",
+    "target": "chín tầng thiên đường Thánh San",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "顿条钢铁骑士",
+    "target": "Đốn Cành Thiết Kỵ Sĩ",
+    "type": "group",
+    "origin": "chinese",
+    "name_type": "order"
+  },
+  {
+    "raw": "法兰西圣堂骑士",
+    "target": "Thánh Đường Kỵ Sĩ Pháp",
+    "type": "group",
+    "origin": "chinese",
+    "name_type": "order"
+  },
+  {
+    "raw": "天之尾羽张",
+    "target": "Thiên Chi Vĩ Vũ Trương",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "十握神剑",
+    "target": "Thập Ác Thần Kiếm",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "念动力",
+    "target": "niệm động lực",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "天神组",
+    "target": "Thiên Thần Tổ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "战警",
+    "target": "Chiến Cảnh",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "邪神",
+    "target": "Tà Thần",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "mythology"
+  },
+  {
+    "raw": "核弹洗地",
+    "target": "rửa sạch bằng bom hạt nhân",
+    "type": "phrase",
+    "origin": "chinese",
+    "name_type": "idiom"
+  },
+  {
+    "raw": "莱西",
+    "target": "Lai Tây",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "梵蒂冈",
+    "target": "Phạm Đế Cương",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "拟物替劫",
+    "target": "Mô Phỏng Vật Thay Cướp",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "cultivation_technique"
+  },
+  {
+    "raw": "龙运天柱",
+    "target": "Long Vận Thiên Trụ",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "突厥",
+    "target": "Đột Quyết",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "玄女诏书",
+    "target": "Huyền Nữ chiếu thư",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "九层天堂山",
+    "target": "núi Thiên Đường chín tầng",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "星辰巨网",
+    "target": "lưới lớn tinh thần",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "阴影之面",
+    "target": "mặt bóng tối",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "九章苍穹帝服",
+    "target": "Cửu Chương Thương Khung Đế Phục",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "十二行珠冠冕",
+    "target": "Thập Nhị Hành Châu Miện",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "阴影世界",
+    "target": "thế giới bóng tối",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "炼假成真",
+    "target": "luyện giả thành thật",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "气机",
+    "target": "khí cơ",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "灵脉",
+    "target": "linh mạch",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "神权",
+    "target": "thần quyền",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "吞星",
+    "target": "nuốt sao",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "降灵药",
+    "target": "Hàng Linh Dược",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "降灵丹",
+    "target": "Hàng Linh Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "六识养神散",
+    "target": "Lục Thức Dưỡng Thần Tán",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "蜜丸",
+    "target": "mật hoàn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "碧池",
+    "target": "Bitch",
+    "type": "common",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "封神战场",
+    "target": "Phong Thần chiến trường",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "入阶",
+    "target": "nhập giai",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "镜报社",
+    "target": "Kính Báo xã",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "unknown"
+  },
+  {
+    "raw": "圣堂武士",
+    "target": "Thánh Đường Võ Sĩ",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "unknown"
+  },
+  {
+    "raw": "顿条骑士",
+    "target": "Kỵ Sĩ Đốn Điều",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "unknown"
+  },
+  {
+    "raw": "十字军",
+    "target": "Thập Tự Quân",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "unknown"
+  },
+  {
+    "raw": "霓虹",
+    "target": "Nhật Bản",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "古之荧惑",
+    "target": "Cổ Chi Huỳnh Hoặc",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "火卫一",
+    "target": "Phobos",
+    "type": "object",
+    "origin": "latin",
+    "name_type": "satellite"
+  },
+  {
+    "raw": "火卫二",
+    "target": "Deimos",
+    "type": "object",
+    "origin": "latin",
+    "name_type": "satellite"
+  },
+  {
+    "raw": "神鞭",
+    "target": "thần tiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "妖幡",
+    "target": "yêu phiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "大地地脉之力",
+    "target": "sức mạnh địa mạch đại địa",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "magic"
+  },
+  {
+    "raw": "妖族",
+    "target": "Yêu tộc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "透骨幽狼",
+    "target": "Thấu Cốt U Lang",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "monster"
+  },
+  {
+    "raw": "神意",
+    "target": "Thần Ý",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "菩萨道",
+    "target": "đạo Bồ Tát",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "鸟居",
+    "target": "cổng Torii",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "structure"
+  },
+  {
+    "raw": "神官",
+    "target": "thần quan",
+    "type": "occupation",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "巫女",
+    "target": "vu nữ",
+    "type": "occupation",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "稻荷神社",
+    "target": "đền Inari",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "structure"
+  },
+  {
+    "raw": "诸天万象人道圣台",
+    "target": "Chư Thiên Vạn Tượng Nhân Đạo Thánh Thai",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "命运巴别塔",
+    "target": "Tháp Babel Mệnh Vận",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "至高观察者",
+    "target": "Chí Cao Quan Sát Giả",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "六阶",
+    "target": "lục giai",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "level"
+  },
+  {
+    "raw": "时空锚",
+    "target": "mỏ neo thời không",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "真空量子仪",
+    "target": "Máy Đo Lượng Tử Chân Không",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "阿瓦隆",
+    "target": "Avalon",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "八宝罗汉果位",
+    "target": "bát bảo La Hán quả vị",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "舍利",
+    "target": "xá lợi",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "高天原",
+    "target": "Cao Thiên Nguyên",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "黄泉之国",
+    "target": "Suối Vàng Chi Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "十握剑",
+    "target": "Thập Ủy Kiếm",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "血钻",
+    "target": "huyết toản",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "血晶",
+    "target": "huyết tinh",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "血海魔身",
+    "target": "Ma Thân Huyết Hải",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "菩提之树",
+    "target": "cây Bồ Đề",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "白云法帖",
+    "target": "Bạch Vân pháp thiếp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "幽州",
+    "target": "U Châu",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "土地神诏",
+    "target": "Thổ Địa Thần Chiếu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "神道",
+    "target": "thần đạo",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "金刚界智慧曼佗罗无上佛阵",
+    "target": "Vô thượng Phật trận Kim Cương giới Trí Tuệ Mạn Đà La",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "白骨巨人",
+    "target": "khổng lồ xương trắng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "龙众之都",
+    "target": "Long Chúng Chi Đô",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "魔道九脉",
+    "target": "Ma đạo cửu mạch",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "幽冥白骨魔幡",
+    "target": "U Minh Bạch Cốt Ma Phiên",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "白骨大磨盘",
+    "target": "cối xay xương trắng",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "天部",
+    "target": "Thiên Bộ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "夜叉部",
+    "target": "Dạ Xoa Bộ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "修罗部",
+    "target": "Tu La Bộ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "幽魂白骨幡",
+    "target": "U Hồn Bạch Cốt Phiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "浮屠塔",
+    "target": "Phù Đồ Tháp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "七宝幢",
+    "target": "Thất Bảo Chàng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "日轮印",
+    "target": "Nhật Luân Ấn",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "月轮印",
+    "target": "Nguyệt Luân Ấn",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "日月宝光大光明印",
+    "target": "Nhật Nguyệt Bảo Quang Đại Quang Minh Ấn",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "他化大自在",
+    "target": "Hắn Hóa Đại Tự Tại",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "天魔之子",
+    "target": "Thiên Ma chi tử",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "七宝发幢",
+    "target": "Thất Bảo Phất Tràng",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "祖魔烙印",
+    "target": "Tổ Ma Lạc Ấn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "日月宝轮印",
+    "target": "Nhật Nguyệt Bảo Luân Ấn",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "幽冥白骨神幡",
+    "target": "U Minh Bạch Cốt Thần Phiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "神国灵界",
+    "target": "Thần Quốc Linh Giới",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mythical"
+  },
+  {
+    "raw": "日月轮印",
+    "target": "Nhật Nguyệt Luân Ấn",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "灵境佛国",
+    "target": "Linh Cảnh Phật Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "乾达婆部",
+    "target": "Càn Thát Bà Bộ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "万毒血河",
+    "target": "Vạn Độc Huyết Hà",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大地山魔令",
+    "target": "Đại Địa Sơn Ma Lệnh",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "二十四诸天",
+    "target": "24 chư thiên",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "天魔宫",
+    "target": "Thiên Ma Cung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "building"
+  },
+  {
+    "raw": "大天魔宫",
+    "target": "Đại Thiên Ma Cung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "building"
+  },
+  {
+    "raw": "天众之都",
+    "target": "Thiên Chúng Chi Đô",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "阴司魔国",
+    "target": "Âm Ty Ma Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "阴庭鬼府",
+    "target": "Âm Đình Quỷ Phủ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大破坏神",
+    "target": "Đại Phá Hoại Thần",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "万鬼帝皇如意",
+    "target": "Vạn Quỷ Đế Hoàng Như Ý",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "九州天庭",
+    "target": "Cửu Châu Thiên Đình",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "金刚神杵",
+    "target": "Kim Cang thần xử",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "他心通",
+    "target": "Tha Tâm Thông",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "梵唱",
+    "target": "Phạn xướng",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "金刚杵",
+    "target": "Kim (금강저)",
+    "type": "object",
+    "origin": "buddhism",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "南无一切山王佛",
+    "target": "Nam Mô Nhất Thiết Sơn Vương Phật",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "三转寰宇造化大金丹",
+    "target": "Tam Chuyển Hoàn Vũ Tạo Hóa Đại Kim Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "灵霄火部斗君真神",
+    "target": "Linh Tiêu Hỏa bộ Đấu Quân Chân Thần",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "净世天炎",
+    "target": "Tịnh Thế Thiên Diễm",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "魔道大世界",
+    "target": "Ma đạo Đại thế giới",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "fictional"
+  },
+  {
+    "raw": "天众部",
+    "target": "Thiên Chúng bộ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "fictional"
+  },
+  {
+    "raw": "太初骨魔之身",
+    "target": "Thái Sơ Cốt Ma chi thân",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "龙象菩提如意金刚菩萨身",
+    "target": "Long Tượng Bồ Đề Như Ý Kim Cương Bồ Tát Thân",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "万龙之母",
+    "target": "Vạn Long Chi Mẫu",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "龙神教堂",
+    "target": "giáo đường Long Thần",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "文明杖",
+    "target": "gậy văn minh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "祭祀",
+    "target": "tế tự",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "龙神",
+    "target": "Long Thần",
+    "type": "deity",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "牧首",
+    "target": "Mục thủ",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "半龙人",
+    "target": "bán long nhân",
+    "type": "species",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "龙裔",
+    "target": "long duệ",
+    "type": "species",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "神像",
+    "target": "tượng thần",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "少林",
+    "target": "Thiếu Lâm",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "黑暗议会",
+    "target": "Hội đồng Bóng tối",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "副议会长",
+    "target": "phó chủ tịch",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "大祭酒",
+    "target": "Đại Tế Tửu",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "世尊",
+    "target": "Thế Tôn",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "七香宝车",
+    "target": "Thất Hương Bảo xa",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "九品金莲",
+    "target": "cửu phẩm kim liên",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "六瘟天疫册",
+    "target": "Lục Ôn Thiên Dịch Sách",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "瀛洲岛",
+    "target": "Doanh Châu Đảo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "华国公立超凡学校",
+    "target": "Trường Công lập Siêu phàm Hoa Quốc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "org"
+  },
+  {
+    "raw": "神主",
+    "target": "Thần Chủ",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "开慧妖族",
+    "target": "Yêu tộc khai tuệ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "龙脉军团",
+    "target": "Long Mạch quân đoàn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "驻世半神",
+    "target": "Bán thần trú thế",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "人造圣贤",
+    "target": "Thánh hiền nhân tạo",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "百家圣人",
+    "target": "Thánh nhân bách gia",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "地震局",
+    "target": "Cục Địa chấn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "default"
+  },
+  {
+    "raw": "世界之树",
+    "target": "Thế Giới Thụ",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "地脉",
+    "target": "địa mạch",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "地核",
+    "target": "địa hạch",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "星核",
+    "target": "tinh hạch",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "太阳系",
+    "target": "Hệ Mặt Trời",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "木星",
+    "target": "Mộc Tinh",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "土星",
+    "target": "Thổ Tinh",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "太阳星",
+    "target": "Thái Dương Tinh",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "place"
+  }
+]

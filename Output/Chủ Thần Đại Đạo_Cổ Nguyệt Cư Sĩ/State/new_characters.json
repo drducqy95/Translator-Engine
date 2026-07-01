@@ -1,0 +1,1682 @@
+[
+  {
+    "raw": "茅场晶彦",
+    "target": "Kayaba Akihiko",
+    "type": "character",
+    "origin": "japanese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵奇",
+    "target": "Triệu Kì",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "迪奈尔",
+    "target": "Địch Nại Nhĩ",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "鸿钧道人",
+    "target": "Hồng Quân đạo nhân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "印月",
+    "target": "Địch Nại Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "主神",
+    "target": "Chủ thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "Deneir",
+    "target": "Deneir",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "塔烙斯",
+    "target": "Tháp Lạc Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "阿尔丰斯",
+    "target": "Alphonse",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "泰勒",
+    "target": "Taylor",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "武僧之王",
+    "target": "Vua Võ Tăng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "王麻子",
+    "target": "Vương Ma Tử",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "亚伯拉罕，厄斯金",
+    "target": "Abraham Erskine",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "舔食者",
+    "target": "Licker",
+    "type": "character",
+    "origin": "english",
+    "name_type": "monster"
+  },
+  {
+    "raw": "暴君",
+    "target": "bạo quân",
+    "type": "character",
+    "origin": "vietnamese",
+    "name_type": "monster"
+  },
+  {
+    "raw": "创造神",
+    "target": "Sáng Tạo Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "慈祥道人",
+    "target": "Từ Tường Đạo Nhân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "咸鱼翻",
+    "target": "Hàm Ngư Phiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "狼牙",
+    "target": "Lang Nha",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "约翰",
+    "target": "John",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "汤姆",
+    "target": "Tom",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "葛丹",
+    "target": "Cát Đan",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵爸",
+    "target": "Ba Triệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵妈",
+    "target": "Mẹ Triệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培罗",
+    "target": "Bồi La",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "王麻子",
+    "target": "Vương Ma Tử",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "奇拉",
+    "target": "Kì Lạp",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "卡尔",
+    "target": "Karl",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "狼牙",
+    "target": "Răng Sói",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "alias"
+  },
+  {
+    "raw": "常舒",
+    "target": "Thường Thư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "诚子",
+    "target": "Thành tử",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "大地与自然之神",
+    "target": "Thần Đại Địa Và Tự Nhiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "太阳与光明之神",
+    "target": "Thần Thái Dương Và Quang Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "光明神",
+    "target": "Quang Minh Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "上帝",
+    "target": "Thượng Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "亡灵巫师",
+    "target": "pháp sư vong linh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "character"
+  },
+  {
+    "raw": "表姐",
+    "target": "Biểu tỷ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小女生",
+    "target": "Tiểu nữ sinh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "主尊",
+    "target": "Chủ tôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "犬夜叉",
+    "target": "Inuyasha",
+    "type": "character",
+    "origin": "japanese",
+    "name_type": "work_title"
+  },
+  {
+    "raw": "上帝",
+    "target": "Thượng Đế",
+    "type": "character",
+    "origin": "christian",
+    "name_type": "deity"
+  },
+  {
+    "raw": "摩西",
+    "target": "Ma Tây",
+    "type": "character",
+    "origin": "jewish",
+    "name_type": "person"
+  },
+  {
+    "raw": "奥丁",
+    "target": "Áo Đinh",
+    "type": "character",
+    "origin": "norse",
+    "name_type": "deity"
+  },
+  {
+    "raw": "玲珑妖",
+    "target": "Yêu quái Linh Lung",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "洪老魔",
+    "target": "Hồng Lão Ma",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "党起志",
+    "target": "Đảng Khởi Chí",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "党胖子",
+    "target": "Đảng Bàn Tử",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "约翰牛",
+    "target": "John Bull",
+    "type": "character",
+    "origin": "english",
+    "name_type": "symbol"
+  },
+  {
+    "raw": "贞德",
+    "target": "Trinh Đức",
+    "type": "character",
+    "origin": "french",
+    "name_type": "person"
+  },
+  {
+    "raw": "德古拉伯爵",
+    "target": "Bá tước Dracula",
+    "type": "character",
+    "origin": "european",
+    "name_type": "character"
+  },
+  {
+    "raw": "杀生丸",
+    "target": "Sesshomaru",
+    "type": "character",
+    "origin": "japanese",
+    "name_type": "character"
+  },
+  {
+    "raw": "树姥姥",
+    "target": "Cây Mỗ Mỗ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "枉死城",
+    "target": "Uổng Tử Thành",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "圆光术",
+    "target": "Viên Quang Thuật",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "草头神",
+    "target": "Thảo Đầu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "天帝",
+    "target": "Thiên Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "人皇",
+    "target": "Nhân Hoàng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "地尊",
+    "target": "Địa Tôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "邋遢道士",
+    "target": "Đạo sĩ lôi thôi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "鬼王",
+    "target": "Quỷ vương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "鹏举",
+    "target": "Bằng Cử",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "创造",
+    "target": "Sáng Tạo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "五别天神",
+    "target": "Ngũ Biệt Thiên Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "拉",
+    "target": "Ra",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "明神",
+    "target": "Minh Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "mythological"
+  },
+  {
+    "raw": "光明与太阳神",
+    "target": "Quang Minh và Thần Mặt Trời",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "凯瑟",
+    "target": "Khải Sắt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "凯瑟",
+    "target": "Khải Sắt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姬诚",
+    "target": "Cơ Thành",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张仪",
+    "target": "Trương Nghi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "安德鲁",
+    "target": "An Đức Lỗ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "陈朝露",
+    "target": "Trần Triều Lộ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "大力王菩萨",
+    "target": "Đại Lực Vương Bồ Tát",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "党施主",
+    "target": "Đảng thí chủ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "期尔修",
+    "target": "Kỳ Nhĩ Tu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "美琪丝",
+    "target": "Mỹ Kỳ Ti",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "阿撒托斯",
+    "target": "A Tát Thác Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "琼斯",
+    "target": "Jones",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "甄康",
+    "target": "Chân Khang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "党起志",
+    "target": "Đảng Khởi Chí",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小瑶",
+    "target": "Tiểu Dao",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "血海使者",
+    "target": "Sứ giả Huyết Hải",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "九天应元雷声普化天君",
+    "target": "Cửu Thiên Ứng Nguyên Lôi Thanh Phổ Hóa Thiên Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "Hạo Thiên",
+    "target": "Hạo Thiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "Thái Bạch",
+    "target": "Thái Bạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "落叶",
+    "target": "Lạc Diệp",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "祸",
+    "target": "Tề Họa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "王浩",
+    "target": "Vương Hạo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "袁冰",
+    "target": "Viên Băng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "甄康",
+    "target": "Chân Khang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜维凌",
+    "target": "Khương Duy Lăng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "古远",
+    "target": "Cổ Viễn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张齐",
+    "target": "Trương Tề",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张也",
+    "target": "Trương Dã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "紫极混元",
+    "target": "Tử Cực Hỗn Nguyên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "追风",
+    "target": "Truy Phong",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "无梦",
+    "target": "Vô Mộng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "往事如烟",
+    "target": "Vãng Sự Như Yên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "普翔真人",
+    "target": "Phổ Tường chân nhân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "商纣王",
+    "target": "Thương Trụ vương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老人（神帝）",
+    "target": "lão nhân thần bí",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "塔洛斯",
+    "target": "Talos",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "灾难之神",
+    "target": "Thần Tai Nạn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "塔洛斯",
+    "target": "Talos",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "金翅大鹏鸟",
+    "target": "Kim Sí Đại Bàng Điểu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "天蜈",
+    "target": "Thiên Ngô",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "鹏魔王",
+    "target": "Bằng Ma Vương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "七号",
+    "target": "Số 7",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "十一号",
+    "target": "Số 11",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "十号",
+    "target": "Số 10",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "九号",
+    "target": "Số 9",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "四号",
+    "target": "Số 4",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "达摩克利斯",
+    "target": "Đạt Ma Khắc Lợi Tư",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "无名道人",
+    "target": "Vô Danh đạo nhân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苍龙",
+    "target": "Thương Long",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杰森",
+    "target": "Kiệt Sâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莉莉",
+    "target": "Lily",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "安森斯",
+    "target": "An Sâm Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "厄尔尼博士",
+    "target": "Tiến sĩ Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "凌夜",
+    "target": "Lăng Dạ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "路远",
+    "target": "Lộ Viễn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "那英俊",
+    "target": "Na Anh Tuấn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "真言和尚",
+    "target": "Chân Ngôn hòa thượng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "宇文化及",
+    "target": "Vũ Văn Hóa Cập",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莰蒂丝",
+    "target": "Khảm Đế Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "镇南王",
+    "target": "Trấn Nam Vương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "释和尚",
+    "target": "Hòa thượng Thích",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "期尔修",
+    "target": "Kỳ Nhĩ Tu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵奇",
+    "target": "Triệu Kì",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "米迦勒",
+    "target": "Mễ Già Lặc",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺顿",
+    "target": "Nặc Đốn",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔神",
+    "target": "Ma thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "大炽天使长",
+    "target": "Đại xích thiên sứ trưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "弗朗西斯",
+    "target": "Francis",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "埃利斯",
+    "target": "Ai Lợi Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴泽尔",
+    "target": "Ba Trạch Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "金姆",
+    "target": "Kim Mỗ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "撒姆尔",
+    "target": "Sa Môn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "奥狄斯",
+    "target": "Áo Địch Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天界副君",
+    "target": "Thiên giới Phó quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "黄老将军",
+    "target": "Hoàng Tướng già",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "虚无",
+    "target": "Hư Vô",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "至尊",
+    "target": "Chí Tôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "刘乔",
+    "target": "Lưu Kiều",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "丁盛",
+    "target": "Đinh Thịnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "半秃的那位",
+    "target": "người hói nửa đầu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "nickname"
+  },
+  {
+    "raw": "老谷",
+    "target": "lão Cốc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老郝",
+    "target": "lão Hách",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "路将军",
+    "target": "Lộ tướng quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "垕青璃",
+    "target": "Hậu Thanh Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "西奥多",
+    "target": "Tây Áo Đa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "雅安上帝",
+    "target": "Gia-vê Thượng Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "修尔斯",
+    "target": "Tu Nhĩ Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "伊莉斯",
+    "target": "Y Lỵ Ti",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "朴老道",
+    "target": "Lão đạo Phác",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "朴老道士",
+    "target": "Lão đạo sĩ Phác",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "咬金",
+    "target": "Dược Kim",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叔宝",
+    "target": "Thúc Bảo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "朴衍真",
+    "target": "Phác Diễn Chân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老宋",
+    "target": "Lão Tống",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小小宋",
+    "target": "Tiểu Tiểu Tống",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天国副君",
+    "target": "Thiên Đường Phó Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "造物主",
+    "target": "Tạo Vật Chủ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "罗叶",
+    "target": "La Dã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "鸟羽",
+    "target": "Toba",
+    "type": "character",
+    "origin": "japanese",
+    "name_type": "person"
+  },
+  {
+    "raw": "玉藻前",
+    "target": "Ngọc Tảo Tiền",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "纪千",
+    "target": "Kỉ Thiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "炎之加具士",
+    "target": "Viêm Chi Gia Cụ Sĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "稻荷神",
+    "target": "Inari",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "玛尔斯",
+    "target": "Mars",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "由佳",
+    "target": "Do Gia",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老路",
+    "target": "Lão Lộ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "千耐",
+    "target": "Thiên Nại",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "山王如来",
+    "target": "Sơn Vương Như Lai",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "福莱里",
+    "target": "Phúc Lai Lý",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "大威天龙菩萨",
+    "target": "Đại Uy Thiên Long Bồ Tát",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "黄将军",
+    "target": "Hoàng tướng quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "无限官网管理员",
+    "target": "Quản lý trang web chính thức của Trò Chơi Vô Hạn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "帝摩斯",
+    "target": "Morse",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "慈恩罗汉",
+    "target": "Từ Ân La Hán",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "离武帝",
+    "target": "Ly Vũ Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "太白白帝",
+    "target": "Thái Bạch Bạch Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "李炜",
+    "target": "Lý Vĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑立",
+    "target": "Trịnh Lập",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑力",
+    "target": "Trịnh Lực",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "勾陈上帝",
+    "target": "Câu Trần Thượng Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "邪魔",
+    "target": "Tà Ma",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "佛尊",
+    "target": "Phật Tôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "波旬",
+    "target": "Ba-tuần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "五佛陀",
+    "target": "năm Phật Đà",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "大菩萨",
+    "target": "Đại Bồ Tát",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "大罗汉",
+    "target": "Đại La Hán",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "飞天",
+    "target": "Phi Thiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "神女",
+    "target": "Thần Nữ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "佛祖",
+    "target": "Phật Tổ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "高秀",
+    "target": "Cao Tú",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白骨帝皇",
+    "target": "Bạch Cốt Đế Hoàng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "沙竭罗龙王",
+    "target": "Sa Kiệt La Long Vương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "骨夕",
+    "target": "Cốt Tịch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔骨",
+    "target": "Ma Cốt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "沙褐罗",
+    "target": "Cát Hạt La",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "十地尊者",
+    "target": "Thập Địa Tôn Giả",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苍天",
+    "target": "Trời Xanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "气魔",
+    "target": "Khí Ma",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "疫魔",
+    "target": "Dịch Ma",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "人魔",
+    "target": "Nhân Ma",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "大天魔",
+    "target": "Đại Thiên Ma",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白袍男子",
+    "target": "bạch bào nam tử",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "description"
+  },
+  {
+    "raw": "大天尊",
+    "target": "Đại Thiên Tôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "无上邪魔",
+    "target": "Vô Thượng Tà Ma",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "亚迪波罗",
+    "target": "Á Địch Ba La",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "芬里厄特",
+    "target": "Phân Lý Ngột Đặc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白云",
+    "target": "Bạch Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吞天魔狼",
+    "target": "Thôn Thiên Ma Lang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "祖魔",
+    "target": "Tổ ma",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "妙相天女",
+    "target": "Diệu Tướng Thiên nữ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "骨尊",
+    "target": "Cốt Tôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "仓冥鬼帝",
+    "target": "Thương Minh Quỷ Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "鬼弃",
+    "target": "Quỷ Khí",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "冥魔鬼泣",
+    "target": "Minh Ma Quỷ Khấp",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "乾达婆",
+    "target": "Gandharva",
+    "type": "character",
+    "origin": "sanskrit",
+    "name_type": "deity"
+  },
+  {
+    "raw": "紧那罗",
+    "target": "Kinnara",
+    "type": "character",
+    "origin": "sanskrit",
+    "name_type": "deity"
+  },
+  {
+    "raw": "天魔苍天",
+    "target": "Thiên Ma Trời Xanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "山王世尊",
+    "target": "Sơn Vương Thế Tôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "伊凡胩",
+    "target": "Ivan",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "艾伯特",
+    "target": "Ngải Bá Đặc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "帝摩斯.比其尔",
+    "target": "Morse Bỉ Kỳ Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "恒一",
+    "target": "Hằng Nhất",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "古衡元",
+    "target": "Cổ Hành",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "恒鲁",
+    "target": "Hằng Lỗ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "齐祸",
+    "target": "Tề Họa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "释和尚",
+    "target": "Hòa thượng Thích",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "大黑天嗔怒明王",
+    "target": "Đại Hắc Thiên Sân Nộ Minh Vương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "裴正阳",
+    "target": "Bùi Chính Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白袍青年",
+    "target": "Thanh niên áo trắng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "自由女神",
+    "target": "Nữ thần Tự do",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "美利坚那位总统",
+    "target": "Tổng thống Mỹ Lợi Kiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "烙腮胡子",
+    "target": "râu mép",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "descriptor"
+  },
+  {
+    "raw": "老方",
+    "target": "Lão Phương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "首长",
+    "target": "Thủ trưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  }
+]
