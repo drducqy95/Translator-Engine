@@ -1070,3 +1070,6 @@
 - **Sự kiện chính:** Triệu Kì đang ở sâu trong lòng đất quan sát lịch sử và suy tính kế hoạch. Trong lúc đó, trái đất mở rộng gây ra khủng hoảng toàn cầu; tại Mỹ Lợi Kiên, các nghị viên phải đối mặt với biểu tình phẫn nộ trước Shiromiya, và một ông già dùng mây đen, sấm sét dẹp loạn.
 - **Nhân vật mới xuất hiện:** Triệu Kì, Khải Sắt, Ước Sắt Phu, Rouazui
 
+## Chương 313: Chương 0313 Lòng người hỗn loạn, Vô hạn bản vị.md
+- **Sự kiện chính:** Offline fallback mode
+
