@@ -1076,3 +1076,6 @@
 ## Chương 315: Chương 0315 Một Thể Hai Mặt, Kế Nhỏ Bên Rìa.md
 - **Sự kiện chính:** Offline fallback mode
 
+## Chương 316: Chương 0316 Nhất Giai Thí Luyện, Biến Dị Không Biết.md
+- **Sự kiện chính:** Offline fallback mode
+
