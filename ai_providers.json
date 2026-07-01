@@ -6,9 +6,9 @@
       "api_key": "",
       "model": "transbot",
       "priority": 1,
-      "enabled": false,
+      "enabled": true,
       "role": "primary",
-      "timeout": 180
+      "timeout": 900
     },
     {
       "name": "local_hymt",
