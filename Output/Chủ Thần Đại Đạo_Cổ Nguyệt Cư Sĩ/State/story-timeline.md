@@ -1063,3 +1063,6 @@
 ## Chương 309: Chương 0309 Đất trời bao la, ai làm chủ thế sự thăng trầm.md
 - **Sự kiện chính:** Sau biến cố Trái Đất thay đổi dữ dội, Cơ Thành thử nghiệm tu luyện ở võ trường nhà họ Lý và nhận thấy thế giới đã nới lỏng áp chế. Lý Tam Hoa chia sẻ tình hình khó khăn của gia tộc và đề xuất hợp tác hỗ trợ lẫn nhau.
 
+## Chương 310: Chương 0310 Càn Khôn Ma Động, Căn Cơ Thế Giới.md
+- **Sự kiện chính:** Sau khi mở rộng Trái đất bằng Thế Giới Thụ, Triệu Kì ngồi dưới gốc cây tỉ mỉ chỉnh lý địa mạch và quy tắc cơ bản để ổn định thế giới siêu phàm mới, đồng thời nhận thấy một biến động bất ngờ từ sâu bên trong Trái đất.
+

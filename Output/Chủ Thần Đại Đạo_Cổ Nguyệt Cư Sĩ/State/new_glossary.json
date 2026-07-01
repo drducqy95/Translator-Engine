@@ -2790,5 +2790,26 @@
     "type": "place",
     "origin": "chinese",
     "name_type": "place"
+  },
+  {
+    "raw": "无人区",
+    "target": "Mujinku",
+    "type": "location",
+    "origin": "chinese/japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "地脉",
+    "target": "địa mạch",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "世界树",
+    "target": "Thế Giới Thụ",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
   }
 ]

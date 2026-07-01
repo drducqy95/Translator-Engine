@@ -399,3 +399,6 @@
 - **木星** (place) -> Mộc Tinh
 - **土星** (place) -> Thổ Tinh
 - **太阳星** (place) -> Thái Dương Tinh
+- **无人区** (location) -> Mujinku
+- **地脉** (concept) -> địa mạch
+- **世界树** (artifact) -> Thế Giới Thụ
