@@ -1060,3 +1060,6 @@
 - **Sự kiện chính:** Trái đất mở rộng gấp trăm lần sau một ngày tận thế; các quốc gia bị tách rời thành những hòn đảo cô lập, mọi giao thông và liên lạc đổ vỡ. Tại Yongouin ở thủ đô Hoa Quốc, hội nghị khẩn cấp của các lãnh đạo cao nhất ghi nhận tổn thất nghiêm trọng và đặc biệt lo ngại về tình trạng mất liên lạc với Bằng Ma Vương — vị Yêu Thần bị phong ấn tại Konronyama đang biến đổi thần bí.
 - **Nhân vật mới xuất hiện:** Hoàng tướng quân/Hoàng Tướng già, Lão Phương, Rouen, Người đàn ông trung niên kính gọng đen, Thanh niên truyền lệnh
 
+## Chương 309: Chương 0309 Đất trời bao la, ai làm chủ thế sự thăng trầm.md
+- **Sự kiện chính:** Sau biến cố Trái Đất thay đổi dữ dội, Cơ Thành thử nghiệm tu luyện ở võ trường nhà họ Lý và nhận thấy thế giới đã nới lỏng áp chế. Lý Tam Hoa chia sẻ tình hình khó khăn của gia tộc và đề xuất hợp tác hỗ trợ lẫn nhau.
+

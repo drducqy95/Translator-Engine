@@ -1678,5 +1678,40 @@
     "type": "character",
     "origin": "chinese",
     "name_type": "title"
+  },
+  {
+    "raw": "姬诚",
+    "target": "Cơ Thành",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张仪",
+    "target": "Trương Nghi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李三花",
+    "target": "Lý Tam Hoa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "恒鲁",
+    "target": "Hằng Lỗ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老路",
+    "target": "Lão Lộ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
   }
 ]
