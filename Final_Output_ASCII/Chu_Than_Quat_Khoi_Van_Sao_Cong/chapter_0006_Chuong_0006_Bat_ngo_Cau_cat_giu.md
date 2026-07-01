@@ -174,7 +174,7 @@ Vương Ấn mặt lạnh tanh, bắt đầu bố phòng.
 
 Mấy người Ngô Minh ngược lại trở thành kẻ nhàn rỗi, đi không được, ở cũng không xong. Ngô Minh nghe tiếng vó ngựa ngày càng gần, khí huyết hơi gia tăng, ghé tai Tiểu Ngọc hỏi.
 
-"Cái này… khó nói lắm, dũng sĩ Ba Đồ ít nhất cũng là địch mười người, tương đương với cao thủ Nhục Thân Cảnh tầng ba tầng bốn bên chúng ta, còn về Tát Mãn Vu…"
+"Cái này… khó nói lắm, dũng sĩ Batu ít nhất cũng là địch mười người, tương đương với cao thủ Nhục Thân Cảnh tầng ba tầng bốn bên chúng ta, còn về Tát Mãn Vu…"
 
 Tiểu Ngọc cắn môi.
 

@@ -132,15 +132,15 @@ Nhưng theo tình hình Hứa Mạt gặp phải trên đường, hắn cảm th
 
 Đây là một hành động có chủ đích.
 
-Khi Hứa Mạt trở về cửa hàng bách hóa, Mễ Á cũng đã về, là Lão gia Ba Đồ đích thân đi đón nàng về.
+Khi Hứa Mạt trở về cửa hàng bách hóa, Mia cũng đã về, là Lão gia Batu đích thân đi đón nàng về.
 
-Lúc này Mễ Á đang khóc, thấy Hứa Mạt trở về, nàng tiến lên.
+Lúc này Mia đang khóc, thấy Hứa Mạt trở về, nàng tiến lên.
 
-"Hứa Mạt." Mễ Á gọi, Hứa Mạt nhẹ giọng hỏi: "Sao vậy?"
+"Hứa Mạt." Mia gọi, Hứa Mạt nhẹ giọng hỏi: "Sao vậy?"
 
-Hắn không gọi Mễ Á tiểu thư, hắn nhận ra lúc này Mễ Á có chút không ổn, tâm trạng rất sa sút, trước đó nàng đã đến nhà Ái Nhĩ Sa, coi như là chứng kiến sự kiện đó.
+Hắn không gọi Mia tiểu thư, hắn nhận ra lúc này Mia có chút không ổn, tâm trạng rất sa sút, trước đó nàng đã đến nhà Ái Nhĩ Sa, coi như là chứng kiến sự kiện đó.
 
-"Hứa Mạt." Mễ Á tiến lên ôm nhẹ Hứa Mạt, Hứa Mạt đứng yên, không làm phiền nàng.
+"Hứa Mạt." Mia tiến lên ôm nhẹ Hứa Mạt, Hứa Mạt đứng yên, không làm phiền nàng.
 
 Hắn thấy khóe mắt Bạch Vi cũng có vết nước mắt, tay cầm mấy tấm ảnh, nước mắt không ngừng rơi xuống.
 
@@ -148,7 +148,7 @@ Trên đường phố, vang lên tiếng huyên náo, nhiều người chạy ra
 
 "Con của tôi." Có người thậm chí quỳ xuống đất, khóc nức nở, chịu đựng nỗi đau lớn.
 
-Mễ Á buông Hứa Mạt ra, Hứa Mạt tiến lên.
+Mia buông Hứa Mạt ra, Hứa Mạt tiến lên.
 
 Bạch Vi ngẩng đầu nhìn hắn, tay rụt lại, có chút không muốn Hứa Mạt nhìn thấy.
 
@@ -166,15 +166,15 @@ Hắn cuối cùng đã hiểu Phương Thúc, hiểu Diệp Thanh Điệp, đâ
 
 Hứa Mạt đột nhiên cảm thấy một nỗi buồn mãnh liệt, tại sao hắn lại đến một thế giới như vậy?
 
-Lão gia Ba Đồ, với thân hình béo mập của mình, bước ra, nhặt những tấm ảnh trên đất lên xé nát, rồi vứt vào thùng rác bên cạnh, ông ta trông rất bình tĩnh, như thường lệ.
+Lão gia Batu, với thân hình béo mập của mình, bước ra, nhặt những tấm ảnh trên đất lên xé nát, rồi vứt vào thùng rác bên cạnh, ông ta trông rất bình tĩnh, như thường lệ.
 
-"Cha." Mễ Á khóc gọi: "Đây có thật không? Nhà máy thực sự lấy trẻ con ra làm thí nghiệm sao, sao họ có thể nhẫn tâm, những người đó có phải đều máu lạnh không."
+"Cha." Mia khóc gọi: "Đây có thật không? Nhà máy thực sự lấy trẻ con ra làm thí nghiệm sao, sao họ có thể nhẫn tâm, những người đó có phải đều máu lạnh không."
 
-Lão gia Ba Đồ nhẹ nhàng ôm Mễ Á, ông ta không nói gì, bất kỳ lời an ủi nào lúc này đều vô nghĩa.
+Lão gia Batu nhẹ nhàng ôm Mia, ông ta không nói gì, bất kỳ lời an ủi nào lúc này đều vô nghĩa.
 
-"Đó đều là trẻ con, sao họ có thể làm vậy, sao có thể làm vậy, không ai quản họ sao?" Mễ Á khóc nức nở trong vòng tay Lão gia Ba Đồ, nước mắt làm ướt cả áo ông ta.
+"Đó đều là trẻ con, sao họ có thể làm vậy, sao có thể làm vậy, không ai quản họ sao?" Mia khóc nức nở trong vòng tay Lão gia Batu, nước mắt làm ướt cả áo ông ta.
 
-Lão gia Ba Đồ dang rộng vòng tay, ôm Mễ Á vào lòng, mặc cho Mễ Á khóc trong vòng tay ông.
+Lão gia Batu dang rộng vòng tay, ôm Mia vào lòng, mặc cho Mia khóc trong vòng tay ông.
 
 Hứa Mạt nhìn về phía đường phố, càng ngày càng nhiều đám đông tràn ra đường, như phát điên.
 
@@ -186,6 +186,6 @@ Hứa Mạt nhận ra, 'cha mẹ hắn' có lẽ cũng là một trong số họ
 
 Có lẽ, họ cũng không muốn nhìn thấy con trai và con gái của mình, cũng trở thành đối tượng thí nghiệm.
 
-"Lão gia Ba Đồ, đây là thí nghiệm gì?" Hứa Mạt cố nén giận hỏi Lão gia Ba Đồ.
+"Lão gia Batu, đây là thí nghiệm gì?" Hứa Mạt cố nén giận hỏi Lão gia Batu.
 
-"Nuôi dưỡng chiến binh gen!" Lão gia Ba Đồ đáp.
+"Nuôi dưỡng chiến binh gen!" Lão gia Batu đáp.

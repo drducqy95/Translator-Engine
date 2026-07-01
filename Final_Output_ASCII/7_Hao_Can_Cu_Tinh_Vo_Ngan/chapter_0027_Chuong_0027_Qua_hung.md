@@ -1,6 +1,6 @@
 # Chương 0027 Quá hung
 
-Ái Nhĩ Sa dậy từ sớm, ngồi ở ban công tầng hai đàn hát. Đó là bài 'Linh hồn của ta' do Mễ Á dạy. Cô rất thích giai điệu này, mang vẻ đẹp tao nhã, trong âm nhạc như chất chứa bao câu chuyện, khiến người ta mông lung.
+Ái Nhĩ Sa dậy từ sớm, ngồi ở ban công tầng hai đàn hát. Đó là bài 'Linh hồn của ta' do Mia dạy. Cô rất thích giai điệu này, mang vẻ đẹp tao nhã, trong âm nhạc như chất chứa bao câu chuyện, khiến người ta mông lung.
 
 Khi đàn, trong đầu Ái Nhĩ Sa hiện lên một bóng hình thanh tú. Anh ấy mới mười lăm tuổi, tài hoa thế nào mới sáng tác được bản nhạc đẹp đến vậy!
 
@@ -24,9 +24,9 @@ Người phụ nữ hé miệng cắn. Ái Nhĩ Sa bên cạnh thấy cảnh nà
 
 “Rất hay.” Người phụ nữ cười: “Bạn con dạy con à?”
 
-“Vâng.” Ái Nhĩ Sa gật đầu: “Mễ Á đàn hay hơn con, bạn ấy rất tài hoa. Dĩ nhiên, người sáng tác bản nhạc này còn tài hoa hơn.”
+“Vâng.” Ái Nhĩ Sa gật đầu: “Mia đàn hay hơn con, bạn ấy rất tài hoa. Dĩ nhiên, người sáng tác bản nhạc này còn tài hoa hơn.”
 
-“Rảnh rỗi dẫn Mễ Á đến nhà chơi nhé.” Người phụ nữ nói với Ái Nhĩ Sa, rồi như nhớ ra điều gì, bà quay sang chồng hỏi: “Được không anh?”
+“Rảnh rỗi dẫn Mia đến nhà chơi nhé.” Người phụ nữ nói với Ái Nhĩ Sa, rồi như nhớ ra điều gì, bà quay sang chồng hỏi: “Được không anh?”
 
 Người đàn ông do dự một chút, rồi gật đầu, nói với hai người: “Ít hôm nữa, có lẽ chúng ta phải chuyển nhà.”
 
@@ -160,7 +160,7 @@ Thấy chân Diệp Thanh Điệp quét tới, Hứa Mạt nổi đóa: “Có n
 
 Vài phút sau, Hứa Mạt ê ẩm toàn thân. Vết bầm hôm qua chưa lành, nay thêm thương tích mới. Mặt anh còn bị một cú quẹt trúng đúng chỗ cũ.
 
-Hứa Mạt nghĩ: lần này về nói với Mễ Á thế nào?
+Hứa Mạt nghĩ: lần này về nói với Mia thế nào?
 
 Hôm nay không cẩn thận lại đụng phải???  (mô típ cũ)
 

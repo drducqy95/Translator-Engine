@@ -11,7 +11,7 @@ Chapters: 43
 - 1. [Chương 0001 Thúc cháu](chapter_0001_Chuong_0001_Thuc_chau.md)
 - 2. [Chương 0002 Thế giới dưới lòng đất](chapter_0002_Chuong_0002_The_gioi_duoi_long_dat.md)
 - 3. [Chương 0003 Đe dọa](chapter_0003_Chuong_0003_De_doa.md)
-- 4. [Chương 0004 Lão gia Ba Đồ](chapter_0004_Chuong_0004_Lao_gia_Ba_Do.md)
+- 4. [Chương 0004 Lão gia Batu](chapter_0004_Chuong_0004_Lao_gia_Ba_Do.md)
 - 5. [Chương 0005 Hung đồ](chapter_0005_Chuong_0005_Hung_do.md)
 - 6. [Chương 0006 Sàn cách đấu](chapter_0006_Chuong_0006_San_cach_dau.md)
 - 7. [Chương 0007 Thợ Săn](chapter_0007_Chuong_0007_Tho_San.md)

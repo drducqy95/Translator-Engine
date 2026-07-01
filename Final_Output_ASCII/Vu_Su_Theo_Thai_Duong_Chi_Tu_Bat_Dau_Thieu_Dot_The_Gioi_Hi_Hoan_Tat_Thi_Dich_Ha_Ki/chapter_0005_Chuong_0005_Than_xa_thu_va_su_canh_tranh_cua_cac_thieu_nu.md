@@ -192,15 +192,15 @@ Hai thiếu nữ vốn còn ở lại sân bãi đột nhiên đi tới, chặn 
 
 "Green ca ca, lâu rồi không gặp, anh có thể dùng cơm cùng chúng em không?" Nhìn hai thiếu nữ đột nhiên xuất hiện, Green nhanh chóng lục lại dữ liệu về họ.
 
-"Lai Lạp, Mễ Á, vừa hay anh và Ngải Hy Duy Nhĩ cũng định đi ăn, nếu các em muốn đi thì cùng đi thôi."
+"Lai Lạp, Mia, vừa hay anh và Ngải Hy Duy Nhĩ cũng định đi ăn, nếu các em muốn đi thì cùng đi thôi."
 
-Lai Lạp và Mễ Á cũng là con cái quý tộc. Lai Lạp là con gái thứ tư của nam tước, tình cảnh không khác Ngải Hy Duy Nhĩ là mấy. Mễ Á thì thấp hơn một chút, là họ hàng xa của nam tước, gia tộc sa sút nên đến nương nhờ. Mẹ Mễ Á là nữ bộc trưởng, dù có chút quyền lực nhưng chung quy vẫn là người hầu. Kết cục của Mễ Á chắc là gả cho một tiểu đội trưởng trẻ tuổi hoặc nhân tài có tiềm năng.
+Lai Lạp và Mia cũng là con cái quý tộc. Lai Lạp là con gái thứ tư của nam tước, tình cảnh không khác Ngải Hy Duy Nhĩ là mấy. Mia thì thấp hơn một chút, là họ hàng xa của nam tước, gia tộc sa sút nên đến nương nhờ. Mẹ Mia là nữ bộc trưởng, dù có chút quyền lực nhưng chung quy vẫn là người hầu. Kết cục của Mia chắc là gả cho một tiểu đội trưởng trẻ tuổi hoặc nhân tài có tiềm năng.
 
 Vóc dáng Lai Lạp cũng rất bốc lửa, nhưng so với Ngải Hy Duy Nhĩ, gương mặt cô trưởng thành hơn, mang phong thái ngự tỷ, cộng thêm giọng nói hơi non nớt tạo nên sự tương phản mạnh mẽ.
 
-Mễ Á thì vóc dáng kém hơn, có lẽ do thiếu dinh dưỡng nên vòng một phát triển không tốt. Cô tỏ ra rất thận trọng, có chút lúng túng, tạo cảm giác muốn được che chở. Nhưng Green không bị vẻ ngoài đánh lừa, việc cô có thể cùng Lai Lạp chặn đường Ngải Hy Duy Nhĩ cho thấy tiểu nữ sinh này không đơn thuần như vẻ bề ngoài.
+Mia thì vóc dáng kém hơn, có lẽ do thiếu dinh dưỡng nên vòng một phát triển không tốt. Cô tỏ ra rất thận trọng, có chút lúng túng, tạo cảm giác muốn được che chở. Nhưng Green không bị vẻ ngoài đánh lừa, việc cô có thể cùng Lai Lạp chặn đường Ngải Hy Duy Nhĩ cho thấy tiểu nữ sinh này không đơn thuần như vẻ bề ngoài.
 
-Ngải Hy Duy Nhĩ thấy Lai Lạp và Mễ Á chặn đường thì sắc mặt âm trầm xuống, nhưng vẫn cố gắng thể hiện tốt trước mặt Green.
+Ngải Hy Duy Nhĩ thấy Lai Lạp và Mia chặn đường thì sắc mặt âm trầm xuống, nhưng vẫn cố gắng thể hiện tốt trước mặt Green.
 
 "Đã Green ca ca đồng ý, vậy mọi người cùng đi thôi." Ngải Hy Duy Nhĩ vẫn giữ nụ cười ngọt ngào nói với Green.
 

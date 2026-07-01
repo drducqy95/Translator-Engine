@@ -14,45 +14,45 @@ Trước đó, hắn lần lượt giết bốn tên hung đồ xông vào ‘nh
 
 Về phía sau còn có ai thì hắn không rõ. Sau khi giết Rắn Hổ Mang, có lẽ sẽ không ai biết sự tồn tại của hắn.
 
-Bên ngoài có động tĩnh, là Mễ Á. Cô ấy dậy từ rất sớm, sau khi rửa mặt liền nghe tiếng gõ cửa dưới lầu, Mễ Á xuống mở cửa tiệm.
+Bên ngoài có động tĩnh, là Mia. Cô ấy dậy từ rất sớm, sau khi rửa mặt liền nghe tiếng gõ cửa dưới lầu, Mia xuống mở cửa tiệm.
 
-“Bạch Vi Tả chào buổi sáng.” Mễ Á mỉm cười chào hỏi.
+“Bạch Vi Tả chào buổi sáng.” Mia mỉm cười chào hỏi.
 
-“Mễ Á cô chào buổi sáng.” Bạch Vi đáp: “Tôi đi chuẩn bị bữa sáng.”
+“Mia cô chào buổi sáng.” Bạch Vi đáp: “Tôi đi chuẩn bị bữa sáng.”
 
-“Không cần, để tôi. Bạch Vi Tả không biết Hứa Mạt và Tiểu Muội thích ăn gì.” Mễ Á cười nói.
+“Không cần, để tôi. Bạch Vi Tả không biết Hứa Mạt và Tiểu Muội thích ăn gì.” Mia cười nói.
 
 “Ừ, được.” Bạch Vi cũng không nài, gật đầu cười.
 
-Hứa Mạt cũng dậy, rửa mặt xong xuống lầu, gọi: “Mễ Á cô chào buổi sáng, Bạch Vi Tả chào buổi sáng.”
+Hứa Mạt cũng dậy, rửa mặt xong xuống lầu, gọi: “Mia cô chào buổi sáng, Bạch Vi Tả chào buổi sáng.”
 
 “Hứa Mạt chào buổi sáng.” Hai người mỉm cười đáp lại.
 
-“Hứa Mạt, hôm nay anh định ra ngoài à?” Mễ Á hỏi hắn.
+“Hứa Mạt, hôm nay anh định ra ngoài à?” Mia hỏi hắn.
 
 “Ừ.” Hứa Mạt gật đầu.
 
-Mễ Á như có điều suy nghĩ, rồi nói với Bạch Vi: “Ái Nhĩ Sa mời tôi mấy lần rồi, hôm nay muốn qua nhà cô ấy. Một mình tôi thì không mang theo Tiểu Muội. Bạch Vi Tả có thể giúp tôi trông Tiểu Muội được không? Tôi sẽ bảo bố hôm nay đừng ra ngoài.”
+Mia như có điều suy nghĩ, rồi nói với Bạch Vi: “Ái Nhĩ Sa mời tôi mấy lần rồi, hôm nay muốn qua nhà cô ấy. Một mình tôi thì không mang theo Tiểu Muội. Bạch Vi Tả có thể giúp tôi trông Tiểu Muội được không? Tôi sẽ bảo bố hôm nay đừng ra ngoài.”
 
-Ái Nhĩ Sa gần đây lui tới khá thường xuyên, có qua có lại, tự nhiên cũng muốn mời Mễ Á sang nhà làm khách.
+Ái Nhĩ Sa gần đây lui tới khá thường xuyên, có qua có lại, tự nhiên cũng muốn mời Mia sang nhà làm khách.
 
 “Được thôi.” Bạch Vi mỉm cười gật đầu.
 
-“Cảm ơn Bạch Vi Tả.” Mễ Á nói: “Vậy tôi đi chuẩn bị bữa sáng.”
+“Cảm ơn Bạch Vi Tả.” Mia nói: “Vậy tôi đi chuẩn bị bữa sáng.”
 
 Hứa Mạt nghe hai người nói chuyện, trên mặt cũng nở nụ cười. Trước đây Tiểu Muội chưa từng có đãi ngộ như vậy, có ai thương nó đâu.
 
 Ngồi trước quầy tiệm bách hóa, Hứa Mạt nhìn ra ngoài.
 
-“Hứa Mạt, Mễ Á cô thật tốt.” Bạch Vi nói với Hứa Mạt bên cạnh. Cô cho rằng Hứa Mạt có thể hiểu mình, dù sao hai người đồng bệnh tương liên.
+“Hứa Mạt, Mia cô thật tốt.” Bạch Vi nói với Hứa Mạt bên cạnh. Cô cho rằng Hứa Mạt có thể hiểu mình, dù sao hai người đồng bệnh tương liên.
 
-Ở tiệm bách hóa, cô ấy có thể cảm nhận được sự ấm áp. Mễ Á cô chưa bao giờ xem cô ấy như người hầu.
+Ở tiệm bách hóa, cô ấy có thể cảm nhận được sự ấm áp. Mia cô chưa bao giờ xem cô ấy như người hầu.
 
-“Ừ.” Hứa Mạt gật đầu nghiêm túc. Nhờ có Mễ Á, tiệm bách hóa này dường như tách biệt với thế giới bên ngoài.
+“Ừ.” Hứa Mạt gật đầu nghiêm túc. Nhờ có Mia, tiệm bách hóa này dường như tách biệt với thế giới bên ngoài.
 
-“Vậy sau này cậu phải đối xử tốt với Mễ Á cô đấy.” Ánh mắt Bạch Vi nhìn Hứa Mạt mang theo nụ cười ‘ẩn ý’.
+“Vậy sau này cậu phải đối xử tốt với Mia cô đấy.” Ánh mắt Bạch Vi nhìn Hứa Mạt mang theo nụ cười ‘ẩn ý’.
 
-“Tất nhiên, tôi sẽ luôn bảo vệ Mễ Á cô.” Hứa Mạt đáp. Bạch Vi thấy hắn nhìn ra ngoài, không biết hắn có hiểu ý mình không.
+“Tất nhiên, tôi sẽ luôn bảo vệ Mia cô.” Hứa Mạt đáp. Bạch Vi thấy hắn nhìn ra ngoài, không biết hắn có hiểu ý mình không.
 
 Sau khi ăn sáng, người qua đường dần đông lên, tiệm bách hóa cũng có khách.
 
@@ -66,7 +66,7 @@ Người phụ nữ đến trước mặt họ cao 1m75, mặc bộ đồ da bó
 
 Không chỉ xinh đẹp, lại anh tư sảng khoái, toát ra khí chất mạnh mẽ. Khi đến trước mặt, Bạch Vi hơi căng thẳng: “Xin chào, cô cần gì ạ?”
 
-Diệp Thanh Điệp nhìn Bạch Vi và Mễ Á, rồi nhìn Hứa Mạt.
+Diệp Thanh Điệp nhìn Bạch Vi và Mia, rồi nhìn Hứa Mạt.
 
 Nhóc tì tuổi còn nhỏ mà biết hưởng thụ cuộc sống nhỉ!
 
@@ -80,35 +80,35 @@ Tháng ngày, quả là sung sướng.
 
 “Tiểu Muội.” Diệp Thanh Điệp nhéo má Tiểu Muội, rồi nhìn Hứa Mạt: “Không giới thiệu một chút sao?”
 
-“Đây là Mễ Á cô, đây là Bạch Vi Tả.” Hứa Mạt giới thiệu.
+“Đây là Mia cô, đây là Bạch Vi Tả.” Hứa Mạt giới thiệu.
 
 Rồi nhìn hai người, chỉ vào Diệp Thanh Điệp: “Đây là Bướm tỷ.”
 
-“Diệp Thanh Điệp.” Diệp Thanh Điệp gật đầu với hai người. Mễ Á và Bạch Vi hiển nhiên còn chưa kịp phản ứng, hơi ngẩn ra.
+“Diệp Thanh Điệp.” Diệp Thanh Điệp gật đầu với hai người. Mia và Bạch Vi hiển nhiên còn chưa kịp phản ứng, hơi ngẩn ra.
 
 Người chị xinh đẹp này, là tìm Hứa Mạt.
 
 Diệp Thanh Điệp thấy phản ứng của hai người, cười với Hứa Mạt: “Đi chứ?”
 
-“Ừ.” Hứa Mạt gật đầu, giao Tiểu Muội cho Mễ Á: “Mễ Á cô, tôi ra ngoài đây.”
+“Ừ.” Hứa Mạt gật đầu, giao Tiểu Muội cho Mia: “Mia cô, tôi ra ngoài đây.”
 
-“Vâng.” Mễ Á gật đầu.
+“Vâng.” Mia gật đầu.
 
 Hứa Mạt bước ra, Diệp Thanh Điệp cũng xoay người rời đi.
 
-Mễ Á và Bạch Vi nhìn bóng lưng hai người, có chút sững sờ.
+Mia và Bạch Vi nhìn bóng lưng hai người, có chút sững sờ.
 
 “Mấy ngày nay Hứa Mạt ngày nào cũng ra ngoài, hóa ra thật là…” Bạch Vi khẽ nói.
 
 Nói xong cô lại ngậm miệng, cảm thấy hơi kỳ lạ. Tuy Diệp Thanh Điệp rất đẹp, nhưng cô ấy hơn Hứa Mạt không ít tuổi.
 
-“Chị ấy đẹp thật.” Mễ Á cười nói, nhưng nụ cười có vẻ hơi chua chua.
+“Chị ấy đẹp thật.” Mia cười nói, nhưng nụ cười có vẻ hơi chua chua.
 
 “Hồng phúc không cạn đâu, Hứa Mạt đệ đệ.” Diệp Thanh Điệp cười nhìn Hứa Mạt nói.
 
 Hứa Mạt lười đáp.
 
-“Cậu thích mấy chị gái hả?” Diệp Thanh Điệp cười ái muội. Cả Mễ Á lẫn Bạch Vi đều là chị.
+“Cậu thích mấy chị gái hả?” Diệp Thanh Điệp cười ái muội. Cả Mia lẫn Bạch Vi đều là chị.
 
 Hứa Mạt tiếp tục lờ đi.
 
@@ -182,6 +182,6 @@ Mày hắn càng nhíu chặt hơn, như phát hiện có điều gì đó khác
 
 Xa xa, một chiếc xe ngựa đang tiến về phía này. Trên xe, một thiếu nữ cười nói vui vẻ.
 
-“Mễ Á.” Trong mắt Hứa Mạt lộ ra vẻ ngạc nhiên. Đó là xe ngựa của Ái Nhĩ Sa, cô ấy và Mễ Á ở trên xe. Xe chạy ngang qua căn phòng hắn đang ở, hắn nghe Ái Nhĩ Sa nói với Mễ Á: “Phía trước không xa nữa là tới.”
+“Mia.” Trong mắt Hứa Mạt lộ ra vẻ ngạc nhiên. Đó là xe ngựa của Ái Nhĩ Sa, cô ấy và Mia ở trên xe. Xe chạy ngang qua căn phòng hắn đang ở, hắn nghe Ái Nhĩ Sa nói với Mia: “Phía trước không xa nữa là tới.”
 
-Hiển nhiên, nhà Ái Nhĩ Sa ở khu vực này. Cô vừa đi đón Mễ Á, giờ đang cùng nhau về nhà cô.
+Hiển nhiên, nhà Ái Nhĩ Sa ở khu vực này. Cô vừa đi đón Mia, giờ đang cùng nhau về nhà cô.

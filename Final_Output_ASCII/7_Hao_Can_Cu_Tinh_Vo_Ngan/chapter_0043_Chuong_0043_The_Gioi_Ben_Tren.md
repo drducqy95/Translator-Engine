@@ -32,7 +32,7 @@ Diệp Thanh Điệp và Hứa Mạt bò lên hành lang. Diệp Thanh Điệp g
 
 “Ừ.” Diệp Thanh Điệp gật, cũng cần may mắn mới được.
 
-Hai người tiếp tục leo, rồi gặp một đoạn đường cong hẹp, quá chật cho người to như Ba Đồ Lão Gia.
+Hai người tiếp tục leo, rồi gặp một đoạn đường cong hẹp, quá chật cho người to như Batu Lão Gia.
 
 Diệp Thanh Điệp và Hứa Mạt di chuyển nhanh, không có thời gian lãng phí.
 

@@ -1,6 +1,6 @@
 # Chương 0002 Không gian Chung Yên
 
-Niffle nhìn cảnh tượng trước mắt, vừa kinh ngạc vừa hoảng sợ. Người đàn ông bị cánh tay máy khóa chặt tứ chi kia không những không bị xé xác, mà còn kéo các cánh tay máy về trung tâm cơ thể mình.
+Niffler nhìn cảnh tượng trước mắt, vừa kinh ngạc vừa hoảng sợ. Người đàn ông bị cánh tay máy khóa chặt tứ chi kia không những không bị xé xác, mà còn kéo các cánh tay máy về trung tâm cơ thể mình.
 
 "Sao vậy? Tăng công suất lên!"
 
@@ -18,7 +18,7 @@ Người hành hình lau mồ hôi lạnh trên trán. Vì ông ta liên tục t
 
 Cảnh tượng trước mắt đã đi ngược lại nhận thức khoa học của họ. Sau khi bắt giữ Lục Ly, họ đã quét xuyên thấu và xác nhận hắn là người thời đại cũ thuần túy, không có khung xương máy nào, làm sao hắn chịu nổi sức kéo lớn như vậy?
 
-Niffle từng nghe nói thời đại cũ có những lực sĩ có thể dùng hai tay kéo hai cột đá nặng hơn ba trăm cân, nhưng chỉ giữ cột không đổ, chưa kể trọng lượng. Thể hình họ không thể sánh với Lục Ly.
+Niffler từng nghe nói thời đại cũ có những lực sĩ có thể dùng hai tay kéo hai cột đá nặng hơn ba trăm cân, nhưng chỉ giữ cột không đổ, chưa kể trọng lượng. Thể hình họ không thể sánh với Lục Ly.
 
 Vì khi hành hình đã bỏ áo tù, Lục Ly bị cố định trên bàn máy chỉ còn một chiếc quần lót. Thể hình hắn cân đối, không phải kiểu quái vật cơ bắp sộ như trong ấn tượng.
 
@@ -26,7 +26,7 @@ Lục Ly chậm rãi thu tứ chi trên bàn máy, tựa như tời kéo khổng
 
 Đúng vậy, hắn trời sinh thần lực.
 
-Trước đó hắn kể cho Niffle nghe câu chuyện trong truyện tranh, đối phương hiểu lầm. Hắn không phải người có kỹ thuật mà không có sức mạnh, mà là người có sức mạnh áp đảo.
+Trước đó hắn kể cho Niffler nghe câu chuyện trong truyện tranh, đối phương hiểu lầm. Hắn không phải người có kỹ thuật mà không có sức mạnh, mà là người có sức mạnh áp đảo.
 
 Cỗ máy cánh tay máy gầm lên như tiếng than, phần quá nhiệt bốc khói đen. Vệ binh xung quanh nhận ra tính nghiêm trọng, không biết Lục Ly làm sao, nhưng hành hình không được sai.
 
@@ -88,13 +88,13 @@ Nhanh, hắn quá nhanh!
 
 Không, khi lính ngã xuống, họ mới nhận ra người tên Lục Ly mới là Tử Thần trong sân.
 
-Tiếng còi báo động vang dội không ngớt, các lỗ thủng trên tường cao lộ ra, tia laser quét thành hàng. Chớp mắt, lính còn sống đều bị cắt ngang, chỉ Niffle đã mất kiểm soát đại tiểu tiện, ngồi bệt dưới đất may mắn thoát nạn.
+Tiếng còi báo động vang dội không ngớt, các lỗ thủng trên tường cao lộ ra, tia laser quét thành hàng. Chớp mắt, lính còn sống đều bị cắt ngang, chỉ Niffler đã mất kiểm soát đại tiểu tiện, ngồi bệt dưới đất may mắn thoát nạn.
 
 Cô kinh hoàng ngẩng đầu, muốn nhìn Lục Ly bị cắt, nhưng thấy hắn vừa chạm đỉnh cao nhất sau khi bật nhảy.
 
 Ánh mắt họ chạm nhau trong khoảnh khắc, rồi lại lướt qua, cô chỉ thấy sát khí nhạt nhẽo của người đàn ông.
 
-Trong ánh mắt tuyệt vọng của Niffle, tám vật mang vệt lửa rơi xuống từ trên trời.
+Trong ánh mắt tuyệt vọng của Niffler, tám vật mang vệt lửa rơi xuống từ trên trời.
 
 Người đàn ông vest đứng trên tường cao, cười tàn độc muốn rút về khu an toàn, nhưng ngay sau đó mắt ông ngập trong hoang mang vì thấy một tên lửa gần vị trí rơi của Lục Ly bay về phía mình!
 

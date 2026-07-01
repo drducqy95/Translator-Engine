@@ -92,7 +92,7 @@ Tuy nhiên Hứa Mạt cũng phát hiện ra, tên nhóc Tiểu Thất này đú
 
 Còn về việc cậu có phải cố cười để che giấu sự bi thương trong lòng hay không, Hứa Mạt không thể nào biết được.
 
-Hắn nghĩ đến Mễ Á, không biết Lão gia Ba Đồ đã dàn xếp ổn thỏa ở khu vực nội thành chưa.
+Hắn nghĩ đến Mia, không biết Lão gia Batu đã dàn xếp ổn thỏa ở khu vực nội thành chưa.
 
 Sau sự kiện lần này, trị an ở khu vực nội thành hẳn là sẽ tốt hơn một chút nhỉ?
 

@@ -22,7 +22,7 @@ Phố xá ngoài tiệm bách hóa người đến người đi, vẫn rất ná
 
 Hứa Mạt từ xa đã thấy một nữ tử mặc váy tím xinh đẹp đang dẫn Tiểu Muội chơi bên đường. Tiểu Muội tay cầm bóng bay, mặt rạng rỡ nụ cười.
 
-“Tiểu Muội, cẩn thận bóng bay bay mất.” Mễ Á đứng gần đó, vui vẻ nói.
+“Tiểu Muội, cẩn thận bóng bay bay mất.” Mia đứng gần đó, vui vẻ nói.
 
 Nhìn cảnh tượng yên tĩnh đẹp đẽ này, Hứa Mạt nhất thời quên đi sự tàn khốc của thế giới dưới đất.
 
@@ -30,7 +30,7 @@ Tiểu Muội chưa từng có ai dẫn đi chơi như vậy nhỉ.
 
 Cô gái nắm tay nàng là Ái Nhĩ Sa. Thấy cảnh này, Hứa Mạt tăng thêm mấy phần hảo cảm với ả. Ngoài kiêu ngạo một chút, người cũng không xấu. Nay bằng lòng chơi cùng Tiểu Muội, đại khái là vì lần trước trải nghiệm.
 
-Hứa Mạt không quấy rầy Mễ Á, định lén vào tiệm bách hóa, nhưng vừa tới đã nghe Bạch Vi ở cửa gọi: “Hứa Mạt về kìa.”
+Hứa Mạt không quấy rầy Mia, định lén vào tiệm bách hóa, nhưng vừa tới đã nghe Bạch Vi ở cửa gọi: “Hứa Mạt về kìa.”
 
 “Xong rồi.” Hứa Mạt thầm nghĩ.
 
@@ -40,29 +40,29 @@ Hứa Mạt không quấy rầy Mễ Á, định lén vào tiệm bách hóa, nh
 
 “Ca ca, mặt anh làm sao vậy?” Tiểu Muội thấy vết bầm trên mặt Hứa Mạt, giọng trẻ con hỏi.
 
-“Hứa Mạt, có chuyện gì vậy?” Mễ Á hiển nhiên cũng chú ý, sắc mặt biến đổi.
+“Hứa Mạt, có chuyện gì vậy?” Mia hiển nhiên cũng chú ý, sắc mặt biến đổi.
 
 “Không cẩn thận đụng.” Hứa Mạt chột dạ nói.
 
-“Sao đụng nghiêm trọng vậy?” Mễ Á có chút căng thẳng, kéo Hứa Mạt nói: “Đi với ta xoa thuốc. Tiểu Muội, con đến chỗ tỷ tỷ Ái Nhĩ Sa chơi.”
+“Sao đụng nghiêm trọng vậy?” Mia có chút căng thẳng, kéo Hứa Mạt nói: “Đi với ta xoa thuốc. Tiểu Muội, con đến chỗ tỷ tỷ Ái Nhĩ Sa chơi.”
 
 “Dạ.” Tiểu Muội ngoan ngoãn gật đầu, quay người đi về phía Ái Nhĩ Sa. Ái Nhĩ Sa liếc Hứa Mạt một cái, tiếp tục dẫn Tiểu Muội chơi.
 
-Mễ Á kéo Hứa Mạt ngồi ở cửa tiệm bách hóa, tự mình vào lấy thuốc.
+Mia kéo Hứa Mạt ngồi ở cửa tiệm bách hóa, tự mình vào lấy thuốc.
 
 “Sao không cẩn thận thế.” Bạch Vi thấy vậy cũng lên tiếng. Hứa Mạt cười khổ.
 
-Mễ Á tới, bôi thuốc mỡ lên ngón tay rồi day lên mặt Hứa Mạt.
+Mia tới, bôi thuốc mỡ lên ngón tay rồi day lên mặt Hứa Mạt.
 
 “Tê…” Hứa Mạt cắn răng, thầm nghĩ ngày mai nhất định phải trả thù C tỷ.
 
-“Đau hả?” Mễ Á nhẹ nhàng bôi thuốc, thổi một hơi lên mặt Hứa Mạt. Một cảm giác tê dại truyền tới. Nhìn gương mặt kề cận, ánh mắt Hứa Mạt có chút là lạ.
+“Đau hả?” Mia nhẹ nhàng bôi thuốc, thổi một hơi lên mặt Hứa Mạt. Một cảm giác tê dại truyền tới. Nhìn gương mặt kề cận, ánh mắt Hứa Mạt có chút là lạ.
 
-Mễ Á vốn không nghĩ nhiều, lúc này thấy mắt Hứa Mạt, bốn mắt nhìn nhau, mặt nàng đỏ bừng, vội lùi lại, cúi đầu đậy nắp thuốc.
+Mia vốn không nghĩ nhiều, lúc này thấy mắt Hứa Mạt, bốn mắt nhìn nhau, mặt nàng đỏ bừng, vội lùi lại, cúi đầu đậy nắp thuốc.
 
-“Mễ Á cô, sao hôm nay Ái Nhĩ Sa cô ở đây lâu thế?” Hứa Mạt tò mò hỏi.
+“Mia cô, sao hôm nay Ái Nhĩ Sa cô ở đây lâu thế?” Hứa Mạt tò mò hỏi.
 
-“Học nhạc mà.” Mễ Á nói: “Cô ấy nói muốn xin lỗi anh. Hứa Mạt, hôm đó Ái Nhĩ Sa tuy có chút không đúng, nhưng không cố ý. Anh xem, Tiểu Muội chơi với cô ấy vui biết bao.”
+“Học nhạc mà.” Mia nói: “Cô ấy nói muốn xin lỗi anh. Hứa Mạt, hôm đó Ái Nhĩ Sa tuy có chút không đúng, nhưng không cố ý. Anh xem, Tiểu Muội chơi với cô ấy vui biết bao.”
 
 “Ừ.” Hứa Mạt gật đầu, cũng không để tâm.
 
@@ -74,7 +74,7 @@ Trong tiếng động cơ gầm rú, hai người huýt sáo về phía Ái Nhĩ
 
 Ái Nhĩ Sa ngước nhìn chiếc xe đang tới, cau mày. Hành vi bất lịch sự này khiến nàng chán ghét.
 
-“Đây là nhà họ Ba Đồ à?” Người phía trước lên tiếng. Bỗng nhiên có tiếng khóc, hai người mới cúi nhìn cô bé đang chơi bóng bay, khẽ cười: thì ra là đứa bé được lão gia Ba Đồ cứu.
+“Đây là nhà họ Batu à?” Người phía trước lên tiếng. Bỗng nhiên có tiếng khóc, hai người mới cúi nhìn cô bé đang chơi bóng bay, khẽ cười: thì ra là đứa bé được lão gia Batu cứu.
 
 “Sao khóc thế, còn nhớ ca ca không?” Xe dừng bên cạnh Ái Nhĩ Sa và Tiểu Muội. Người đàn ông phía sau nhảy xuống, ngồi xổm trước mặt Tiểu Muội cười nói.
 
@@ -82,7 +82,7 @@ Tiểu Muội sợ tới mức ngồi bệt xuống đất, khóc nức nở. Ch
 
 “Tiểu Muội làm sao vậy?” Ái Nhĩ Sa không hiểu, ngồi xuống ôm nàng.
 
-Hứa Mạt lao tới, một tay bế Tiểu Muội lên, nhìn chằm chằm thanh niên đang ngồi xổm. Mễ Á cũng chạy theo sau, chưa hiểu chuyện gì, Hứa Mạt đã xông ra, phản ứng rất mạnh, như sợ Tiểu Muội bị tổn thương.
+Hứa Mạt lao tới, một tay bế Tiểu Muội lên, nhìn chằm chằm thanh niên đang ngồi xổm. Mia cũng chạy theo sau, chưa hiểu chuyện gì, Hứa Mạt đã xông ra, phản ứng rất mạnh, như sợ Tiểu Muội bị tổn thương.
 
 Ái Nhĩ Sa cũng bị hành động của Hứa Mạt làm giật mình. Chuyện gì thế này?
 
@@ -104,7 +104,7 @@ Rõ ràng chuyện hôm ấy đã gây tổn thương lớn cho tâm hồn non n
 
 Xe máy liên tục nổ vang, thanh niên vừa xuống xe ngồi lại, sau đó xe nổ máy, vòng quanh Hứa Mạt và mọi người.
 
-“Các người làm gì thế?” Ái Nhĩ Sa và Mễ Á chưa gặp tình huống này, mặt đều biến sắc.
+“Các người làm gì thế?” Ái Nhĩ Sa và Mia chưa gặp tình huống này, mặt đều biến sắc.
 
 Hứa Mạt vẫn ôm Tiểu Muội. Đối phương đang cân nhắc nên làm gì, hắn cũng vậy. Giết người ngay đây rõ ràng bất khả thi, triệt để lộ thân, đội chấp pháp sẽ không tha.
 
@@ -140,13 +140,13 @@ Chuyện này không cần nói với Ái Nhĩ Sa.
 
 “Ừ.” Hứa Mạt gật đầu, bế Tiểu Muội về, không nói thêm gì. Giờ hắn không có tâm trạng.
 
-Ái Nhĩ Sa ngẩn ra, thấy Hứa Mạt phớt lờ mình, có chút thất vọng. Qua nói chuyện với Mễ Á, cô đoán những bản nhạc đó là do Hứa Mạt sáng tác, thằng nhỏ này là thiên tài âm nhạc.
+Ái Nhĩ Sa ngẩn ra, thấy Hứa Mạt phớt lờ mình, có chút thất vọng. Qua nói chuyện với Mia, cô đoán những bản nhạc đó là do Hứa Mạt sáng tác, thằng nhỏ này là thiên tài âm nhạc.
 
 “Ái Nhĩ Sa cô, chúng ta về trước đi.” Khố Bách lên tiếng. Hôm nay ra ngoài đã lâu.
 
-“Vâng.” Ái Nhĩ Sa gật đầu, nói với Mễ Á: “Mễ Á, mai tôi lại tìm cô.”
+“Vâng.” Ái Nhĩ Sa gật đầu, nói với Mia: “Mia, mai tôi lại tìm cô.”
 
-“Được ạ.” Mễ Á gật đầu. Hai người tạm biệt nhau. Ái Nhĩ Sa lên xe ngựa rời đi.
+“Được ạ.” Mia gật đầu. Hai người tạm biệt nhau. Ái Nhĩ Sa lên xe ngựa rời đi.
 
 Hứa Mạt trở lại tiệm bách hóa, mày vẫn nhíu chặt.
 
@@ -166,6 +166,6 @@ Hai kẻ đó, có nói cho Rắn Hổ Mang không?
 
 Nếu nói, Rắn Hổ Mang có thèm để ý kẻ nhỏ bé như hắn mà đích thân ra tay không?
 
-Giờ hắn có thể dẫn Tiểu Muội đi, nhưng sợ sẽ liên lụy lão gia Ba Đồ và Mễ Á.
+Giờ hắn có thể dẫn Tiểu Muội đi, nhưng sợ sẽ liên lụy lão gia Batu và Mia.
 
-Xem ra, phải nói chuyện với lão gia Ba Đồ.
+Xem ra, phải nói chuyện với lão gia Batu.

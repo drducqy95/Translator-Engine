@@ -18,7 +18,7 @@ Green chăm chú quan sát tòa thành phía xa. Đó là một tòa thành mang
 
 Một khi chiến tranh nổ ra, kẻ địch tấn công, những lỗ châu mai này sẽ mở ra, những mũi tên bắn ra từ cung thủ sẽ cho kẻ địch nếm trải cái gọi là lời kêu gọi của tử thần.
 
-Xung quanh tòa thành còn có một con sông hộ thành, nước chảy liên tục bao quanh. Đây là công trình do nam tước đích thân giám sát, dẫn dòng sông bắt nguồn từ An Na Bố Nhĩ qua các kênh đào đến cạnh tòa thành, giúp ngăn chặn quân địch hiệu quả.
+Xung quanh tòa thành còn có một con sông hộ thành, nước chảy liên tục bao quanh. Đây là công trình do nam tước đích thân giám sát, dẫn dòng sông bắt nguồn từ Anna Bố Nhĩ qua các kênh đào đến cạnh tòa thành, giúp ngăn chặn quân địch hiệu quả.
 
 Tựa người vào lan can xe ngựa, Green tiếp tục điều khiển xe. Theo ký ức trong linh hồn, có lẽ phải mất khoảng hai ba cái đồng hồ cát nữa mới về đến tòa thành.
 

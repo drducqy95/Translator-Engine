@@ -24,9 +24,9 @@ Sau khi xem đi xem lại thông tin thị giác mà chip ghi lại, Green đã 
 
 Green lập tức ra lệnh cho chip hiển thị bản đồ lãnh địa nam tước. Đây là dữ liệu về môi trường xung quanh lãnh địa mà cậu thu thập được trong quá trình chạy bộ. Còn bản đồ phạm vi rộng hơn thì dựa vào sách của lão Green.
 
-Một hình ảnh ba chiều được chiếu vào tầm mắt Green. Sau khi đối chiếu kỹ lưỡng, vị trí xuất hiện ánh lửa chính là dãy núi An Na Bố Nhĩ, điều này khiến nỗi bất an trong lòng Green càng thêm nghiêm trọng.
+Một hình ảnh ba chiều được chiếu vào tầm mắt Green. Sau khi đối chiếu kỹ lưỡng, vị trí xuất hiện ánh lửa chính là dãy núi Anna Bố Nhĩ, điều này khiến nỗi bất an trong lòng Green càng thêm nghiêm trọng.
 
-[Dãy núi An Na Bố Nhĩ lúc này đã bị tuyết lớn phong sơn, người trong lãnh địa nam tước tuyệt đối sẽ không mạo hiểm như vậy. Ánh lửa này có vấn đề.]
+[Dãy núi Anna Bố Nhĩ lúc này đã bị tuyết lớn phong sơn, người trong lãnh địa nam tước tuyệt đối sẽ không mạo hiểm như vậy. Ánh lửa này có vấn đề.]
 
 Không chút do dự, Green đóng cửa sổ, xoay người đi tìm lão Green. Tình huống này rõ ràng cần tìm người có kinh nghiệm hơn. Dù khả năng học tập của Green có mạnh đến đâu, thời gian cậu đến thế giới này vẫn còn quá ngắn, kinh nghiệm sống vẫn còn quá ít.
 
@@ -36,15 +36,15 @@ Không chút do dự, Green đóng cửa sổ, xoay người đi tìm lão Green
 
 "Đã xảy ra chuyện gì?" Lão Green vừa mở cửa liền hỏi.
 
-Green kể lại toàn bộ sự việc mình nhìn thấy ánh lửa trên dãy núi An Na Bố Nhĩ khi đang ngắm tuyết cho lão Green nghe.
+Green kể lại toàn bộ sự việc mình nhìn thấy ánh lửa trên dãy núi Anna Bố Nhĩ khi đang ngắm tuyết cho lão Green nghe.
 
-Nghe xong, lão Green ngồi xuống bên giường, lấy từ ngăn kéo ra một tấm bản đồ. Đó chính là bản đồ bố cục chi tiết của lãnh địa nam tước và dãy núi An Na Bố Nhĩ.
+Nghe xong, lão Green ngồi xuống bên giường, lấy từ ngăn kéo ra một tấm bản đồ. Đó chính là bản đồ bố cục chi tiết của lãnh địa nam tước và dãy núi Anna Bố Nhĩ.
 
 "Green, dựa theo quan sát của cháu, có thể đánh dấu vị trí đại khái của ánh lửa không?" Lão Green chỉ vào bản đồ hỏi.
 
 Green sở hữu chip nên đã sớm tính toán ra vị trí chính xác, nhưng để tránh gây chú ý, cậu chỉ chỉ vào bản đồ và đưa ra một phương vị tương đối.
 
-Nhìn trên bản đồ, vị trí xuất hiện ánh lửa nằm ở phía ngoài dãy núi An Na Bố Nhĩ, nơi có con sông Nạp Sâm Hà chảy ngang qua lãnh địa nam tước.
+Nhìn trên bản đồ, vị trí xuất hiện ánh lửa nằm ở phía ngoài dãy núi Anna Bố Nhĩ, nơi có con sông Nạp Sâm Hà chảy ngang qua lãnh địa nam tước.
 
 Green và lão Green lập tức nhận ra, nếu đây không phải sự kiện ngẫu nhiên, thì có vẻ như có kẻ đang muốn nhắm vào lãnh địa của nam tước.
 
@@ -92,11 +92,11 @@ Green tiếp tục chờ đợi trong phòng nghỉ. Lão Green diện kiến na
 
 "Thế nào, nam tước nói sao?" Sắc mặt lão Green khi trở về không mấy tốt đẹp.
 
-"Cuộc sống hòa bình e là sẽ kết thúc trong hai năm tới. Từ vài năm trước đã có lời đồn vương quốc Tát Lạp Đinh tìm thấy một lối đi xuyên qua dãy núi An Na Bố Nhĩ, có thể trực tiếp tiến vào biên giới vương quốc Lạc Đinh. Tuy nhiên khả năng đó quá thấp nên mọi người chỉ coi là tin đồn. Nhưng ánh lửa xuất hiện lúc này rất có thể là thật. Nam tước đã chuẩn bị phái vệ binh đi thám thính, sẽ sớm có kết quả thôi." Lão Green lo lắng trả lời Green.
+"Cuộc sống hòa bình e là sẽ kết thúc trong hai năm tới. Từ vài năm trước đã có lời đồn vương quốc Tát Lạp Đinh tìm thấy một lối đi xuyên qua dãy núi Anna Bố Nhĩ, có thể trực tiếp tiến vào biên giới vương quốc Lạc Đinh. Tuy nhiên khả năng đó quá thấp nên mọi người chỉ coi là tin đồn. Nhưng ánh lửa xuất hiện lúc này rất có thể là thật. Nam tước đã chuẩn bị phái vệ binh đi thám thính, sẽ sớm có kết quả thôi." Lão Green lo lắng trả lời Green.
 
 Đám vệ binh bên cạnh nghe tin này cũng lộ vẻ lo âu. Không ai muốn chiến tranh xảy ra, vì chiến trường thực sự là nơi sẽ có người chết.
 
-Đúng lúc mọi người đang lo lắng, đội trưởng vệ binh Áo Tư cùng nam tước xuất động, dẫn theo một đội vệ binh lớn, cầm đuốc đặc biệt lao nhanh về phía dãy núi An Na Bố Nhĩ. Dưới ánh trăng, giáp bạc lấp lánh hàn quang, sát khí lạnh lẽo tỏa ra từ đội ngũ.
+Đúng lúc mọi người đang lo lắng, đội trưởng vệ binh Áo Tư cùng nam tước xuất động, dẫn theo một đội vệ binh lớn, cầm đuốc đặc biệt lao nhanh về phía dãy núi Anna Bố Nhĩ. Dưới ánh trăng, giáp bạc lấp lánh hàn quang, sát khí lạnh lẽo tỏa ra từ đội ngũ.
 
 Green và lão Green không rời tòa thành mà ở lại bên trong. Bên ngoài hiện tại đã không an toàn, quay về nhà kho là một hành động ngu xuẩn. Ít nhất cũng phải đợi đến hừng đông mới có thể quay về lấy đồ.
 

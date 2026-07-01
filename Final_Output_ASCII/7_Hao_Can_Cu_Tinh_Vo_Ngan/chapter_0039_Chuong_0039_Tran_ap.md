@@ -2,7 +2,7 @@
 
 Sáng sớm hôm sau, rất nhiều người bắt đầu di cư rời khỏi khu vực này, không phải ai cũng dám đứng lên phản kháng.
 
-Cửa tiệm bách hóa khóa chặt, lão gia Ba Đồ đã đưa Mễ Á và những người khác rời khỏi chốn thị phi này.
+Cửa tiệm bách hóa khóa chặt, lão gia Batu đã đưa Mia và những người khác rời khỏi chốn thị phi này.
 
 Hôm qua Hứa Mạt đã luyện đao suốt một đêm, dùng chính con người để luyện đao.
 
@@ -34,7 +34,7 @@ Chỉ thấy một nửa số quái thú thép cùng đội ngũ đông đảo c
 
 Hắn tiếp tục bước đi, bên cạnh vang lên những tiếng động dữ dội. Quái thú thép và đội trấn áp lướt qua người hắn. Những người khác cũng giống Hứa Mạt, nép sát vào tường hai bên phố vì sợ trở thành mục tiêu thanh trừ.
 
-"Với loại quái thú thép này, người bình thường e là không còn chút khả năng phản kháng nào nữa." Hứa Mạt cảm thấy bi ai trong lòng, quả nhiên đúng như lời lão gia Ba Đồ nói, lực lượng trấn áp ngày càng mạnh.
+"Với loại quái thú thép này, người bình thường e là không còn chút khả năng phản kháng nào nữa." Hứa Mạt cảm thấy bi ai trong lòng, quả nhiên đúng như lời lão gia Batu nói, lực lượng trấn áp ngày càng mạnh.
 
 Dân chúng ở thế giới dưới lòng đất vốn không có vũ khí tiên tiến, khoa học kỹ thuật bị kìm hãm.
 

@@ -32,6 +32,18 @@ ENTITY_CANONICAL_OVERRIDES = {
     "La Bá Đặc": "Robert",
     "Mặc Phỉ": "Murphy",
     "Đức Tư Lễ": "Dursley",
+    "Mã Lệ": "Mary",
+    "Y Mã": "Emma",
+    "Vi Đức": "Wade",
+    "An Na": "Anna",
+    "Ốc Tư": "Woods",
+    "Ba Đồ": "Batu",
+    "Mễ Á": "Mia",
+    "A Nhĩ Toa": "Elsa",
+    "Ái Nhĩ Toa": "Elsa",
+    "Ngải Nhĩ Sa": "Elsa",
+    "Nifflerr": "Niffler",
+    "Niffle": "Niffler",
 }
 
 

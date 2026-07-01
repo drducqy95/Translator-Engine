@@ -76,13 +76,13 @@ Rắn Hổ Mang và Mạc Khắc trong phòng nhìn cuộc ngược sát phía d
 
 Hứa Mạt tập luyện trong nhà máy bỏ hoang gần cả ngày, gần tối mới về tiệm bách hóa.
 
-Mễ Á đợi hắn ở cửa, thấy Hứa Mạt cúi đầu, Mễ Á thấy kỳ lạ, nói: “Hứa Mạt, anh sao thế?”
+Mia đợi hắn ở cửa, thấy Hứa Mạt cúi đầu, Mia thấy kỳ lạ, nói: “Hứa Mạt, anh sao thế?”
 
-“Mễ Á cô, không sao.” Hứa Mạt cúi đầu nói, muốn lẻn vào, bị Mễ Á nắm tay kéo ra.
+“Mia cô, không sao.” Hứa Mạt cúi đầu nói, muốn lẻn vào, bị Mia nắm tay kéo ra.
 
-Thấy vết bầm trên mặt Hứa Mạt, Mễ Á sững người. Hứa Mạt cứng đầu nói: “Không cẩn thận lại va.”
+Thấy vết bầm trên mặt Hứa Mạt, Mia sững người. Hứa Mạt cứng đầu nói: “Không cẩn thận lại va.”
 
-Mễ Á trừng mắt nhìn hắn, cô đâu ngu.
+Mia trừng mắt nhìn hắn, cô đâu ngu.
 
 Nhưng Hứa Mạt không nói, cô cũng không hỏi, lặng lẽ nói: “Tôi đi lấy thuốc.”
 
@@ -98,41 +98,41 @@ Hứa Mạt thở dài.
 
 Hứa Mạt: “…………”
 
-Mễ Á lấy thuốc mỡ bôi cho hắn, mặt lộ vẻ đau lòng. Hôm qua chưa lành hẳn, hôm nay lại thế, không biết ai ra tay ác vậy.
+Mia lấy thuốc mỡ bôi cho hắn, mặt lộ vẻ đau lòng. Hôm qua chưa lành hẳn, hôm nay lại thế, không biết ai ra tay ác vậy.
 
 Tuy muốn biết nhưng Hứa Mạt không nói, cô chỉ đành đoán.
 
-“Hứa Mạt, Ái Nhĩ Sa muốn mời chúng ta đến nhà cô ấy.” Mễ Á vừa bôi thuốc vừa nói.
+“Hứa Mạt, Ái Nhĩ Sa muốn mời chúng ta đến nhà cô ấy.” Mia vừa bôi thuốc vừa nói.
 
 “Chúng ta?” Hứa Mạt ngạc nhiên.
 
-“Ừ.” Mễ Á gật đầu: “Ái Nhĩ Sa chắc đoán ra rồi.”
+“Ừ.” Mia gật đầu: “Ái Nhĩ Sa chắc đoán ra rồi.”
 
-Hứa Mạt hiểu ý Mễ Á. Quan hệ giữa Ái Nhĩ Sa và Mễ Á dễ đoán rằng những bản nhạc kia không phải Mễ Á sáng tác.
+Hứa Mạt hiểu ý Mia. Quan hệ giữa Ái Nhĩ Sa và Mia dễ đoán rằng những bản nhạc kia không phải Mia sáng tác.
 
-Thấy Hứa Mạt không nói, Mễ Á tiếp: “Ái Nhĩ Sa quen nhiều người. Tô Tây trước kia là bạn cô ấy, cha Tô Tây làm trong nghị viện thành bang. Ái Nhĩ Sa tuy không nhắc, nhưng tôi đoán cha cô ấy cũng có liên hệ với nghị viện thành bang. Vậy nếu Ái Nhĩ Sa chịu giúp, có thể chăm sóc anh và Tiểu Muội tốt hơn.”
+Thấy Hứa Mạt không nói, Mia tiếp: “Ái Nhĩ Sa quen nhiều người. Tô Tây trước kia là bạn cô ấy, cha Tô Tây làm trong nghị viện thành bang. Ái Nhĩ Sa tuy không nhắc, nhưng tôi đoán cha cô ấy cũng có liên hệ với nghị viện thành bang. Vậy nếu Ái Nhĩ Sa chịu giúp, có thể chăm sóc anh và Tiểu Muội tốt hơn.”
 
-Mấy ngày nay, Ái Nhĩ Sa hỏi thăm Hứa Mạt khá nhiều. Tâm tư thiếu nữ tinh tế nhạy cảm, Mễ Á sao không nhận ra.
+Mấy ngày nay, Ái Nhĩ Sa hỏi thăm Hứa Mạt khá nhiều. Tâm tư thiếu nữ tinh tế nhạy cảm, Mia sao không nhận ra.
 
-Mễ Á vừa nói vừa liếc mặt Hứa Mạt. Hắn hình như càng ngày càng đẹp trai, lại cao thêm, giờ đã cao hơn cô.
+Mia vừa nói vừa liếc mặt Hứa Mạt. Hắn hình như càng ngày càng đẹp trai, lại cao thêm, giờ đã cao hơn cô.
 
-Hứa Mạt hơi ngạc nhiên, không ngờ Mễ Á nghĩ nhiều vậy. Hắn tự nhiên thấy gia đình Ái Nhĩ Sa chắc rất tốt, ngay cả xa phu cũng thân thủ bất phàm, kiêm luôn bảo vệ cô.
+Hứa Mạt hơi ngạc nhiên, không ngờ Mia nghĩ nhiều vậy. Hắn tự nhiên thấy gia đình Ái Nhĩ Sa chắc rất tốt, ngay cả xa phu cũng thân thủ bất phàm, kiêm luôn bảo vệ cô.
 
-Xem ra Mễ Á tuy thiện lương nhưng không ngốc. Chỉ là trong thế giới ngầm này, nhiều khi cô thà ngốc một chút cho dễ chịu.
+Xem ra Mia tuy thiện lương nhưng không ngốc. Chỉ là trong thế giới ngầm này, nhiều khi cô thà ngốc một chút cho dễ chịu.
 
-“Không đi.” Hứa Mạt nhìn Mễ Á đáp.
+“Không đi.” Hứa Mạt nhìn Mia đáp.
 
-“Sao thế?” Mễ Á nhìn hắn: “Vẫn để bụng chuyện trước sao? Ái Nhĩ Sa tuy kiêu ngạo, nhưng tâm địa tốt.”
+“Sao thế?” Mia nhìn hắn: “Vẫn để bụng chuyện trước sao? Ái Nhĩ Sa tuy kiêu ngạo, nhưng tâm địa tốt.”
 
-“Mễ Á cô, tôi lên nghỉ.” Hứa Mạt không để ý, thẳng lên lầu.
+“Mia cô, tôi lên nghỉ.” Hứa Mạt không để ý, thẳng lên lầu.
 
-Mễ Á ngẩn ra, Hứa Mạt trước chưa bao giờ bất lịch sự thế.
+Mia ngẩn ra, Hứa Mạt trước chưa bao giờ bất lịch sự thế.
 
-Nhưng ngẩn người xong, khóe miệng Mễ Á lại thoáng một nụ cười rất nhạt, lóe rồi tắt.
+Nhưng ngẩn người xong, khóe miệng Mia lại thoáng một nụ cười rất nhạt, lóe rồi tắt.
 
 Tâm tư thiếu nữ, luôn phức tạp thế.
 
-Khoảng thời gian tiếp theo, Hứa Mạt ngày nào cũng đi sớm về trễ. Mễ Á không hỏi, cô biết hắn đã khác xưa, có chủ kiến riêng.
+Khoảng thời gian tiếp theo, Hứa Mạt ngày nào cũng đi sớm về trễ. Mia không hỏi, cô biết hắn đã khác xưa, có chủ kiến riêng.
 
 Ngược lại Bạch Vi thỉnh thoảng tò mò, thằng nhóc Hứa Mạt này ngày nào ra ngoài làm gì?
 

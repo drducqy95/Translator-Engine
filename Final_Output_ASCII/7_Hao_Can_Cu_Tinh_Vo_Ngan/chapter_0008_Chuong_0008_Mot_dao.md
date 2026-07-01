@@ -118,26 +118,26 @@ Khả năng cảm nhận mạnh mẽ giúp hắn dễ dàng thoát khỏi sự t
 
 Hứa Mạt trở về tiệm bách hóa, bỗng có cảm giác như trải qua mấy kiếp. Nơi đây và bên trong chợ đen như hai thế giới.
 
-“Hứa Mạt, anh về rồi.” Mễ Á thấy Hứa Mạt về thì cười ngọt ngào. Cô đang kể chuyện cho Tiểu Muội nghe.
+“Hứa Mạt, anh về rồi.” Mia thấy Hứa Mạt về thì cười ngọt ngào. Cô đang kể chuyện cho Tiểu Muội nghe.
 
-“Ừ, vất vả cho cô Mễ Á rồi.” Hứa Mạt đáp.
+“Ừ, vất vả cho cô Mia rồi.” Hứa Mạt đáp.
 
-“Không được khách khí thế.” Mễ Á giả vờ giận dỗi, cũng không hỏi Hứa Mạt đi đâu, nhìn Tiểu Muội nói: “Hứa Mạt, Tiểu Muội thông minh lắm. Tôi định sau này cũng dạy em ấy nhận mặt chữ.”
+“Không được khách khí thế.” Mia giả vờ giận dỗi, cũng không hỏi Hứa Mạt đi đâu, nhìn Tiểu Muội nói: “Hứa Mạt, Tiểu Muội thông minh lắm. Tôi định sau này cũng dạy em ấy nhận mặt chữ.”
 
-Tiểu Muội ngồi bên cạnh ngước nhìn Hứa Mạt cười ngây ngô, giọng trẻ thơ: “Ca ca, Tiểu Muội thích nghe chị Mễ Á kể chuyện.”
+Tiểu Muội ngồi bên cạnh ngước nhìn Hứa Mạt cười ngây ngô, giọng trẻ thơ: “Ca ca, Tiểu Muội thích nghe chị Mia kể chuyện.”
 
-Hứa Mạt bước lên xoa đầu Tiểu Muội, khẽ nói: “Vậy Tiểu Muội phải nhớ lòng tốt của chị Mễ Á nhé, biết không?”
+Hứa Mạt bước lên xoa đầu Tiểu Muội, khẽ nói: “Vậy Tiểu Muội phải nhớ lòng tốt của chị Mia nhé, biết không?”
 
 “Ừ.” Tiểu Muội nghiêm túc gật đầu.
 
-“Cô Mễ Á, tôi đi thay đồ.” Hứa Mạt nói rồi đi vào trong, không lâu sau đã quay ra: “Cô Mễ Á, tôi trông tiệm, chị đi nghỉ đi.”
+“Cô Mia, tôi đi thay đồ.” Hứa Mạt nói rồi đi vào trong, không lâu sau đã quay ra: “Cô Mia, tôi trông tiệm, chị đi nghỉ đi.”
 
-“Không sao đâu, anh trông tiệm, tôi tiếp tục kể chuyện cho Tiểu Muội nghe.” Mễ Á nhường chút chỗ cho Hứa Mạt.
+“Không sao đâu, anh trông tiệm, tôi tiếp tục kể chuyện cho Tiểu Muội nghe.” Mia nhường chút chỗ cho Hứa Mạt.
 
-Hứa Mạt ngồi xuống, một mùi thơm ngát nhẹ nhàng thoảng vào mũi. Hắn nghiêng đầu nhìn Mễ Á đang chăm chú kể chuyện bên cạnh. Mễ Á, tốt bụng và dịu dàng, như một dòng nước trong giữa thế giới dã man này. Cô lẽ ra không nên sinh ra ở thế giới dã man này.
+Hứa Mạt ngồi xuống, một mùi thơm ngát nhẹ nhàng thoảng vào mũi. Hắn nghiêng đầu nhìn Mia đang chăm chú kể chuyện bên cạnh. Mia, tốt bụng và dịu dàng, như một dòng nước trong giữa thế giới dã man này. Cô lẽ ra không nên sinh ra ở thế giới dã man này.
 
-Không biết liệu Lão gia Ba Đồ có thể mãi mãi che chở cho cô Mễ Á không.
+Không biết liệu Lão gia Batu có thể mãi mãi che chở cho cô Mia không.
 
-“Hứa Mạt, anh nhìn gì thế?” Mễ Á phát giác điều gì đó, quay đầu lại liếc nhìn Hứa Mạt.
+“Hứa Mạt, anh nhìn gì thế?” Mia phát giác điều gì đó, quay đầu lại liếc nhìn Hứa Mạt.
 
-“Không có gì.” Hứa Mạt dời ánh mắt. Mễ Á cảm thấy hơi là lạ, Hứa Mạt bây giờ dường như khác trước, nhưng khác chỗ nào thì cô cũng không nói rõ được.
+“Không có gì.” Hứa Mạt dời ánh mắt. Mia cảm thấy hơi là lạ, Hứa Mạt bây giờ dường như khác trước, nhưng khác chỗ nào thì cô cũng không nói rõ được.

@@ -1,46 +1,46 @@
 # Chương 0026 Không phải người?
 
-Hứa Mạt dỗ Tiểu Muội ngủ xong, liền lên sân thượng. Thân hình mập mạp của Lão gia Ba Đồ đang cẩn thận tưới hoa. Hứa Mạt yên lặng nhìn, không quấy rầy.
+Hứa Mạt dỗ Tiểu Muội ngủ xong, liền lên sân thượng. Thân hình mập mạp của Lão gia Batu đang cẩn thận tưới hoa. Hứa Mạt yên lặng nhìn, không quấy rầy.
 
-"Hoa dưới lòng đất không dễ sống, phải tốn rất nhiều thời gian tinh lực, sơ sẩy là héo." Lão gia Ba Đồ khẽ nói, như tự lẩm bẩm.
+"Hoa dưới lòng đất không dễ sống, phải tốn rất nhiều thời gian tinh lực, sơ sẩy là héo." Lão gia Batu khẽ nói, như tự lẩm bẩm.
 
 Nhưng Hứa Mạt cảm giác ông ta mượn hoa để nói về người.
 
-Hoa là vậy, người dưới lòng đất há chẳng thế? Nếu không có Lão gia Ba Đồ bảo vệ, cô Mễ Á hiền lành thế này, khó mà sống nổi.
+Hoa là vậy, người dưới lòng đất há chẳng thế? Nếu không có Lão gia Batu bảo vệ, cô Mia hiền lành thế này, khó mà sống nổi.
 
-"Lão gia Ba Đồ, vừa nãy dưới lầu tôi gặp hung thủ." Hứa Mạt mở miệng.
+"Lão gia Batu, vừa nãy dưới lầu tôi gặp hung thủ." Hứa Mạt mở miệng.
 
-Lão gia Ba Đồ dường như đã biết. Ông vẫn lặng lẽ tưới nước, đến khi bình cạn, mới đặt sang một bên, thân hình mập mạp đi sang bên nghỉ, ngồi xuống ghế.
+Lão gia Batu dường như đã biết. Ông vẫn lặng lẽ tưới nước, đến khi bình cạn, mới đặt sang một bên, thân hình mập mạp đi sang bên nghỉ, ngồi xuống ghế.
 
 Vì quá béo, chiếc ghế không ngồi vừa.
 
-"Ngươi có ý kiến gì?" Ba Đồ mới ngẩng đầu nhìn Hứa Mạt hỏi.
+"Ngươi có ý kiến gì?" Batu mới ngẩng đầu nhìn Hứa Mạt hỏi.
 
-"Lão gia Ba Đồ cứu Tiểu Muội ạ?" Hứa Mạt hỏi.
+"Lão gia Batu cứu Tiểu Muội ạ?" Hứa Mạt hỏi.
 
-"Trẻ con cũng chẳng ai để ý, cho chúng ít tiền là xong." Ba Đồ không phủ nhận, hắn thấy Hứa Mạt thay đổi nhiều so với trước, từ ngày cha mẹ hắn chết, hắn dần trưởng thành.
+"Trẻ con cũng chẳng ai để ý, cho chúng ít tiền là xong." Batu không phủ nhận, hắn thấy Hứa Mạt thay đổi nhiều so với trước, từ ngày cha mẹ hắn chết, hắn dần trưởng thành.
 
-"Ngươi hận ta không?" Lão gia Ba Đồ thấy Hứa Mạt im lặng, hỏi.
+"Ngươi hận ta không?" Lão gia Batu thấy Hứa Mạt im lặng, hỏi.
 
 Hứa Mạt lắc đầu. Tình cảm với 'cha mẹ' phần lớn từ ký ức nguyên chủ, nên hắn có thể nhìn nhận lý trí.
 
-Hắn chỉ là thợ làm thuê trong tiệm của Lão gia Ba Đồ thôi. Lão gia Ba Đồ chịu cứu một đứa Tiểu Muội đã là hết lòng, chẳng lẽ còn phải cứu cả nhà bốn miệng rước họa sao?
+Hắn chỉ là thợ làm thuê trong tiệm của Lão gia Batu thôi. Lão gia Batu chịu cứu một đứa Tiểu Muội đã là hết lòng, chẳng lẽ còn phải cứu cả nhà bốn miệng rước họa sao?
 
-Thế giới dưới lòng đất không phải thế giới nhân từ. Sống đã khó, Lão gia Ba Đồ có người cần bảo vệ, dù thực lực không tệ, cũng không thể canh chừng Mễ Á suốt ngày.
+Thế giới dưới lòng đất không phải thế giới nhân từ. Sống đã khó, Lão gia Batu có người cần bảo vệ, dù thực lực không tệ, cũng không thể canh chừng Mia suốt ngày.
 
-"Bọn họ đã nhận tiền của Lão gia Ba Đồ, hẳn không dám báo lên Rắn Hổ Mang." Hứa Mạt nghĩ thầm. Bằng không, với hung danh của Rắn Hổ Mang, sợ là không tha cho hai tên kia.
+"Bọn họ đã nhận tiền của Lão gia Batu, hẳn không dám báo lên Rắn Hổ Mang." Hứa Mạt nghĩ thầm. Bằng không, với hung danh của Rắn Hổ Mang, sợ là không tha cho hai tên kia.
 
-"Việc của ngươi, tự giải quyết. Ta không giúp được. Giờ muốn dẫn Tiểu Muội đi cũng được, muốn ở lại thì tự đối mặt. Sống chết không liên quan đến ta. Ngươi chết, ta cố nuôi lớn Tiểu Muội." Lão gia Ba Đồ như biết Hứa Mạt nghĩ gì, nói với hắn.
+"Việc của ngươi, tự giải quyết. Ta không giúp được. Giờ muốn dẫn Tiểu Muội đi cũng được, muốn ở lại thì tự đối mặt. Sống chết không liên quan đến ta. Ngươi chết, ta cố nuôi lớn Tiểu Muội." Lão gia Batu như biết Hứa Mạt nghĩ gì, nói với hắn.
 
-"Vâng." Hứa Mạt gật đầu: "Cảm ơn Lão gia Ba Đồ."
+"Vâng." Hứa Mạt gật đầu: "Cảm ơn Lão gia Batu."
 
-"Thêm một miệng ăn, tự ngươi quyết." Lão gia Ba Đồ không để ý, hắn cũng tò mò Hứa Mạt sẽ chọn thế nào.
+"Thêm một miệng ăn, tự ngươi quyết." Lão gia Batu không để ý, hắn cũng tò mò Hứa Mạt sẽ chọn thế nào.
 
 Mang Tiểu Muội đi, hay tự mình đối mặt?
 
 Dù đường nào, sống cũng chẳng dễ. Chỉ tội nghiệp Bảo Bối Nữ Nhi của hắn, chắc sẽ đau lòng, nhưng cũng nên cho nàng biết chút tàn khốc của thế giới dưới lòng đất.
 
-Lão gia Ba Đồ bỗng tự giễu lắc đầu.
+Lão gia Batu bỗng tự giễu lắc đầu.
 
 Già rồi, thấy nhiều, người cũng chết lặng.
 
@@ -52,7 +52,7 @@ Màn đêm buông xuống thế giới dưới lòng đất. Dân chúng bình t
 
 Nhưng trên đường vẫn có người qua lại, toàn là kẻ thích chuyện, sống trong thế giới hỗn loạn, ở góc khuất tối tăm, làm chuyện không thể phơi bày.
 
-Hứa Mạt đưa Bạch Vi về xong, một mình trở về phòng, giao Tiểu Muội cho Mễ Á chăm sóc.
+Hứa Mạt đưa Bạch Vi về xong, một mình trở về phòng, giao Tiểu Muội cho Mia chăm sóc.
 
 Trong phòng, hắn lấy ra hai lá bài poker, bài poker kim loại màu bạc, lúc giết người đeo kính gọng vàng hắn chặn lại được hai lá.
 
@@ -64,15 +64,15 @@ Hứa Mạt nhìn chằm chằm lá bài, lập tức thấy hai lá bài poker 
 
 Hứa Mạt nhắm mắt, bắt đầu luyện hô hấp thuật. Mọi thứ bên ngoài đều khắc sâu vào đầu, đầu hắn như một cỗ máy vận hành. Hắn không phải lần đầu có cảm giác này.
 
-Thời gian trôi qua, Mễ Á và Tiểu Muội đã ngủ. Lão gia Ba Đồ chưa ngủ, cũng ngồi thiền luyện công.
+Thời gian trôi qua, Mia và Tiểu Muội đã ngủ. Lão gia Batu chưa ngủ, cũng ngồi thiền luyện công.
 
 Ngoài tiệm bách hóa, phía xa trên đường có vài bóng người đi tới, tổng cộng ba người. Ngoài hai anh em ban ngày, Hứa Mạt còn thấy một người đàn ông cao gầy, vai vác một cây rìu dài, lưỡi rìu dài, ánh kim loại sáng bóng.
 
-Ba người cùng hướng về tiệm bách hóa của Lão gia Ba Đồ.
+Ba người cùng hướng về tiệm bách hóa của Lão gia Batu.
 
 Rõ ràng, bọn họ đến để giết người.
 
-Lệnh nhận được là giết ba người lớn. Tiểu Muội có thể bắt ra chợ đen, nhưng tiền không phải của mình. Lão gia Ba Đồ cho họ là vào túi riêng, nuốt riêng. Huống hồ, nay còn một kẻ sống.
+Lệnh nhận được là giết ba người lớn. Tiểu Muội có thể bắt ra chợ đen, nhưng tiền không phải của mình. Lão gia Batu cho họ là vào túi riêng, nuốt riêng. Huống hồ, nay còn một kẻ sống.
 
 Ca Rắn mà biết, bọn họ không chết cũng lột da.
 
@@ -88,7 +88,7 @@ Hai anh em cười nửa miệng, còn muốn chạy?
 
 Cả hai cũng đuổi theo. Người đàn ông cao gầy vác rìu đuổi theo, bước chân rộng, chạy rất nhanh.
 
-Lão gia Ba Đồ đứng ở cửa sổ tầng trên, thấy mấy người chạy trong đêm. Không ngờ Hứa Mạt tuổi này lại có quyết đoán như vậy, trước đây coi thường hắn rồi.
+Lão gia Batu đứng ở cửa sổ tầng trên, thấy mấy người chạy trong đêm. Không ngờ Hứa Mạt tuổi này lại có quyết đoán như vậy, trước đây coi thường hắn rồi.
 
 Chỉ là, thằng nhóc này sao vừa ra cửa đã gặp đối phương thế?
 
@@ -158,18 +158,18 @@ Hứa Mạt lau sạch vết máu trên lá bài, vứt xác xuống đất, ké
 
 ……
 
-Tiệm bách hóa, Ba Đồ đứng ngoài cửa nhìn, không thấy ai về.
+Tiệm bách hóa, Batu đứng ngoài cửa nhìn, không thấy ai về.
 
-"Chắc không về được nữa nhỉ?" Lão gia Ba Đồ nghĩ thầm.
+"Chắc không về được nữa nhỉ?" Lão gia Batu nghĩ thầm.
 
 Lại đợi một lát, không thấy kỳ tích, thở dài, thân hình mập mạp chậm rãi quay người vào tiệm, chuẩn bị khóa cửa.
 
-Vừa định đóng, trên đường xa xa một bóng người không cao lớn đi về phía này. Ba Đồ sững sờ, rồi mở cửa, thấy Hứa Mạt bước tới trước cửa.
+Vừa định đóng, trên đường xa xa một bóng người không cao lớn đi về phía này. Batu sững sờ, rồi mở cửa, thấy Hứa Mạt bước tới trước cửa.
 
-"Lão gia Ba Đồ." Hứa Mạt gọi.
+"Lão gia Batu." Hứa Mạt gọi.
 
-Ba Đồ ngẩn ra, quên mở cửa.
+Batu ngẩn ra, quên mở cửa.
 
-"Lão gia Ba Đồ, giải quyết xong rồi, tôi đi nghỉ." Hứa Mạt tự đẩy cửa vào tiệm, rồi lên lầu.
+"Lão gia Batu, giải quyết xong rồi, tôi đi nghỉ." Hứa Mạt tự đẩy cửa vào tiệm, rồi lên lầu.
 
-Ba Đồ nhìn ra ngoài. Đêm dưới lòng đất mang vài phần 'ý lạnh', nhưng lúc này Ba Đồ cảm thấy, hắn hình như không hiểu nổi 'màn đêm' này nữa!
+Batu nhìn ra ngoài. Đêm dưới lòng đất mang vài phần 'ý lạnh', nhưng lúc này Batu cảm thấy, hắn hình như không hiểu nổi 'màn đêm' này nữa!

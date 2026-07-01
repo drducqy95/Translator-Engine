@@ -16,7 +16,7 @@ Nếu không có sự cho phép của hội đồng thành phố, làm sao bọn
 
 Họ nghi ngờ tầng lớp cao cấp của thế giới dưới lòng đất chính là những kẻ tham gia trực tiếp.
 
-Bi thương và phẫn nộ chồng chất, vô số người đứng lên phản kháng. Thậm chí Mễ Á cũng muốn tham gia nhưng đã bị lão gia Ba Đồ ngăn lại.
+Bi thương và phẫn nộ chồng chất, vô số người đứng lên phản kháng. Thậm chí Mia cũng muốn tham gia nhưng đã bị lão gia Batu ngăn lại.
 
 Kiểu bạo động này thường kéo theo đủ loại tội phạm khác xảy ra cùng lúc.
 
@@ -106,7 +106,7 @@ Rắn Hổ Mang nhìn Tần Trọng, đột nhiên cảm thấy người này th
 
 Ngay cả gã cũng không biết bí mật nhà máy Ngõa Luân, chỉ nhận lệnh của Kim Thư ký đi giết hai công nhân nhà máy vũ khí Ngõa Luân. Trước đó gã còn thắc mắc tại sao phải giết công nhân bình thường, giờ thì gã đã hiểu.
 
-"Không, đó đúng là ngẫu nhiên, và người cũng không phải do ta giết. Ngươi nên đi hỏi thủ hạ đã chết của ngươi xem chúng đã dọn dẹp sạch sẽ chưa." Tần Trọng châm chọc: "Nói mới nhớ, thủ hạ của ngươi đã giúp ta một việc lớn, dẫn đến các sự kiện sau đó, nếu không lần này có lẽ ta đã thua. Nhắc ngươi một tiếng, tiệm bách hóa của Ba Đồ, ngươi có thể đến đó xem thử."
+"Không, đó đúng là ngẫu nhiên, và người cũng không phải do ta giết. Ngươi nên đi hỏi thủ hạ đã chết của ngươi xem chúng đã dọn dẹp sạch sẽ chưa." Tần Trọng châm chọc: "Nói mới nhớ, thủ hạ của ngươi đã giúp ta một việc lớn, dẫn đến các sự kiện sau đó, nếu không lần này có lẽ ta đã thua. Nhắc ngươi một tiếng, tiệm bách hóa của Batu, ngươi có thể đến đó xem thử."
 
 "Ý ngươi là sao?" Rắn Hổ Mang nhìn chằm chằm Tần Trọng.
 
@@ -124,29 +124,29 @@ Tần Trọng đứng dậy, bước ra ngoài.
 
 Đây định sẵn là một ngày không bình yên. 'Đêm' xuống ở thế giới dưới lòng đất không hề yên tĩnh như mọi khi, mà tràn ngập bạo lực và phá hoại.
 
-Tiệm bách hóa đã đóng cửa từ sớm, nhưng vẫn có kẻ đến quấy phá, bị lão gia Ba Đồ dạy cho một bài học.
+Tiệm bách hóa đã đóng cửa từ sớm, nhưng vẫn có kẻ đến quấy phá, bị lão gia Batu dạy cho một bài học.
 
-Ba Đồ giữ Bạch Vi lại, để nàng nghỉ ngơi cùng Mễ Á và Tiểu Muội. Rõ ràng Ba Đồ sợ tiếng ồn ào bên ngoài làm các nàng hoảng sợ.
+Batu giữ Bạch Vi lại, để nàng nghỉ ngơi cùng Mia và Tiểu Muội. Rõ ràng Batu sợ tiếng ồn ào bên ngoài làm các nàng hoảng sợ.
 
-Trên sân thượng, lão gia Ba Đồ và Hứa Mạt đứng nhìn cảnh bạo loạn bên ngoài.
+Trên sân thượng, lão gia Batu và Hứa Mạt đứng nhìn cảnh bạo loạn bên ngoài.
 
-"Thấy chưa?" Ba Đồ nói với Hứa Mạt.
+"Thấy chưa?" Batu nói với Hứa Mạt.
 
 Hứa Mạt gật đầu. Thế giới dưới lòng đất bị đè nén, một số kẻ bạo đồ đang đục nước béo cò khi trật tự hoàn toàn hỗn loạn, châm ngòi cho bạo động.
 
-"Mấy ngày nay, ngươi qua lại với đám người đó phải không?" Ba Đồ hỏi. Hứa Mạt chợt nhận ra lão gia Ba Đồ thông minh hơn mình tưởng, và ông biết rất nhiều chuyện.
+"Mấy ngày nay, ngươi qua lại với đám người đó phải không?" Batu hỏi. Hứa Mạt chợt nhận ra lão gia Batu thông minh hơn mình tưởng, và ông biết rất nhiều chuyện.
 
-"Lão gia Ba Đồ biết những gì?" Hứa Mạt hỏi.
+"Lão gia Batu biết những gì?" Hứa Mạt hỏi.
 
-"Ở thế giới dưới lòng đất này, lý tưởng làm gì còn tồn tại, tất cả đều nên bị chôn vùi." Lão gia Ba Đồ nói.
+"Ở thế giới dưới lòng đất này, lý tưởng làm gì còn tồn tại, tất cả đều nên bị chôn vùi." Lão gia Batu nói.
 
 "Con không hiểu, những chuyện táng tận lương tâm này, dù biết rõ, cũng nên mặc kệ nó tồn tại sao?" Hứa Mạt hỏi.
 
-"Ta cũng từng suy nghĩ, nhưng những kẻ chủ nghĩa lý tưởng đó thực sự nghĩ mình có thể thay đổi được gì sao?" Lão gia Ba Đồ hỏi: "Dưới vũ lực tuyệt đối, lại sẽ là một hiện trường tu la, còn bọn họ, chẳng qua chỉ là những khẩu súng trong tay kẻ khác mà thôi."
+"Ta cũng từng suy nghĩ, nhưng những kẻ chủ nghĩa lý tưởng đó thực sự nghĩ mình có thể thay đổi được gì sao?" Lão gia Batu hỏi: "Dưới vũ lực tuyệt đối, lại sẽ là một hiện trường tu la, còn bọn họ, chẳng qua chỉ là những khẩu súng trong tay kẻ khác mà thôi."
 
-Hứa Mạt nhìn thân hình mập mạp của lão gia Ba Đồ, cảm thấy mình không thể nhìn thấu ông.
+Hứa Mạt nhìn thân hình mập mạp của lão gia Batu, cảm thấy mình không thể nhìn thấu ông.
 
-"Lịch sử, chẳng qua chỉ là những vòng luân hồi mà thôi." Lão gia Ba Đồ nói tiếp.
+"Lịch sử, chẳng qua chỉ là những vòng luân hồi mà thôi." Lão gia Batu nói tiếp.
 
 Hứa Mạt lặng người. Chuyện như thế này, trước kia cũng từng xảy ra sao?
 
@@ -166,6 +166,6 @@ Vậy nên, Rắn Hổ Mang tìm đến đây bằng cách nào?
 
 Hứa Mạt nhận ra, vấn đề nằm ở phía Diệp Thanh Điệp.
 
-"Đoàng!" Một tiếng súng vang lên, Rắn Hổ Mang trực tiếp cầm súng bắn vào cửa kính tiệm bách hóa. Trong phòng truyền đến tiếng thét của Mễ Á và Bạch Vi.
+"Đoàng!" Một tiếng súng vang lên, Rắn Hổ Mang trực tiếp cầm súng bắn vào cửa kính tiệm bách hóa. Trong phòng truyền đến tiếng thét của Mia và Bạch Vi.
 
 Ánh mắt Rắn Hổ Mang lúc này đầy hung ác, gã đến để giết người!

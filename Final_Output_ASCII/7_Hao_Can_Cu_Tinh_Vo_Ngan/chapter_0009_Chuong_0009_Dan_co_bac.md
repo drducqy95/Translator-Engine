@@ -6,7 +6,7 @@ Trong phòng, Hứa Mạt nhắm mắt, hít thở đều đặn. Mấy ngày na
 
 Giờ đây, hắn có thể cảm nhận rõ hơn trường năng lượng hình thành quanh mình; càng xa, trường năng lượng càng yếu.
 
-Dưới trạng thái này, hắn cảm nhận được Mễ Á đang chơi đùa với Hòa Yêu Nhi, cảm nhận được người qua lại ngoài phố, tiếng rao hàng của chủ quán, thậm chí cả tiếng thở dốc khi vận động ở phòng bên cạnh.
+Dưới trạng thái này, hắn cảm nhận được Mia đang chơi đùa với Hòa Yêu Nhi, cảm nhận được người qua lại ngoài phố, tiếng rao hàng của chủ quán, thậm chí cả tiếng thở dốc khi vận động ở phòng bên cạnh.
 
 Hứa Mạt dùng ý niệm khống chế trường năng lượng, thấy quyển sách trước mặt chậm rãi động, không dựa vào đâu bay lên, rồi nhẹ nhàng rơi xuống trước người hắn.
 
@@ -28,19 +28,19 @@ Cho đến nay, hắn chưa từng thấy người có siêu năng lực nào kh
 
 Nghỉ ngơi một lát, Hứa Mạt ra khỏi phòng, đi xuống lầu.
 
-“Mễ Á cô, tôi ra ngoài một chuyến.” Hứa Mạt chào hỏi Mễ Á. Mấy ngày nay thực lực tăng lên không ít, lá gan cũng lớn hơn; hắn muốn đến chợ đen xem có gặp được mấy tên hung đồ kia không.
+“Mia cô, tôi ra ngoài một chuyến.” Hứa Mạt chào hỏi Mia. Mấy ngày nay thực lực tăng lên không ít, lá gan cũng lớn hơn; hắn muốn đến chợ đen xem có gặp được mấy tên hung đồ kia không.
 
-“Được.” Mễ Á cười gật đầu: “Về sớm nhé.”
+“Được.” Mia cười gật đầu: “Về sớm nhé.”
 
 “Ca ca, huynh đi đâu?” Hòa Yêu Nhi bước tới kéo tay Hứa Mạt hỏi.
 
-“Ca ca ra ngoài dạo một chút, Hòa Yêu Nhi ngoan ngoãn nghe lời Mễ Á cô nhé.” Hứa Mạt véo má Hòa Yêu Nhi nói. Giờ Hòa Yêu Nhi càng ngày càng quen với Mễ Á, thậm chí thường ngủ cùng Mễ Á.
+“Ca ca ra ngoài dạo một chút, Hòa Yêu Nhi ngoan ngoãn nghe lời Mia cô nhé.” Hứa Mạt véo má Hòa Yêu Nhi nói. Giờ Hòa Yêu Nhi càng ngày càng quen với Mia, thậm chí thường ngủ cùng Mia.
 
 “Vậy ca ca về sớm nhé, muội chờ ca ca.” Cô bé ngoan ngoãn gật đầu nói.
 
-“Biết rồi.” Hứa Mạt xoa xoa mặt tiểu nha đầu, rồi rời khỏi tiệm bách hóa. Mễ Á nhìn bóng lưng Hứa Mạt có chút lo lắng.
+“Biết rồi.” Hứa Mạt xoa xoa mặt tiểu nha đầu, rồi rời khỏi tiệm bách hóa. Mia nhìn bóng lưng Hứa Mạt có chút lo lắng.
 
-Hứa Mạt bước trên đường, thầm nghĩ dù mình làm việc ở tiệm bách hóa, nhưng phần lớn thời gian đều nhờ Mễ Á cô giúp đỡ. Cứ thế này không phải cách, có cơ hội vẫn nên dọn ra ngoài.
+Hứa Mạt bước trên đường, thầm nghĩ dù mình làm việc ở tiệm bách hóa, nhưng phần lớn thời gian đều nhờ Mia cô giúp đỡ. Cứ thế này không phải cách, có cơ hội vẫn nên dọn ra ngoài.
 
 Ngoài ra, khi trước đội chấp pháp cố hỏi hắn tình hình, không hỏi ra được gì; hung đồ cũng không tìm hắn. Hắn không rõ là chúng không biết hắn chưa chết hay không thèm để ý đến sự tồn tại của hắn, nhưng dù thế nào, hắn tự mình không được lơ là.
 
