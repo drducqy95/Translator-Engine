@@ -13,11 +13,20 @@ if [[ -f "$REPO_ROOT/Temp/MAINTENANCE.lock" ]]; then
     exit 0
 fi
 
+if [[ -f "$REPO_ROOT/Temp/HYMT_DISABLED.lock" ]]; then
+    echo "HyMT disabled by lock; hymt keepalive disabled"
+    exit 0
+fi
+
 echo "Starting Keepalive loop for hymt_server.sh. Logging to $LOGFILE"
 
 while true; do
     if [[ -f "$REPO_ROOT/Temp/MAINTENANCE.lock" ]]; then
         echo "[$(date)] Maintenance lock present; stopping keepalive" | tee -a "$LOGFILE"
+        exit 0
+    fi
+    if [[ -f "$REPO_ROOT/Temp/HYMT_DISABLED.lock" ]]; then
+        echo "[$(date)] HyMT disabled by lock; stopping keepalive" | tee -a "$LOGFILE"
         exit 0
     fi
     echo "[$(date)] Starting hymt_server.sh..." | tee -a "$LOGFILE"

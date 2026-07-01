@@ -9,6 +9,8 @@ from Bot.config import engine_dir
 _queue_lock = threading.RLock()
 QUEUE_PATH = engine_dir / "Temp" / "crawl_queue.json"
 STALE_RUNNING_SECONDS = 300
+RETRY_BASE_SECONDS = 1800
+RETRY_MAX_SECONDS = 6 * 3600
 
 
 def _now():
@@ -75,13 +77,18 @@ def claim_next_job():
                 item["error"] = "Recovered stale running crawl job"
                 item["updated_at"] = now
                 changed = True
+            if item.get("status") == "error" and int(item.get("retry_at") or 0) <= now:
+                item["status"] = "queued"
+                item["error"] = f"Retry after backoff: {item.get("error", "")}"[:500]
+                item["updated_at"] = now
+                changed = True
         if changed:
             save_queue(items)
         running_jobs = [item for item in items if item.get("status") == "running"]
         if running_jobs:
             return None
         for item in items:
-            if item.get("status") == "queued":
+            if item.get("status") == "queued" and int(item.get("retry_at") or 0) <= now:
                 item["status"] = "running"
                 item["started_at"] = _now()
                 item["updated_at"] = _now()
@@ -93,12 +100,23 @@ def claim_next_job():
 def finish_job(job_id, status, error=""):
     with _queue_lock:
         items = load_queue()
+        now = _now()
         for item in items:
             if item.get("job_id") == job_id:
-                item["status"] = status
                 item["error"] = error or ""
-                item["finished_at"] = _now()
-                item["updated_at"] = _now()
+                item["finished_at"] = now
+                item["updated_at"] = now
+                attempts = int(item.get("attempt_count") or 0)
+                if status == "error":
+                    attempts += 1
+                    item["attempt_count"] = attempts
+                    backoff = min(RETRY_BASE_SECONDS * (2 ** max(0, attempts - 1)), RETRY_MAX_SECONDS)
+                    item["retry_at"] = now + backoff
+                    item["status"] = "error"
+                else:
+                    item["status"] = status
+                    item.pop("retry_at", None)
+                    item.pop("attempt_count", None)
                 break
         save_queue(items)
 

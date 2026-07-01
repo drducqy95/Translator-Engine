@@ -1,5 +1,8 @@
 import sqlite3
+import re
 from pathlib import Path
+
+LATIN_RE = re.compile(r"[A-Za-z]")
 
 class KnowledgeExtractor:
     def __init__(self, novel_id: str, db_path=None):
@@ -45,8 +48,13 @@ class KnowledgeExtractor:
                     
                 # Tra trùng trong bảng chính (dict_entries của project)
                 cur.execute("SELECT target FROM dict_entries WHERE key=? AND type=?", (raw, etype))
-                if cur.fetchone():
-                    continue # Đã có trong từ điển chính thức
+                existing = cur.fetchone()
+                if existing:
+                    existing_target = existing[0] or ""
+                    if LATIN_RE.search(existing_target) and not LATIN_RE.search(target):
+                        continue
+                    if existing_target == target:
+                        continue
                     
                 # Tra trùng trong candidate
                 cur.execute("SELECT id FROM candidate_entities WHERE raw=? AND target=? AND type=?", (raw, target, etype))
@@ -58,6 +66,12 @@ class KnowledgeExtractor:
                 # Thêm mới candidate
                 cur.execute("INSERT INTO candidate_entities (raw, target, type, score) VALUES (?, ?, ?, ?)", (raw, target, etype, 1.0))
                 added_candidates.append(ent)
+
+                # Đồng bộ trực tiếp sang dict_entries để khóa target ổn định cho các chương sau.
+                cur.execute(
+                    "INSERT OR REPLACE INTO dict_entries (key, target, type) VALUES (?, ?, ?)",
+                    (raw, target, etype),
+                )
                 
             conn.commit()
             

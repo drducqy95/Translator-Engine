@@ -194,9 +194,23 @@ def load_settings():
     if path.exists():
         try:
             with open(path, 'r', encoding='utf-8') as f:
-                return json.load(f)
+                data = json.load(f)
+                if isinstance(data, dict):
+                    data.setdefault("daemon_raw", True)
+                    data.setdefault("daemon_crawl", True)
+                    data.setdefault("daemon_init", True)
+                    data.setdefault("daemon_pipeline", True)
+                    data.setdefault("pipeline_workers", 4)
+                    data.setdefault("pipeline_round_robin", True)
+                    data.setdefault("pipeline_lock_enabled", True)
+                    data.setdefault("pipeline_interval_seconds", 120)
+                    data.setdefault("pipeline_project_locks", {})
+                    data.setdefault("crawl_workers", 2)
+                    data.setdefault("crawl_enabled", True)
+                    data.setdefault("crawl_paused", False)
+                    return data
         except: pass
-    return {"daemon_raw": True, "daemon_crawl": True, "daemon_init": True, "daemon_pipeline": True}
+    return {"daemon_raw": True, "daemon_crawl": True, "daemon_init": True, "daemon_pipeline": True, "pipeline_workers": 4, "pipeline_round_robin": True, "pipeline_lock_enabled": True, "pipeline_interval_seconds": 120, "pipeline_project_locks": {}, "crawl_workers": 2, "crawl_enabled": True, "crawl_paused": False}
 
 def save_settings(settings):
     path = engine_dir / "Temp" / "settings.json"
@@ -1395,7 +1409,14 @@ def main():
     from Bot.daemons import start_daemons
     start_daemons()
     print("🚀 TỔNG TRẠM ĐIỀU HÀNH (Dashboard V2) đang chạy...")
-    bot.infinity_polling()
+    while True:
+        try:
+            bot.infinity_polling(timeout=20, long_polling_timeout=20, skip_pending=True)
+        except KeyboardInterrupt:
+            raise
+        except Exception as exc:
+            logger.exception(f"[Bot Polling] polling crashed, restarting in 10s: {exc}")
+            time.sleep(10)
 
 if __name__ == "__main__":
     main()
