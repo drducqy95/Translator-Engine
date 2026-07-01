@@ -1,0 +1,30 @@
+[
+  {
+    "raw": "王宝乐",
+    "target": "Vương Bảo Nhạc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杜敏",
+    "target": "Đỗ Mẫn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "卢老医师",
+    "target": "Lô Lão y sư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "陈子恒",
+    "target": "Trần Tử Hằng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

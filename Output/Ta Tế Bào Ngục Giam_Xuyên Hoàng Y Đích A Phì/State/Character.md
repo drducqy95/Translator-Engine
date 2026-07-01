@@ -1,0 +1,187 @@
+# Character Dictionary
+
+- **韩东** -> Hàn Đông
+- **坎贝尔.弗兰克** -> Campbell Frank
+- **坎贝尔.弗兰克** -> Campbell Frank
+- **杰拉德.玛莉提丝** -> Geraldine Maritess
+- **丹妮丝** -> Đan Ny Ti
+- **瓦伦.尼古拉斯** -> Ngõa Luân . Ni Cổ Lạp
+- **妮娜** -> Nina
+- **爱德华.默里** -> Edward Murray
+- **霍尔.莫妮卡** -> Hall Monica
+- **德里昂** -> Delion
+- **格林.阿卡曼** -> Green Akaman
+- **彼得斯.赫伯特** -> Peters Herbert
+- **王婆** -> Vương Bà
+- **韩东** -> Hàn Đông
+- **爱德华** -> Edward
+- **王婆** -> Vương Bà
+- **刘叔** -> chú Lưu
+- **大庆** -> Đại Khánh
+- **陈丽** -> Trần Lệ
+- **弟弟大庆** -> Đại Khánh
+- **王婆** -> Vương Bà
+- **陈丽** -> Trần Lệ
+- **光头德里昂** -> Đức Lý Ngang
+- **赫伯特** -> Hách Bá Đặc
+- **爱德华** -> Edward
+- **莫妮卡** -> Mạc Ny Tạp
+- **阿卡曼** -> A-ca-mạn
+- **大庆** -> Đại Khánh
+- **陈丽** -> Trần Lệ
+- **王婆** -> Vương Bà
+- **陈丽** -> Trần Lệ
+- **王婆** -> Vương Bà
+- **赫伯特** -> Hách Bá Đặc
+- **光头德里昂** -> Quang Đầu Đức Lý Ngang
+- **陈丽** -> Trần Lệ
+- **弟弟大庆** -> Đệ Đệ Đại Khánh
+- **王婆** -> Vương Bà
+- **瓦伦.尼古拉** -> Ngõa Luân . Ni Cổ Lạp
+- **爱德华** -> Edward
+- **光头德里昂** -> De Leon Đầu Trọc
+- **赫伯特** -> Herbert
+- **陈丽** -> Trần Lệ
+- **韩东** -> Hàn Đông
+- **弟弟大庆** -> Đệ Đệ Đại Khánh
+- **爱德华** -> Edward
+- **赫伯特** -> Hách Bá Đặc
+- **尼古拉斯** -> Nicholas
+- **阿卡曼** -> Akaman
+- **默里** -> Murray
+- **阿卡曼** -> Akaman
+- **尼古拉斯** -> Nicholas
+- **爱德华** -> Edward
+- **莫妮卡** -> Monica
+- **阿卡曼** -> A-ca-man
+- **爱德华.默里** -> Edward Murray
+- **阿卡曼** -> Akaman
+- **爱德华.默里** -> Edward Murray
+- **阿卡曼** -> Akaman
+- **陈丽** -> Trần Lệ
+- **光头德里昂** -> Quang Đầu Đức Lý Ngang
+- **瓦伦.尼古拉** -> Ngõa Luân . Ni Cổ Lạp
+- **莫妮卡** -> Mạc Ny Tạp
+- **阿卡曼** -> Akaman
+- **爱德华.默里** -> Edward Murray
+- **尼古拉斯** -> Ni Cổ Lạp
+- **阿卡曼** -> Akaman
+- **阿卡曼** -> Akaman
+- **韩东** -> Hàn Đông
+- **陈丽** -> Trần Lệ
+- **瓦伦.尼古拉斯** -> Ngõa Luân . Ni Cổ Lạp
+- **无面者** -> Kẻ Vô Diện
+- **巴顿.福格斯** -> Barton Fergus
+- **瓦伦.尼古拉斯** -> Valen Nicholas
+- **妮娜** -> Nina
+- **妮娜** -> Nina
+- **瓦伦** -> Valen
+- **瓦伦.尼古拉斯** -> Valen Nicholas
+- **尼古拉斯** -> Nicholas
+- **尼古拉斯** -> Nicholas
+- **妮娜** -> Nina
+- **阿卡曼** -> Ackerman
+- **韩东** -> Hàn Đông
+- **妮娜** -> Nina
+- **陈丽** -> Trần Lệ
+- **查尔斯** -> Charles
+- **莫娜** -> Mona
+- **戴斯** -> Đái Tư
+- **萨麦** -> Tát Mạch
+- **韩东** -> Hàn Đông
+- **查尔斯** -> Charles
+- **布朗** -> Brown
+- **戴斯** -> Đái Tư
+- **瓦伦.尼古拉** -> Ngõa Luân Ni Cổ Lạp
+- **巴顿** -> Ba Đốn
+- **查尔斯** -> Charles
+- **布朗** -> Brown
+- **戴斯.福迪兰德** -> Des Fordiland
+- **瓦伦.尼古拉斯** -> Valen Nicholas
+- **巴顿.福格斯** -> Barton Fergus
+- **妮娜** -> Nina
+- **巴顿.福格斯** -> Barton Fogus
+- **瓦伦.尼古拉斯** -> Warren Nicolas
+- **妮娜** -> Nina
+- **韩东** -> Hàn Đông
+- **巴顿** -> Ba Đốn
+- **福格斯** -> Phúc Cách Tư
+- **瓦伦.尼古拉** -> Ngõa Luân . Ni Cổ Lạp
+- **阿伦.安德瓦** -> A Luân An Đức Ngõa
+- **卡斯.马尔蒂尼** -> Cát Sư Mạt-tì-ni
+- **卡斯** -> Cass
+- **阿伦.安德瓦** -> Alen Adwa
+- **卡斯** -> Cass
+- **卡斯** -> Cass
+- **卡斯.马尔蒂尼** -> Cass Martini
+- **瓦伦.尼古拉斯** -> Valen Nicholas
+- **鸦** -> Nha
+- **帕莎.布哈特** -> Mạt Toa
+- **韩东** -> Hàn Đông
+- **帕莎** -> Mạt Toa
+- **陈丽** -> Trần Lệ
+- **帕莎.布哈特** -> Pasha Burkhart
+- **韩东** -> Hàn Đông
+- **尼古拉斯** -> Nicholas
+- **帕莎** -> Mạt Toa
+- **阿吉** -> A Cát
+- **黑白先生** -> Ngài Hắc Bạch
+- **努尔曼** -> Nurman
+- **米娅.塞米诺维奇** -> Mia Seminovich
+- **黑白先生** -> ngài Hắc Bạch
+- **尼古拉斯** -> Nicholas
+- **黑白先生** -> Ngài Đen Trắng
+- **帕莎** -> Mạt Toa
+- **瓦伦.尼古拉** -> Ngõa Luân . Ni Cổ Lạp
+- **陈丽** -> Trần Lệ
+- **黑白先生** -> Đen Trắng Tiên Sinh
+- **帕莎** -> Mạt Toa
+- **卡斯.马尔蒂尼** -> Cass Martini
+- **帕莎.布哈特** -> Pasha Burkhart
+- **尼古拉斯** -> Nicholas
+- **帕莎** -> Mạt Toa
+- **韩东** -> Hàn Đông
+- **帕莎** -> Mạt Toa
+- **韩东** -> Hàn Đông
+- **卡斯** -> Cát S
+- **菲娅** -> Phi‑a
+- **科斯林** -> Khoa‑sinh
+- **阿肥** -> A Phì
+- **米娅.塞米诺维奇** -> Mia Semenovich
+- **菲娅** -> Phỉ Á
+- **卡斯** -> Cass
+- **菲娅** -> Fia
+- **凯特.苏菲娅** -> Kate Sophia
+- **阿诺德.科斯林** -> Arnold Coslin
+- **贝克.马塞勒斯** -> Baker Marcellus
+- **莱斯特.艾尔索普** -> Lester Alsop
+- **卡斯** -> Cass
+- **苏菲娅** -> Sophia
+- **安德瓦** -> Andeval
+- **帕莎** -> Pasha
+- **尼古拉斯** -> Nicholas
+- **黑白先生** -> Ngài Đen Trắng
+- **卡斯** -> Cass
+- **苏菲娅** -> Sophia
+- **尼古拉斯** -> Nicholas
+- **科斯林** -> Koslin
+- **黑白** -> Hắc Bạch
+- **科斯林** -> Lâm Tiên
+- **卡斯** -> Cát Tư
+- **苏菲娅** -> Tô Phỉ
+- **莱斯特.艾尔索普** -> Lester. Ngải Nhĩ Tác
+- **科斯林** -> Bối Khắc
+- **陈丽** -> Trần Lệ
+- **卡斯** -> Cát Tư
+- **卡斯** -> Kass
+- **科斯林** -> Coslin
+- **苏菲娅** -> Sophia
+- **韩东** -> Hàn Đông
+- **安德瓦** -> An Đức Ngõa
+- **科斯林** -> Khoa Tư Rừng
+- **韩东** -> Hàn Đông
+- **陈丽** -> Trần Lệ
+- **贝克** -> Bối Khắc
+- **老太太** -> lão thái thái
+- **老太婆** -> lão thái bà
+- **老家伙** -> lão gia hỏa

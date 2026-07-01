@@ -1,0 +1,23 @@
+# Character Dictionary
+
+- **老格林** -> Lão Green
+- **格林** -> Green
+- **老格林** -> Lão Green
+- **老格林** -> Lão Green
+- **格林** -> Green
+- **格林** -> Green
+- **老格林** -> lão Green
+- **克洛** -> crow
+- **卡兰特** -> Cắt Lan Đặc
+- **巴塞尔** -> Ba Tắc Nhĩ
+- **萨拉丁** -> Tát Lạp Đinh
+- **奥斯** -> Áo Tư
+- **艾希维尔** -> Ngải Hy Duy Nhĩ
+- **莱拉** -> Lai Lạp
+- **米娅** -> Mễ Á
+- **卡兰特** -> Tạp Ân
+- **艾西维尔** -> Ngải Tây Duy Nhĩ
+- **艾拉** -> Ngải Lạp
+- **米娅** -> Mễ Á
+- **莉莉丝** -> Lily
+- **奥斯** -> Áo Tư

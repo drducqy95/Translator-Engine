@@ -1,0 +1,59 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 欢迎收藏.md",
+    "translated_file": "Chương 0001 Chào mừng lưu trữ.md",
+    "chapter": "Chương 0001 Chào mừng lưu trữ.md",
+    "summary": {
+      "main_events": "Tác giả công bố chương đầu, khuyến khích độc giả lưu lại và chờ phần tiếp theo.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 外乡人.md",
+    "translated_file": "Chương 0002 Người xứ khác.md",
+    "chapter": "Chương 0002 Người xứ khác.md",
+    "summary": {
+      "main_events": "Lumian Lee kể một câu chuyện kỳ quái về quá khứ làm người gác xác cho ba vị khách lạ (Ryan, Valentine, Leah) tại tửu quán ở Đỗ Thôn. Sau đó, dân làng vạch trần Lumian là kẻ hay nói dối, tiết lộ cậu được chị gái Aurore nhận nuôi từ năm 13 tuổi.",
+      "new_characters": [
+        "Lumian Lee",
+        "Ryan Cos",
+        "Valentine",
+        "Leah",
+        "Aurore",
+        "Pierre"
+      ]
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 “恶作剧”.md",
+    "translated_file": "Chương 0003 Trò đùa ác.md",
+    "chapter": "Chương 0003 Trò đùa ác.md",
+    "summary": {
+      "main_events": "Lumian dẫn nhóm Ryan đến giáo đường để tìm cha cố Guillaume Bénet. Tại đây, họ bắt gặp cha cố đang dan díu với phu nhân Pualis trong phòng xưng tội. Lumian nhân cơ hội này trêu chọc và bỏ chạy, để lại nhóm Ryan trong tình huống khó xử.",
+      "new_characters": [
+        "Ryan",
+        "Leah",
+        "Valentine",
+        "Guillaume Bénet",
+        "Pierre Guillaume",
+        "Aurore"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 梦.md",
+    "translated_file": "Chương 0004 Giấc Mơ.md",
+    "chapter": "Chương 0004 Giấc Mơ.md",
+    "summary": {
+      "main_events": "Lô Mễ tỉnh dậy sau giấc mơ về sương xám, cố gắng thuyết phục Áo La Nhĩ cho phép mình trở thành phù thủy nhưng bị từ chối. Áo La Nhĩ đề nghị tìm thôi miên. Chiều hôm đó, Lô Mễ gặp Lôi Mông Đức ở quảng trường làng để hỏi về truyền thuyết phù thủy trong làng.",
+      "new_characters": [
+        "Lôi Mông Đức (雷蒙德)",
+        "Khắc Lai Cách (克莱格)"
+      ]
+    }
+  }
+]

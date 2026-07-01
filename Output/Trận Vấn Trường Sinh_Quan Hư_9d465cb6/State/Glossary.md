@@ -1,0 +1,156 @@
+# Term Glossary
+
+- **通仙城** (location) -> Thông Tiên Thành
+- **通仙门** (organization) -> Thông Tiên Môn
+- **道碑** (item) -> Đạo Bia
+- **钱家** (organization) -> nhà họ Tiền
+- **道碑** (object) -> Đạo Bia
+- **通仙门** (organization) -> Thông Tiên Môn
+- **双元阵** (technique) -> Song Nguyên Trận
+- **道廷** (organization) -> Đạo Đình
+- **通仙门** (organization) -> Thông Tiên Môn
+- **辟火簪** (item) -> Trâm Tích Hỏa
+- **辟火簪** (item) -> Tích Hỏa Trâm
+- **有缘斋** (location) -> Hữu Duyên Trai
+- **明火阵** (technique) -> Minh Hỏa Trận
+- **明火阵** (technique) -> Minh Hỏa Trận
+- **杏林堂** (location) -> Hạnh Lâm Đường
+- **火稚鸡** (creature) -> Hỏa Trĩ Kê
+- **猎妖节** (event) -> Lễ Săn Yêu
+- **猎妖队** (organization) -> Đội Săn Yêu
+- **明火阵** (item) -> Minh Hỏa Trận
+- **有缘斋** (location) -> Hữu Duyên Trai
+- **王氏糕点** (location) -> Vương Thị Bánh Ngọt
+- **五彩糕** (item) -> Ngũ Thải Bánh
+- **明火阵** (skill) -> Minh Hỏa Trận
+- **明火阵** (technique) -> Minh Hỏa Trận
+- **有缘斋** (location) -> Hữu Duyên Trai
+- **大黑山** (location) -> Đại Hắc Sơn
+- **裂金爪** (technique) -> Liệt Kim Trảo
+- **烈焰拳** (technique) -> Liệt Diễm Quyền
+- **明火阵** (item) -> Minh Hỏa Trận
+- **有缘斋** (location) -> Hữu Duyên Trai
+- **束脩** (glossary) -> tiền học phí
+- **通仙门** (organization) -> Thông Tiên Môn
+- **有缘斋** (location) -> Hữu Duyên Trai
+- **通仙门** (organization) -> Thông Tiên Môn
+- **通灵峰** (location) -> Thông Linh Phong
+- **通玄峰** (location) -> Thông Huyền Phong
+- **通明峰** (location) -> Thông Minh Phong
+- **通仙峰** (location) -> Thông Tiên Phong
+- **天地玄黄诀** (technique) -> Thiên Địa Huyền Hoàng Quyết
+- **柔水诀** (technique) -> Nhu Thủy Quyết
+- **五行纳气功** (technique) -> Ngũ Hành Nạp Khí Công
+- **固土阵** (technique) -> Cố Thổ Trận
+- **通仙门** (location) -> Thông Tiên Môn
+- **通玄峰** (location) -> Thông Huyền Phong
+- **固土阵** (technique) -> Cố Thổ Trận
+- **有缘斋** (location) -> Hữu Duyên Trai
+- **灵枢阵图** (artifact) -> Linh Xu Trận Đồ
+- **灵枢阵** (skill) -> Linh Xu trận
+- **固土阵** (skill) -> Cố Thổ trận
+- **阵阁** (organization) -> Trận Các
+- **有缘斋** (organization) -> Hữu Duyên Trai
+- **阵阁** (organization) -> Trận Các
+- **通明峰** (location) -> Thông Minh Phong
+- **道廷司** (organization) -> Đạo Đình Ti
+- **有缘斋** (organization) -> Hữu Duyên Trai
+- **明火阵** (item) -> Minh Hỏa Trận
+- **固土阵** (item) -> Cố Thổ Trận
+- **阵问长生** (other) -> Trận Vấn Trường Sinh
+- **有缘斋** (organization) -> Hữu Duyên Trai
+- **通明峰** (location) -> Thông Minh Phong
+- **明火阵** (item) -> Minh Hỏa Trận
+- **固土阵** (item) -> Cố Thổ Trận
+- **金石阵** (item) -> Kim Thạch Trận
+- **金石阵图** (item) -> Kim Thạch Trận Đồ
+- **阵问长生** (work) -> Trận Vấn Trường Sinh
+- **阵法详解** (work) -> Trận Pháp Tường Giải
+- **阵师** (concept) -> Trận Sư
+- **通明峰** (setting) -> Thông Minh phong
+- **阵阁** (setting) -> Trận các
+- **有缘斋** (setting) -> Hữu Duyên Trai
+- **《阵法典论初解》** (item) -> Trận Pháp Điển Luận Sơ Giải
+- **《阵法初解》** (item) -> Trận Pháp Sơ Giải
+- **《阵论》** (item) -> Trận Luận
+- **《金石阵图》** (item) -> Kim Thạch Trận Đồ
+- **明火阵** (item) -> Minh Hỏa trận
+- **固土阵** (item) -> Cố Thổ trận
+- **金石阵** (item) -> Kim Thạch trận
+- **阵问长生** (item) -> Trận Vấn Trường Sinh
+- **有缘斋** (location) -> Hữu Duyên Trai
+- **杏林堂** (location) -> Hạnh Lâm Đường
+- **阵问长生** (work) -> Trận Vấn Trường Sinh
+- **有缘斋** (organization) -> Hữu Duyên Trai
+- **杏林堂** (organization) -> Hạnh Lâm Đường
+- **杏林堂** (organization) -> Hạnh Lâm Đường
+- **福禄膳楼** (organization) -> Phúc Lộc Thiện Lâu
+- **野山牛** (terminology) -> Dã Sơn Ngưu
+- **通仙城** (setting) -> Thông Tiên thành
+- **熔火阵** (concept) -> Dung Hỏa trận
+- **通仙门** (organization) -> Thông Tiên Môn
+- **有缘斋** (organization) -> Hữu Duyên Trai
+- **陈记炼器行** (organization) -> Trần Ký Luyện Khí Hành
+- **膳楼** (location) -> Thiện lâu
+- **熔火阵** (term) -> Dung Hỏa trận
+- **阵问长生** (term) -> Trận Vấn Trường Sinh
+- **金石阵** (term) -> Kim Thạch trận
+- **固土阵** (term) -> Cố Thổ trận
+- **熔火阵图** (term) -> Dung Hỏa trận đồ
+- **离火位** (term) -> vị trí Ly Hỏa
+- **熔火阵** (technique) -> Dung Hỏa Trận
+- **灵契** (item) -> Linh Khế
+- **熔火阵** (technique) -> Dung Hỏa Trận
+- **熔火阵** (technique) -> Dung Hỏa Trận
+- **通仙城** (location) -> Thông Tiên Thành
+- **墨记食肆** (location) -> Mặc Ký Quán Ăn
+- **柳记食肆** (location) -> Liễu Ký Quán Ăn
+- **通仙门** (location) -> Thông Tiên Môn
+- **通灵峰** (location) -> Thông Linh Phong
+- **定水阵** (technique) -> Định Thủy Trận
+- **通明峰** (location) -> Thông Minh Phong
+- **明德楼** (location) -> Minh Đức Lâu
+- **通仙门** (organization) -> Thông Tiên Môn
+- **通仙城** (location) -> Thông Tiên Thành
+- **有缘斋** (location) -> Hữu Duyên Trai
+- **明火阵** (technique) -> Minh Hỏa Trận
+- **定水阵** (technique) -> Định Thủy Trận
+- **灵枢阵图** (technique) -> Linh Xu trận đồ
+- **阵问长生** (other) -> Trận Vấn Trường Sinh
+- **一品阵师** (other) -> nhất phẩm trận sư
+- **炼气期** (other) -> Luyện Khí kỳ
+- **阵纹** (other) -> trận văn
+- **散修** (other) -> tán tu
+- **束脩** (other) -> tiền bái sư
+- **灵石** (other) -> linh thạch
+- **水镜阵** (technique) -> Thủy Kính Trận
+- **定水阵** (technique) -> Định Thủy Trận
+- **坐忘居** (location) -> Tọa Vong Cư
+- **阵法源论** (item) -> Trận Pháp Nguyên Luận
+- **阵问长生** (other) -> Trận Vấn Trường Sinh
+- **阵法源论** (other) -> Trận Pháp Nguyên Luận
+- **坐忘居** (location) -> Tọa Vong Cư
+- **定水阵** (technique) -> Định Thủy Trận
+- **千钧阵** (technique) -> Thiên Quân Trận
+- **流沙阵** (technique) -> Lưu Sa Trận
+- **小云雨阵** (technique) -> Tiểu Vân Vũ Trận
+- **冥想术** (technique) -> Minh Tưởng Thuật
+- **冥想** (concept) -> Suy tưởng
+- **观想法** (concept) -> Phương pháp quán tưởng
+- **坐忘居** (location) -> Tọa Vong Cư
+- **五行棋** (object) -> cờ Ngũ Hành
+- **阵问长生** (item) -> Trận Vấn Trường Sinh
+- **三才阵** (skill) -> Tam Tài Trận
+- **五行阵** (skill) -> Ngũ Hành Trận
+- **安神香** (item) -> An Thần Hương
+- **阵枢** (term) -> trận xu
+- **识海** (term) -> thức hải
+- **一品阵师** (term) -> Nhất phẩm Trận sư
+- **坐忘居** (place) -> Tọa Vong Cư
+- **三才阵** (technique) -> Tam Tài Trận
+- **冥想术** (technique) -> Minh Tưởng thuật
+- **五行阵法初解** (book) -> Ngũ Hành Trận Pháp Sơ Giải
+- **莲华节** (event) -> Hoa Sen Tiết
+- **莲华灯** (item) -> đèn Liên Hoa
+- **莲华节** (term) -> tết Liên Hoa
+- **乾州** (location) -> Càn Châu

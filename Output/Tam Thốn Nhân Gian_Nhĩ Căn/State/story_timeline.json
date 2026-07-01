@@ -1,0 +1,56 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 我要减肥！.md",
+    "translated_file": "Chương 0001 Ta muốn giảm béo!.md",
+    "chapter": "Chương 0001 Ta muốn giảm béo!.md",
+    "summary": {
+      "main_events": "Vương Bảo Nhạc cùng các học viên mới trên đường đến Phiểu Miểu Đạo Viện thì gặp bão từ sấm sét. Lô Lão y sư, người mà Vương Bảo Nhạc cố gắng lấy lòng, thực chất là một trong những người điều hành cuộc thí luyện sắp tới.",
+      "new_characters": [
+        "Vương Bảo Nhạc",
+        "Đỗ Mẫn",
+        "Lô Lão y sư"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 王宝乐，你干了什么！.md",
+    "translated_file": "Chương 0002 Vương Bảo Nhạc, ngươi đã làm gì!.md",
+    "chapter": "Chương 0002 Vương Bảo Nhạc, ngươi đã làm gì!.md",
+    "summary": {
+      "main_events": "Vương Bảo Nhạc, Đỗ Mẫn, Liễu Đạo Bân và các học viên khác đang trải qua một bài kiểm tra ảo của Đạo Viện. Vương Bảo Nhạc biết đây là mộng cảnh nên đã giả vờ anh hùng cứu mỹ nhân, khiến các giáo viên lầm tưởng cậu có tâm tính tốt và dũng cảm.",
+      "new_characters": [
+        "Vương Bảo Nhạc",
+        "Đỗ Mẫn",
+        "Liễu Đạo Bân",
+        "lão y sư"
+      ]
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 好同学，一切有我！.md",
+    "translated_file": "Chương 0003 Bạn học tốt, mọi chuyện cứ để ta!.md",
+    "chapter": "Chương 0003 Bạn học tốt, mọi chuyện cứ để ta!.md",
+    "summary": {
+      "main_events": "Vương Bảo Nhạc giả vờ hy sinh để kiếm điểm khảo hạch trong trận chiến với đàn sói, nhưng bị Trần Tử Hằng xuất hiện cứu giúp và cướp mất cơ hội thể hiện.",
+      "new_characters": [
+        "Trần Tử Hằng"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 飘渺道院.md",
+    "translated_file": "Chương 0004 Phiêu Miểu Đạo Viện.md",
+    "chapter": "Chương 0004 Phiêu Miểu Đạo Viện.md",
+    "summary": {
+      "main_events": "Vương Bảo Nhạc cùng các tân sinh kết thúc khảo hạch trong mộng cảnh và hạ cánh xuống Phiêu Miểu Đạo Viện. Các giáo sư tranh giành Vương Bảo Nhạc, trong khi lão y sư nghi ngờ cậu gian lận.",
+      "new_characters": [
+        "Lão y sư",
+        "Chòm râu dê"
+      ]
+    }
+  }
+]

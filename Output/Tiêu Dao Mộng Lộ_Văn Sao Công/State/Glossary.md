@@ -1,0 +1,177 @@
+# Term Glossary
+
+- **归灵宗** (organization) -> Quy Linh Tông
+- **玉晶米** (item) -> Ngọc Tinh Mễ
+- **红玉稻种** (item) -> Hồng Ngọc Đạo
+- **玉晶米** (item) -> lúa Ngọc Tinh
+- **青首乌** (item) -> Thanh Thủ Ô
+- **火龙树** (item) -> Hỏa Long thụ
+- **红玉稻** (item) -> Hồng Ngọc Đạo
+- **还火液** (item) -> Hoàn Hỏa dịch
+- **红玉稻** (item) -> Hồng Ngọc Đạo
+- **珍珠玉晶米** (item) -> Trân Châu Ngọc Tinh Mễ
+- **火液** (item) -> Hỏa Dịch
+- **火肥** (item) -> Hỏa Phì
+- **富贵楼** (location) -> Phú Quý Lâu
+- **青叶城** (location) -> thành Thanh Diệp
+- **清灵山** (location) -> Linh San
+- **清河郡** (location) -> quận Thanh Hà
+- **问心茶树** (plant) -> cây trà Vấn Tâm
+- **红玉稻** (plant) -> Hồng Ngọc Đạo
+- **还火液** (item) -> Hoàn Hỏa Dịch
+- **辟兽散** (item) -> Tị Thú Tán
+- **问心茶树** (plant) -> cây trà Vấn Tâm
+- **红玉稻谷** (plant) -> lúa hồng ngọc
+- **还火液** (item) -> Hoàn Hỏa Dịch
+- **坐忘茶道** (skill) -> trà đạo Tọa Vong
+- **红山参** (item) -> Hồng Sơn Sâm
+- **红玉稻田** (location) -> ruộng Ngọc Tinh
+- **归灵宗** (organization) -> Quy Linh Tông
+- **金锁重楼十二关** (item) -> Kim Tỏa Trọng Lâu mười hai quan
+- **毒龙草** (item) -> Độc Long Thảo
+- **阎王令** (item) -> Lệnh Diêm Vương
+- **绮罗香** (item) -> Khỉ La Hương
+- **参合子** (item) -> Sâm Hợp Tử
+- **珠尾蛇** (creature) -> rắn Châu Vĩ
+- **黑沙掌** (skill) -> Hắc Sa Chưởng
+- **金锁重楼十二关** (concept) -> Kim Tỏa Trọng Lâu Thập Nhị Quan
+- **鹰爪功** (skill) -> Ưng Trảo Công
+- **武宗** (rank) -> Vũ Tông
+- **归灵宗** (organization) -> Quy Linh Tông
+- **花狐貂** (creature) -> Hoa Hồ Điêu
+- **清灵山** (location) -> Thanh Linh San
+- **黑沙掌** (skill) -> Hắc Sa Chưởng
+- **金锁重楼** (skill) -> Khóa Vàng Trọng Lâu
+- **珍珠玉晶米** (item) -> gạo Ngọc Tinh
+- **黑沙掌** (skill) -> Hắc Sa Chưởng
+- **玉晶米** (item) -> gạo Ngọc Tinh
+- **红玉稻** (item) -> lúa Hồng Ngọc
+- **问心茶树** (item) -> cây trà Vấn Tâm
+- **花狐貂** (creature) -> Hoa Hồ Điêu
+- **灵米** (item) -> Linh Mễ
+- **红玉稻米** (item) -> gạo Hồng Ngọc
+- **黑沙掌** (skill) -> Hắc Sa Chưởng
+- **归灵宗** (organization) -> Quy Linh Tông
+- **情人醉** (poison) -> Tình Nhân Say
+- **变异珠尾蛇** (creature) -> biến dị Châu Vĩ Xà
+- **阎王帖** (item) -> Diêm Vương Thiếp
+- **归灵心诀** (item) -> Quy Linh Tâm Quyết
+- **鹰爪功** (skill) -> Ưng Trảo Công
+- **坐忘茶道** (terminology) -> Tọa Vong Trà Đạo
+- **断缘** (terminology) -> Đoạn Duyên
+- **收心** (terminology) -> Thu Tâm
+- **简事** (terminology) -> Giản Sự
+- **真观** (terminology) -> Chân Quan
+- **毒龙草** (item) -> Độc Long thảo
+- **珠尾蛇** (monster) -> rắn Châu Vĩ
+- **清灵山** (location) -> núi Thanh Linh
+- **青峰山** (location) -> Thanh Phong sơn
+- **鹰爪手** (martial_art) -> Ưng Trảo Thủ
+- **坐忘茶道** (martial_art) -> Tọa Vong trà đạo
+- **红玉稻米** (item) -> Linh Mễ hồng ngọc
+- **灵禽** (creature) -> linh cầm
+- **灵鸟** (creature) -> linh điểu
+- **鹰爪铁布衫** (martial_arts) -> Ưng Trảo Thiết Bố Sam
+- **青叶城** (location) -> thành Thanh Diệp
+- **周家** (organization) -> nhà họ Chu
+- **伤门** (skill) -> Thương Môn
+- **金锁重楼十二关** (skill) -> Kim Tỏa Trọng Lâu mười hai cửa
+- **青叶城** (location) -> Thanh Diệp thành
+- **法士** (term) -> pháp sĩ
+- **伤门** (term) -> Thương môn
+- **明月诀** (term) -> Minh Nguyệt Quyết
+- **四海阁** (organization) -> Tứ Hải Các
+- **飞燕穿云击** (technique) -> Phi Yến Xuyên Vân Kích
+- **天涯海阁** (organization) -> Thiên Nhai Hải Các
+- **四海阁** (organization) -> Tứ Hải Các
+- **青罗功** (skill) -> Thanh La Công
+- **鹰爪铁布衫** (skill) -> Ưng Trảo Thiết Bố Sam
+- **还死丹** (item) -> Hoàn Tử Đan
+- **鹰爪手** (skill) -> Ưng Trảo Thủ
+- **魔风手** (skill) -> Ma Phong Thủ
+- **血魔解体** (skill) -> Huyết Ma Giải Thể
+- **催魂燃魄** (skill) -> Thôi Hồn Nhiên Phách
+- **珠尾蛇** (monster) -> Châu Vĩ xà
+- **阎王帖** (item) -> Diêm vương thiếp
+- **清河郡** (location) -> Quận Thanh Hà
+- **问心茶树** (object) -> Vấn Tâm Trà thụ
+- **金锁重楼十二关** (martial_arts) -> Kim Tỏa Trọng Lâu Thập Nhị Quan
+- **伤门** (martial_arts) -> Thương Môn
+- **翡翠草** (object) -> Cỏ Phỉ Thúy
+- **坐忘茶道** (martial_arts) -> Tọa Vong Trà Đạo
+- **翡翠灵草** (item) -> linh thảo Phỉ Thúy
+- **坐忘茶道** (terminology) -> trà đạo Tọa Vong
+- **伤门** (terminology) -> Thương Môn
+- **金锁重楼** (terminology) -> Kim Tỏa Trọng Lâu
+- **通灵月身** (terminology) -> Thông Linh Nguyệt thân
+- **雄黄粉** (item) -> bột hùng hoàng
+- **惊门** (concept) -> Kinh Môn
+- **死门** (concept) -> Tử Môn
+- **四天门** (concept) -> Tứ Thiên Môn
+- **还火液** (item) -> Hoàn Hỏa Dịch
+- **郭家** (organization) -> Quách Gia
+- **叶城** (location) -> Diệp Thành
+- **青叶城** (location) -> Thanh Diệp Thành
+- **幽谷** (location) -> U Cốc
+- **青峰灵地** (location) -> Thanh Phong Linh Địa
+- **练实** (item) -> Luyện Thực
+- **红眼白鸟王** (creature) -> bạch điểu vương
+- **黑沙鹰爪手** (technique) -> Hắc Sa Ưng Trảo Thủ
+- **问心茶树** (item) -> Cây trà Vấn Tâm
+- **问心茶** (item) -> Trà Vấn Tâm
+- **坐忘茶道** (skill) -> Tọa Vong trà đạo
+- **翡翠草** (item) -> Cỏ Phỉ Thúy
+- **鹰爪手** (skill) -> Ưng Trảo Thủ
+- **朱果** (item) -> chu quả
+- **五鬼门** (organization) -> Ngũ Quỷ Môn
+- **青叶城** (location) -> Thanh Diệp Thành
+- **烈阳郡** (location) -> Liệt Dương Quận
+- **清河郡** (location) -> Thanh Hà Quận
+- **小寒山** (location) -> Tiểu Hàn Sơn
+- **五鬼门** (organization) -> Ngũ Quỷ Môn
+- **阴阳玉** (object) -> Âm Dương Ngọc
+- **惑心丸** (object) -> Hoặc Tâm Hoàn
+- **通灵月身** (concept) -> Thông Linh Nguyệt Thân
+- **归灵宗** (organization) -> Quy Linh Tông
+- **五鬼门** (organization) -> Ngũ Quỷ Môn
+- **十八鬼蝠手** (technique) -> Thập Bát Quỷ Bức Thủ
+- **五鬼门** (organization) -> Ngũ Quỷ Môn
+- **连六关** (terminology) -> Liên Lục Quan
+- **四天门** (terminology) -> Tứ Thiên Môn
+- **死关** (terminology) -> tử quan
+- **黑沙鹰爪手** (skill) -> Hắc Sa Ưng Trảo Thủ
+- **鬼阴爪** (skill) -> Quỷ Âm Trảo
+- **先声夺人** (skill) -> Tiên Thanh Đoạt Nhân
+- **阴阳玉** (item) -> Âm Dương Ngọc
+- **阎王帖** (item) -> Diêm Vương Thiếp
+- **青叶城** (location) -> Thanh Diệp thành
+- **幽谷** (location) -> U Cốc
+- **四天门** (organization) -> Tứ Thiên môn
+- **五鬼门** (organization) -> Ngũ Quỷ môn
+- **归灵宗** (organization) -> Quy Linh tông
+- **落日城** (location) -> Lạc Nhật thành
+- **落日城** (location) -> Lạc Nhật thành
+- **清灵** (location) -> Thanh Linh
+- **风雷掌** (concept) -> Phong Lôi Chưởng
+- **幽山府** (location) -> U Sơn phủ
+- **地元** (concept) -> Địa Nguyên
+- **血狂丹** (item) -> Huyết Cuồng Đan
+- **竹果** (item) -> Trúc Quả
+- **阎王帖** (item) -> Diêm Vương Thiếp
+- **五鬼门** (organization) -> Ngũ Quỷ Môn
+- **五鬼门** (organization) -> Ngũ Quỷ Môn
+- **青叶城** (location) -> Thanh Diệp Thành
+- **玄炎山脉** (location) -> dãy núi Huyền Viêm
+- **归灵宗** (organization) -> Quy Linh Tông
+- **阴阳玉** (item) -> âm dương ngọc
+- **鹰爪铁布衫** (skill) -> Ưng Trảo Thiết Bố Sam
+- **黑沙掌** (skill) -> Hắc Sa Chưởng
+- **问心茶树** (plant) -> cây Vấn Tâm Trà
+- **红玉稻米** (plant) -> Hồng Ngọc đạo mễ
+- **翡翠草** (plant) -> Phỉ Thúy Thảo
+- **红眼白鸟王** (creature) -> Mắt Đỏ Bạch Điểu Vương
+- **阴阳玉** (item) -> Âm Dương Ngọc
+- **烈阳郡** (location) -> Liệt Dương Quận
+- **五鬼门** (organization) -> Ngũ Quỷ Môn
+- **归灵宗** (organization) -> Quy Linh Tông
+- **血魔功** (technique) -> Huyết Ma Công

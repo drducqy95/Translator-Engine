@@ -1,0 +1,58 @@
+[
+  {
+    "raw": "伯鲁宁",
+    "target": "Bá Lỗ Ninh",
+    "type": "family",
+    "origin": "chinese",
+    "name_type": "family"
+  },
+  {
+    "raw": "萨拉王国",
+    "target": "vương quốc Sara",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "碧根果",
+    "target": "Bích Căn Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "沙曼草",
+    "target": "Sa Mạn Thảo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "无花蛇果",
+    "target": "Vô Hoa Xà Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "湿地花园",
+    "target": "Vườn Hoa Đầm Lầy",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "东兰家族",
+    "target": "gia tộc Đông Lan",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "法雷尔家族",
+    "target": "gia tộc Pháp Lôi Nhĩ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  }
+]

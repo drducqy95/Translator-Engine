@@ -1,0 +1,51 @@
+[
+  {
+    "raw": "药师系统",
+    "target": "Dược Sư Hệ Thống",
+    "type": "system",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "古泉壶",
+    "target": "Ấm Cổ Tuyền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黄精",
+    "target": "hoàng tinh",
+    "type": "plant",
+    "origin": "chinese",
+    "name_type": "botany"
+  },
+  {
+    "raw": "古泉",
+    "target": "cổ tuyền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "古泉壶",
+    "target": "Cổ Tuyền Hổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "古泉水",
+    "target": "nước Cổ Tuyền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "圣斗士",
+    "target": "thánh đấu sĩ",
+    "type": "slang",
+    "origin": "chinese",
+    "name_type": "concept"
+  }
+]

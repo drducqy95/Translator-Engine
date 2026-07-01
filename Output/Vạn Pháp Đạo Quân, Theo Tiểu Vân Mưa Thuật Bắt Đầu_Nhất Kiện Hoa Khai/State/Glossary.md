@@ -1,0 +1,22 @@
+# Term Glossary
+
+- **小苍山** (location) -> Núi Tiểu Thương
+- **青松道院** (organization) -> Thanh Tùng Đạo Viện
+- **沧水行脉法** (technique) -> Thương Thủy Hành Mạch Pháp
+- **开脉丹** (item) -> Khai Mạch Đan
+- **气海穴** (body_part) -> Khí Hải Huyệt
+- **金灵宗** (organization) -> Kim Linh Tông
+- **金灵宗** (organization) -> Kim Linh Tông
+- **碧水湖** (location) -> Bích Thủy Hồ
+- **清源经** (technique) -> Thanh Nguyên Kinh
+- **小云雨术** (technique) -> Tiểu Vân Vũ Thuật
+- **石龟** (object) -> thạch quy
+- **坎灵** (resource) -> Khảm Linh
+- **坤灵** (resource) -> Khôn Linh
+- **巽灵** (resource) -> Tốn Linh
+- **清源经** (technique) -> Thanh Nguyên Kinh
+- **小云雨术** (technique) -> Tiểu Vân Vũ Thuật
+- **厚土诀** (technique) -> Hậu Thổ Quyết
+- **枯荣诀** (technique) -> Khô Vinh Quyết
+- **炎火咒** (technique) -> Viêm Hỏa Chú
+- **锐金诀** (technique) -> Duệ Kim Quyết

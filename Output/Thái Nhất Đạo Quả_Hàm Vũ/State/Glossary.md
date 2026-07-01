@@ -1,0 +1,219 @@
+# Term Glossary
+
+- **鼎湖派** (organization) -> Đỉnh Hồ Phái
+- **长蛇** (item) -> Trường Xà
+- **因果集** (item) -> Tập Hợp Nhân Quả
+- **摇光殿** (location) -> điện Dao Quang
+- **开阳殿** (location) -> điện Khai Dương
+- **道法阁** (location) -> Đạo Pháp Các
+- **因果集** (object) -> Tập Hợp Nhân Quả
+- **静心咒** (skill) -> Tĩnh Tâm Chú
+- **火雷符** (item) -> Hỏa Lôi Phù
+- **白阳符鉴** (item) -> Bạch Dương Phù Giám
+- **游神行气法** (technique) -> Du Thần Hành Khí Pháp
+- **六丁六甲护身符** (item) -> Lục Đinh Lục Giáp Hộ Thân Phù
+- **折花手** (technique) -> Chiết Hoa Thủ
+- **楼观剑法** (technique) -> Lâu Quan Kiếm Pháp
+- **开阳殿** (location) -> Khai Dương Điện
+- **摇光殿** (location) -> Dao Quang Điện
+- **因果集** (item) -> Tập Hợp Nhân Quả
+- **折花手** (skill) -> Chiết Hoa Thủ
+- **楼观剑法** (skill) -> Lâu Quan Kiếm Pháp
+- **道人** (item) -> Đạo Nhân
+- **因果集** (item) -> Tập Hợp Nhân Quả
+- **天兵道果** (item) -> Đạo Quả Thiên Binh
+- **求返其真** (skill) -> Cầu Phản Kỳ Chân
+- **楼观剑法** (skill) -> Lâu Quan Kiếm Pháp
+- **六爻算经** (book) -> Lục Hào Toán Kinh
+- **龙甲神章** (book) -> Long Giáp Thần Chương
+- **水灵符** (item) -> Thủy Linh Phù
+- **文帝钱** (item) -> Văn Đế Tiền
+- **道果** (item) -> Đạo Quả
+- **一坤年** (time) -> một năm Khôn
+- **楼观剑法** (technique) -> Lâu Quan Kiếm Pháp
+- **天兵道果** (item) -> Đạo Quả Thiên Binh
+- **天兵神威** (technique) -> Thiên Binh Thần Uy
+- **求返其真** (technique) -> Cầu Phản Kỳ Chân
+- **火雷符** (item) -> Hỏa Lôi Phù
+- **卷云步** (technique) -> Quyển Vân Bộ
+- **浑元功** (technique) -> Hỗn Nguyên Công
+- **轻身符** (item) -> Khinh Thân Phù
+- **巨力符** (item) -> Cự Lực Phù
+- **二字钳羊马** (technique) -> Nhị Tự Kiềm Dương Mã
+- **铁裆功** (technique) -> Thiết Đảng Công
+- **风云台** (location) -> Phong Vân Đài
+- **思返谷** (location) -> Tư Phản Cốc
+- **因果集** (item) -> Nhân Quả Tập
+- **道法阁** (location) -> Đạo Pháp Các
+- **常春** (location) -> Thường Xuân
+- **武曲坪** (location) -> Vũ Khúc Bình
+- **气坟** (technique) -> Khí Phần
+- **楼观剑法** (technique) -> Pháp Kiếm Lâu Quan
+- **火雷符** (item) -> Hỏa Lôi Pháp
+- **风云台** (location) -> Đài Phong Vân
+- **六丁六甲护身符** (item) -> bùa bảo vệ Lục Đinh Lục Giáp
+- **补元丹** (item) -> Bổ Nguyên Đan
+- **易筋伐髓** (concept) -> Dịch Cân Phạt Tủy
+- **因果集** (item) -> Nhân Quả Tập
+- **六丁六甲护身符** (item) -> Lục Đinh Lục Giáp Hộ Thân Phù
+- **风云台** (location) -> Phong Vân Đài
+- **思返谷** (location) -> Tư Phản Cốc
+- **朱果** (item) -> Chu Quả
+- **赭鞭** (item) -> roi đỏ
+- **赭鞭** (artifact) -> Chá Tiên
+- **鼎湖派** (organization) -> Đỉnh Hồ Phái
+- **因果集** (artifact) -> Nhân Quả Tập
+- **折花手** (technique) -> Chiết Hoa Thủ
+- **五浊恶气** (concept) -> Ngũ Trọc Ác Khí
+- **赭鞭** (item) -> Chá Tiên
+- **未知道果** (item) -> Vị Tri Đạo Quả
+- **易筋伐髓** (technique) -> Dịch Cân Phạt Tủy
+- **鼎湖派** (organization) -> Đỉnh Hồ Phái
+- **神都** (location) -> Thần Đô
+- **赭鞭** (artifact) -> Chá Tiên
+- **求返其真** (ability) -> Cầu phản kỳ chân
+- **因果集** (artifact) -> Nhân Quả Tập
+- **游神行气法** (technique) -> Du Thần Hành Khí Pháp
+- **赭鞭** (item) -> Chá Tiên
+- **水晶之肚** (skill) -> Thủy Tinh Chi Đỗ
+- **阴符七术·实意法螣蛇** (skill) -> Âm Phù Thất Thuật: Thực Ý Pháp Đằng Xà
+- **阴符七术·转圆法猛兽** (skill) -> Âm Phù Thất Thuật: Chuyển Viên Pháp Mãnh Thú
+- **兰花拂穴手** (skill) -> Lan Hoa Phất Huyệt Thủ
+- **折花手** (skill) -> Chiết Hoa Thủ
+- **先天功** (skill) -> Tiên Thiên Công
+- **阴符经** (book) -> Âm Phù Kinh
+- **赭鞭** (object) -> Chử Tiên
+- **神农鼎** (object) -> Thần Nông Đỉnh
+- **鼎湖派** (organization) -> Đỉnh Hồ phái
+- **损兑法灵蓍** (skill) -> Tổn Đoài Pháp Linh Thi
+- **恒卦** (other) -> quẻ Hằng
+- **剥卦** (other) -> quẻ Bác
+- **山地剥** (other) -> Sơn Địa Bác
+- **开阳殿** (location) -> Khai Dương điện
+- **道法阁** (location) -> Đạo Pháp các
+- **思返谷** (location) -> Tư Phản cốc
+- **阴符经注解** (item) -> Âm Phù Kinh Chú Giải
+- **阴符七术** (technique) -> Âm Phù Thất Thuật
+- **实意法螣蛇** (technique) -> Thực Ý Pháp Đằng Xà
+- **泥丸宫** (term) -> Nê Hoàn Cung
+- **螣蛇** (creature) -> Đằng Xà
+- **折花手** (technique) -> Chiết Hoa Thủ
+- **气坟** (technique) -> Khí Phần
+- **神农鼎** (item) -> Thần Nông Đỉnh
+- **赭鞭** (item) -> Giả Tiên
+- **荒神教** (organization) -> Hoang Thần giáo
+- **武曲坪** (location) -> Võ Khúc bình
+- **开阳殿** (location) -> Khai Dương điện
+- **道法阁** (location) -> Đạo Pháp các
+- **摇光殿** (location) -> Diêu Quang điện
+- **因果集** (item) -> Nhân Quả Tập
+- **鼎湖派** (organization) -> Đỉnh Hồ phái
+- **摇光破军** (title) -> Diêu Quang Phá Quân
+- **鼎湖派** (organization) -> Đỉnh Hồ phái
+- **思返谷** (location) -> Tư Phản Cốc
+- **先天功** (technique) -> Tiên Thiên Công
+- **赭鞭** (item) -> Giả Tiên
+- **墨武战匣** (item) -> Mặc Vũ chiến hạp
+- **剑心通明** (term) -> Kiếm Tâm Thông Minh
+- **战汝娘亲** (term) -> Chiến Nhữ Nương Thân
+- **神属道果** (term) -> đạo quả Thần thuộc
+- **楼观剑法** (term) -> Lâu Quan Kiếm Pháp
+- **赭鞭** (artifact) -> Giả Tiên
+- **阴符七术** (technique) -> Âm Phù Thất Thuật
+- **散势法鸷鸟** (technique) -> Tán Thế Pháp Chí Điểu
+- **气坟** (technique) -> Khí Phần
+- **思返谷** (location) -> Tư Phản Cốc
+- **执法堂** (organization) -> Chấp Pháp Đường
+- **姜氏** (organization) -> Khương Thị
+- **鼎湖派** (organization) -> Đỉnh Hồ phái
+- **应龙** (creature) -> Ứng Long
+- **赭鞭** (artifact) -> Giả Roi
+- **玉真丹** (consumable) -> Ngọc Chân Đan
+- **坤元草** (consumable) -> Khôn Nguyên Thảo
+- **红霞** (phenomenon) -> Hồng Hà
+- **思返谷** (location) -> Tư Phản Cốc
+- **金黄** (attribute) -> vàng óng
+- **墨武战匣** (artifact) -> Mặc Võ chiến giáp
+- **雷光** (phenomenon) -> lôi quang
+- **贤者全真** (concept) -> Hiền giả Toàn Chân
+- **求返其真** (skill) -> Cầu phản kỳ chân
+- **黄帝六相** (concept) -> Hoàng Đế Lục Tương
+- **实意法螣蛇** (technique) -> Thực Ý Pháp Đằng Xà
+- **阴符七术** (technique) -> Âm Phù Thất Thuật
+- **形坟** (technique) -> Hình Phần
+- **气坟** (technique) -> Khí Phần
+- **赭鞭** (item) -> Giả Tiên
+- **实意法螣蛇** (technique) -> Thực Ý Pháp Đằng Xà
+- **形坟** (book) -> Hình Phần
+- **应龙变** (technique) -> Ứng Long Biến
+- **泥丸宫** (location) -> Nê Hoàn Cung
+- **阴符经** (book) -> Âm Phù Kinh
+- **少侠阿宾** (book) -> Thiếu Hiệp A Tân
+- **应龙之息** (technique) -> Ứng Long Chi Tức
+- **先天功** (technique) -> Tiên Thiên Công
+- **性命双修** (technique) -> Tính Mệnh Song Tu
+- **实意法螣蛇** (technique) -> Thực Ý Pháp Đằng Xà
+- **万叶飞花掌** (technique) -> Vạn Diệp Phi Hoa Chưởng
+- **实意法螣蛇** (technique) -> Thực Ý Pháp Đằng Xà
+- **赭鞭** (item) -> Giả Tiên
+- **折花手** (technique) -> Chiết Hoa Thủ
+- **剑修** (concept) -> Kiếm tu
+- **术士** (concept) -> Thuật sĩ
+- **道果** (item) -> Đạo quả
+- **道器** (item) -> đạo khí
+- **剑修** (class) -> Kiếm tu
+- **术士** (class) -> Thuật sĩ
+- **乙巳占** (book) -> Ất Tị Chiêm
+- **麟德历** (book) -> Lân Đức Lịch
+- **推背图** (book) -> Thôi Bối Đồ
+- **望气** (ability) -> Vọng khí
+- **乙巳占** (book) -> Ất Tị Chiêm
+- **麟德历** (book) -> Lân Đức Lịch
+- **推背图** (book) -> Thôi Bối Đồ
+- **龙甲神章** (book) -> Long Giáp Thần Chương
+- **归藏易** (book) -> Quy Tàng Dễ
+- **地风升** (hexagram) -> Địa Phong Thăng
+- **气坟** (technique) -> Khí Phần
+- **先天功** (technique) -> Tiên Thiên Công
+- **直达天听** (ability) -> Trực Đạt Thiên Thính
+- **气坟** (technique) -> Khí Mộ
+- **巡值四方** (technique) -> Tuần Trị Tứ Phương
+- **螣蛇** (creature) -> Đằng Xà
+- **赭鞭** (artifact) -> Giả Tiên
+- **鼎湖派** (organization) -> Đỉnh Hồ phái
+- **天权** (location) -> Thiên Quyền
+- **九黎刀章** (item) -> Cửu Lê Đao Chương
+- **蚩尤三盘经** (item) -> Xi Vưu Tam Bàn Kinh
+- **气坟** (item) -> Khí Phẫn
+- **坤元** (concept) -> Khôn Nguyên
+- **尾闾** (concept) -> Vĩ Lư
+- **先天一炁** (concept) -> Tiên Thiên Nhất Khí
+- **气坟** (book) -> Khí Phần
+- **九泉心诀** (technique) -> Cửu Tuyền Tâm Quyết
+- **神农九泉** (technique) -> Thần Nông Cửu Tuyền
+- **三分归元气** (technique) -> Tam Phân Quy Nguyên Khí
+- **地灵草** (item) -> Địa Linh Thảo
+- **天蓬咒** (book) -> Thiên Bồng Chú
+- **先天一炁** (terminology) -> Tiên Thiên Nhất Khí
+- **地灵草** (item) -> Địa Linh Thảo
+- **气坟** (terminology) -> Khí Phần
+- **十全大补丹** (item) -> Thập Toàn Đại Bổ Đan
+- **五浊恶气** (terminology) -> Ngũ Trọc Ác Khí
+- **天蓬咒** (terminology) -> Thiên Bồng chú
+- **易术** (terminology) -> Dịch thuật
+- **道法阁** (location) -> Đạo Pháp các
+- **飞云镇** (location) -> Phi Vân trấn
+- **因果集** (item) -> Nhân Quả Tập
+- **崇明岛** (location) -> đảo Sùng Minh
+- **思返谷** (location) -> Tư Phản Cốc
+- **开阳殿** (location) -> Khai Dương Điện
+- **赭鞭** (item) -> Giả Tiên
+- **军神五兵** (item) -> Quân Thần Ngũ Binh
+- **妖神教** (organization) -> Yêu Thần Giáo
+- **雷边捷鬼** (ability) -> Lôi Biên Tiệp Quỷ
+- **急急如律令** (ability) -> Cấp Cấp Như Luật Lệnh
+- **真定郡** (place) -> quận Chân Định
+- **神都** (place) -> Thần Đô
+- **崩溃疗法** (concept) -> liệu pháp sụp đổ
+- **铜磬** (object) -> đồng khánh
+- **诛心** (concept) -> tru tâm

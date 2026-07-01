@@ -1,0 +1,146 @@
+# Term Glossary
+
+- **凌风楼** (location) -> Lăng Phong Lâu
+- **大周** (location) -> Đại Chu
+- **白水乡** (location) -> Bạch Thủy Hương
+- **香武堂** (organization) -> Hương Võ Đường
+- **吴家坞堡** (location) -> Ngô Gia Ổ Bảo
+- **大周** (location) -> Đại Chu
+- **主神殿** (organization) -> Chủ Thần Điện
+- **大青庄** (location) -> Đại Thanh Trang
+- **乡勇** (character_class) -> hương dũng
+- **胡人** (character_class) -> người Hồ
+- **图鲁勇士** (character_class) -> dũng sĩ người Hồ
+- **狼神天** (deity) -> Lang Thần Thiên
+- **大青庄** (location) -> Đại Thanh Trang
+- **大青庄** (location) -> Đại Thanh Trang
+- **陪戎副尉** (title) -> Bồi Nhung Phó Úy
+- **乌金环** (item) -> Vòng Vàng Đen
+- **灵龟养气功** (technique) -> Linh Quy Dưỡng Khí Công
+- **灵龟养气功** (technique) -> Linh Quy Dưỡng Khí Công
+- **束阴索** (technique) -> Thúc Âm Tác
+- **丧门钉** (technique) -> Tang Môn Đinh
+- **史论杂谈·卷七** (book) -> Sử Luận Tạp Đàm · Quyển Bảy
+- **金刚大力鹰爪手** (terminology) -> Kim Cương Đại Lực Ưng Trảo Thủ
+- **真气境** (terminology) -> Chân Khí Cảnh
+- **先天** (terminology) -> Tiên Thiên
+- **外罡** (terminology) -> Ngoại Cương
+- **内罡** (terminology) -> Nội Cương
+- **吴家堡** (location) -> Pháo đài Ngô Gia
+- **道院** (organization) -> Đạo viện
+- **乌金指环** (item) -> Nhẫn tử đồng
+- **歃血盟** (organization) -> Nhập Minh
+- **黑台县** (location) -> Hắc Thai Huyền
+- **黑山** (location) -> Hắc Sơn
+- **黑山** (location) -> Hắc Sơn
+- **黑台县** (location) -> Hắc Thai Huyền
+- **却鬼丸** (item) -> Khước Quỷ Hoàn
+- **黑水镇** (location) -> Hắc Thủy Trấn
+- **大周** (organization) -> Đại Chu
+- **黑台** (location) -> Hắc Thai
+- **黑水** (location) -> Hắc Thủy
+- **李家庄** (location) -> Lý gia trang
+- **东水** (location) -> Đông Thủy
+- **纪家老店** (location) -> lão điếm nhà họ Kỷ
+- **歃血盟** (organization) -> Sáp Huyết Minh
+- **黑水镇** (location) -> Hắc Thủy Trấn
+- **大周** (location) -> Đại Chu
+- **黑水镇** (location) -> Hắc Thủy Trấn
+- **却鬼丸** (item) -> Khước Quỷ Hoàn
+- **黑水镇** (location) -> Trấn Hắc Thủy
+- **黑台县** (location) -> Huyện Hắc Đài
+- **金风** (item) -> Kim Phong
+- **无尘法衣** (object) -> pháp y Vô Trần
+- **乌金环** (object) -> Ô Kim Hoàn
+- **主神殿** (faction) -> Chủ Thần Điện
+- **大周** (faction) -> Đại Chu
+- **青石村** (location) -> thôn Thanh Thạch
+- **乌金环** (item) -> Ô Kim Hoàn
+- **小诸天雷符** (item) -> Tiểu Chư Thiên Lôi Phù
+- **周家** (organization) -> Nhà họ Chu
+- **青石村** (location) -> thôn Thanh Thạch
+- **冰敬炭敬** (glossary) -> Băng Kính, Thán Kính
+- **白水村** (location) -> Bạch Thủy thôn
+- **青石村** (location) -> Thanh Thạch thôn
+- **大田村** (location) -> Đại Điền thôn
+- **云平** (location) -> Vân Bình
+- **青石村** (location) -> Thanh Thạch thôn
+- **白水村** (location) -> Bạch Thủy thôn
+- **大田村** (location) -> Đại Điền thôn
+- **云平** (location) -> Vân Bình
+- **勺子山** (location) -> Thược Tử Sơn
+- **周家** (organization) -> Chu gia
+- **接天风** (organization) -> Tiếp Thiên Phong
+- **勺子山** (location) -> Thược Tử Sơn
+- **巡检司** (organization) -> Tuần Kiểm Ti
+- **小回春符** (artifact) -> Tiểu Hồi Xuân Phù
+- **周家** (organization) -> Chu gia
+- **坞堡** (term) -> ổ bảo
+- **道院** (organization) -> đạo viện
+- **女冠** (term) -> nữ quan
+- **掌院** (term) -> chưởng viện
+- **监院** (term) -> giám viện
+- **高功** (term) -> cao công
+- **真传** (term) -> chân truyền
+- **受箓** (term) -> thụ lục
+- **火工杂役** (term) -> hỏa công tạp dịch
+- **炼师** (term) -> luyện sư
+- **法师** (term) -> pháp sư
+- **勺子山** (location) -> Thược Tử Sơn
+- **太阴炼尸法** (skill) -> Thái Âm Luyện Thi Pháp
+- **五石返明散** (item) -> Ngũ Thạch Phản Minh Tán
+- **黄庭阴符经** (item) -> Hoàng Đình Âm Phù Kinh
+- **识海** (terminology) -> thức hải
+- **泥丸** (terminology) -> nê hoàn
+- **《黄庭阴符经》** (item) -> 《 Hoàng Đình Âm Phù Kinh 》
+- **九凤破秽箓** (item) -> Cửu Phượng Phá Uế Lục
+- **龙门之会** (event) -> Long Môn chi hội
+- **郡望** (organization) -> quận vọng
+- **坞堡** (location) -> ổ bảo
+- **怒龙江** (location) -> Nộ Long Giang
+- **龙门峡** (location) -> Long Môn hiệp
+- **大周世界** (location) -> thế giới Đại Chu
+- **牙兵** (group) -> nha binh
+- **九山军** (group) -> Cửu Sơn Quân
+- **烈山都** (group) -> Liệt Sơn Đô
+- **九山军** (organization) -> Cửu Sơn quân
+- **烈山** (location) -> Liệt Sơn
+- **真定郡** (location) -> quận Chân Định
+- **致果校尉** (title) -> Trí Quả hiệu úy
+- **乱星** (item) -> Loạn Tinh
+- **破煞** (item) -> Phá Sát
+- **太岁镇煞符** (item) -> Thái Tuế Trấn Sát Phù
+- **乾元** (era) -> Kiền Nguyên
+- **九山郡** (location) -> Cửu Sơn quận
+- **大周** (organization) -> Đại Chu
+- **主神殿** (organization) -> Chủ Thần Điện
+- **聚阴幡** (item) -> Tụ Âm Phiên
+- **烈山都指挥使** (title) -> Liệt Sơn Đô chỉ huy sứ
+- **九山军** (organization) -> Cửu Sơn quân
+- **沧浪郡** (location) -> Thương Lãng quận
+- **厢兵** (organization) -> Sương binh
+- **郡尉** (title) -> Quận úy
+- **太岁镇煞符** (item) -> Thái Tuế Trấn Sát Phù
+- **星辰世界** (location) -> thế giới Tinh Thần
+- **主神空间** (location) -> không gian Chủ Thần
+- **人仙境** (cultivation) -> Nhân Tiên cảnh
+- **肉身境** (cultivation) -> Nhục Thân cảnh
+- **搜神记** (item) -> Sưu Thần Ký
+- **断蛇丘** (location) -> Đoạn Xà Khâu
+- **龙门之会** (event) -> Long Môn chi hội
+- **天功** (item) -> thiên công
+- **天工戒** (item) -> Thiên Công Giới
+- **五雷掌法** (skill) -> Ngũ Lôi Chưởng Pháp
+- **五色法袍** (item) -> Ngũ Sắc Pháp Bào
+- **太岁镇煞符** (item) -> Thái Tuế Trấn Sát Phù
+- **王家** (organization) -> Vương gia
+- **马家老店** (location) -> Mã Gia Lão Điếm
+- **九山军** (organization) -> Cửu Sơn Quân
+- **霸下** (location) -> Bá Hạ
+- **郡守** (title) -> quận trưởng
+- **郡丞** (title) -> quận thừa
+- **郡尉** (title) -> quận úy
+- **厢兵** (military_unit) -> sương binh
+- **随侯珠** (item) -> Tùy Hầu Châu
+- **《太平御览》** (book) -> Thái Bình Ngự Lãm
+- **主神殿** (place) -> Chủ Thần Điện

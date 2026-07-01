@@ -1,0 +1,24 @@
+# Character Dictionary
+
+- **小人儿** -> tiểu nhân nhi
+- **神祇** -> thần
+- **真龙** -> Chân Long
+- **龙珠** -> Long Châu
+- **李昊** -> Lý Hạo
+- **烛龙** -> Rồng Ngậm Nến
+- **怪物** -> quái vật
+- **古龙** -> Cổ Long
+- **大佬** -> đại lão
+- **造物主** -> Đấng Tạo Hóa
+- **先知** -> Tiên Tri
+- **李昊** -> Lý Hạo
+- **梦瑶** -> Mộng Dao
+- **老驴头** -> Lão Lừa Già
+- **李昊** -> Lý Hạo
+- **梦瑶** -> Mộng Dao
+- **烛龙** -> Chúc Long
+- **疤脸** -> Mặt Thẹo
+- **疤脸** -> Mặt Thẹo
+- **烛龙** -> Chúc Long
+- **疤脸** -> Mặt Thẹo
+- **烛龙** -> Chúc Long

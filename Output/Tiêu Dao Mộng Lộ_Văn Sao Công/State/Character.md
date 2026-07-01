@@ -1,0 +1,128 @@
+# Character Dictionary
+
+- **方元** -> Phương Nguyên
+- **林叔** -> Lâm Thúc
+- **余秋冷** -> Dư Thu Lãnh
+- **蕾月** -> Lôi Nguyệt
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **林员外** -> Lâm viên ngoại
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **周文馨** -> Chu Văn Hinh
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **田老汉** -> Điền lão hán
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **蕾月** -> Lôi Nguyệt
+- **林本初** -> Lâm Bản Sơ
+- **周文馨** -> Chu Văn Hinh
+- **花狐貂** -> Hoa Hồ Điêu
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **花狐貂** -> Hoa Hồ Điêu
+- **珠尾蛇** -> rắn Châu Vĩ
+- **韩寿** -> Hàn Thọ
+- **方元** -> Phương Nguyên
+- **韩寿** -> Hàn Thọ
+- **周文馨** -> Chu Văn Hinh
+- **周老爷** -> Chu Lão Gia
+- **周文武** -> Chu Văn Võ
+- **宋志高** -> Tống Chí Cao
+- **宋玉杰** -> Tống Ngọc Kiệt
+- **宋中** -> Tống Trung
+- **王三** -> Vương Tam
+- **田老汉** -> Lão Điền
+- **花狐貂** -> Hoa Hồ Điêu
+- **寇封** -> Khấu Phong
+- **方元** -> Phương Nguyên
+- **周通** -> Chu Thông
+- **宋玉杰** -> Tống Ngọc Kiệt
+- **宋中** -> Tống Trung
+- **余秋冷** -> Dư Thu Lãnh
+- **林本初** -> Lâm Bản Sơ
+- **周文馨** -> Chu Văn Hinh
+- **周文武** -> Chu Văn Võ
+- **周文馨** -> Chu Văn Hinh
+- **周通** -> Chu Thông
+- **宋中** -> Tống Trung
+- **宋玉杰** -> Tống Ngọc Kiệt
+- **寇封** -> Khấu Phong
+- **宋中** -> Tống Trung
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **师语彤** -> Sư Ngữ Đồng
+- **林员外** -> Lâm viên ngoại
+- **炎长老** -> Viêm trưởng lão
+- **寒长老** -> Hàn trưởng lão
+- **薛长老** -> Tiết trưởng lão
+- **寒长老** -> Hàn trưởng lão
+- **钱复生** -> Tiền Phục Sinh
+- **钱复生** -> Tiền Phục Sinh
+- **青公子** -> Thanh công tử
+- **小青** -> Tiểu Thanh
+- **青公子** -> Thanh Công Tử
+- **吴明** -> Ngô Minh
+- **林蕾月** -> Lâm Lôi Nguyệt
+- **林蕾月** -> Lâm Lôi Nguyệt
+- **李长老** -> Lý trưởng lão
+- **林蕾月** -> Lâm Lôi Nguyệt
+- **师语彤** -> Sư Ngữ Đồng
+- **师语彤** -> Sư Ngữ Đồng
+- **问心居士** -> Vấn Tâm cư sĩ
+- **师语彤** -> Sư Ngữ Đồng
+- **张寒** -> Trương Hàn
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **问心居士** -> Vấn Tâm Cư Sĩ
+- **方元** -> Phương Nguyên
+- **花狐貂** -> Hoa Hồ Điêu
+- **郭京** -> Quách Kinh
+- **周文武** -> Chu Văn Võ
+- **师语彤** -> Sư Ngữ Đồng
+- **小十八** -> Tiểu Thập Bát
+- **珠尾蛇** -> Rắn Châu Vĩ
+- **周文武** -> Chu Văn Võ
+- **林员外** -> Lâm viên ngoại
+- **周文武** -> Chu Văn Võ
+- **封寒** -> Phong Hàn
+- **周文武** -> Văn Võ
+- **师语彤** -> Sư Ngữ Đồng
+- **寒长老** -> Hàn trưởng lão
+- **寒老鬼** -> Hàn lão quỷ
+- **鬼无生** -> Quỷ Vô Sinh
+- **林本初** -> Lâm Bản Sơ
+- **师语彤** -> Sư Ngữ Đồng
+- **林蕾月** -> Lâm Lôi Nguyệt
+- **王富贵** -> Vương Phú Quý
+- **飞鹤老人** -> Hướng Phi Hạc
+- **林荒** -> Lâm Hoang
+- **林蕾月** -> Lâm Lôi
+- **林蕾月** -> Lâm Lôi Nguyệt
+- **林荒** -> Lâm Hoang
+- **师语彤** -> Sư Ngữ Đồng
+- **寒长老** -> Hàn trưởng lão
+- **炎寒二长老** -> Viêm Hàn nhị vị trưởng lão
+- **余秋冷** -> Dư Thu Lãnh
+- **林荒** -> Lâm Hoang
+- **林蕾** -> Lâm Lôi
+- **鬼无生** -> Quỷ Vô Sinh
+- **阴无疚** -> Âm Vô Cữu
+- **王富贵** -> Vương Phú Quý
+- **钟老爷子** -> Chung lão gia tử
+- **鬼无生** -> Quỷ Vô Sinh
+- **鬼无生** -> Quỷ Vô Sinh
+- **师语彤** -> Sư Ngữ Đồng
+- **阎婆** -> Diêm Bà
+- **阴十重** -> Âm Thập Trọng
+- **寒老鬼** -> Hàn lão quỷ
+- **师语彤** -> Sư Ngữ Đồng
+- **独孤弘** -> Độc Cô Hoằng
+- **野狼** -> Dã Lang
+- **师语彤** -> Sư Ngữ Đồng
+- **血杀子** -> Huyết Sát Tử
+- **师语彤** -> Sư Ngữ Đồng
+- **血杀子** -> Huyết Sát Tử
+- **鬼无生** -> Quỷ Vô Sinh
+- **方元** -> Phương Nguyên
+- **血杀子** -> Huyết Sát Tử
+- **鬼无生** -> Quỷ Vô Sinh
+- **血杀子** -> Huyết Sát Tử
+- **师语彤** -> Sư Ngữ Đồng
+- **血杀子** -> Huyết Sát Tử

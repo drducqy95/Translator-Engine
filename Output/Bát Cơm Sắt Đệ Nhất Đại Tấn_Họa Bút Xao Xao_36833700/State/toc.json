@@ -1,0 +1,874 @@
+{
+    "novel_id": "Bát Cơm Sắt Đệ Nhất Đại Tấn_Họa Bút Xao Xao_36833700",
+    "source_type": "crawl",
+    "metadata": {
+        "title": "大晋第一铁饭碗最新章节",
+        "description": "69书吧-最好最快的小说阅读网将于第一时间更新小说大晋第一铁饭碗",
+        "cover_url": "https://cdn.cdnshu.com/images/user.png",
+        "source_url": "https://www.69shuba.com/book/84221.htm",
+        "source_id": "69shuba",
+        "source_name": "69shuba (69 Thư Ba)",
+        "crawled_at": "2026-06-24T13:20:19+0700",
+        "cover_file": "cover.png"
+    },
+    "chapters": [
+        {
+            "index": 1,
+            "file": "Chapter 0001 第1章 献祭.md",
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0001 Hiến tế.md",
+            "title": "第1章 献祭"
+        },
+        {
+            "index": 2,
+            "file": "Chapter 0002 第2章 死里逃生.md",
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0002 Trở về từ cõi chết.md",
+            "title": "第2章 死里逃生"
+        },
+        {
+            "index": 3,
+            "file": "Chapter 0003 第3章 得机缘.md",
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0003 Được cơ duyên.md",
+            "title": "第3章 得机缘"
+        },
+        {
+            "index": 4,
+            "file": "Chapter 0004 第4章 修炼和医术传承.md",
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0004 Tu luyện và y thuật truyền thừa.md",
+            "title": "第4章 修炼和医术传承"
+        },
+        {
+            "index": 5,
+            "file": "Chapter 0005 5第5章 一鳞半爪.md",
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0005 Vụn vặt.md",
+            "title": "5第5章 一鳞半爪"
+        },
+        {
+            "file": "Chapter 0006 6第6章 封建大家长.md",
+            "index": 6,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0006 Phong kiến đại gia trưởng.md",
+            "title": "6第6章 封建大家长"
+        },
+        {
+            "file": "Chapter 0007 第7章 相看.md",
+            "index": 7,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0007 Xem mắt.md",
+            "title": "第7章 相看"
+        },
+        {
+            "file": "Chapter 0008 第8章 人如物.md",
+            "index": 8,
+            "status": "pending",
+            "title": "第8章 人如物",
+            "error": ""
+        },
+        {
+            "file": "Chapter 0009 第9章 关禁闭.md",
+            "index": 9,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0009 Giam lỏng.md",
+            "title": "第9章 关禁闭"
+        },
+        {
+            "file": "Chapter 0010 10第10章 做妾.md",
+            "index": 10,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0010 10. Chương 10 Làm thiếp.md",
+            "title": "10第10章 做妾"
+        },
+        {
+            "file": "Chapter 0011 第11章 谈笑定人生.md",
+            "index": 11,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0011 Nói cười định nhân sinh.md",
+            "title": "第11章 谈笑定人生"
+        },
+        {
+            "file": "Chapter 0013 第13章 当杂役.md",
+            "index": 13,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0013 Làm tạp dịch.md",
+            "title": "第13章 当杂役"
+        },
+        {
+            "file": "Chapter 0014 第14章 走出家门.md",
+            "index": 14,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0014 Bước ra khỏi cửa nhà.md",
+            "title": "第14章 走出家门"
+        },
+        {
+            "file": "Chapter 0015 第15章 杂役堂.md",
+            "index": 15,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0015 Tạp Dịch Phòng.md",
+            "title": "第15章 杂役堂"
+        },
+        {
+            "file": "Chapter 0016 第16章 适应.md",
+            "index": 16,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0016 , Thích ứng.md",
+            "title": "第16章 适应"
+        },
+        {
+            "file": "Chapter 0017 第17章 不看好.md",
+            "index": 17,
+            "status": "done",
+            "error": "",
+            "translated_file": "Chương 0017 Không Coi Trọng.md",
+            "title": "第17章 不看好"
+        },
+        {
+            "file": "Chapter 0018 第18章 开门红.md",
+            "index": 18,
+            "status": "pending",
+            "title": "第18章 开门红"
+        },
+        {
+            "file": "Chapter 0019 第19章 教训.md",
+            "index": 19,
+            "status": "pending",
+            "title": "第19章 教训"
+        },
+        {
+            "file": "Chapter 0020 第20章 办法总是比困难多.md",
+            "index": 20,
+            "status": "pending",
+            "title": "第20章 办法总是比困难多"
+        },
+        {
+            "file": "Chapter 0021 第21章 第一笔外快.md",
+            "index": 21,
+            "status": "pending",
+            "title": "第21章 第一笔外快"
+        },
+        {
+            "file": "Chapter 0022 第22章 流言蜚语.md",
+            "index": 22,
+            "status": "pending",
+            "title": "第22章 流言蜚语"
+        },
+        {
+            "file": "Chapter 0023 第23章 忍无可忍无需再忍.md",
+            "index": 23,
+            "status": "pending",
+            "title": "第23章 忍无可忍无需再忍"
+        },
+        {
+            "file": "Chapter 0026 26第26章 撑腰.md",
+            "index": 26,
+            "status": "pending",
+            "title": "26第26章 撑腰"
+        },
+        {
+            "file": "Chapter 0027 第27章 话里机锋.md",
+            "index": 27,
+            "status": "pending",
+            "title": "第27章 话里机锋"
+        },
+        {
+            "file": "Chapter 0028 第28章 金凤凰.md",
+            "index": 28,
+            "status": "pending",
+            "title": "第28章 金凤凰"
+        },
+        {
+            "file": "Chapter 0030 第30章 灵力强于内力.md",
+            "index": 30,
+            "status": "pending",
+            "title": "第30章 灵力强于内力"
+        },
+        {
+            "file": "Chapter 0033 33第33章 伤害力.md",
+            "index": 33,
+            "status": "pending",
+            "title": "33第33章 伤害力"
+        },
+        {
+            "file": "Chapter 0034 34第34章 完整的炼丹传承.md",
+            "index": 34,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0035 35第35章 一步一步朝前走.md",
+            "index": 35,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0036 36第36章 一品丹师.md",
+            "index": 36,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0037 37第37章 救人.md",
+            "index": 37,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0038 38第38章 好坏相依.md",
+            "index": 38,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0039 39第39章 姐就是这样的女子.md",
+            "index": 39,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0040 40第40章 倒反天罡.md",
+            "index": 40,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0041 41第41章 情分与义务.md",
+            "index": 41,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0042 42第42章 家庭结构.md",
+            "index": 42,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0043 43第43章 返祖.md",
+            "index": 43,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0044 44第44章 气海境.md",
+            "index": 44,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0045 45第45章 课题分离.md",
+            "index": 45,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0046 46第46章 报复.md",
+            "index": 46,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0047 47第47章 有房了.md",
+            "index": 47,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0048 48第48章 再见顾锦凡.md",
+            "index": 48,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0049 49第49章 佝偻老人.md",
+            "index": 49,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0050 50第50章 神农鼎.md",
+            "index": 50,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0051 51第51章 丹圣殿.md",
+            "index": 51,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0052 52第52章 神农种植术.md",
+            "index": 52,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0053 53第53章 大道五十天衍四九.md",
+            "index": 53,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0054 54第54章 捉迷藏.md",
+            "index": 54,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0055 55第55章 火灵石.md",
+            "index": 55,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0056 56第56章 红莲气海.md",
+            "index": 56,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0057 57第57章 神通焚寂.md",
+            "index": 57,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0058 58第58章 十四岁了.md",
+            "index": 58,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0059 59第59章 造化石榴.md",
+            "index": 59,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0060 60第60章 结丹境.md",
+            "index": 60,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0061 61第61章 合作达成.md",
+            "index": 61,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0062 62第62章 重生者.md",
+            "index": 62,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0063 63第63章 被动.md",
+            "index": 63,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0064 64第64章 首杀.md",
+            "index": 64,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0065 65第65章 山灵讨封.md",
+            "index": 65,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0066 66第66章 被镇压的大妖.md",
+            "index": 66,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0067 67第67章 洞壁留传承.md",
+            "index": 67,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0068 68第68章 修行修心.md",
+            "index": 68,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0069 69第69章 苏醒.md",
+            "index": 69,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0070 70第70章 朱雀现.md",
+            "index": 70,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0071 71第71章 有道场了.md",
+            "index": 71,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0072 72第72章 黑焰入体.md",
+            "index": 72,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0073 73第73章 香火.md",
+            "index": 73,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0074 74第74章 掌中佛国.md",
+            "index": 74,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0075 75第75章 元婴出逃.md",
+            "index": 75,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0076 76第76章 初心.md",
+            "index": 76,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0077 77第77章 初知外界修士.md",
+            "index": 77,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0078 78第78章 反抗.md",
+            "index": 78,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0079 79第79章 青牛妖.md",
+            "index": 79,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0080 80第80章 回京.md",
+            "index": 80,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0081 81第81章 升职.md",
+            "index": 81,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0082 82第82章 风云中心.md",
+            "index": 82,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0083 83第83章 神灯.md",
+            "index": 83,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0084 84第84章 火莲仙子.md",
+            "index": 84,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0085 85第85章 工具人.md",
+            "index": 85,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0086 86第86章 活自己.md",
+            "index": 86,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0087 87第87章 顺大势可起飞.md",
+            "index": 87,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0088 88第88章 诬陷.md",
+            "index": 88,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0089 89第89章 修士身份曝光.md",
+            "index": 89,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0090 90第90章 胡萝卜和大棒.md",
+            "index": 90,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0091 91第91章 人种果.md",
+            "index": 91,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0092 92第92章 圣地.md",
+            "index": 92,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0093 93第93章 丹圣殿门开了.md",
+            "index": 93,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0094 94第94章 奇怪的木牌.md",
+            "index": 94,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0095 95第95章 点燃丹火.md",
+            "index": 95,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0096 96第96章 修炼速度暴涨.md",
+            "index": 96,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0097 97第97章 传道.md",
+            "index": 97,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0098 98第98章 钥匙.md",
+            "index": 98,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0099 99第99章 与我有缘.md",
+            "index": 99,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0100 100第100章 权责对等.md",
+            "index": 100,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0101 101第101章 木鱼声.md",
+            "index": 101,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0102 102第102章 血脉图腾.md",
+            "index": 102,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0103 103第103章 被锦衣卫盯上.md",
+            "index": 103,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0104 104第104章 四灵界的演化史.md",
+            "index": 104,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0105 105第105章 人 妖之争.md",
+            "index": 105,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0106 106第106章 血脉返祖.md",
+            "index": 106,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0107 107第107章 炼体.md",
+            "index": 107,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0108 108第108章 木牌哪去了.md",
+            "index": 108,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0109 109第109章 自命不凡.md",
+            "index": 109,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0110 110第110章 五娘命悬一线.md",
+            "index": 110,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0111 111第111章 磨刀石.md",
+            "index": 111,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0112 112第112章 争取权益.md",
+            "index": 112,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0113 113第113章 莲花窝.md",
+            "index": 113,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0114 114第114章 化婴.md",
+            "index": 114,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0115 115第115章 透视.md",
+            "index": 115,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0116 116第116章 灵针.md",
+            "index": 116,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0117 117第117章 鬼市.md",
+            "index": 117,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0118 118第118章 朱雀传功石.md",
+            "index": 118,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0119 119第119章 朱雀志.md",
+            "index": 119,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0120 120第120章 松动.md",
+            "index": 120,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0121 121第121章 天部.md",
+            "index": 121,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0122 122第122章 拘魂.md",
+            "index": 122,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0123 123第123章 噬魂树.md",
+            "index": 123,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0124 124第124章 长眉罗汉.md",
+            "index": 124,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0125 125第125章 陵光殿现.md",
+            "index": 125,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0126 126第126章 地域变大.md",
+            "index": 126,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0127 127第127章 神识.md",
+            "index": 127,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0128 128第128章 九幽.md",
+            "index": 128,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0129 129第129章 各怀心思.md",
+            "index": 129,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0130 130第130章 觉纹.md",
+            "index": 130,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0131 131第131章 救命恩人一说.md",
+            "index": 131,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0132 132第132章 随身村庄.md",
+            "index": 132,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0133 133第133章 二品炼丹师.md",
+            "index": 133,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0134 134第134章 两名朱雀军.md",
+            "index": 134,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0135 135第135章 岐黄馆被盯上了.md",
+            "index": 135,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0136 136第136章 配对没成功.md",
+            "index": 136,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0137 137第137章 名与位.md",
+            "index": 137,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0138 138第138章 心中无人.md",
+            "index": 138,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0139 139第139章 三十年河东三十年河西.md",
+            "index": 139,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0140 140第140章 靠自己.md",
+            "index": 140,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0141 141第141章 家教之别.md",
+            "index": 141,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0142 142第142章 血脉至亲.md",
+            "index": 142,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0143 143第143章 考验.md",
+            "index": 143,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0144 144第144章 南象城.md",
+            "index": 144,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0145 145第145章 三品炼丹师.md",
+            "index": 145,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0146 146第146章 皇室接管医药司.md",
+            "index": 146,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0147 147第147章 凝视.md",
+            "index": 147,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0148 148第148章 浮光剑诀.md",
+            "index": 148,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0149 149第149章 望闻问切术第三层观气海 识海.md",
+            "index": 149,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0150 150第150章 宋为民找上门.md",
+            "index": 150,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0151 151第151章 笼子.md",
+            "index": 151,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0152 152第152章 盛家.md",
+            "index": 152,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0153 153第153章 人传人.md",
+            "index": 153,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0154 154第154章 选馆.md",
+            "index": 154,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0155 155第155章 囊中之物.md",
+            "index": 155,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0156 156第156章 重复.md",
+            "index": 156,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0157 157第157章 花大郎定亲宴.md",
+            "index": 157,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0158 158第158章 花大郎定亲宴二.md",
+            "index": 158,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0159 159第159章 花大郎定亲宴三.md",
+            "index": 159,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0160 160第160章 价值交换.md",
+            "index": 160,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0161 161第161章 族腾.md",
+            "index": 161,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0162 162第162章 盛家的权衡.md",
+            "index": 162,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0163 163第163章 药童.md",
+            "index": 163,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0164 164第164章 甩手掌柜.md",
+            "index": 164,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0165 165第165章 中断合作开采火灵矿项目.md",
+            "index": 165,
+            "status": "pending"
+        },
+        {
+            "file": "Chapter 0166 166第166章 第二次入鬼市.md",
+            "index": 166,
+            "status": "pending"
+        }
+    ]
+}

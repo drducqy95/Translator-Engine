@@ -1,0 +1,23 @@
+[
+  {
+    "raw": "科尔杜",
+    "target": "Đỗ Thôn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "达列日",
+    "target": "Đạt Liệt Nhật",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "特里尔",
+    "target": "Tria",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  }
+]

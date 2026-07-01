@@ -1,0 +1,23 @@
+[
+  {
+    "raw": "不死之身",
+    "target": "bất tử chi thân",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "文明游戏·邀请函",
+    "target": "Văn minh trò chơi · Thư mời",
+    "type": "item",
+    "origin": "unknown",
+    "name_type": "object"
+  },
+  {
+    "raw": "半神之躯LV1",
+    "target": "Bán thần chi khu LV1",
+    "type": "skill/attribute",
+    "origin": "unknown",
+    "name_type": "attribute"
+  }
+]

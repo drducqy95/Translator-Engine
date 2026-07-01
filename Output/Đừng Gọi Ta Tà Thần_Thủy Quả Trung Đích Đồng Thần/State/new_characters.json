@@ -1,0 +1,1682 @@
+[
+  {
+    "raw": "诺文",
+    "target": "Norwen ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwen",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "哈达",
+    "target": "Hada",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特·奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特·奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴哈姆特·康克敦特斯格拉兹查尔登",
+    "target": "Bahamut Conkdon Tesglazchaldon",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔法女神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "巴哈姆特",
+    "target": "Bahamut",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "纲德",
+    "target": "Cương Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "黑袍人",
+    "target": "kẻ áo đen",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴哈姆特",
+    "target": "Bahamut",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴哈姆特·康克敦特斯格拉兹查尔登",
+    "target": "Bahamut Conkdon Tesglazchaldon",
+    "type": "character",
+    "origin": "fantasy",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴哈姆特",
+    "target": "Bahamut",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "特伦",
+    "target": "Terun",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "卡罗恩·拉杆",
+    "target": "Caron Lagan",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特·奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "特伦",
+    "target": "Terun",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫妮娅",
+    "target": "Mạc Ny Á",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "卡罗恩·拉杆",
+    "target": "Caron Lagan",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Rena",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "老莫尼",
+    "target": "Lão Moni",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "god"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蒙格",
+    "target": "Mông Cách",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "狡影·碎石",
+    "target": "Xảo Ảnh·Toái Thạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜·莫尼娅",
+    "target": "Lena Moni Á",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "了培特",
+    "target": "Liễu Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔法女神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "光凭培特",
+    "target": "Quang Bằng Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公正之神菲尔",
+    "target": "Công chính thần Phỉ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔法女神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Cầu Tri Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "暗影之神",
+    "target": "Ám Ảnh Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "辉光之神",
+    "target": "Huy Quang Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "公正之神",
+    "target": "Công Chính Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Cầu Tri Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "公正",
+    "target": "công chính",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "但培特",
+    "target": "Đãn Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔法女神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "墨菲",
+    "target": "Murphy",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "那诺文",
+    "target": "Na Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "木召草",
+    "target": "Mộc Triệu Thảo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Rena",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Reina",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Cầu Tri",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登·罗伯特",
+    "target": "Brandon·Robert",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "沃德",
+    "target": "Ốc Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登·罗伯特",
+    "target": "Brandon Robert",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗伯特",
+    "target": "Robert",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Rena",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Noven",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "火曜日",
+    "target": "Hỏa Diệu Nhật",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗伯特",
+    "target": "Robert",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "那贵",
+    "target": "Na Quý",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登·罗伯特",
+    "target": "Brandon Robert",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "公正之神",
+    "target": "Thần Công Chính",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "菲尔",
+    "target": "Phil",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "菲尔",
+    "target": "Phil",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Noven",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Cầu Tri",
+    "type": "character",
+    "origin": "vietnamese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特·奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "辉光之神",
+    "target": "Thần Huy Quang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Cầu Tri",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Rena",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pate",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Noven",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "墨菲",
+    "target": "Murphy",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "杜姆",
+    "target": "Đỗ Mỗ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "纳瓦尔",
+    "target": "Nạp Ngõa Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "德莱尔",
+    "target": "Delaire",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "盖尔",
+    "target": "Gael",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "盖尔",
+    "target": "Gael",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "哈达",
+    "target": "Hada",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特·奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特·奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴哈姆特·康克敦特斯格拉兹查尔登",
+    "target": "Bahamut Conkdon Tesglazchaldon",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔法女神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "巴哈姆特",
+    "target": "Bahamut",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "纲德",
+    "target": "Cương Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "黑袍人",
+    "target": "kẻ áo đen",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴哈姆特",
+    "target": "Bahamut",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴哈姆特·康克敦特斯格拉兹查尔登",
+    "target": "Bahamut Conkdon Tesglazchaldon",
+    "type": "character",
+    "origin": "fantasy",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴哈姆特",
+    "target": "Bahamut",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "特伦",
+    "target": "Terun",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "卡罗恩·拉杆",
+    "target": "Caron Lagan",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特·奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "特伦",
+    "target": "Terun",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫妮娅",
+    "target": "Mạc Ny Á",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "卡罗恩·拉杆",
+    "target": "Caron Lagan",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Rena",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "老莫尼",
+    "target": "Lão Moni",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "god"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蒙格",
+    "target": "Mông Cách",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "狡影·碎石",
+    "target": "Xảo Ảnh·Toái Thạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜·莫尼娅",
+    "target": "Lena Moni Á",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "了培特",
+    "target": "Liễu Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔法女神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "光凭培特",
+    "target": "Quang Bằng Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公正之神菲尔",
+    "target": "Công chính thần Phỉ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔法女神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Cầu Tri Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "暗影之神",
+    "target": "Ám Ảnh Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "辉光之神",
+    "target": "Huy Quang Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "公正之神",
+    "target": "Công Chính Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Cầu Tri Chi Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "公正",
+    "target": "công chính",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "但培特",
+    "target": "Đãn Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Lena",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔法女神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "墨菲",
+    "target": "Murphy",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "那诺文",
+    "target": "Na Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德思礼",
+    "target": "Dursley",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "木召草",
+    "target": "Mộc Triệu Thảo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Reina",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Cầu Tri",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登·罗伯特",
+    "target": "Brandon Robert",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗伯特",
+    "target": "Robert",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Rena",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Noven",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登·罗伯特",
+    "target": "Brandon Robert",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "公正之神",
+    "target": "Thần Công Chính",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "菲尔",
+    "target": "Phil",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "菲尔",
+    "target": "Phil",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Noven",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Cầu Tri",
+    "type": "character",
+    "origin": "vietnamese",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特·奇纳尔",
+    "target": "Pette Chinar",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pette",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "辉光之神",
+    "target": "Thần Huy Quang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Cầu Tri",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "蕾娜",
+    "target": "Rena",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "培特",
+    "target": "Pate",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫尼",
+    "target": "Moni",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Noven",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "墨菲",
+    "target": "Murphy",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "杜姆",
+    "target": "Đỗ Mỗ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "布兰登",
+    "target": "Brandon",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "纳瓦尔",
+    "target": "Nạp Ngõa Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "god"
+  },
+  {
+    "raw": "德莱尔",
+    "target": "Delaire",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "盖尔",
+    "target": "Gael",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "盖尔",
+    "target": "Gael",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "埃文",
+    "target": "Ai Văn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "德莱尔",
+    "target": "Delaire",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "米兰达·沃伦",
+    "target": "Mễ Lan Đạt Ốc Luân",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "斯凯特",
+    "target": "Skater",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  }
+]

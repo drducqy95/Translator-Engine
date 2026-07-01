@@ -1,0 +1,114 @@
+[
+  {
+    "raw": "炼妖壶",
+    "target": "Luyện Yêu Hồ",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "钓师",
+    "target": "câu sư",
+    "type": "occupation",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "钓舟",
+    "target": "câu chu",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "灵魂垂钓术",
+    "target": "Linh Hồn Thả Câu Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "不动术",
+    "target": "Bất Động Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "离空港",
+    "target": "Ly Không Cảng",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "绿引虫",
+    "target": "Lục Dẫn Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "青甲鱼",
+    "target": "Thanh Giáp Ngư",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "绿引虫",
+    "target": "Lục Dẫn Trùng",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "青甲鱼",
+    "target": "Thanh Giáp Ngư",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "大黄鱼",
+    "target": "Đại Hoàng Ngư",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "刀鱼",
+    "target": "Đao Ngư",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "悬空岛",
+    "target": "Huyền Không Đảo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大海蚌",
+    "target": "Đại Hải Bạng",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "蟹王剪",
+    "target": "Giải Vương Tiễn",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "触手虾",
+    "target": "Xúc Thủ Hà",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  }
+]

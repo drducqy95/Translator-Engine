@@ -1,0 +1,130 @@
+# Character Dictionary
+
+- **李耀** -> Lý Diệu
+- **肥龙** -> Phì Long
+- **刀疤强** -> Đao Ba Cường
+- **帝皇** -> Đế Hoàng
+- **李耀** -> Lý Diệu
+- **孟江** -> Mạnh Giang
+- **司佳雪** -> Ti Giai Tuyết
+- **赫连烈** -> Hách Liên Liệt
+- **彭海来** -> Bành Hải Lai
+- **李耀** -> Lý Diệu
+- **司佳雪** -> Ti Giai Tuyết
+- **李耀** -> Lý Diệu
+- **司雪佳** -> Ti Tuyết Giai
+- **赫连烈** -> Hách Liên Liệt
+- **欧冶明** -> Âu Dã Minh
+- **巨灵神** -> Cự Linh Thần
+- **太阿上人** -> Thái A Thượng Nhân
+- **鱼肠道人** -> Ngư Trường Đạo Nhân
+- **欧冶子** -> Âu Dã Tử
+- **李耀** -> Lý Diệu
+- **欧冶子** -> Âu Dã Tử
+- **黑翼剑** -> hắc dực
+- **司佳雪** -> Ti Giai Tuyết
+- **赫连烈** -> Hách Liên Liệt
+- **李耀** -> Lý Diệu
+- **郑东明** -> Trịnh Đông Minh
+- **小罗** -> Tiểu La
+- **李耀** -> Lý Diệu
+- **赫连烈** -> Hách Liên Liệt
+- **郑东明** -> Đông Minh
+- **白洁** -> Bạch Khiết
+- **阿宾** -> A Tân
+- **李耀** -> Lý Diệu
+- **孟江** -> Mạnh Giang
+- **彭海** -> Bành Hải
+- **铁龟** -> Thiết Quy
+- **铁龟** -> Thiết Quy
+- **妖刀彭海** -> Yêu đao Bành Hải
+- **李耀** -> Lý Diệu
+- **彭海** -> Bành Hải
+- **铁兽** -> Thiết Thú
+- **赫连烈** -> Hách Liên Liệt
+- **魏铁** -> Ngụy Thiết
+- **李耀** -> Lý Diệu
+- **孟江** -> Mạnh Giang
+- **赫连烈** -> Hách Liên Liệt
+- **赵亮** -> Triệu Lượng
+- **魏铁** -> Ngụy Thiết
+- **赵亮** -> Triệu Lượng
+- **李耀** -> Lý Diệu
+- **赫连烈** -> Hách Liên Liệt
+- **孟江才** -> Mạnh Giang Tài
+- **赵亮** -> Triệu Lượng
+- **孟江** -> Mạnh Giang
+- **赫连烈** -> Hách Liên Liệt
+- **老孙头** -> lão Tôn
+- **孙彪** -> Tôn Bưu
+- **妖刀彭海** -> Yêu Đao Bành Hải
+- **妖刀** -> Yêu Đao
+- **小妖** -> Tiểu Yêu
+- **小雨** -> Tiểu Vũ
+- **周隐** -> Chu Ẩn
+- **赫连烈** -> Hách Liên Liệt
+- **司佳雪** -> Ti Giai Tuyết
+- **赫连霸** -> Hách Liên Phách
+- **郑东明** -> Trịnh Đông Minh
+- **李耀** -> Lý Diệu
+- **赫连烈** -> Hách Liên Liệt
+- **司佳雪** -> Ti Giai Tuyết
+- **郑东明** -> Trịnh Đông Minh
+- **纳兰英** -> Nạp Lan Anh
+- **孙彪** -> Tôn Bưu
+- **李耀** -> Lý Diệu
+- **赫连烈** -> Hách Liên Liệt
+- **司佳雪** -> Ti Giai Tuyết
+- **赤霄** -> Xích Tiêu
+- **周隐** -> Chu Ẩn
+- **东明** -> Đông Minh
+- **孙彪** -> Tôn Bưu
+- **纳兰英** -> Nạp Lan Anh
+- **李耀** -> Lý Diệu
+- **赫连烈** -> Hách Liên Liệt
+- **赵亮** -> Triệu Lượng
+- **张亮** -> Trương Lượng
+- **赤霄** -> Xích Tiêu
+- **周隐** -> Chu Ẩn
+- **郑东明** -> Trịnh Đông Minh
+- **徐浩然** -> Từ Hạo Nhiên
+- **兽化兵** -> Thú hóa binh
+- **李耀** -> Lý Diệu
+- **郑东明** -> Trịnh Đông Minh
+- **李耀** -> Lý Diệu
+- **平远涛** -> Bình Viễn Đào
+- **郑东明** -> Trịnh Đông Minh
+- **钟伯牙** -> Chung Bá Nha
+- **钟伯牙** -> Chung Bá Nha
+- **域外天魔** -> Vực Ngoại Thiên Ma
+- **丁铃铛** -> Đinh Linh Đang
+- **老夏** -> Lão Hạ
+- **丁铃铛** -> Đinh Linh Đang
+- **小吉** -> Tiểu Cát
+- **谢听弦** -> Tạ Thính Huyền
+- **徐浩然** -> Từ Hạo Nhiên
+- **李耀** -> Lý Diệu
+- **欧冶子** -> Âu Dã Tử
+- **妖皇** -> Yêu Hoàng
+- **谢听弦** -> Tạ Thính Huyền
+- **丁铃铛** -> Đinh Linh Đang
+- **赫连烈** -> Hách Liên Liệt
+- **谢听弦** -> Tạ Thính Huyền
+- **李耀** -> Lý Diệu
+- **赫连烈** -> Hách Liên Liệt
+- **赵树德** -> Triệu Thụ Đức
+- **赵树德** -> Triệu Thụ Đức
+- **谢听弦** -> Tạ Thính Huyền
+- **丁铃铛** -> Đinh Linh Đang
+- **高野** -> Cao Dã
+- **高野** -> Cao Dã
+- **丁铃铛** -> Đinh Linh Đang
+- **高野** -> Cao Dã
+- **高野** -> Cao Dã
+- **高野** -> Cao Dã
+- **赫连烈** -> Hách Liên Liệt
+- **李耀** -> Lý Diệu
+- **李耀** -> Lý Diệu
+- **赫连烈** -> Hách Liên Liệt
+- **郑东明** -> Trịnh Đông Minh
+- **高野** -> Cao Dã

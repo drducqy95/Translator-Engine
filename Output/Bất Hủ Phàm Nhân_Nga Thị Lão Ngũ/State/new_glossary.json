@@ -1,0 +1,114 @@
+[
+  {
+    "raw": "开脉药液",
+    "target": "dịch thuốc Khai Mạch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "不朽凡人",
+    "target": "Bất Hủ Phàm Nhân",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "北秦郡国",
+    "target": "Bắc Tần Quận Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "星汉帝国",
+    "target": "Tinh Hán Đế Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "北秦郡国",
+    "target": "Bắc Tần Quận Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "承宇国",
+    "target": "Thừa Vũ Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "饶州城",
+    "target": "Nhiêu Châu Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "饶州",
+    "target": "Nhiêu Châu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "北秦郡王",
+    "target": "Bắc Tần Quận Vương",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "承宇国",
+    "target": "Thừa Vũ Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "country"
+  },
+  {
+    "raw": "饶州",
+    "target": "Nhiêu Châu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "凡根",
+    "target": "Phàm Căn",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "灵根",
+    "target": "linh căn",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "开灵",
+    "target": "khai linh",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "action"
+  },
+  {
+    "raw": "灵络",
+    "target": "linh lạc",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "筑灵",
+    "target": "Trúc Linh",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "realm"
+  }
+]

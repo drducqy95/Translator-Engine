@@ -1,0 +1,30 @@
+[
+  {
+    "raw": "如来神掌",
+    "target": "Như Lai Thần Chưởng",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "易筋经",
+    "target": "Dịch Cân Kinh",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "大梦真经",
+    "target": "Đại Mộng Chân Kinh",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "僵尸拳",
+    "target": "Cương Thi Quyền",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  }
+]

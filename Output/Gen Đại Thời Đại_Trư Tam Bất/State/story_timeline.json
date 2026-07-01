@@ -1,0 +1,62 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 基因统考.md",
+    "translated_file": "Chương 0001 Kỳ thi chung gen.md",
+    "chapter": "Chương 0001 Kỳ thi chung gen.md",
+    "summary": {
+      "main_events": "Lớp 12-7 nhận kết quả kỳ thi chung gen. Thầy Vu Trạch Bình thông báo điểm chuẩn và bắt đầu đợt huấn luyện thể chất khắc nghiệt gấp ba lần bình thường để chuẩn bị cho việc dùng thuốc gen.",
+      "new_characters": [
+        "Vu Trạch Bình",
+        "Hứa Thoái",
+        "Trình Mặc",
+        "Đường Thính"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 地球之外.md",
+    "translated_file": "Chương 0002 Ngoài Trái Đất.md",
+    "chapter": "Chương 0002 Ngoài Trái Đất.md",
+    "summary": {
+      "main_events": "Hứa Thối chuẩn bị cho kỳ thi giải phóng gen, đối mặt với tỷ lệ tử vong 1 phần nghìn và nhận được sự ủng hộ từ cha mẹ.",
+      "new_characters": [
+        "Hứa Thối",
+        "Hứa Kiến Quốc",
+        "Trương Tú Lệ",
+        "Mã a di"
+      ]
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 基因研究院（求收藏求推荐）.md",
+    "translated_file": "Chương 0003 Viện Nghiên cứu Gen (Cầu cất giữ, cầu đề cử).md",
+    "chapter": "Chương 0003 Viện Nghiên cứu Gen (Cầu cất giữ, cầu đề cử).md",
+    "summary": {
+      "main_events": "Trình Mặc chuẩn bị cho kỳ thi chung gen, trải qua huấn luyện cực hạn tại trường và đến Viện Nghiên cứu Gen Kim Thành để thực hiện kiểm tra gen. Tại đây, cậu chứng kiến một học sinh khác thức tỉnh năng lực siêu phàm hệ Lửa nhưng gặp tác dụng phụ, đồng thời cậu và bạn bè bị chủ nhiệm lớp khiển trách vì đùa giỡn.",
+      "new_characters": [
+        "Trương Tú Lệ",
+        "Hứa Kiến Quốc",
+        "Vu Trạch Bình",
+        "Đường Thính"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 不是穿透视觉.md",
+    "translated_file": "Chương 0004 Không phải thị giác xuyên thấu.md",
+    "chapter": "Chương 0004 Không phải thị giác xuyên thấu.md",
+    "summary": {
+      "main_events": "Hứa Thoái và Trình Mặc được gọi vào phòng tiêm thuốc giải phóng gen. Hứa Thoái ban đầu không có phản ứng nên bị cho là mang thể chất phế vật, nhưng sau khi hết thời gian theo dõi thì đột ngột xuất hiện phản ứng đau đầu, xuất huyết nhẹ, được đánh giá có khả năng thức tỉnh gen thị giác hoặc thính giác.",
+      "new_characters": [
+        "Hứa Thoái",
+        "Trình Mặc",
+        "Vu Trạch Bình",
+        "Nữ nghiên cứu viên"
+      ]
+    }
+  }
+]

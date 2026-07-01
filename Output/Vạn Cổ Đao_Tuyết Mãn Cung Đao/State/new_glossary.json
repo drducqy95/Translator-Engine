@@ -1,0 +1,142 @@
+[
+  {
+    "raw": "乾国",
+    "target": "Càn Quốc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "恶狼帮",
+    "target": "Hắc Lang Bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "gang"
+  },
+  {
+    "raw": "黑水帮",
+    "target": "Hắc Thủy Bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "gang"
+  },
+  {
+    "raw": "常泽县",
+    "target": "Thường Trạch Huyền",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "美娇娘",
+    "target": "mỹ kiều nương",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "common"
+  },
+  {
+    "raw": "小姐",
+    "target": "cô",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "刁民",
+    "target": "điêu dân",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "common"
+  },
+  {
+    "raw": "白役",
+    "target": "Bạch Dịch",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "饶命",
+    "target": "tha mạng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "common"
+  },
+  {
+    "raw": "阴森",
+    "target": "âm trầm",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "common"
+  },
+  {
+    "raw": "令尊",
+    "target": "lệnh tôn",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "冷笑",
+    "target": "cười lạnh",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "common"
+  },
+  {
+    "raw": "神勇",
+    "target": "dũng mãnh phi thường",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "common"
+  },
+  {
+    "raw": "土皇帝",
+    "target": "thổ hoàng đế",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "common"
+  },
+  {
+    "raw": "蒙混",
+    "target": "lừa dối",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "common"
+  },
+  {
+    "raw": "盖子",
+    "target": "cái nắp",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "common"
+  },
+  {
+    "raw": "恶狼帮",
+    "target": "Ác Lang Bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "恶狼帮",
+    "target": "Ác Lang Bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "nê hoàn cung",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "先天真炁",
+    "target": "Thiên Chân khí",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  }
+]

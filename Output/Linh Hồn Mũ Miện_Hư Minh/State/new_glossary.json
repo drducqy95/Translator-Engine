@@ -1,0 +1,37 @@
+[
+  {
+    "raw": "罗亚",
+    "target": "La Á",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "罗亚",
+    "target": "La Á",
+    "type": "location",
+    "origin": "original",
+    "name_type": "city"
+  },
+  {
+    "raw": "神言",
+    "target": "Thần Ngôn",
+    "type": "item",
+    "origin": "original",
+    "name_type": "book"
+  },
+  {
+    "raw": "南区",
+    "target": "Nam Quận",
+    "type": "location",
+    "origin": "original",
+    "name_type": "district"
+  },
+  {
+    "raw": "神学院",
+    "target": "Thần Học Viện",
+    "type": "location",
+    "origin": "original",
+    "name_type": "institution"
+  }
+]

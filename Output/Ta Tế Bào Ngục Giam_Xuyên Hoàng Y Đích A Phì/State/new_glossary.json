@@ -1,0 +1,655 @@
+[
+  {
+    "raw": "无面者的头颅",
+    "target": "Đầu của kẻ không mặt",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "圣城",
+    "target": "Thánh Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "无面者的头颅",
+    "target": "Đầu của kẻ không mặt",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "死尸注射器",
+    "target": "Ống tiêm tử thi",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黑蔷薇骑士团",
+    "target": "Hắc Tường Vi Kị Sĩ Đoàn",
+    "type": "organization",
+    "origin": "unknown",
+    "name_type": "group"
+  },
+  {
+    "raw": "黑蔷薇胸章",
+    "target": "Huy hiệu Hắc Tường Vi",
+    "type": "item",
+    "origin": "unknown",
+    "name_type": "object"
+  },
+  {
+    "raw": "诺因忒纳",
+    "target": "Nointherna",
+    "type": "location",
+    "origin": "fantasy",
+    "name_type": "place"
+  },
+  {
+    "raw": "中邪",
+    "target": "Trung Tà",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "work"
+  },
+  {
+    "raw": "无面者的头颅",
+    "target": "Đầu của kẻ không mặt",
+    "type": "item",
+    "origin": "unknown",
+    "name_type": "object"
+  },
+  {
+    "raw": "李坝",
+    "target": "Lý Bá",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "王子岗",
+    "target": "Vương Tử Cương",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "无面者的头颅",
+    "target": "Đầu Của Kẻ Vô Diện",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "命运空间",
+    "target": "Không gian Vận mệnh",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "便携式监狱",
+    "target": "nhà giam bỏ túi",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "中邪者",
+    "target": "Kẻ trúng tà",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "status"
+  },
+  {
+    "raw": "邪变者",
+    "target": "Kẻ biến tà",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "status"
+  },
+  {
+    "raw": "炼邪",
+    "target": "Luyện tà",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "无面人脸",
+    "target": "Khuôn mặt vô diện",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "feature"
+  },
+  {
+    "raw": "腐败地窖",
+    "target": "Hầm mục nát",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "瘟疫之家",
+    "target": "Nhà ôn dịch",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "瘟疫医生的短刃",
+    "target": "Đoản kiếm của bác sĩ ôn dịch",
+    "type": "item",
+    "origin": "game",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "瘟疫医生的短刃",
+    "target": "Đoản đao của bác sĩ dịch bệnh",
+    "type": "item",
+    "origin": "unknown",
+    "name_type": "object"
+  },
+  {
+    "raw": "中邪",
+    "target": "Trúng tà",
+    "type": "event",
+    "origin": "unknown",
+    "name_type": "event"
+  },
+  {
+    "raw": "诺因忒纳",
+    "target": "Nointherna",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "圣杯",
+    "target": "Chén thánh",
+    "type": "item",
+    "origin": "general",
+    "name_type": "object"
+  },
+  {
+    "raw": "神秘学",
+    "target": "Thần bí học",
+    "type": "skill",
+    "origin": "general",
+    "name_type": "concept"
+  },
+  {
+    "raw": "无面者的头颅",
+    "target": "Đầu lâu của kẻ vô diện",
+    "type": "item",
+    "origin": "general",
+    "name_type": "object"
+  },
+  {
+    "raw": "祭典广场",
+    "target": "Quảng trường Tế điển",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "黑蔷薇骑士团",
+    "target": "Kỵ sĩ đoàn Hắc Tường Vi",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "国立皇家骑士学院",
+    "target": "Học viện Kỵ sĩ Hoàng gia Quốc lập",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "国立皇家骑士学院",
+    "target": "Học viện Kỵ sĩ Hoàng gia Quốc lập",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "黑蔷薇骑士团",
+    "target": "Kỵ sĩ đoàn Tường Vi Đen",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "莫斯拉比河",
+    "target": "Sông Moslabi",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "other"
+  },
+  {
+    "raw": "骑士学院",
+    "target": "Học viện Kỵ Sĩ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "蒸汽机械之城",
+    "target": "Thành Phố Máy Móc Hơi Nước",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "返回者",
+    "target": "Người Trở Về",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "无面者",
+    "target": "Kẻ Vô Diện",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "诺因忒纳",
+    "target": "Nointena",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "none"
+  },
+  {
+    "raw": "命运空间",
+    "target": "không gian vận mệnh",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "萨麦街道",
+    "target": "Đường Tát Mạch",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "萨麦",
+    "target": "Samael",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "黑蔷薇骑士团",
+    "target": "Đoàn Kỵ sĩ Hắc Tường Vi",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "国立皇家骑士学院",
+    "target": "Học viện Kỵ sĩ Hoàng gia Quốc lập",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "加纳平民区",
+    "target": "Khu bình dân Ghana",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "铁锤与烈火酒馆",
+    "target": "Quán rượu Búa Sắt và Lửa Đỏ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "神秘学",
+    "target": "Thần bí học",
+    "type": "glossary"
+  },
+  {
+    "raw": "国立皇家骑士学院",
+    "target": "Quốc lập Hoàng gia Kỵ sĩ học viện",
+    "type": "glossary"
+  },
+  {
+    "raw": "天赋树",
+    "target": "cây tài năng",
+    "type": "glossary"
+  },
+  {
+    "raw": "维多利亚",
+    "target": "Vích-to-ri-a",
+    "type": "glossary"
+  },
+  {
+    "raw": "治安",
+    "target": "trị an",
+    "type": "glossary"
+  },
+  {
+    "raw": "铁锤与烈火酒馆",
+    "target": "Quán rượu Sắt và Lửa",
+    "type": "glossary"
+  },
+  {
+    "raw": "瘟疫医生的短刃",
+    "target": "Đoản kiếm của Bác sĩ Dịch hạch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "便携式监狱",
+    "target": "Nhà tù di động",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "食尸鬼",
+    "target": "Ghoul",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "十字军",
+    "target": "Thập Tự Quân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "瘟疫医生的短刃",
+    "target": "Đoản đao Bác sĩ Dịch hạch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "见习骑士",
+    "target": "Kỵ sĩ kiến tập",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "job"
+  },
+  {
+    "raw": "十字军",
+    "target": "Thập Tự Quân",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "神秘学",
+    "target": "Thần Bí Học",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "magic"
+  },
+  {
+    "raw": "掌控",
+    "target": "Khống Chế",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "magic"
+  },
+  {
+    "raw": "食尸鬼",
+    "target": "Quỷ ăn xác",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "十字军",
+    "target": "Thập tự quân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "国立皇家骑士学院",
+    "target": "Học viện Kỵ sĩ Hoàng gia Quốc lập",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "无面者头颅",
+    "target": "Vô Diện Nhân Đầu Lâu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "诺因忒纳",
+    "target": "Nặc Nhân Thắc Nạp",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "阿瑞斯之阶",
+    "target": "Bậc thang A Thụy Tư",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "骑士学院",
+    "target": "Học viện Kỵ sĩ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "神秘系",
+    "target": "Hệ Thần Bí",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "观星室",
+    "target": "Phòng Ngắm Sao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "暗月森林",
+    "target": "Rừng Ám Nguyệt",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "哀悼之盒",
+    "target": "Hộp Ai Điếu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "暗月森林",
+    "target": "Rừng Ám Nguyệt",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "神秘学",
+    "target": "Thần bí học",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "食尸鬼手臂",
+    "target": "Cánh tay Thực thi quỷ",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "伪装撤销",
+    "target": "Hủy bỏ ngụy trang",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "命运空间",
+    "target": "Không gian Vận mệnh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "墓地真菌",
+    "target": "Nấm nghĩa trang",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "剪刀缝合怪",
+    "target": "quái vật khâu vá kéo",
+    "type": "monster",
+    "origin": "unknown",
+    "name_type": "creature"
+  },
+  {
+    "raw": "暗月森林",
+    "target": "Rừng Ám Nguyệt",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "暗月高塔",
+    "target": "Tháp Ám Nguyệt",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "暗月高塔",
+    "target": "Ám Nguyệt Cao Tháp",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "瘟疫骑士团",
+    "target": "Ôn Dịch Kỵ Sĩ Đoàn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "观星室",
+    "target": "Xem sao thất",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "旧下水道",
+    "target": "Cống Thoát Nước Cũ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "暗月高塔",
+    "target": "Ám Nguyệt Cao Tháp",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "食尸鬼",
+    "target": "quỷ ăn xác",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "种子",
+    "target": "Hạt giống",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "瘟疫学",
+    "target": "Ôn dịch học",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "旧下水道",
+    "target": "Cống thoát nước cũ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "鸟嘴医生套装",
+    "target": "Bộ đồ bác sĩ mỏ chim",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "大不列颠",
+    "target": "Great Britain",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "邪咒",
+    "target": "Tà chú",
+    "type": "magic_skill",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "贝克大宅",
+    "target": "dinh thự Baker",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "共振磁石",
+    "target": "Nam châm cộng hưởng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "鸟嘴医生装束",
+    "target": "Bộ trang phục Bác sĩ mỏ chim",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  }
+]

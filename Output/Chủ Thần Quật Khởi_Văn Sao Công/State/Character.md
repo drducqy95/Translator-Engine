@@ -1,0 +1,196 @@
+# Character Dictionary
+
+- **吴明** -> Ngô Minh
+- **云小娘** -> Vân Tiểu Nương
+- **吴管家** -> Ngô Quản Gia
+- **林奇** -> Lâm Kì
+- **鬼手老六** -> Quỷ Thủ Lão Lục
+- **吴明** -> Ngô Minh
+- **吴管家** -> Ngô Quản Gia
+- **林奇** -> Lâm Kì
+- **云小娘子** -> Vân tiểu nương tử
+- **云姑娘** -> Vân cô nương
+- **鬼手老六** -> Quỷ Thủ Lão Lục
+- **林傲天** -> Lâm Ngạo Thiên
+- **吴明** -> Ngô Minh
+- **黄莺** -> Hoàng Oanh
+- **康守礼** -> Khang Thủ Lễ
+- **秦虎** -> Tần Hổ
+- **小玉** -> Tiểu Ngọc
+- **王乔** -> Vương Kiều
+- **王印** -> Vương Ấn
+- **巴图** -> Ba Đồ
+- **萨满巫** -> Tát Mãn Vu
+- **阿力古** -> A Lực Cổ
+- **图鲁** -> Đồ Lỗ
+- **王乔** -> Vương Kiều
+- **王印** -> Vương Ấn
+- **吴明** -> Ngô Minh
+- **秦虎** -> Tần Hổ
+- **二牛** -> Nhị Ngưu
+- **小石头** -> Tiểu Thạch Đầu
+- **黄莺** -> Hoàng Oanh
+- **萨满巫** -> Tát Mãn Vu
+- **萨满巫** -> Tát Mãn Vu
+- **王印** -> Vương Ấn
+- **秦虎** -> Tần Hổ
+- **王乔** -> Vương Kiều
+- **图鲁勇士** -> chiến binh Đồ Lỗ
+- **萨满巫** -> Tát Mãn Vu
+- **王印** -> Vương Ấn
+- **黄莺** -> chim hoàng oanh
+- **秦虎** -> Tần Hổ
+- **吴晴** -> Ngô Tình
+- **守玄道长** -> Thủ Huyền đạo trưởng
+- **封寒** -> Phong Hàn
+- **孙头** -> Tôn đầu
+- **叶孝友** -> Diệp Hiếu Hữu
+- **王玄范** -> Vương Huyền Phạm
+- **黑山君** -> Hắc Sơn Quân
+- **许六郎** -> Hứa Lục Lang
+- **许家娘子** -> Hứa nương tử
+- **黑风大将** -> Hắc Phong Đại Tướng
+- **黑山君** -> Hắc Sơn Quân
+- **吴明** -> Ngô Minh
+- **山兰** -> San Lan
+- **凌孤鸿** -> Lăng Cô Hồng
+- **林器之** -> Lâm Khí Chi
+- **黑山君** -> Hắc Sơn Quân
+- **黑台城隍** -> Hắc Đài Thành Hào
+- **屠养浩** -> Đồ Dưỡng Hạo
+- **马老三** -> Mã Lão Tam
+- **郑潜** -> Trịnh Tiềm
+- **郑公子** -> Trịnh Công Tử
+- **屠养浩** -> Đồ Dưỡng Hạo
+- **郑潜** -> Trịnh Tiềm
+- **吴明** -> Ngô Minh
+- **马老三** -> Mã Lão Tam
+- **山兰** -> San Lan
+- **王夏** -> Vương Hạ
+- **林器之** -> Lâm Khí Chi
+- **凌孤鸿** -> Lăng Cô Hồng
+- **黑风大将** -> Hắc Phong Đại Tướng
+- **黑风大将** -> Hắc Phong Đại Tướng
+- **黑山君** -> Hắc Sơn Quân
+- **赵著** -> Triệu Trứ
+- **王二** -> Vương Nhị
+- **张正一** -> Trương Chánh Nhất
+- **黑风大将** -> Hắc Phong đại tướng
+- **吴明** -> Ngô Minh
+- **郑潜** -> Trịnh Tiềm
+- **凌孤鸿** -> Lăng Cô Hồng
+- **山兰** -> San Lan
+- **黑风大将** -> Hắc Phong Đại Tướng
+- **清平道长** -> Thanh Bình Đạo Trưởng
+- **清平道人** -> Thanh Bình Đạo Nhân
+- **余管事** -> Dư Quản Sự
+- **清平** -> Thanh Bình
+- **清平道人** -> Thanh Bình Đạo Nhân
+- **余执事** -> Dư Chấp Sự
+- **封寒** -> Phong Hàn
+- **吴明** -> Ngô Minh
+- **吴晴姐** -> Ngô Tình Tả
+- **吴明** -> Ngô Minh
+- **黄庭** -> Hoàng Đình
+- **封寒** -> Phong Hàn
+- **吴晴** -> Ngô Tình
+- **吴管家** -> Ngô Quản Gia
+- **林奇** -> Lâm Kì
+- **马老三** -> Mã Lão Tam
+- **郑潜** -> Trịnh Tiềm
+- **余执事** -> Dư Chấp Sự
+- **封师父** -> Phong Sư Phụ
+- **周家** -> gia tộc Chu
+- **薛老四** -> Tiết Lão Tứ
+- **胡主簿** -> Hồ chủ bạ
+- **余成** -> Dư Thành
+- **宋武师** -> Tống võ sư
+- **周秉林** -> Chu Bỉnh Lâm
+- **周同安** -> Chu Đồng An
+- **周同仁** -> Chu Đồng Nhân
+- **吴明** -> Ngô Minh
+- **吴晴** -> Ngô Tình
+- **余执事** -> Dư Chấp Sự
+- **清平道人** -> Thanh Bình Đạo Nhân
+- **封寒** -> Phong Hàn
+- **绿蕊** -> Lục Nhụy
+- **绿蕊** -> Lục Nhụy
+- **接天风** -> Tiếp Thiên Phong
+- **宋金刚** -> Tống Kim Cương
+- **宋金刚** -> Tống Kim Cương
+- **接天风** -> Tiếp Thiên Phong
+- **四太太** -> Tứ thái thái
+- **三太太** -> Tam thái thái
+- **三叔公** -> Tam thúc công
+- **老周** -> Lão Chu
+- **黑老虎** -> Hắc Lão Hổ
+- **滚地龙** -> Cổn Địa Long
+- **接天风** -> Tiếp Thiên Phong
+- **宋武师** -> Tống võ sư
+- **周同仁** -> Chu Đồng Nhân
+- **胡主簿** -> Hồ chủ bạ
+- **赵松** -> Triệu Tùng
+- **吴晴** -> Ngô Tình
+- **清平道人** -> Thanh Bình đạo nhân
+- **王中** -> Vương Trung
+- **萧极度** -> Tiêu Cực Độ
+- **李如壁** -> Lý Như Bích
+- **萧极度** -> Tiêu Cực Độ
+- **钟霆** -> Chung Đình
+- **牛勇** -> Ngưu Dũng
+- **袁泰** -> Viên Thái
+- **何子海** -> Hà Tử Hải
+- **谢小荻** -> Tạ Tiểu Địch
+- **萧极度** -> Tiêu Cực Độ
+- **晋罡** -> Tấn Cương
+- **曹度** -> Tào Độ
+- **晋罡** -> Tấn Cương
+- **李如壁** -> Lý Như Bích
+- **钟霆** -> Chung Đình
+- **牛勇** -> Ngưu Dũng
+- **刘杰** -> Lưu Kiệt
+- **王玄范** -> Vương Huyền Phạm
+- **南山真人** -> Nam Sơn Chân Nhân
+- **萧极度** -> Tiêu Cực Độ
+- **胡真人** -> Hồ Chân nhân
+- **南山翁** -> Nam Sơn Ông
+- **南山真人** -> Nam Sơn chân nhân
+- **李如壁** -> Lý Như Bích
+- **余少君** -> Dư Thiểu Quân
+- **谢小荻** -> Tạ Tiểu Địch
+- **王玄范** -> Vương Huyền Phạm
+- **钟霆** -> Chung Đình
+- **牛勇** -> Ngưu Dũng
+- **李如壁** -> Lý Như Bích
+- **余少君** -> Dư Thiểu Quân
+- **谢小荻** -> Tạ Tiểu Địch
+- **萧极度** -> Tiêu Cực Độ
+- **南山真人** -> Nam Sơn Chân Nhân
+- **吴明** -> Ngô Minh
+- **王玄范** -> Vương Huyền Phạm
+- **李如壁** -> Lý Như Bích
+- **王玄范** -> Vương Huyền Phạm
+- **吴明** -> Ngô Minh
+- **牛勇** -> Ngưu Dũng
+- **何子海** -> Hà Tử Hải
+- **卫将牙** -> Vệ Tương Nha
+- **刘杰** -> Lưu Kiệt
+- **南山真人** -> Nam Sơn chân nhân
+- **李如壁** -> Lý Như Bích
+- **南山真人** -> Nam Sơn Chân Nhân
+- **王玄范** -> Vương Huyền Phạm
+- **余少君** -> Dư Thiểu Quân
+- **何子海** -> Hà Tử Hải
+- **钟霆** -> Chung Đình
+- **牛勇** -> Ngưu Dũng
+- **李如壁** -> Lý Như Bích
+- **南山翁** -> Nam Sơn Ông
+- **余少君** -> Dư Thiểu Quân
+- **萧极度** -> Tiêu Cực Độ
+- **南山真人** -> Nam Sơn Chân Nhân
+- **李震** -> Lý Chấn
+- **王肃** -> Vương Túc
+- **王昱** -> Vương Dục
+- **王肃** -> Vương Túc
+- **王昱** -> Vương Dục
+- **剑秋** -> Kiếm Thu

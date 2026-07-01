@@ -1,0 +1,28 @@
+# Character Dictionary
+
+- **方明** -> Phương Minh
+- **雷林·法雷尔** -> Leylin Farrell
+- **约翰·法雷尔** -> John Farrell
+- **乔治** -> George
+- **贝斯塔** -> Besta
+- **安格雷** -> Angre
+- **雷林** -> Leylin
+- **法雷尔** -> Farlier
+- **乔治** -> George
+- **贝斯塔** -> Besta
+- **方明** -> Phương Minh
+- **贝斯塔** -> bass
+- **约翰·法雷尔** -> John·Pháp Lôi Nhĩ
+- **雷林** -> Lôi Lâm
+- **法雷尔** -> Pháp Lôi Nhĩ
+- **安格雷** -> Grey
+- **雷林** -> Lôi Lâm
+- **乔治** -> Kiều Trì
+- **古斯** -> Cổ Tư
+- **法雷尔** -> Pháp Lôi Nhĩ
+- **欧林** -> Âu Lâm
+- **莉儿** -> Lì-ơ
+- **贝斯塔** -> Bass
+- **约翰子爵** -> tử tước John
+- **雷林** -> Lôi Lâm
+- **欧林** -> Âu Lâm

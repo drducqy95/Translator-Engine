@@ -1,0 +1,541 @@
+[
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe Buýt Kinh Hoàng",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "地狱电影院",
+    "target": "Địa Ngục Điện Ảnh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "地狱电影院",
+    "target": "Địa ngục Điện ảnh Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe buýt kinh hoàng",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "movie"
+  },
+  {
+    "raw": "赎死券",
+    "target": "Vé Chuộc Tử",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe Buýt Kinh Dị",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "赎死券",
+    "target": "Vé Chuộc Tử",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "地狱第十三度影院",
+    "target": "Rạp chiếu phim địa ngục số 13",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "鬼祭",
+    "target": "Quỷ Tế",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "暗冢",
+    "target": "Ám Trủng",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe Buýt Kinh Hoàng",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "第四禁区",
+    "target": "Khu Cấm Số 4",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "赎死券",
+    "target": "Vé Chuộc Tử",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "催魂符",
+    "target": "Bùa Giục Hồn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "巫毒娃娃",
+    "target": "búp bê Voodoo",
+    "type": "item",
+    "origin": "western",
+    "name_type": "item"
+  },
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe Buýt Kinh Hoàng",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "赎死券",
+    "target": "Vé Chuộc Tử",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "催魂符",
+    "target": "bùa Triệu Hồn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe buýt kinh hoàng",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "鬼祭3",
+    "target": "Quỷ Tế 3",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "鬼祭2",
+    "target": "Quỷ Tế 2",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "第四禁区",
+    "target": "Khu vực cấm số 4",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "催魂符咒",
+    "target": "Phù chú triệu hồn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "赎死券",
+    "target": "Phiếu chuộc chết",
+    "type": "currency",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "鬼祭3",
+    "target": "Quỷ Tế 3",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "movie"
+  },
+  {
+    "raw": "幽禁之室",
+    "target": "Căn phòng giam cầm",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "movie"
+  },
+  {
+    "raw": "凶形",
+    "target": "Hình dáng hung ác",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "movie"
+  },
+  {
+    "raw": "1404号房间",
+    "target": "Phòng 1404",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "movie"
+  },
+  {
+    "raw": "1404号房间",
+    "target": "Căn phòng 1404",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "鬼祭3",
+    "target": "Quỷ Tế 3",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "幽禁之室",
+    "target": "Căn phòng giam cầm",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "冥血",
+    "target": "Minh Huyết",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "幽禁之室",
+    "target": "U Cấm Chi Thất",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "鬼祭3",
+    "target": "Quỷ Tế 3",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "暗冢",
+    "target": "Ám Trủng",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "催魂符",
+    "target": "Bùa Thôi Hồn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "寿衣",
+    "target": "liệm y",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "赎死券",
+    "target": "Phiếu chuộc chết",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "第十三度影院",
+    "target": "rạp số 13",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "《鬼祭3》",
+    "target": "Quỷ Tế 3",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "《幽禁之室》",
+    "target": "Căn phòng giam cầm",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "赎死券",
+    "target": "thẻ chuộc mạng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "催魂符",
+    "target": "Bùa Thôi Hồn",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "诅咒之物",
+    "target": "vật nguyền rủa",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "地狱电影院",
+    "target": "Rạp chiếu phim địa ngục",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe Buýt Kinh Dị",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "movie_title"
+  },
+  {
+    "raw": "赎死券",
+    "target": "phiếu chuộc mạng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "诅咒之物",
+    "target": "vật phẩm nguyền rủa",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "催魂符咒",
+    "target": "bùa Thôi hồn",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "鬼吹灯",
+    "target": "Ma thổi đèn",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "novel"
+  },
+  {
+    "raw": "盗墓笔记",
+    "target": "Đạo mộ bút ký",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "novel"
+  },
+  {
+    "raw": "幽禁之室",
+    "target": "Phòng giam cầm",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "movie"
+  },
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe Buýt Kinh Hoàng",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "work_of_art"
+  },
+  {
+    "raw": "欧阳家",
+    "target": "Gia tộc Âu Dương",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "血瓷",
+    "target": "huyết sứ",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "赎死券",
+    "target": "phiếu chuộc mạng",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "幽禁之室",
+    "target": "Phòng Giam Cầm",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe buýt kinh hoàng",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "赎死券",
+    "target": "vé chuộc mạng",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "催魂符咒",
+    "target": "bùa Thôi Hồn",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "第十三度电影院",
+    "target": "rạp chiếu phim số mười ba",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "冥血",
+    "target": "Minh Huyết",
+    "type": "artwork",
+    "origin": "chinese",
+    "name_type": "movie"
+  },
+  {
+    "raw": "鬼祭2",
+    "target": "Quỷ Tế 2",
+    "type": "artwork",
+    "origin": "chinese",
+    "name_type": "movie"
+  },
+  {
+    "raw": "幽禁之室",
+    "target": "Phòng Giam Cầm",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "欧阳",
+    "target": "Âu Dương",
+    "type": "family",
+    "origin": "chinese",
+    "name_type": "family"
+  },
+  {
+    "raw": "鬼祭",
+    "target": "Quỷ Tế",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "恐怖巴士",
+    "target": "Xe Buýt Kinh Dị",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "鬼祭3",
+    "target": "Quỷ Tế 3",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "欧阳家血瓷制作方法",
+    "target": "Phương pháp chế tạo Huyết Sứ của Âu Dương gia",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "document"
+  },
+  {
+    "raw": "血瓷瓷瓶",
+    "target": "bình sứ máu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "赎死券",
+    "target": "phiếu chuộc mạng",
+    "type": "currency",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "不死怨铃",
+    "target": "Chuông Oán Bất Tử",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "鬼祭3",
+    "target": "Quỷ Tế 3",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "幽禁之室",
+    "target": "Phòng giam cầm",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "第四禁区",
+    "target": "Khu vực cấm thứ 4",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "归来",
+    "target": "Trở Về",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "幽灵饭店",
+    "target": "U Linh Phạn Điếm",
+    "type": "movie",
+    "origin": "chinese",
+    "name_type": "title"
+  }
+]

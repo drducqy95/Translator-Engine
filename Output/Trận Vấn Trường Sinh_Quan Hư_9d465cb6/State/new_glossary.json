@@ -1,0 +1,1077 @@
+[
+  {
+    "raw": "通仙城",
+    "target": "Thông Tiên Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "通仙门",
+    "target": "Thông Tiên Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "道碑",
+    "target": "Đạo Bia",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "钱家",
+    "target": "nhà họ Tiền",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "family"
+  },
+  {
+    "raw": "道碑",
+    "target": "Đạo Bia",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "通仙门",
+    "target": "Thông Tiên Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "双元阵",
+    "target": "Song Nguyên Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "道廷",
+    "target": "Đạo Đình",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "通仙门",
+    "target": "Thông Tiên Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "辟火簪",
+    "target": "Trâm Tích Hỏa",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "辟火簪",
+    "target": "Tích Hỏa Trâm",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "杏林堂",
+    "target": "Hạnh Lâm Đường",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "火稚鸡",
+    "target": "Hỏa Trĩ Kê",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "animal"
+  },
+  {
+    "raw": "猎妖节",
+    "target": "Lễ Săn Yêu",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "festival"
+  },
+  {
+    "raw": "猎妖队",
+    "target": "Đội Săn Yêu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa Trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "王氏糕点",
+    "target": "Vương Thị Bánh Ngọt",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "五彩糕",
+    "target": "Ngũ Thải Bánh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "food"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa Trận",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大黑山",
+    "target": "Đại Hắc Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "裂金爪",
+    "target": "Liệt Kim Trảo",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "烈焰拳",
+    "target": "Liệt Diễm Quyền",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa Trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "束脩",
+    "target": "tiền học phí",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "通仙门",
+    "target": "Thông Tiên Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "shop"
+  },
+  {
+    "raw": "通仙门",
+    "target": "Thông Tiên Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "通灵峰",
+    "target": "Thông Linh Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mountain"
+  },
+  {
+    "raw": "通玄峰",
+    "target": "Thông Huyền Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mountain"
+  },
+  {
+    "raw": "通明峰",
+    "target": "Thông Minh Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mountain"
+  },
+  {
+    "raw": "通仙峰",
+    "target": "Thông Tiên Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mountain"
+  },
+  {
+    "raw": "天地玄黄诀",
+    "target": "Thiên Địa Huyền Hoàng Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "柔水诀",
+    "target": "Nhu Thủy Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "五行纳气功",
+    "target": "Ngũ Hành Nạp Khí Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "固土阵",
+    "target": "Cố Thổ Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "通仙门",
+    "target": "Thông Tiên Môn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "通玄峰",
+    "target": "Thông Huyền Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "固土阵",
+    "target": "Cố Thổ Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "灵枢阵图",
+    "target": "Linh Xu Trận Đồ",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "灵枢阵",
+    "target": "Linh Xu trận",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "固土阵",
+    "target": "Cố Thổ trận",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "阵阁",
+    "target": "Trận Các",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "阵阁",
+    "target": "Trận Các",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "通明峰",
+    "target": "Thông Minh Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "道廷司",
+    "target": "Đạo Đình Ti",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa Trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "固土阵",
+    "target": "Cố Thổ Trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "阵问长生",
+    "target": "Trận Vấn Trường Sinh",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "通明峰",
+    "target": "Thông Minh Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mountain"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa Trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "array"
+  },
+  {
+    "raw": "固土阵",
+    "target": "Cố Thổ Trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "array"
+  },
+  {
+    "raw": "金石阵",
+    "target": "Kim Thạch Trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "array"
+  },
+  {
+    "raw": "金石阵图",
+    "target": "Kim Thạch Trận Đồ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "阵问长生",
+    "target": "Trận Vấn Trường Sinh",
+    "type": "work",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "阵法详解",
+    "target": "Trận Pháp Tường Giải",
+    "type": "work",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "阵师",
+    "target": "Trận Sư",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "通明峰",
+    "target": "Thông Minh phong",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "阵阁",
+    "target": "Trận các",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "《阵法典论初解》",
+    "target": "Trận Pháp Điển Luận Sơ Giải",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "《阵法初解》",
+    "target": "Trận Pháp Sơ Giải",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "《阵论》",
+    "target": "Trận Luận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "《金石阵图》",
+    "target": "Kim Thạch Trận Đồ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "array"
+  },
+  {
+    "raw": "固土阵",
+    "target": "Cố Thổ trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "array"
+  },
+  {
+    "raw": "金石阵",
+    "target": "Kim Thạch trận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "array"
+  },
+  {
+    "raw": "阵问长生",
+    "target": "Trận Vấn Trường Sinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "杏林堂",
+    "target": "Hạnh Lâm Đường",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "阵问长生",
+    "target": "Trận Vấn Trường Sinh",
+    "type": "work",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "杏林堂",
+    "target": "Hạnh Lâm Đường",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "杏林堂",
+    "target": "Hạnh Lâm Đường",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "福禄膳楼",
+    "target": "Phúc Lộc Thiện Lâu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "野山牛",
+    "target": "Dã Sơn Ngưu",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "通仙城",
+    "target": "Thông Tiên thành",
+    "type": "setting",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "熔火阵",
+    "target": "Dung Hỏa trận",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "formation"
+  },
+  {
+    "raw": "通仙门",
+    "target": "Thông Tiên Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "陈记炼器行",
+    "target": "Trần Ký Luyện Khí Hành",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "膳楼",
+    "target": "Thiện lâu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "building"
+  },
+  {
+    "raw": "熔火阵",
+    "target": "Dung Hỏa trận",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "阵问长生",
+    "target": "Trận Vấn Trường Sinh",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "金石阵",
+    "target": "Kim Thạch trận",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "固土阵",
+    "target": "Cố Thổ trận",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "熔火阵图",
+    "target": "Dung Hỏa trận đồ",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "离火位",
+    "target": "vị trí Ly Hỏa",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "熔火阵",
+    "target": "Dung Hỏa Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "灵契",
+    "target": "Linh Khế",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "熔火阵",
+    "target": "Dung Hỏa Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "熔火阵",
+    "target": "Dung Hỏa Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "通仙城",
+    "target": "Thông Tiên Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "墨记食肆",
+    "target": "Mặc Ký Quán Ăn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "柳记食肆",
+    "target": "Liễu Ký Quán Ăn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "通仙门",
+    "target": "Thông Tiên Môn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "通灵峰",
+    "target": "Thông Linh Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "定水阵",
+    "target": "Định Thủy Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "通明峰",
+    "target": "Thông Minh Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "明德楼",
+    "target": "Minh Đức Lâu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "通仙门",
+    "target": "Thông Tiên Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "通仙城",
+    "target": "Thông Tiên Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "有缘斋",
+    "target": "Hữu Duyên Trai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "building"
+  },
+  {
+    "raw": "明火阵",
+    "target": "Minh Hỏa Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "formation"
+  },
+  {
+    "raw": "定水阵",
+    "target": "Định Thủy Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "formation"
+  },
+  {
+    "raw": "灵枢阵图",
+    "target": "Linh Xu trận đồ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "阵问长生",
+    "target": "Trận Vấn Trường Sinh",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "novel"
+  },
+  {
+    "raw": "一品阵师",
+    "target": "nhất phẩm trận sư",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "炼气期",
+    "target": "Luyện Khí kỳ",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "cultivation"
+  },
+  {
+    "raw": "阵纹",
+    "target": "trận văn",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "散修",
+    "target": "tán tu",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "束脩",
+    "target": "tiền bái sư",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "灵石",
+    "target": "linh thạch",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "水镜阵",
+    "target": "Thủy Kính Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "定水阵",
+    "target": "Định Thủy Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "坐忘居",
+    "target": "Tọa Vong Cư",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "阵法源论",
+    "target": "Trận Pháp Nguyên Luận",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "阵问长生",
+    "target": "Trận Vấn Trường Sinh",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "novel_title"
+  },
+  {
+    "raw": "阵法源论",
+    "target": "Trận Pháp Nguyên Luận",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "book_title"
+  },
+  {
+    "raw": "坐忘居",
+    "target": "Tọa Vong Cư",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "building"
+  },
+  {
+    "raw": "定水阵",
+    "target": "Định Thủy Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "千钧阵",
+    "target": "Thiên Quân Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "流沙阵",
+    "target": "Lưu Sa Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "小云雨阵",
+    "target": "Tiểu Vân Vũ Trận",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "冥想术",
+    "target": "Minh Tưởng Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "冥想",
+    "target": "Suy tưởng",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "观想法",
+    "target": "Phương pháp quán tưởng",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "坐忘居",
+    "target": "Tọa Vong Cư",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "五行棋",
+    "target": "cờ Ngũ Hành",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "game"
+  },
+  {
+    "raw": "阵问长生",
+    "target": "Trận Vấn Trường Sinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "三才阵",
+    "target": "Tam Tài Trận",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "五行阵",
+    "target": "Ngũ Hành Trận",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "安神香",
+    "target": "An Thần Hương",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "阵枢",
+    "target": "trận xu",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "识海",
+    "target": "thức hải",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "一品阵师",
+    "target": "Nhất phẩm Trận sư",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "坐忘居",
+    "target": "Tọa Vong Cư",
+    "type": "place",
+    "origin": "chinese"
+  },
+  {
+    "raw": "三才阵",
+    "target": "Tam Tài Trận",
+    "type": "technique",
+    "origin": "chinese"
+  },
+  {
+    "raw": "冥想术",
+    "target": "Minh Tưởng thuật",
+    "type": "technique",
+    "origin": "chinese"
+  },
+  {
+    "raw": "五行阵法初解",
+    "target": "Ngũ Hành Trận Pháp Sơ Giải",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "莲华节",
+    "target": "Hoa Sen Tiết",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "莲华灯",
+    "target": "đèn Liên Hoa",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "莲华节",
+    "target": "tết Liên Hoa",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "乾州",
+    "target": "Càn Châu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "region"
+  }
+]

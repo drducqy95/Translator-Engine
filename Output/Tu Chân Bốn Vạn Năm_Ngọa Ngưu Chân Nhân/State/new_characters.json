@@ -1,0 +1,898 @@
+[
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "肥龙",
+    "target": "Phì Long",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刀疤强",
+    "target": "Đao Ba Cường",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "帝皇",
+    "target": "Đế Hoàng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "孟江",
+    "target": "Mạnh Giang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "司佳雪",
+    "target": "Ti Giai Tuyết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "彭海来",
+    "target": "Bành Hải Lai",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "司佳雪",
+    "target": "Ti Giai Tuyết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "司雪佳",
+    "target": "Ti Tuyết Giai",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "欧冶明",
+    "target": "Âu Dã Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "巨灵神",
+    "target": "Cự Linh Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "太阿上人",
+    "target": "Thái A Thượng Nhân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "鱼肠道人",
+    "target": "Ngư Trường Đạo Nhân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "欧冶子",
+    "target": "Âu Dã Tử",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "欧冶子",
+    "target": "Âu Dã Tử",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "黑翼剑",
+    "target": "hắc dực",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "司佳雪",
+    "target": "Ti Giai Tuyết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑东明",
+    "target": "Trịnh Đông Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小罗",
+    "target": "Tiểu La",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑东明",
+    "target": "Đông Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白洁",
+    "target": "Bạch Khiết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "阿宾",
+    "target": "A Tân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "孟江",
+    "target": "Mạnh Giang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "彭海",
+    "target": "Bành Hải",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "铁龟",
+    "target": "Thiết Quy",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "nickname"
+  },
+  {
+    "raw": "铁龟",
+    "target": "Thiết Quy",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "妖刀彭海",
+    "target": "Yêu đao Bành Hải",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "彭海",
+    "target": "Bành Hải",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "铁兽",
+    "target": "Thiết Thú",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "nickname"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魏铁",
+    "target": "Ngụy Thiết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "孟江",
+    "target": "Mạnh Giang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵亮",
+    "target": "Triệu Lượng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魏铁",
+    "target": "Ngụy Thiết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵亮",
+    "target": "Triệu Lượng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "孟江才",
+    "target": "Mạnh Giang Tài",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵亮",
+    "target": "Triệu Lượng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "孟江",
+    "target": "Mạnh Giang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老孙头",
+    "target": "lão Tôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "孙彪",
+    "target": "Tôn Bưu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "妖刀彭海",
+    "target": "Yêu Đao Bành Hải",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "妖刀",
+    "target": "Yêu Đao",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "alias"
+  },
+  {
+    "raw": "小妖",
+    "target": "Tiểu Yêu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "alias"
+  },
+  {
+    "raw": "小雨",
+    "target": "Tiểu Vũ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "周隐",
+    "target": "Chu Ẩn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "司佳雪",
+    "target": "Ti Giai Tuyết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连霸",
+    "target": "Hách Liên Phách",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑东明",
+    "target": "Trịnh Đông Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "司佳雪",
+    "target": "Ti Giai Tuyết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑东明",
+    "target": "Trịnh Đông Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "纳兰英",
+    "target": "Nạp Lan Anh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "孙彪",
+    "target": "Tôn Bưu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "司佳雪",
+    "target": "Ti Giai Tuyết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赤霄",
+    "target": "Xích Tiêu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "周隐",
+    "target": "Chu Ẩn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "东明",
+    "target": "Đông Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "孙彪",
+    "target": "Tôn Bưu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "纳兰英",
+    "target": "Nạp Lan Anh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵亮",
+    "target": "Triệu Lượng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张亮",
+    "target": "Trương Lượng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赤霄",
+    "target": "Xích Tiêu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "周隐",
+    "target": "Chu Ẩn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑东明",
+    "target": "Trịnh Đông Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "徐浩然",
+    "target": "Từ Hạo Nhiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "兽化兵",
+    "target": "Thú hóa binh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "monster"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑东明",
+    "target": "Trịnh Đông Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "平远涛",
+    "target": "Bình Viễn Đào",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑东明",
+    "target": "Trịnh Đông Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "钟伯牙",
+    "target": "Chung Bá Nha",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "钟伯牙",
+    "target": "Chung Bá Nha",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "域外天魔",
+    "target": "Vực Ngoại Thiên Ma",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "丁铃铛",
+    "target": "Đinh Linh Đang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老夏",
+    "target": "Lão Hạ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "丁铃铛",
+    "target": "Đinh Linh Đang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小吉",
+    "target": "Tiểu Cát",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "谢听弦",
+    "target": "Tạ Thính Huyền",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "徐浩然",
+    "target": "Từ Hạo Nhiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "欧冶子",
+    "target": "Âu Dã Tử",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "妖皇",
+    "target": "Yêu Hoàng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "谢听弦",
+    "target": "Tạ Thính Huyền",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "丁铃铛",
+    "target": "Đinh Linh Đang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "谢听弦",
+    "target": "Tạ Thính Huyền",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵树德",
+    "target": "Triệu Thụ Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵树德",
+    "target": "Triệu Thụ Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "谢听弦",
+    "target": "Tạ Thính Huyền",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "丁铃铛",
+    "target": "Đinh Linh Đang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "高野",
+    "target": "Cao Dã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "高野",
+    "target": "Cao Dã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "丁铃铛",
+    "target": "Đinh Linh Đang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "高野",
+    "target": "Cao Dã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "高野",
+    "target": "Cao Dã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "高野",
+    "target": "Cao Dã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李耀",
+    "target": "Lý Diệu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赫连烈",
+    "target": "Hách Liên Liệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "郑东明",
+    "target": "Trịnh Đông Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "高野",
+    "target": "Cao Dã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

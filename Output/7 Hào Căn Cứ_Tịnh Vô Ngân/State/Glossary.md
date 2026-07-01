@@ -1,0 +1,51 @@
+# Term Glossary
+
+- **X光** (glossary) -> Tia X
+- **基因进化液** (concept) -> dung dịch tiến hóa gen
+- **机械手臂** (concept) -> cánh tay máy
+- **眼镜蛇** (organization) -> Rắn Hổ Mang
+- **眼镜蛇** (organization) -> Rắn Hổ Mang
+- **源力** (concept) -> Nguyên Lực
+- **风之谷** (concept) -> Thung lũng gió
+- **天空之城** (music) -> Lâu đài trên không
+- **我的灵魂** (music) -> Linh hồn của ta
+- **基因战士** (concept) -> chiến binh gen
+- **天行** (organization) -> Thiên Hành
+- **联邦币** (glossary) -> đồng liên bang
+- **流星镖** (glossary) -> phi tiêu lưu tinh
+- **改造人** (glossary) -> người cải tạo
+- **执法队** (group) -> đội chấp pháp
+- **弹簧刀** (item) -> dao bấm
+- **斯特兰街道** (location) -> Đường Tư Đặc Lan
+- **眼镜蛇** (organization) -> Rắn Hổ Mang
+- **第32章 血战** (chapter) -> Chương 32: Huyết Chiến
+- **源力战甲** (concept) -> Nguyên Lực Chiến Giáp
+- **源力战刀** (object) -> Nguyên Lực Chiến Đao
+- **破甲** (skill) -> Phá Giáp
+- **机械刀** (object) -> đao cơ khí
+- **机械弯刀** (object) -> đao cơ khí cong
+- **瓦伦工厂** (location) -> nhà máy Ngõa Luân
+- **机甲** (object) -> cơ giáp
+- **赌场** (location) -> sòng bạc
+- **侍者** (occupation) -> người phục vụ
+- **组织** (group) -> tổ chức
+- **棋子** (object) -> quân cờ
+- **黑市** (location) -> chợ đen
+- **眼镜蛇** (organization) -> Rắn Hổ Mang
+- **联邦币** (currency) -> đồng liên bang
+- **战刀** (weapon) -> chiến đao
+- **战甲** (armor) -> chiến giáp
+- **暗门** (location) -> cửa ngầm
+- **背包** (object) -> ba lô
+- **地下世界** (location) -> thế giới dưới lòng đất
+- **黑市的门口** (location) -> cửa chợ đen
+- **陷阱** (object) -> cạm bẫy
+- **瓦伦兵工厂** (location) -> nhà máy vũ khí Ngõa Luân
+- **执法队** (group) -> đội chấp pháp
+- **凶徒** (person) -> hung thủ
+- **城邦议院** (organization) -> hội đồng thành phố
+- **通讯仪器** (object) -> thiết bị liên lạc
+- **百货店** (location) -> cửa hàng bách hóa
+- **照片** (object) -> ảnh
+- **垃圾桶** (object) -> thùng rác
+- **基因战士** (concept) -> chiến binh gen

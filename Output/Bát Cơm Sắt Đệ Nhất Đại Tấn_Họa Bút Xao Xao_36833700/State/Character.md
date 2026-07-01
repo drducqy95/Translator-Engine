@@ -1,0 +1,82 @@
+# Character Dictionary
+
+- **花长曦** -> Hoa Trường Hi
+- **红袍老者** -> lão già áo đỏ
+- **花长曦** -> Hoa Trường Hi
+- **顾锦凡** -> Cố Cẩm Phàm
+- **花九娘** -> Hoa Cửu Nương
+- **花长曦** -> Hoa Trường Hi
+- **姚氏** -> Diêu Thị
+- **花明赫** -> Hoa Minh Hách
+- **花六郎** -> Hoa Lục Lang
+- **花长曦** -> Hoa Trường Hi
+- **花三郎** -> Hoa Tam Lang
+- **花四郎** -> Hoa Tứ Lang
+- **花斌** -> Hoa Bân
+- **姚氏** -> Diêu Thị
+- **花明赫** -> Hoa Minh Hách
+- **花明昂** -> Hoa Minh Ngang
+- **花明诚** -> Hoa Minh Thành
+- **大族老** -> Đại tộc lão
+- **许药师** -> Hứa dược sư
+- **花长曦** -> Hoa Trường Hi
+- **花老太太** -> Hoa lão thái thái
+- **花五娘** -> Hoa Ngũ Nương
+- **周玉娥** -> Chu Ngọc Nga
+- **周氏** -> Chu Thị
+- **花斌** -> Hoa Bân
+- **姚氏** -> Diêu Thị
+- **花十四娘** -> Hoa Thập Tứ Nương
+- **花十二娘** -> Hoa Thập Nhị Nương
+- **花九娘** -> Hoa Cửu Nương
+- **花明赫** -> Hoa Minh Hách
+- **周嬷嬷** -> Chu ma ma
+- **周太夫人** -> Chu Thái phu nhân
+- **花泰** -> Hoa Thái
+- **钟氏** -> Nhà họ Chung
+- **花明赫** -> Hoa Minh Hách
+- **花长曦** -> Hoa Trường Hi
+- **花六郎** -> Hoa Lục Lang
+- **许药师** -> Hứa dược sư
+- **姚氏** -> Diêu thị
+- **花明昂** -> Hoa Minh Ngang
+- **花明诚** -> Hoa Minh Thành
+- **花五娘** -> Hoa Ngũ Nương
+- **花七娘** -> Hoa Thất Nương
+- **花十一郎** -> Hoa Thập Nhất Lang
+- **花十三郎** -> Hoa Thập Tam Lang
+- **花十四娘** -> Hoa Thập Tứ Nương
+- **花十二娘** -> Hoa Thập Nhị Nương
+- **大族老** -> Đại tộc lão
+- **玉娥** -> Ngọc Nga
+- **花九娘** -> Hoa Cửu Nương
+- **许药师** -> Hứa dược sư
+- **周太夫人** -> Chu thái phu nhân
+- **大族老** -> Đại tộc lão
+- **大郎** -> Đại Lang
+- **三郎** -> Tam Lang
+- **四郎** -> Tứ Lang
+- **五郎** -> Ngũ Lang
+- **十一郎** -> Thập Nhất Lang
+- **花长曦** -> Hoa Trường Hi
+- **贾公公** -> Giả công công
+- **小禄子** -> Tiểu Lộc Tử
+- **花长曦** -> Hoa Trường Hi
+- **花明赫** -> Hoa Minh Hách
+- **姚氏** -> Diêu Thị
+- **花老太太** -> lão thái thái
+- **花六郎** -> Hoa Lục Lang
+- **花老爷子** -> Hoa lão gia tử
+- **花七娘** -> Hoa Thất Nương
+- **花十二娘** -> Hoa Thập Nhị Nương
+- **花长曦** -> Hoa Trường Hi
+- **司后** -> Ti Hậu
+- **小禄子** -> Tiểu Lộc Tử
+- **香茹** -> Hương Như
+- **冷香茹** -> Lãnh Hương Như
+- **杜若** -> Đỗ Nhược
+- **凌霄** -> Lăng Tiêu
+- **花长曦** -> Hoa Trường Hi
+- **杜若** -> Đỗ Nhược
+- **许药师** -> Hứa dược sư
+- **许叔** -> Hứa thúc

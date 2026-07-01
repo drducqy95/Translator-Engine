@@ -1,0 +1,29 @@
+# Character Dictionary
+
+- **罗帆** -> La Phàm
+- **貔貅** -> Tỳ Hưu
+- **罗帆** -> La Phàm
+- **罗帆** -> La Phàm
+- **罗帆** -> La Phàm
+- **盘古** -> Bàn Cổ
+- **罗帆** -> La Phàm
+- **罗帆** -> La Phàm
+- **大自在天魔** -> Đại Tự Tại Thiên Ma
+- **大自在天魔** -> Đại Tự Tại Thiên Ma
+- **大自在天魔** -> Đại Tự Tại Thiên Ma
+- **罗帆** -> La Phàm
+- **盘古** -> Bàn Cổ
+- **鸿钧** -> Hồng Quân
+- **罗帆** -> La Phàm
+- **老天爷** -> lão thiên gia
+- **中鸿钧** -> Trung Hồng Quân
+- **玄真君** -> Huyền Chân Quân
+- **鸿钧** -> Hồng Quân
+- **鸿钧** -> Hồng Quân
+- **鸿钧** -> Hồng Quân
+- **无极童子** -> Vô Cực Đồng Tử
+- **罗帆** -> La Phàm
+- **无极童子** -> vô cực đồng tử
+- **金云** -> Kim Vân
+- **鸿钧** -> Hồng Quân
+- **无极童子** -> Vô Cực Đồng Tử

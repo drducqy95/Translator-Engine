@@ -1,0 +1,22 @@
+# Term Glossary
+
+- **乾国** (organization) -> Càn Quốc
+- **恶狼帮** (organization) -> Hắc Lang Bang
+- **黑水帮** (organization) -> Hắc Thủy Bang
+- **常泽县** (location) -> Thường Trạch Huyền
+- **美娇娘** (glossary) -> mỹ kiều nương
+- **小姐** (glossary) -> cô
+- **刁民** (glossary) -> điêu dân
+- **白役** (glossary) -> Bạch Dịch
+- **饶命** (glossary) -> tha mạng
+- **阴森** (glossary) -> âm trầm
+- **令尊** (glossary) -> lệnh tôn
+- **冷笑** (glossary) -> cười lạnh
+- **神勇** (glossary) -> dũng mãnh phi thường
+- **土皇帝** (glossary) -> thổ hoàng đế
+- **蒙混** (glossary) -> lừa dối
+- **盖子** (glossary) -> cái nắp
+- **恶狼帮** (organization) -> Ác Lang Bang
+- **恶狼帮** (organization) -> Ác Lang Bang
+- **泥丸宫** (concept) -> nê hoàn cung
+- **先天真炁** (concept) -> Thiên Chân khí

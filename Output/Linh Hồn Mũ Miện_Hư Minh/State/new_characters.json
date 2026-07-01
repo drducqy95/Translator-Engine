@@ -1,0 +1,135 @@
+[
+  {
+    "raw": "亚当",
+    "target": "Adam",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "莉娜",
+    "target": "Lina",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "亚利斯",
+    "target": "Alis",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "曼斯",
+    "target": "Mans",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "弗拉",
+    "target": "Fula",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "曼斯拉",
+    "target": "Mạn Tư",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "莉娜",
+    "target": "Lina",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "亚当",
+    "target": "Adam",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "莉娜",
+    "target": "Lina",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "弗拉",
+    "target": "Fula",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "亚当",
+    "target": "Adam",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "玛姬",
+    "target": "Mã Cơ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莉娜",
+    "target": "Lina",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "亚利斯",
+    "target": "Á Lợi Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "霍达",
+    "target": "Hoắc Đạt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "曼斯拉",
+    "target": "Mạn Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "亚当",
+    "target": "A-đam",
+    "type": "character",
+    "origin": "biblical",
+    "name_type": "person"
+  },
+  {
+    "raw": "弗拉",
+    "target": "Phra",
+    "type": "character",
+    "origin": "original",
+    "name_type": "person"
+  },
+  {
+    "raw": "玛姬",
+    "target": "Mã Cơ",
+    "type": "character",
+    "origin": "original",
+    "name_type": "person"
+  }
+]

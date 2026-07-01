@@ -1,0 +1,79 @@
+[
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "汉姆",
+    "target": "Hán Mỗ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老汉姆",
+    "target": "Lão Hán",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "玛丽",
+    "target": "Mã Lệ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "伊玛",
+    "target": "Y Mã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "索加拉",
+    "target": "Sách Gia Lạp",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老六",
+    "target": "Lão Lục",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "约克里斯",
+    "target": "Ốc Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "约克莉安娜",
+    "target": "An Na",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "韦德",
+    "target": "Vi Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "raw": "天蜀郡",
+    "target": "Thiên Thục Quận",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "南风",
+    "target": "Nam Phong",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "洛岚府",
+    "target": "Lạc Lam Phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "圣玄星学府",
+    "target": "Thánh Huyền Tinh Học Phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "南风学府",
+    "target": "Nam Phong học phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "洛岚府",
+    "target": "Lạc Lam phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "天蜀郡",
+    "target": "Thiên Thục quận",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "region"
+  },
+  {
+    "raw": "大夏国",
+    "target": "Đại Hạ quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "region"
+  },
+  {
+    "raw": "清风楼",
+    "target": "Thanh Phong lâu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "building"
+  },
+  {
+    "raw": "圣玄星学府",
+    "target": "Thánh Huyền Tinh học phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "大夏城",
+    "target": "Đại Hạ thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "region"
+  },
+  {
+    "raw": "狮马兽",
+    "target": "Sư Mã thú",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "animal"
+  },
+  {
+    "raw": "圣玄星学府",
+    "target": "Thánh Huyền Tinh Học Phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "金龙宝行",
+    "target": "Kim Long Bảo Hành",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "金龙宝行",
+    "target": "Kim Long Bảo Hành",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  }
+]

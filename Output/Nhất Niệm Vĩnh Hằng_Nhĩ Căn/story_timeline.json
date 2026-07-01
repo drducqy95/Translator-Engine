@@ -1,0 +1,67 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 他叫白小纯.md",
+    "translated_file": "Chương 0001 Hắn tên Bạch Tiểu Thuần.md",
+    "chapter": "Chương 0001 Hắn tên Bạch Tiểu Thuần.md",
+    "summary": {
+      "main_events": "Bạch Tiểu Thuần đốt hương suốt 3 năm để gọi tiên nhân, khiến dân làng khốn khổ. Cuối cùng, Lý Thanh Hậu xuất hiện, đưa cậu về Linh Khê Tông.",
+      "new_characters": [
+        "Bạch Tiểu Thuần",
+        "Lý Thanh Hậu"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 火灶房.md",
+    "translated_file": "Chương 0002 Nhà Bếp Lửa.md",
+    "chapter": "Chương 0002 Nhà Bếp Lửa.md",
+    "summary": {
+      "main_events": "Chương này giới thiệu về nhà bếp lửa, có thể là một địa điểm quan trọng hoặc một sự kiện liên quan đến lửa và nấu nướng.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 第二章.md",
+    "translated_file": "Chương 0003.md",
+    "chapter": "Chương 0003.md",
+    "summary": {
+      "main_events": "Bạch Tiểu Thuần gia nhập Linh Khê Tông, được đưa đến Hỏa Táo Phòng làm tạp dịch. Tại đây, hắn gặp gỡ nhóm người Trương Đại Bàn và bắt đầu tu luyện công pháp Tử Khí Ngự Đỉnh Công.",
+      "new_characters": [
+        "Lý Thanh Hậu",
+        "Bạch Tiểu Thuần",
+        "Trương Đại Bàn",
+        "Hoàng Nhị Bàn",
+        "Hắc Tam Bàn",
+        "Hứa Bảo Tài"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 六句真言.md",
+    "translated_file": "Chương 0004 Sáu câu chân ngôn.md",
+    "chapter": "Chương 0004 Sáu câu chân ngôn.md",
+    "summary": {
+      "main_events": "Bắt đầu chương 3 với tiêu đề về sáu câu chân ngôn.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 5,
+    "chapter_file": "Chapter 0005 第三章.md",
+    "translated_file": "Chương 0005.md",
+    "chapter": "Chương 0005.md",
+    "summary": {
+      "main_events": "Bạch Tiểu Thuần bị Hứa Bảo Tài khiêu chiến vì tranh suất vào bếp lửa. Sau đó, Bạch Tiểu Thuần được các sư huynh béo trong bếp lửa chiêu đãi bằng các loại linh dược quý giá, dần hòa nhập vào nhóm và thể hiện sự thông minh, tháo vát của mình.",
+      "new_characters": [
+        "Hứa Bảo Tài",
+        "Trương Đại Bàn",
+        "Hoàng Nhị Bàn",
+        "Hắc Tam Bàn"
+      ]
+    }
+  }
+]

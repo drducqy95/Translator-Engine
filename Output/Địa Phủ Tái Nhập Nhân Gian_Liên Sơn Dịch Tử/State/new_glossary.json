@@ -1,0 +1,58 @@
+[
+  {
+    "raw": "大青山",
+    "target": "Đại Thanh San",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青山村",
+    "target": "Thanh Sơn Thôn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青山村",
+    "target": "thôn Núi Xanh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青山村",
+    "target": "thôn Núi Xanh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "户籍录",
+    "target": "Hộ Tịch Lục",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "土地神令",
+    "target": "Thổ Địa Thần Lệnh",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "大青山",
+    "target": "Đại Thanh Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "青山村",
+    "target": "thôn Thanh Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "raw": "X光",
+    "target": "Tia X",
+    "type": "glossary",
+    "origin": "english",
+    "name_type": "other"
+  },
+  {
+    "raw": "基因进化液",
+    "target": "dung dịch tiến hóa gen",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "机械手臂",
+    "target": "cánh tay máy",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "眼镜蛇",
+    "target": "Rắn Hổ Mang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "眼镜蛇",
+    "target": "Rắn Hổ Mang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "源力",
+    "target": "Nguyên Lực",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "general"
+  },
+  {
+    "raw": "风之谷",
+    "target": "Thung lũng gió",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "天空之城",
+    "target": "Lâu đài trên không",
+    "type": "music",
+    "origin": "unknown",
+    "name_type": "title"
+  },
+  {
+    "raw": "我的灵魂",
+    "target": "Linh hồn của ta",
+    "type": "music",
+    "origin": "unknown",
+    "name_type": "title"
+  },
+  {
+    "raw": "基因战士",
+    "target": "chiến binh gen",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "天行",
+    "target": "Thiên Hành",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "联邦币",
+    "target": "đồng liên bang",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "流星镖",
+    "target": "phi tiêu lưu tinh",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "改造人",
+    "target": "người cải tạo",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "执法队",
+    "target": "đội chấp pháp",
+    "type": "group",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "弹簧刀",
+    "target": "dao bấm",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "斯特兰街道",
+    "target": "Đường Tư Đặc Lan",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "眼镜蛇",
+    "target": "Rắn Hổ Mang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "第32章 血战",
+    "target": "Chương 32: Huyết Chiến",
+    "type": "chapter",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "源力战甲",
+    "target": "Nguyên Lực Chiến Giáp",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "源力战刀",
+    "target": "Nguyên Lực Chiến Đao",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "破甲",
+    "target": "Phá Giáp",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "机械刀",
+    "target": "đao cơ khí",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "机械弯刀",
+    "target": "đao cơ khí cong",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "瓦伦工厂",
+    "target": "nhà máy Ngõa Luân",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "机甲",
+    "target": "cơ giáp",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "赌场",
+    "target": "sòng bạc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "侍者",
+    "target": "người phục vụ",
+    "type": "occupation",
+    "origin": "chinese",
+    "name_type": "occupation"
+  },
+  {
+    "raw": "组织",
+    "target": "tổ chức",
+    "type": "group",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "棋子",
+    "target": "quân cờ",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黑市",
+    "target": "chợ đen",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "眼镜蛇",
+    "target": "Rắn Hổ Mang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "联邦币",
+    "target": "đồng liên bang",
+    "type": "currency",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "战刀",
+    "target": "chiến đao",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "战甲",
+    "target": "chiến giáp",
+    "type": "armor",
+    "origin": "chinese",
+    "name_type": "armor"
+  },
+  {
+    "raw": "暗门",
+    "target": "cửa ngầm",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "背包",
+    "target": "ba lô",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "地下世界",
+    "target": "thế giới dưới lòng đất",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "黑市的门口",
+    "target": "cửa chợ đen",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "陷阱",
+    "target": "cạm bẫy",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "瓦伦兵工厂",
+    "target": "nhà máy vũ khí Ngõa Luân",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "执法队",
+    "target": "đội chấp pháp",
+    "type": "group",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "凶徒",
+    "target": "hung thủ",
+    "type": "person",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "城邦议院",
+    "target": "hội đồng thành phố",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "通讯仪器",
+    "target": "thiết bị liên lạc",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "百货店",
+    "target": "cửa hàng bách hóa",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "照片",
+    "target": "ảnh",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "垃圾桶",
+    "target": "thùng rác",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "基因战士",
+    "target": "chiến binh gen",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "concept"
+  }
+]

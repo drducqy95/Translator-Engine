@@ -1,0 +1,121 @@
+[
+  {
+    "raw": "大夏府",
+    "target": "Đại Hạ phủ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "镇魔军",
+    "target": "Trấn Ma Quân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "万石境",
+    "target": "Vạn Thạch cảnh",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "cultivation"
+  },
+  {
+    "raw": "诸天战场",
+    "target": "Chư Thiên Chiến Trường",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "鯥鱼",
+    "target": "Lũ Ngư",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "开元诀",
+    "target": "Khai Nguyên Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "大夏文明学府",
+    "target": "Đại Hạ Văn minh học phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "战争学府",
+    "target": "Chiến tranh học phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大夏府",
+    "target": "Đại Hạ Phủ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "大周府",
+    "target": "Đại Chu Phủ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "南元城",
+    "target": "Nam Nguyên Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "大夏战争学府",
+    "target": "Đại Hạ Chiến Tranh Học Phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "龙武战争学府",
+    "target": "Long Vũ Chiến Tranh Học Phủ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "镇魔军",
+    "target": "Trấn Ma Quân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "龙武卫",
+    "target": "Long Vũ Vệ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "缉风堂",
+    "target": "Tập Phong Đường",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "铁翼鸟",
+    "target": "Thiết Dực Điểu",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "species"
+  }
+]

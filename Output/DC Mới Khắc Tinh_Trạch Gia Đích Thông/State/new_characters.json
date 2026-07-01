@@ -1,0 +1,86 @@
+[
+  {
+    "raw": "骇尔",
+    "target": "H'el",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "乔-艾尔",
+    "target": "Jor-El",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "佐德",
+    "target": "Zod",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "卡拉",
+    "target": "Kara",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "劳拉",
+    "target": "Lara",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "乔-艾尔",
+    "target": "Jor-El",
+    "type": "character",
+    "origin": "dc_comics",
+    "name_type": "person"
+  },
+  {
+    "raw": "骇尔",
+    "target": "Hael",
+    "type": "character",
+    "origin": "dc_comics",
+    "name_type": "person"
+  },
+  {
+    "raw": "佐-艾尔",
+    "target": "Zor-El",
+    "type": "character",
+    "origin": "dc_comics",
+    "name_type": "person"
+  },
+  {
+    "raw": "劳拉",
+    "target": "Lara",
+    "type": "character",
+    "origin": "dc_comics",
+    "name_type": "person"
+  },
+  {
+    "raw": "乔-艾尔",
+    "target": "Jor-El",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "克拉克·肯特",
+    "target": "Clark Kent",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "佐德",
+    "target": "Zod",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  }
+]

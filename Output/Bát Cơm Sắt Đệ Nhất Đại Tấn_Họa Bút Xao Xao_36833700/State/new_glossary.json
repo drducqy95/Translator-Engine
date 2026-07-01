@@ -1,0 +1,184 @@
+[
+  {
+    "raw": "广济寺",
+    "target": "Quảng Tể Tự",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "红石",
+    "target": "Hồng Thạch",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "医药司",
+    "target": "Ti Phối",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "institution"
+  },
+  {
+    "raw": "真血木",
+    "target": "Chân Huyết Mộc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "material"
+  },
+  {
+    "raw": "六扇门",
+    "target": "Lục Phiến Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "institution"
+  },
+  {
+    "raw": "京兆府",
+    "target": "phủ Kinh Triệu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "institution"
+  },
+  {
+    "raw": "真血木",
+    "target": "Chân Huyết Mộc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "百草经注",
+    "target": "Bách Thảo Kinh Chú",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "医药司",
+    "target": "Y Dược Ti",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "医药司",
+    "target": "Y Dược Ti",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "杂役堂",
+    "target": "Tạp Dịch Đường",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "玄冰草",
+    "target": "Huyền Băng Thảo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "herb"
+  },
+  {
+    "raw": "火晶草",
+    "target": "Hỏa Tinh Thảo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "herb"
+  },
+  {
+    "raw": "雷竹",
+    "target": "Lôi Trúc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "herb"
+  },
+  {
+    "raw": "第九街",
+    "target": "Đệ Cửu Nhai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "医药司",
+    "target": "Y Dược Ty",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "杂役堂",
+    "target": "Tạp dịch phòng",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "第六局",
+    "target": "Đệ Lục Cục",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "第二署",
+    "target": "Đệ Nhị Thự",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "第一署",
+    "target": "Đệ Nhất Thự",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "药务库",
+    "target": "Dược Vụ Kho",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "第九街十二号药铺",
+    "target": "Tiệm thuốc số 12 Đệ Cửu Nhai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "花家铺子",
+    "target": "Hoa gia điếm",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "无垢术",
+    "target": "Vô Cấu Thuật",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "百草经注",
+    "target": "Bách Thảo Kinh Chú",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "控水术",
+    "target": "Khống Thủy Thuật",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  }
+]

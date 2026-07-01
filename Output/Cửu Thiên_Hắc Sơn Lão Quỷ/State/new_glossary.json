@@ -1,0 +1,79 @@
+[
+  {
+    "raw": "野岭窟",
+    "target": "Dã Lĩnh Khố",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "牛头村",
+    "target": "thôn Ngưu Đầu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "黑风山",
+    "target": "Hắc Phong Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "铜钱",
+    "target": "đồng tiền",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "乾元通宝",
+    "target": "Càn Nguyên Thông Bảo",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "山南",
+    "target": "núi Nam",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "山北",
+    "target": "núi Bắc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "青虚导引法",
+    "target": "Thanh Hư Đạo Dẫn Pháp",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "青虚正法",
+    "target": "Thanh Hư Chính Pháp",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "九灵正典",
+    "target": "Cửu Linh Chính Điển",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "青虚正法",
+    "target": "Thanh Hư Chính Pháp",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  }
+]

@@ -1,0 +1,800 @@
+[
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "周明云",
+    "target": "Chu Minh Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杨冲",
+    "target": "Dương Trùng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗仪",
+    "target": "La Nghi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜冲",
+    "target": "Khương Trùng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗大师",
+    "target": "La đại sư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "风紫阳",
+    "target": "Phong Tử Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜师弟",
+    "target": "Khương Sư Đệ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "齐长生",
+    "target": "Tề Trường Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "云长老",
+    "target": "Vân Trường Lão",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "周明云",
+    "target": "Chu Minh Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "阿宾",
+    "target": "A Tân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗仪",
+    "target": "La Nghi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜逐云",
+    "target": "Khương Trục Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "万长老",
+    "target": "Vạn Trường Lão",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜逐云",
+    "target": "Khương Trục Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "风紫阳",
+    "target": "Phong Tử Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "丁震",
+    "target": "Đinh Chấn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蔡志英",
+    "target": "Thái Chí Anh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "易扬",
+    "target": "Dịch Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吕忘机",
+    "target": "Lữ Vong Ky",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "炎帝",
+    "target": "Viêm Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "风紫阳",
+    "target": "Phong Tử Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "炎帝",
+    "target": "Viêm Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "炎帝",
+    "target": "Viêm Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "哮天犬",
+    "target": "Hao Thiên Khuyển",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "entity"
+  },
+  {
+    "raw": "罗仪",
+    "target": "La Nghi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙青玥",
+    "target": "Công Tôn Thanh Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜逐云",
+    "target": "Khương Trục Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "风紫阳",
+    "target": "Phong Tử Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "风紫阳",
+    "target": "Tử Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天蓬",
+    "target": "Tiên Bồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "庞然巨",
+    "target": "Bàng Nhiên Cự",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "齐长生",
+    "target": "Tề Trường Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天蓬",
+    "target": "Tiên Bồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "曹玄德",
+    "target": "Tào Huyền Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙师姐",
+    "target": "Công Tôn Sư Tả",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "红颜",
+    "target": "hồng nhan",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙青玥",
+    "target": "Công Tôn Thanh Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "惊雷",
+    "target": "Kinh Lôi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "曹玄德",
+    "target": "Tào Huyền Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "秋水",
+    "target": "Thu Thuỷ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙青玥",
+    "target": "Công Tôn Thanh Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天蓬",
+    "target": "Thiên Bồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "齐长生",
+    "target": "Tề Trường Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "墨武",
+    "target": "Mặc Vũ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老虎",
+    "target": "lão hổ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "曹玄德",
+    "target": "Tào Huyền Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "须弥",
+    "target": "Sumeru",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "齐长生",
+    "target": "Tề Trường Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天蓬",
+    "target": "Thiên Bồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜氏",
+    "target": "Khương Thị",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜逐云",
+    "target": "Khương Trục Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "阿宾",
+    "target": "A Tân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙青玥",
+    "target": "Công Tôn Thanh Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天蓬",
+    "target": "Thiên Bồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜逐云",
+    "target": "Khương Trục Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙青玥",
+    "target": "Công Tôn Thanh Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天璇",
+    "target": "Thiên Tuyền",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "兰花",
+    "target": "Hoa Lan",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "墨武",
+    "target": "Mặc Vũ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗仪",
+    "target": "La Nghi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜逐云",
+    "target": "Khương Trục Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙青玥",
+    "target": "Công Tôn Thanh Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "应龙",
+    "target": "Ứng Long",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蓬元帅",
+    "target": "Bồng Nguyên Suất",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蚩尤",
+    "target": "Xi Vưu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "夸父",
+    "target": "Khoa Phụ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "地祇",
+    "target": "Địa Kỳ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "天璇长老",
+    "target": "Trưởng lão Thiên Tuyền",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙青玥",
+    "target": "Công Tôn Thanh Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜逐云",
+    "target": "Khương Trục Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "摇光",
+    "target": "Diêu Quang",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗仪",
+    "target": "La Nghi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天蓬长老",
+    "target": "Trưởng lão Thiên Bồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "曹玄德",
+    "target": "Tào Huyền Đức",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "萧师道",
+    "target": "Tiêu Sư Đạo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "秋水",
+    "target": "Thu Thủy",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶雨迟",
+    "target": "Diệp Vũ Trì",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吕忘机",
+    "target": "Lữ Vong Ky",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "墨蛇",
+    "target": "Mặc Xà",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "王重阳",
+    "target": "Vương Trùng Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "风紫阳",
+    "target": "Phong Tử Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "风紫阳",
+    "target": "Phong Tử Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶雨迟",
+    "target": "Diệp Vũ Trì",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李淳风",
+    "target": "Lý Thuần Phong",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜离",
+    "target": "Khương Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜逐云",
+    "target": "Khương Trục Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙青玥",
+    "target": "Công Tôn Thanh Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李重岳",
+    "target": "Lý Trọng Nhạc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张振阳",
+    "target": "Trương Chấn Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吕忘机",
+    "target": "Lữ Vong Ky",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公孙青玥",
+    "target": "Công Tôn Thanh Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "万长老",
+    "target": "Vạn Trường Lão",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "纪云流",
+    "target": "Kỉ Vân Lưu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "云九夜",
+    "target": "Vân Cửu Dạ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "风紫阳",
+    "target": "Phong Tử Dương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "妘秋池",
+    "target": "Vân Thu Trì",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "炎帝",
+    "target": "Viêm Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "炎帝",
+    "target": "Viêm Đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "向枢使",
+    "target": "Hướng Khu Sứ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "向枢使",
+    "target": "Hướng Xu Sứ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜洛",
+    "target": "Khương Lạc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

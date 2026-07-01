@@ -1,0 +1,107 @@
+[
+  {
+    "raw": "灵溪宗",
+    "target": "Linh Khê Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "灵溪宗",
+    "target": "Linh Khê Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "通天河",
+    "target": "Thông Thiên Hà",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "river"
+  },
+  {
+    "raw": "火灶房",
+    "target": "Hỏa Táo Phòng",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "department"
+  },
+  {
+    "raw": "紫气驭鼎功",
+    "target": "Tử Khí Ngự Đỉnh Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "南坡",
+    "target": "Nam Pha",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "火灶房",
+    "target": "bếp lửa",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "紫气驭鼎功",
+    "target": "Tử Khí Dưỡng Đỉnh Công",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "灵石",
+    "target": "linh thạch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "血书",
+    "target": "huyết thư",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "灵芝",
+    "target": "linh chi",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "黄精",
+    "target": "Hoàng Tinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "地宝",
+    "target": "Địa Bảo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "灵果",
+    "target": "Linh Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "人参",
+    "target": "nhân sâm",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 救人 神奇天降.md",
+    "translated_file": "Chương 0001 Cứu người, thần kỳ từ trên trời rơi xuống.md",
+    "chapter": "Chương 0001 Cứu người, thần kỳ từ trên trời rơi xuống.md",
+    "summary": {
+      "main_events": "Vương Diệu, một sinh viên đại học thất bại trong việc khởi nghiệp trồng thảo dược, vô tình kích hoạt 'Dược Sư Hệ Thống' sau khi suýt chết đuối. Hệ thống cung cấp cho hắn 'Ấm Cổ Tuyền' với nguồn nước thần kỳ giúp hồi phục thể lực và hỗ trợ trồng trọt.",
+      "new_characters": [
+        "Vương Diệu",
+        "Tam Tiên"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 一壶水 两亩田.md",
+    "translated_file": "Chương 0002 Một bầu nước, hai mẫu ruộng.md",
+    "chapter": "Chương 0002 Một bầu nước, hai mẫu ruộng.md",
+    "summary": {
+      "main_events": "Vương Diệu phát hiện hệ thống dược sư và nhận nhiệm vụ trồng hoàng tinh đạt năng suất 6000 cân/mẫu. Hắn dùng nước từ cổ tuyền để tưới cây và cho cha mẹ uống, đồng thời lên kế hoạch vào thành tìm hiểu kỹ thuật trồng trọt.",
+      "new_characters": [
+        "Vương Phong Hoa",
+        "Trương Tú Anh",
+        "Vương Như",
+        "Tam Tiên"
+      ]
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 吊打高富帅 专追白富美.md",
+    "translated_file": "Chương 0003 Đánh tơi bời cao phú soái, chuyên cua bạch phú mỹ.md",
+    "chapter": "Chương 0003 Đánh tơi bời cao phú soái, chuyên cua bạch phú mỹ.md",
+    "summary": {
+      "main_events": "Vương Như trở về nhà vì lo lắng cho Vương Diệu. Vương Diệu phát hiện nước Cổ Tuyền giúp thảo dược tăng trưởng thần tốc và quyết định dùng nó để cải thiện sức khỏe cho gia đình.",
+      "new_characters": [
+        "Tam Tiên"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 这些都是垃圾.md",
+    "translated_file": "Chương 0004 Đây đều là rác thải.md",
+    "chapter": "Chương 0004 Đây đều là rác thải.md",
+    "summary": {
+      "main_events": [
+        "Vương Diệu nhận được hệ thống thần kỳ, tính kéo dài hợp đồng thầu đất.",
+        "Hệ thống không cho phép sử dụng phân bón nhân tạo, chỉ được tưới nước suối cổ.",
+        "Mẹ của Vương Diệu an bài một lần kết thân, Vương Diệu kháng cự nhưng không dám nói gì.",
+        "Vương Diệu gặp Lý Hiểu Yến, cô gái đẹp làm y tá ở bệnh viện huyện.",
+        "Hai người nói chuyện không có nhiều tiếng nói chung, đợi đến khi khách rời đi."
+      ],
+      "new_characters": [
+        {
+          "raw": "王耀",
+          "target": "Vương Diệu",
+          "type": "character",
+          "origin": "chinese",
+          "name_type": "person"
+        },
+        {
+          "raw": "张秀英",
+          "target": "Trương tú anh",
+          "type": "character",
+          "origin": "chinese",
+          "name_type": "person"
+        },
+        {
+          "raw": "李晓燕",
+          "target": "Lý Hiểu Yến",
+          "type": "character",
+          "origin": "chinese",
+          "name_type": "person"
+        }
+      ]
+    }
+  }
+]

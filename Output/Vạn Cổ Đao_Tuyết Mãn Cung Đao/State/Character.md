@@ -1,0 +1,25 @@
+# Character Dictionary
+
+- **陈棠** -> Trần Đường
+- **陈大安** -> Trần Đại An
+- **山中客** -> Sơn Trung Khách
+- **雪团儿** -> Tuyết Đoàn Nhi
+- **陈棠** -> Trần Đường
+- **陈大安** -> Trần Đại An
+- **老孙头** -> Lão Tôn đầu
+- **柴爷** -> Sài Gia
+- **崔勇** -> Thôi Dũng
+- **白役** -> Bạch dịch
+- **那雪正** -> Na Tuyết Chánh
+- **崔勇** -> Thôi Dũng
+- **崔哥** -> Thôi Ca
+- **梅家** -> Mai Gia
+- **老婆子** -> lão bà tử
+- **老太婆** -> lão thái bà
+- **陈兄弟** -> Trần Huynh Đệ
+- **牛二** -> Ngưu Nhị
+- **崔勇** -> Thôi Dũng
+- **陈棠** -> Trần Đường
+- **柴爷** -> Sài Gia
+- **梅映雪** -> Mai Ánh Tuyết
+- **陈棠** -> Trần Đường

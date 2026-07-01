@@ -1,0 +1,714 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 第1章 墨画.md",
+    "translated_file": "Chương 0001 Mực Họa.md",
+    "chapter": "Chương 0001 Mực Họa.md",
+    "summary": {
+      "main_events": "Mực Họa, một đệ tử ngoại môn mười tuổi có linh căn trung hạ phẩm, kiếm sống bằng cách vẽ trận pháp thuê cho các công tử nhà giàu trong Thông Tiên Môn. Sau khi kết thúc một ngày làm việc và tu hành, Mực Họa phát hiện trong thức hải mình có một tấm bia tàn bí ẩn gọi là Đạo Bia.",
+      "new_characters": [
+        "Mực Họa",
+        "Tiểu mập mạp (An thiếu gia)",
+        "Gầy công tử (Tiền công tử)",
+        "Mặc San (cha Mực Họa)"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 第2章 道碑.md",
+    "translated_file": "Chương 0002 Đạo Bia.md",
+    "chapter": "Chương 0002 Đạo Bia.md",
+    "summary": {
+      "main_events": "Mặc Họa, một thiếu niên mười tuổi trong giới tu đạo, sở hữu một tấm đạo bia trong thức hải giúp cậu luyện tập trận pháp và tăng cường thần thức. Sau nhiều đêm nỗ lực, cậu đã thành công vẽ được Song Nguyên Trận, đặt mục tiêu trở thành nhất phẩm trận sư để thay đổi vận mệnh.",
+      "new_characters": [
+        "Mặc Họa"
+      ]
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 第3章 阵师.md",
+    "translated_file": "Chương 0003 Trận Sư.md",
+    "chapter": "Chương 0003 Trận Sư.md",
+    "summary": {
+      "main_events": "Mặc Họa nhận kết quả khảo hạch cuối năm tại Thông Tiên Môn, đạt hạng Giáp môn Trận pháp. Cậu chứng kiến một đệ tử nhà họ Tiền chế giễu tán tu và bị Nghiêm giáo tập trừng phạt. Sau đó, Mặc Họa rời tông môn, mang theo linh thạch đi về phía phường thị.",
+      "new_characters": [
+        "Nghiêm giáo tập",
+        "Đệ tử nhà họ Tiền"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 第4章 辟火簪.md",
+    "translated_file": "Chương 0004 Trâm Tích Hỏa.md",
+    "chapter": "Chương 0004 Trâm Tích Hỏa.md",
+    "summary": {
+      "main_events": "Mặc Họa mua trâm tích hỏa tại phường thị để tặng nương, sau đó trở về nhà. Sáng hôm sau, cha cậu là Mặc San trở về trong tình trạng bị thương nặng.",
+      "new_characters": [
+        "Tôn lão đầu",
+        "Liễu Như Họa",
+        "Mặc San"
+      ]
+    }
+  },
+  {
+    "chapter_index": 5,
+    "chapter_file": "Chapter 0005 第5章 墨山.md",
+    "translated_file": "Chương 0005 Mặc San.md",
+    "chapter": "Chương 0005 Mặc San.md",
+    "summary": {
+      "main_events": "Mặc San trở về sau chuyến săn yêu thú đầy nguy hiểm, bị thương và tổn thất đồng đội. Vợ chồng Mặc San lo lắng về chi phí tu hành của con trai Mặc Họa, trong khi Mặc Họa vô tình nghe được nỗi vất vả của cha mẹ và nảy sinh ý định kiếm linh thạch.",
+      "new_characters": [
+        "Mặc San",
+        "Liễu Như Họa",
+        "Mặc Họa",
+        "Lão Sở"
+      ]
+    }
+  },
+  {
+    "chapter_index": 6,
+    "chapter_file": "Chapter 0006 第6章 灵石.md",
+    "translated_file": "Chương 0006 Linh thạch.md",
+    "chapter": "Chương 0006 Linh thạch.md",
+    "summary": {
+      "main_events": "Mặc Họa cùng nhóm bạn Đại Hổ, Song Hổ, Tiểu Hổ đi dạo phố phường Thông Tiên Thành, tìm hiểu về cách kiếm linh thạch và nghề trận sư. Sau đó, y một mình đến khu Bắc Đại Nhai để tìm kiếm cơ hội làm việc tại các thương hội.",
+      "new_characters": [
+        "Mạnh Đại Hổ",
+        "Mạnh Song Hổ",
+        "Mạnh Tiểu Hổ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 7,
+    "chapter_file": "Chapter 0007 第7章 有缘斋.md",
+    "translated_file": "Chương 0007 Hữu Duyên Trai.md",
+    "chapter": "Chương 0007 Hữu Duyên Trai.md",
+    "summary": {
+      "main_events": "Mặc Họa đến Hữu Duyên Trai tìm việc vẽ trận pháp để kiếm linh thạch. Sau khi thuyết phục quản sự béo bằng tài năng vẽ trận, cậu cần 10 linh thạch làm tiền thế chấp nhưng không đủ tiền, đúng lúc đó một tiểu mập mạp xuất hiện gây khó dễ.",
+      "new_characters": [
+        "Quản sự béo",
+        "Tiểu mập mạp"
+      ]
+    }
+  },
+  {
+    "chapter_index": 8,
+    "chapter_file": "Chapter 0008 第8章 安小富.md",
+    "translated_file": "Chương 0008 An Tiểu Phú.md",
+    "chapter": "Chương 0008 An Tiểu Phú.md",
+    "summary": {
+      "main_events": "Offline fallback mode",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 9,
+    "chapter_file": "Chapter 0009 第9章 明火阵.md",
+    "translated_file": "Chương 0009 – Minh Hỏa Trận.md",
+    "chapter": "Chương 0009 – Minh Hỏa Trận.md",
+    "summary": {
+      "main_events": "Mực Họa luyện và hoàn thành Minh Hỏa Trận, trải qua đau đớn, sai lầm và cuối cùng thành công, quyết tâm luyện tập thêm.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 10,
+    "chapter_file": "Chapter 0010 第10章 画阵.md",
+    "translated_file": "Chương 0010 Họa trận.md",
+    "chapter": "Chương 0010 Họa trận.md",
+    "summary": {
+      "main_events": "Mặc Họa luyện tập vẽ Minh Hỏa Trận, sau nhiều lần thất bại và kiệt sức, cuối cùng đã thành công vẽ được trận pháp hoàn chỉnh. Cậu nhận được sự quan tâm từ cha mẹ và được thưởng một bữa thịt bổ dưỡng.",
+      "new_characters": [
+        "Mặc San",
+        "Liễu Như Họa",
+        "Phùng lão tiên sinh"
+      ]
+    }
+  },
+  {
+    "chapter_index": 11,
+    "chapter_file": "Chapter 0011 第11章 火稚鸡.md",
+    "translated_file": "Chương 0011 Hỏa Trĩ Kê.md",
+    "chapter": "Chương 0011 Hỏa Trĩ Kê.md",
+    "summary": {
+      "main_events": "Mặc Họa được cha mua cho thịt Hỏa Trĩ Kê đắt tiền bồi bổ. Cậu chia cho cha mẹ ăn cùng, rồi chăm chỉ luyện tập vẽ Minh Hỏa Trận trong nhiều ngày đến khi hoàn thành yêu cầu của thương hội, sau đó cùng nhóm bạn đi dạo phố.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 12,
+    "chapter_file": "Chapter 0012 第12章 报酬.md",
+    "translated_file": "Chương 0012 Thù lao.md",
+    "chapter": "Chương 0012 Thù lao.md",
+    "summary": {
+      "main_events": "Mực Họa đến Hữu Duyên Trai giao trận pháp, nhận được 6 viên linh thạch thù lao. Sau đó, cậu mời ba người bạn nhỏ đi ăn bánh ngọt và cùng nhau trò chuyện về tương lai.",
+      "new_characters": [
+        "Quản sự Hữu Duyên Trai",
+        "Liễu Như Họa",
+        "Mực San"
+      ]
+    }
+  },
+  {
+    "chapter_index": 13,
+    "chapter_file": "Chapter 0013 第13章 灯盏.md",
+    "translated_file": "Chương 0013 Cây đèn.md",
+    "chapter": "Chương 0013 Cây đèn.md",
+    "summary": {
+      "main_events": "Mặc Họa nỗ lực luyện tập vẽ Minh Hỏa Trận và kiếm được linh thạch. Cha cậu, Mặc San, tiếp đón Quý Thanh Bách đến bàn chuyện săn yêu ở nội sơn Đại Hắc Sơn. Mặc Họa thể hiện tài năng trận pháp khi sửa cây đèn hỏng cho cha.",
+      "new_characters": [
+        "Quý Thanh Bách",
+        "Quý Lễ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 14,
+    "chapter_file": "Chapter 0014 第14章 季青柏.md",
+    "translated_file": "Chương 0014 Quý Thanh Bách.md",
+    "chapter": "Chương 0014 Quý Thanh Bách.md",
+    "summary": {
+      "main_events": "Mặc San và Quý Thanh Bách thảo luận về khó khăn của tán tu và tầm quan trọng của việc học trận pháp. Mặc Họa tiếp tục vẽ trận pháp kiếm linh thạch, đón tết cùng gia đình và chuẩn bị nhập học Thông Tiên Môn.",
+      "new_characters": [
+        "Quý Thanh Bách",
+        "Quý Lễ",
+        "Trịnh Thúc"
+      ]
+    }
+  },
+  {
+    "chapter_index": 15,
+    "chapter_file": "Chapter 0015 第15章 束脩.md",
+    "translated_file": "Chương 0015 Tiền học phí.md",
+    "chapter": "Chương 0015 Tiền học phí.md",
+    "summary": {
+      "main_events": "Mặc Họa nộp học phí vào Thông Tiên Môn bằng số linh thạch cậu tự kiếm được từ việc vẽ trận pháp. Mặc San nghi ngờ nguồn gốc số tiền nên đã đến Hữu Duyên Trai điều tra, sau khi biết được sự thật thì yên tâm hơn.",
+      "new_characters": [
+        "Mặc San",
+        "Liễu Như Họa",
+        "Mặc Họa",
+        "Quản sự béo"
+      ]
+    }
+  },
+  {
+    "chapter_index": 16,
+    "chapter_file": "Chapter 0016 第16章 炼气三层.md",
+    "translated_file": "Chương 0016 Luyện Khí tầng ba.md",
+    "chapter": "Chương 0016 Luyện Khí tầng ba.md",
+    "summary": {
+      "main_events": "Mặc Họa bắt đầu năm học mới tại Thông Tiên Môn, đạt đến Luyện Khí tầng ba và bắt đầu được giáo tập hướng dẫn chọn lựa công pháp phù hợp với linh căn.",
+      "new_characters": [
+        "Nghiêm giáo tập",
+        "Chu Lão"
+      ]
+    }
+  },
+  {
+    "chapter_index": 17,
+    "chapter_file": "Chapter 0017 第17章 功法.md",
+    "translated_file": "Chương 0017 Công pháp.md",
+    "chapter": "Chương 0017 Công pháp.md",
+    "summary": {
+      "main_events": "Nghiêm giáo tập giảng giải cho các đệ tử về tầm quan trọng của việc chọn công pháp phù hợp với linh căn và phẩm cấp, đồng thời cảnh báo về những rủi ro khi chọn sai. Mặc Họa tìm hiểu về các công pháp thượng phẩm và nhận ra sự khắc nghiệt của con đường tu tiên đối với tán tu.",
+      "new_characters": [
+        "Nghiêm giáo tập"
+      ]
+    }
+  },
+  {
+    "chapter_index": 18,
+    "chapter_file": "Chapter 0018 第18章 选择.md",
+    "translated_file": "Chương 0018 Lựa chọn.md",
+    "chapter": "Chương 0018 Lựa chọn.md",
+    "summary": {
+      "main_events": "Mặc Họa tìm hiểu về phí truyền thừa công pháp đắt đỏ của tông môn, quyết định tạm thời không chọn công pháp mới mà tập trung vẽ trận pháp để kiếm linh thạch. Cậu bắt đầu nghiên cứu Cố Thổ Trận để nâng cao thu nhập.",
+      "new_characters": [
+        "An Tiểu Bàn"
+      ]
+    }
+  },
+  {
+    "chapter_index": 19,
+    "chapter_file": "Chapter 0019 第19章 固土阵.md",
+    "translated_file": "Chương 0019 Cố Thổ Trận.md",
+    "chapter": "Chương 0019 Cố Thổ Trận.md",
+    "summary": {
+      "main_events": "Mặc Họa nhận nhiệm vụ Cố Thổ Trận, gặp khó khăn khi lĩnh ngộ trận pháp nên đã thỉnh giáo Nghiêm giáo tập. Nghiêm giáo tập chỉ điểm về trận văn biến thể và nguyên lý trận pháp, đồng thời cảnh báo về việc không nên nóng vội.",
+      "new_characters": [
+        "Nghiêm giáo tập",
+        "Đại Hổ",
+        "Tiểu Hổ",
+        "Song Hổ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 20,
+    "chapter_file": "Chapter 0020 第20章 成阵.md",
+    "translated_file": "Chương 0020 Thành trận.md",
+    "chapter": "Chương 0020 Thành trận.md",
+    "summary": {
+      "main_events": "Mặc San nỗ lực luyện tập vẽ Cố Thổ Trận, dần cải thiện tốc độ và độ chính xác. Cậu cúp các tiết học không cần thiết để tập trung kiếm linh thạch, tích lũy được 100 viên và đặt mục tiêu 200 viên để mua công pháp.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 21,
+    "chapter_file": "Chapter 0021 第21章 灵枢阵.md",
+    "translated_file": "Chương 0021 Linh Xu trận.md",
+    "chapter": "Chương 0021 Linh Xu trận.md",
+    "summary": {
+      "main_events": "Mặc Họa đi giao trận pháp thì bắt gặp Nghiêm giáo tập ở cửa tiệm của Béo quản sự, may mà không bị trách phạt vì cúp học. Sau khi Mặc Họa rời đi, Nghiêm giáo tập mới nhờ Béo quản sự tìm kiếm manh mối về Linh Xu Trận Đồ - bảo vật thất truyền của sư phụ mình nhằm hoàn thành tâm nguyện bảo vệ truyền thừa trận pháp.",
+      "new_characters": [
+        "Nghiêm giáo tập",
+        "Béo quản sự"
+      ]
+    }
+  },
+  {
+    "chapter_index": 22,
+    "chapter_file": "Chapter 0022 第22章 端倪.md",
+    "translated_file": "Chương 0022 Manh mối.md",
+    "chapter": "Chương 0022 Manh mối.md",
+    "summary": {
+      "main_events": "Nghiêm giáo tập chấm bài tập trận pháp và phát hiện ra bút pháp xuất sắc của Mặc Họa. Ông kiểm tra gia thế, ra bài tập phụ để thử nghiệm, cuối cùng mang bài tập đến Hữu Duyên Trai đối chiếu với quản sự béo và xác nhận Mặc Họa chính là người vẽ trận pháp đem bán.",
+      "new_characters": [
+        "Nghiêm giáo tập",
+        "An Tiểu Bàn",
+        "quản sự béo"
+      ]
+    }
+  },
+  {
+    "chapter_index": 23,
+    "chapter_file": "Chapter 0023 第23章 天赋.md",
+    "translated_file": "Chương 0023 Thiên phú.md",
+    "chapter": "Chương 0023 Thiên phú.md",
+    "summary": {
+      "main_events": "Nghiêm giáo tập kinh ngạc trước thiên phú vẽ trận pháp của Mặc Họa ở Luyện Khí tầng 3 nhưng từ chối nhận làm đồ đệ vì không muốn làm lỡ dở tương lai của cậu bé. Béo quản sự kể về sự khắc nghiệt của tán tu để thuyết phục, cuối cùng Nghiêm giáo tập đưa danh mục trận pháp theo thứ tự phù hợp cho Mặc Họa tự học và ngỡ ngàng khi nhận ra Mặc Họa có thể đã vẽ trận từ lúc Luyện Khí tầng 2.",
+      "new_characters": [
+        "严教习",
+        "胖管事",
+        "墨画"
+      ]
+    }
+  },
+  {
+    "chapter_index": 24,
+    "chapter_file": "Chapter 0024 第24章 求道.md",
+    "translated_file": "Chương 0024 Cầu đạo.md",
+    "chapter": "Chương 0024 Cầu đạo.md",
+    "summary": {
+      "main_events": "Mặc Họa đến Hữu Duyên Trai bán trận pháp, được Mạc quản sự hướng dẫn chuyển sang vẽ Kim Thạch Trận vì giá thị trường thay đổi. Ở tông môn, dù vẽ đúng nhưng Mặc Họa lại bị chấm điểm Ất, sau đó cậu được Nghiêm giáo tập gọi riêng đến Thông Minh Phong để truyền thụ thêm vì nhận ra cậu có chí hướng cầu đạo và là hạt giống tốt.",
+      "new_characters": [
+        "Mặc Họa",
+        "Mạc quản sự",
+        "Nghiêm giáo tập",
+        "Song Hổ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 25,
+    "chapter_file": "Chapter 0025 第25章 教导.md",
+    "translated_file": "Chương 0025 Dạy bảo.md",
+    "chapter": "Chương 0025 Dạy bảo.md",
+    "summary": {
+      "main_events": "Mặc Họa được Nghiêm giáo tập gọi đến và truyền thụ cặn kẽ về các kiến thức nền tảng của trận pháp, cũng như trao cho cậu bí kíp Trận Pháp Điển Luận Sơ Giải. Sự trùng hợp trong những trận pháp được chỉ dạy khiến Mặc Họa sinh nghi rằng giáo tập đã phát hiện ra cậu chính là người vẽ trận pháp cho Hữu Duyên Trai.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 26,
+    "chapter_file": "Chapter 0026 第26章 精进.md",
+    "translated_file": "Chương 0026 Tinh tiến.md",
+    "chapter": "Chương 0026 Tinh tiến.md",
+    "summary": {
+      "main_events": "Mặc Họa tiến bộ nhanh chóng khi học vẽ trận pháp nhờ sự tận tình của Nghiêm giáo tập và sự giúp đỡ âm thầm của Mạc quản sự. Khi đang ấp ủ dự định dùng linh thạch tiết kiệm để mua công pháp thì Mặc Họa hay tin mẹ bệnh nặng, phải tức tốc đến Hạnh Lâm Đường để gặp Phùng lão tiên sinh nhờ chữa trị.",
+      "new_characters": [
+        "Mặc Họa",
+        "Nghiêm giáo tập",
+        "Mạc quản sự",
+        "Thím Dương",
+        "Phùng lão tiên sinh"
+      ]
+    }
+  },
+  {
+    "chapter_index": 27,
+    "chapter_file": "Chapter 0027 第27章 伤情.md",
+    "translated_file": "Chương 0027 Thương Thế.md",
+    "chapter": "Chương 0027 Thương Thế.md",
+    "summary": {
+      "main_events": "Offline fallback mode",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 28,
+    "chapter_file": "Chapter 0028 第28章 主意.md",
+    "translated_file": "Chương 0028 Chủ ý.md",
+    "chapter": "Chương 0028 Chủ ý.md",
+    "summary": {
+      "main_events": "Liễu Như Họa lâm bệnh nên không thể dùng linh lực và từ bỏ giấc mơ làm Thiện Sư. Thương mẹ, Mặc Họa quyết định tìm cách dùng trận pháp vẽ lên bếp lò để hầm nhừ thức ăn, cậu bèn đến Phúc Lộc Thiện Lâu tìm An Tiểu Phú nhờ giúp đỡ.",
+      "new_characters": [
+        "An Tiểu Phú",
+        "Nghiêm giáo tập",
+        "Phùng lão tiên sinh"
+      ]
+    }
+  },
+  {
+    "chapter_index": 29,
+    "chapter_file": "Chapter 0029 第29章 灶炉.md",
+    "translated_file": "Chương 0029 Bếp lò.md",
+    "chapter": "Chương 0029 Bếp lò.md",
+    "summary": {
+      "main_events": "Mặc Họa đến thiện lâu tìm An Tiểu Bàn để tìm hiểu về cấu tạo và trận pháp của bếp lò. Sau khi quan sát, Mặc Họa hứa sẽ làm bài tập vẽ trận pháp thay cho An Tiểu Bàn, khiến chưởng quỹ nghi ngờ việc Mặc Họa có ý định học trộm trận pháp của bếp lò.",
+      "new_characters": [
+        "Mặc Họa",
+        "An Tiểu Bàn",
+        "Chưởng quỹ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 30,
+    "chapter_file": "Chapter 0030 第30章 熔火阵图.md",
+    "translated_file": "Chương 0030 Dung Hỏa trận đồ.md",
+    "chapter": "Chương 0030 Dung Hỏa trận đồ.md",
+    "summary": {
+      "main_events": "Mặc Họa tìm hiểu cách chế tạo bếp lò để luyện khí và hỏi mượn thành công trận đồ Dung Hỏa trận từ Mạc quản sự ở Hữu Duyên Trai. Sau khi tự ghi nhớ bản vẽ trận đồ ở nhà, hắn tìm đến Trần Ký Luyện Khí Hành của Trần sư phó để nhờ luyện chế bếp lò.",
+      "new_characters": [
+        "Mặc Họa",
+        "Mạc quản sự",
+        "Nghiêm giáo tập",
+        "Đại Hổ",
+        "Trần sư phó"
+      ]
+    }
+  },
+  {
+    "chapter_index": 31,
+    "chapter_file": "Chapter 0031 第31章 炼器师.md",
+    "translated_file": "Chương 0031 Luyện khí sư.md",
+    "chapter": "Chương 0031 Luyện khí sư.md",
+    "summary": {
+      "main_events": "Mặc Họa đến gặp Trần sư phó hỏi giá rèn một chiếc bếp lò nhỏ cho mẹ mình, sau khi tính toán cậu thấy chi phí khá lớn nhưng vẫn muốn làm trận pháp. Sau đó Mặc Họa rèn luyện vẽ Dung Hỏa trận đồ nhưng do thần thức còn quá yếu nên không thể hoàn thành đạo trận văn cuối cùng, đành chọn cách khổ luyện vẽ trận pháp để nâng cao sức mạnh thần thức.",
+      "new_characters": [
+        "陈师傅"
+      ]
+    }
+  },
+  {
+    "chapter_index": 33,
+    "chapter_file": "Chapter 0033 第33章 炼制.md",
+    "translated_file": "Chương 0033 Luyện chế.md",
+    "chapter": "Chương 0033 Luyện chế.md",
+    "summary": {
+      "main_events": "Mặc Họa đặt làm lò đun tại tiệm của bác tài Trần, đồng thời học hỏi kiến thức luyện khí. Khi lò luyện khí của bác tài Trần bị hỏng trận pháp, Mặc Họa đề nghị giúp kiểm tra và phát hiện đó chính là Dung Hỏa Trận mà cậu đang học.",
+      "new_characters": [
+        "Bác tài Trần"
+      ]
+    }
+  },
+  {
+    "chapter_index": 34,
+    "chapter_file": "Chapter 0034 第34章 修阵.md",
+    "translated_file": "Chương 0034 Tu Trận.md",
+    "chapter": "Chương 0034 Tu Trận.md",
+    "summary": {
+      "main_events": "Mực Họa đến tiệm luyện khí của bác tài Trần, phát hiện lò luyện khí bị hỏng trận pháp. Cậu tự tin đề nghị sửa chữa và thành công khôi phục hỏa lực cho lò, dù hiệu suất có chút giảm do chất lượng mực. Bác tài Trần cảm kích, miễn phí luyện lò cho Mực Họa và cả hai thống nhất về khoản Tân Khổ Phí.",
+      "new_characters": [
+        "Bác tài Trần",
+        "Các đệ tử luyện khí"
+      ]
+    }
+  },
+  {
+    "chapter_index": 35,
+    "chapter_file": "Chapter 0035 第35章 俱备.md",
+    "translated_file": "Chương 0035 Sẵn sàng.md",
+    "chapter": "Chương 0035 Sẵn sàng.md",
+    "summary": {
+      "main_events": "Mực Họa thành công vẽ được Dung Hỏa Trận năm đạo trận văn, sau đó đến tiệm luyện khí của bác tài Trần để lấy lò nấu đã rèn xong và tự mình vẽ trận pháp lên đó.",
+      "new_characters": [
+        "Đại Trụ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 36,
+    "chapter_file": "Chapter 0036 第36章 灶炉.md",
+    "translated_file": "Chương 0036 Lò bếp.md",
+    "chapter": "Chương 0036 Lò bếp.md",
+    "summary": {
+      "main_events": "Mặc Họa cùng bác tài Trần hoàn thiện lò bếp có trận pháp, sau đó gia đình quyết định mở quán ăn tại nhà. Mặc Họa đề xuất bán thịt trâu rừng hầm, một món ăn giá rẻ phù hợp với tán tu, và bắt đầu chuẩn bị cho việc kinh doanh.",
+      "new_characters": [
+        "Mặc Họa",
+        "Mặc San",
+        "Liễu Như Họa",
+        "Bác tài Trần",
+        "Đại Trụ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 37,
+    "chapter_file": "Chapter 0037 第37章 牛肉.md",
+    "translated_file": "Chương 0037 Thịt bò.md",
+    "chapter": "Chương 0037 Thịt bò.md",
+    "summary": {
+      "main_events": "Mặc San mang thịt bò rừng về, Liễu Như Họa chế biến thành món ăn ngon. Gia đình Mặc Họa chia sẻ thịt với hàng xóm, bạn bè và khai trương quán ăn mang tên Liễu Ký.",
+      "new_characters": [
+        "Lão Triệu",
+        "Mạnh đại thúc",
+        "Mạnh đại thím",
+        "Đại Hổ",
+        "Song Hổ",
+        "Tiểu Hổ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 38,
+    "chapter_file": "Chapter 0038 第38章 开业.md",
+    "translated_file": "Chương 0038 Khai trương.md",
+    "chapter": "Chương 0038 Khai trương.md",
+    "summary": {
+      "main_events": "Quán ăn của gia đình Mặc Họa kinh doanh thuận lợi, giúp cải thiện kinh tế. Sau khi thuê Khương Vân làm phụ tá, Mặc Họa nhập học trở lại Thông Tiên Môn và đối mặt với bài kiểm tra trận pháp đột xuất khó hơn dự kiến.",
+      "new_characters": [
+        "Khương Vân"
+      ]
+    }
+  },
+  {
+    "chapter_index": 39,
+    "chapter_file": "Chapter 0039 第39章 批改.md",
+    "translated_file": "Chương 0039 Phê chữa.md",
+    "chapter": "Chương 0039 Phê chữa.md",
+    "summary": {
+      "main_events": "Mặc Họa tham gia kỳ thi trận pháp và gây kinh ngạc khi vẽ được năm đạo rưỡi trận văn. Cùng lúc đó, Nghiêm giáo tập đối mặt với áp lực từ Tiền trưởng lão, người muốn lôi kéo ông về phía gia tộc và coi thường các đệ tử ngoại môn.",
+      "new_characters": [
+        "Tiền trưởng lão",
+        "Chu Lão giáo tập"
+      ]
+    }
+  },
+  {
+    "chapter_index": 40,
+    "chapter_file": "Chapter 0040 第40章 打算.md",
+    "translated_file": "Chương 0040 Dự Định.md",
+    "chapter": "Chương 0040 Dự Định.md",
+    "summary": {
+      "main_events": "Nghiêm giáo tập âm thầm nâng điểm tất cả đệ tử lên Giáp để che giấu việc chỉ mình Mặc Họa đạt chuẩn thật, rồi tuyên bố rời Thông Tiên Môn vì không thể dạy trận pháp nữa. Sau khi từ biệt Mạc quản sự và nhận manh mối về người đang tìm, ông đến cầu nhờ Lạc đại sư — vị nhất phẩm trận sư duy nhất trong thành — nhận Mặc Họa làm học trò, nhưng bị từ chối thẳng thừng vì Mặc Họa là tán tu, không đủ tiền bái sư, không có gia thế, và việc dạy tán tu sẽ gây nhiều rắc rối.",
+      "new_characters": [
+        "Lạc đại sư"
+      ]
+    }
+  },
+  {
+    "chapter_index": 41,
+    "chapter_file": "Chapter 0041 第41章 拜访.md",
+    "translated_file": "Chương 0041 Thăm hỏi.md",
+    "chapter": "Chương 0041 Thăm hỏi.md",
+    "summary": {
+      "main_events": "Nghiêm giáo tập sắp rời đi, quyết định đưa Mực Họa đến bái sư một vị trận sư ẩn cư trên núi để tiếp tục con đường tu luyện trận pháp. Mực Họa đã làm thủ tục thôi học tại Thông Tiên Môn do sự thay đổi chính sách của nhà họ Tiền.",
+      "new_characters": [
+        "Vị tiên sinh ẩn cư"
+      ]
+    }
+  },
+  {
+    "chapter_index": 42,
+    "chapter_file": "Chapter 0042 第42章 心路.md",
+    "translated_file": "Chương 0042 Tâm lộ.md",
+    "chapter": "Chương 0042 Tâm lộ.md",
+    "summary": {
+      "main_events": "Mặc Họa vượt qua thử thách Thủy Kính Trận và bài khảo hạch vẽ Định Thủy Trận, được Trang Tiên Sanh nhận làm ký danh đệ tử. Nghiêm giáo tập căn dặn Mặc Họa những đạo lý làm người trước khi từ biệt cậu để rời khỏi Thông Tiên Môn.",
+      "new_characters": [
+        "Mặc Họa",
+        "Nghiêm giáo tập",
+        "Trang Tiên Sanh"
+      ]
+    }
+  },
+  {
+    "chapter_index": 43,
+    "chapter_file": "Chapter 0043 第43章 求学.md",
+    "translated_file": "Chương 0043 Cầu học.md",
+    "chapter": "Chương 0043 Cầu học.md",
+    "summary": {
+      "main_events": "Mặc Họa đến Tọa Vong Cư bái Trang Tiên Sanh làm thầy. Sau khi được kiểm tra trình độ, cậu được Trang Tiên Sanh giao cho cuốn \"Trận Pháp Nguyên Luận\" để học tập căn cơ.",
+      "new_characters": [
+        "Trang Tiên Sanh",
+        "Khôi lão"
+      ]
+    }
+  },
+  {
+    "chapter_index": 44,
+    "chapter_file": "Chapter 0044 第44章 启发.md",
+    "translated_file": "Chương 0044 Dẫn dắt.md",
+    "chapter": "Chương 0044 Dẫn dắt.md",
+    "summary": {
+      "main_events": "Mặc Họa chăm chỉ thỉnh giáo Trang Tiên Sanh và được gia đình làm nhiều món ngon mang biếu ông cùng Khôi Lão. Nhận thấy nền tảng trận pháp của Mặc Họa không tốt do xuất phát điểm quá muộn, Trang Tiên Sanh quyết định thay đổi phương pháp truyền dạy cho phù hợp với cậu.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 45,
+    "chapter_file": "Chapter 0045 第45章 诧异.md",
+    "translated_file": "Chương 0045 Kinh ngạc.md",
+    "chapter": "Chương 0045 Kinh ngạc.md",
+    "summary": {
+      "main_events": "Trang Tiên Sanh thay đổi phương pháp dạy học, giúp Mặc Họa tiến bộ nhanh chóng trong việc vẽ trận pháp. Sau khi phát hiện thần thức của Mặc Họa tăng trưởng bất thường, Trang Tiên Sanh truyền thụ Minh Tưởng Thuật và dặn dò cậu giữ bí mật về nguyên nhân tăng trưởng thần thức.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 46,
+    "chapter_file": "Chapter 0046 第46章 冥想.md",
+    "translated_file": "Chương 0046 Suy tưởng.md",
+    "chapter": "Chương 0046 Suy tưởng.md",
+    "summary": {
+      "main_events": "Trang Tiên Sanh dạy Mặc Họa phương pháp suy tưởng để khôi phục thần thức và cảnh báo về sự nguy hiểm của phương pháp quán tưởng.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 47,
+    "chapter_file": "Chapter 0047 第47章 缘起.md",
+    "translated_file": "Chương 0047 Duyên khởi.md",
+    "chapter": "Chương 0047 Duyên khởi.md",
+    "summary": {
+      "main_events": "Mặc Họa tiến bộ trong việc minh tưởng và học trận pháp, đồng thời duy trì cuộc sống bình lặng tại Thông Tiên Thành. Cậu tạm biệt công việc tại Hữu Duyên Trai để tập trung học tập, trong khi quán ăn của gia đình ngày càng phát đạt.",
+      "new_characters": [
+        "Tu sĩ lạ mặt"
+      ]
+    }
+  },
+  {
+    "chapter_index": 48,
+    "chapter_file": "Chapter 0048 第48章 客人.md",
+    "translated_file": "Chương 0048 Khách trọ.md",
+    "chapter": "Chương 0048 Khách trọ.md",
+    "summary": {
+      "main_events": "Ba vị khách lạ (hai đứa trẻ và một nữ tử) đứng chờ trước cửa Tọa Vong Cư suốt bảy ngày để cầu học Trang Tiên Sanh nhưng không được tiếp. Mặc Họa, đệ tử của Trang Tiên Sanh, sau khi quan sát tình hình đã được tiên sinh cho phép đi đuổi họ về.",
+      "new_characters": [
+        "Hai đứa trẻ thế gia",
+        "Nữ tử mang mạng che mặt"
+      ]
+    }
+  },
+  {
+    "chapter_index": 49,
+    "chapter_file": "Chapter 0049 第49章 晚霞.md",
+    "translated_file": "Chương 0049 Ráng chiều.md",
+    "chapter": "Chương 0049 Ráng chiều.md",
+    "summary": {
+      "main_events": "Mặc Họa khuyên một nhóm người đang chờ đợi Trang Tiên Sanh hãy từ bỏ. Cậu đưa cho họ đồ ăn, khuyên răn, và nhận được một món quà nhỏ cũng như để lại ấn tượng về tên mình cho bé gái trước khi rời đi.",
+      "new_characters": [
+        "Mặc Họa",
+        "Tuyết Di"
+      ]
+    }
+  },
+  {
+    "chapter_index": 50,
+    "chapter_file": "Chapter 0050 第50章 兄妹.md",
+    "translated_file": "Chương 0050 Huynh muội.md",
+    "chapter": "Chương 0050 Huynh muội.md",
+    "summary": {
+      "main_events": "Huynh muội nhà họ Bạch mỗi ngày đều đến bái phỏng Trang Tiên Sanh để xin học trận pháp nhưng chưa được gặp. Trong lúc đó, Mặc Họa được Trang Tiên Sanh giao bài tập vẽ 'Tam Tài Trận', cậu hoàn thành xuất sắc trong thời gian ngắn khiến Trang Tiên Sanh và Khôi lão nghi ngờ cậu có cơ duyên riêng.",
+      "new_characters": [
+        "Bạch Tử Thắng",
+        "Bạch Tử Hi"
+      ]
+    }
+  },
+  {
+    "chapter_index": 51,
+    "chapter_file": "Chapter 0051 第51章 藏木.md",
+    "translated_file": "Chương 0051 Tàng Mộc.md",
+    "chapter": "Chương 0051 Tàng Mộc.md",
+    "summary": {
+      "main_events": "Mặc Họa chia sẻ với Trang tiên sinh khả năng vẽ trận pháp trong mơ giúp cậu học nhanh. Lo ngại đệ tử gặp họa sát thân vì tiến bộ quá mức, Trang tiên sinh quyết định dùng hai anh em nhà họ Bạch làm tấm mộc che giấu tài năng của Mặc Họa, đồng thời mở cửa Tọa Vong Cư nghênh đón họ.",
+      "new_characters": [
+        "Mặc Họa",
+        "Trang tiên sinh",
+        "Khôi lão",
+        "Bạch Tử Thắng",
+        "Bạch Tử Hi",
+        "Tuyết Di"
+      ]
+    }
+  },
+  {
+    "chapter_index": 52,
+    "chapter_file": "Chapter 0052 第52章 见客.md",
+    "translated_file": "Chương 0052 Gặp khách.md",
+    "chapter": "Chương 0052 Gặp khách.md",
+    "summary": {
+      "main_events": "Tuyết Di đưa Hòa Tử Thắng và Tử Hi đến bái sư Trang Tiên Sanh. Sau khi xem lệnh bài và thư, Trang Tiên Sanh đồng ý nhận hai người làm ký danh đệ tử, đồng thời dặn dò họ tự tu luyện và không làm phiền ông.",
+      "new_characters": [
+        "Trang Tiên Sanh",
+        "Tuyết Di",
+        "Hòa Tử Thắng",
+        "Tử Hi",
+        "Mực Họa"
+      ]
+    }
+  },
+  {
+    "chapter_index": 53,
+    "chapter_file": "Chapter 0053 第53章 弟子.md",
+    "translated_file": "Chương 0053 Đệ tử.md",
+    "chapter": "Chương 0053 Đệ tử.md",
+    "summary": {
+      "main_events": "Mặc Họa cùng huynh muội nhà họ Bạch trở thành ký danh đệ tử của Trang Tiên Sanh. Trong dịp Hoa Sen Tiết, Mặc Họa tình cờ phát hiện huynh muội nhà họ Bạch đã xây dựng một động phủ lớn ở khu vực tán tu.",
+      "new_characters": [
+        "Bạch Tử Thắng",
+        "Bạch Tử Hi",
+        "Tuyết Di"
+      ]
+    }
+  },
+  {
+    "chapter_index": 54,
+    "chapter_file": "Chapter 0054 第54章 莲华节.md",
+    "translated_file": "Chương 0054 Tiết Liên Hoa.md",
+    "chapter": "Chương 0054 Tiết Liên Hoa.md",
+    "summary": {
+      "main_events": "Mặc Họa cùng huynh muội họ Bạch và anh em nhà họ Hổ dạo chơi lễ hội tết Liên Hoa ở Thông Tiên Thành. Tại đây, Mặc Họa kể lại truyền thuyết về Liên Hoa Tán Nhân hy sinh thân mình bảo vệ thành khỏi thú triều, khiến Tuyết Di bán tín bán nghi về tu vi thực sự của nhân vật này, sau đó mọi người cùng thả đèn Liên Hoa lên bầu trời đêm.",
+      "new_characters": [
+        "Mặc Họa",
+        "Bạch Tử Thắng",
+        "Bạch Tử Hi",
+        "Tuyết Di",
+        "Phan Đầu To",
+        "Liên Hoa Tán Nhân",
+        "Đại Hổ",
+        "Tiểu Hổ",
+        "Song Hổ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 55,
+    "chapter_file": "Chapter 0055 第55章 逛街.md",
+    "translated_file": "Chương 0055 Dạo Phố.md",
+    "chapter": "Chương 0055 Dạo Phố.md",
+    "summary": {
+      "main_events": "Sau khi thả đèn hoa sen, Mặc Họa cùng Bạch Tử Thắng, Bạch Tử Hi dạo phố xem đấu yêu và các trò vui. Tuyết Di tặng Mặc Họa hộp bánh. Khi về, ba người bạn Đại Hổ, Song Hổ, Tiểu Hổ tỏ ra lo lắng vì Mặc Họa chơi với cô gái quá xinh (Bạch Tử Hi), cho rằng sẽ bị ngốc đi, và khuyên cậu vẽ nhiều trận pháp để giữ thông minh.",
+      "new_characters": [
+        "Bạch Tử Hi (白子曦)"
+      ]
+    }
+  }
+]

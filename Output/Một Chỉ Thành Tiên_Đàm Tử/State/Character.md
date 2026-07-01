@@ -1,0 +1,22 @@
+# Character Dictionary
+
+- **谷令则** -> Cốc Lệnh Tắc
+- **丁岐山** -> Đinh Kì San
+- **余老道** -> Lão đạo sĩ Dư
+- **方二娘** -> Phương Nhị Nương
+- **卢悦** -> Lô Duyệt
+- **刘大夫** -> Lưu Đại Phu
+- **谷令钊** -> Cốc Lệnh Chiêu Chiêu
+- **令则小姐** -> Lệnh Tắc cô
+- **李嬷嬷** -> Lý Ma Ma
+- **张艳** -> Trương Diễm
+- **花散真人** -> Hoa Tán Chân Nhân
+- **卢胜** -> Lô Thắng
+- **梅若娴** -> Mai Nhược Nhàn
+- **方二娘** -> Phương Nhị Nương
+- **卢悦** -> Lô Duyệt
+- **谷令钊** -> Cốc Lệnh Chiêu
+- **方二娘** -> Phương nhị nương
+- **五夫人** -> Ngũ phu nhân
+- **谷令则** -> Cốc Lệnh Tắc
+- **谷令则** -> Cốc Lệnh Tắc

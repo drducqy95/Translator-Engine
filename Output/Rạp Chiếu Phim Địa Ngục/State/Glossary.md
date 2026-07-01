@@ -1,0 +1,79 @@
+# Term Glossary
+
+- **恐怖巴士** (movie) -> Xe Buýt Kinh Hoàng
+- **地狱电影院** (organization) -> Địa Ngục Điện Ảnh
+- **地狱电影院** (organization) -> Địa ngục Điện ảnh Viện
+- **恐怖巴士** (movie) -> Xe buýt kinh hoàng
+- **赎死券** (item) -> Vé Chuộc Tử
+- **恐怖巴士** (movie) -> Xe Buýt Kinh Dị
+- **赎死券** (item) -> Vé Chuộc Tử
+- **地狱第十三度影院** (location) -> Rạp chiếu phim địa ngục số 13
+- **鬼祭** (movie) -> Quỷ Tế
+- **暗冢** (movie) -> Ám Trủng
+- **恐怖巴士** (movie) -> Xe Buýt Kinh Hoàng
+- **第四禁区** (movie) -> Khu Cấm Số 4
+- **赎死券** (item) -> Vé Chuộc Tử
+- **催魂符** (item) -> Bùa Giục Hồn
+- **巫毒娃娃** (item) -> búp bê Voodoo
+- **恐怖巴士** (movie) -> Xe Buýt Kinh Hoàng
+- **赎死券** (item) -> Vé Chuộc Tử
+- **催魂符** (item) -> bùa Triệu Hồn
+- **恐怖巴士** (movie) -> Xe buýt kinh hoàng
+- **鬼祭3** (movie) -> Quỷ Tế 3
+- **鬼祭2** (movie) -> Quỷ Tế 2
+- **第四禁区** (movie) -> Khu vực cấm số 4
+- **催魂符咒** (item) -> Phù chú triệu hồn
+- **赎死券** (currency) -> Phiếu chuộc chết
+- **鬼祭3** (movie) -> Quỷ Tế 3
+- **幽禁之室** (movie) -> Căn phòng giam cầm
+- **凶形** (movie) -> Hình dáng hung ác
+- **1404号房间** (movie) -> Phòng 1404
+- **1404号房间** (movie) -> Căn phòng 1404
+- **鬼祭3** (movie) -> Quỷ Tế 3
+- **幽禁之室** (movie) -> Căn phòng giam cầm
+- **冥血** (movie) -> Minh Huyết
+- **幽禁之室** (movie) -> U Cấm Chi Thất
+- **鬼祭3** (movie) -> Quỷ Tế 3
+- **暗冢** (movie) -> Ám Trủng
+- **催魂符** (item) -> Bùa Thôi Hồn
+- **寿衣** (item) -> liệm y
+- **赎死券** (item) -> Phiếu chuộc chết
+- **第十三度影院** (location) -> rạp số 13
+- **《鬼祭3》** (glossary) -> Quỷ Tế 3
+- **《幽禁之室》** (glossary) -> Căn phòng giam cầm
+- **赎死券** (glossary) -> thẻ chuộc mạng
+- **催魂符** (glossary) -> Bùa Thôi Hồn
+- **诅咒之物** (glossary) -> vật nguyền rủa
+- **地狱电影院** (glossary) -> Rạp chiếu phim địa ngục
+- **恐怖巴士** (glossary) -> Xe Buýt Kinh Dị
+- **赎死券** (glossary) -> phiếu chuộc mạng
+- **诅咒之物** (glossary) -> vật phẩm nguyền rủa
+- **催魂符咒** (glossary) -> bùa Thôi hồn
+- **鬼吹灯** (term) -> Ma thổi đèn
+- **盗墓笔记** (term) -> Đạo mộ bút ký
+- **幽禁之室** (term) -> Phòng giam cầm
+- **恐怖巴士** (terminology) -> Xe Buýt Kinh Hoàng
+- **欧阳家** (organization) -> Gia tộc Âu Dương
+- **血瓷** (object) -> huyết sứ
+- **赎死券** (terminology) -> phiếu chuộc mạng
+- **幽禁之室** (object) -> Phòng Giam Cầm
+- **恐怖巴士** (object) -> Xe buýt kinh hoàng
+- **赎死券** (terminology) -> vé chuộc mạng
+- **催魂符咒** (terminology) -> bùa Thôi Hồn
+- **第十三度电影院** (organization) -> rạp chiếu phim số mười ba
+- **冥血** (artwork) -> Minh Huyết
+- **鬼祭2** (artwork) -> Quỷ Tế 2
+- **幽禁之室** (movie) -> Phòng Giam Cầm
+- **欧阳** (family) -> Âu Dương
+- **鬼祭** (movie) -> Quỷ Tế
+- **恐怖巴士** (movie) -> Xe Buýt Kinh Dị
+- **鬼祭3** (movie) -> Quỷ Tế 3
+- **欧阳家血瓷制作方法** (object) -> Phương pháp chế tạo Huyết Sứ của Âu Dương gia
+- **血瓷瓷瓶** (item) -> bình sứ máu
+- **赎死券** (currency) -> phiếu chuộc mạng
+- **不死怨铃** (movie) -> Chuông Oán Bất Tử
+- **鬼祭3** (movie) -> Quỷ Tế 3
+- **幽禁之室** (movie) -> Phòng giam cầm
+- **第四禁区** (movie) -> Khu vực cấm thứ 4
+- **归来** (movie) -> Trở Về
+- **幽灵饭店** (movie) -> U Linh Phạn Điếm

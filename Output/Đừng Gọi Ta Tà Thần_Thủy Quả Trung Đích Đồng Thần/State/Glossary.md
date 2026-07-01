@@ -1,0 +1,223 @@
+# Term Glossary
+
+- **神之眼** (ability) -> Thần Nhãn
+- **哈达** (deity) -> Hada
+- **哈达之饥渴** (spell) -> Cơn đói của Hada
+- **哈达之饥渴** (spell) -> Cơn đói của Hadar
+- **哈达之饥渴** (spell) -> Cơn đói của Hada
+- **卡罗恩学院** (organization) -> Học viện Caron
+- **格林港** (location) -> cảng Green
+- **普兰蒂斯大陆** (location) -> đại lục Plantis
+- **求知之神** (god) -> Thần Tri Thức
+- **哈达之饥渴** (spell) -> Cơn đói của Hadar
+- **辉光神教** (organization) -> Quang Huy Thần Giáo
+- **真名知晓** (spell) -> Biết được chân danh
+- **雷亚克王国** (location) -> vương quốc Reak
+- **卡罗恩学院** (location) -> Học viện Caron
+- **普兰蒂斯大陆** (location) -> lục địa Plantis
+- **锻锤镇** (location) -> thị trấn Rèn Búa
+- **迷雾海** (location) -> biển Sương Mù
+- **幽暗森林** (location) -> rừng U Ám
+- **格林港** (location) -> cảng Green
+- **普兰蒂斯** (location) -> Plandis
+- **雷亚克** (location) -> Reyak
+- **卡罗恩学院** (organization) -> học viện Caron
+- **莫尼兄弟酒馆** (location) -> Tửu quán anh em Moni
+- **格林港** (location) -> cảng Green
+- **奥术飞弹** (spell) -> Phi đạn áo thuật
+- **格林港** (location) -> cảng Green
+- **下城区** (location) -> khu Hạ Thành
+- **上城区** (location) -> khu Thượng Thành
+- **莫尼兄弟酒馆** (location) -> Moni Gia
+- **庄园** (glossary) -> trang viên
+- **王八蛋** (glossary) -> khốn kiếp
+- **晋升** (glossary) -> tấn thăng
+- **格林** (location) -> Green
+- **兰蒂斯** (location) -> Plandis
+- **哈达之饥渴** (spell) -> Cơn Đói Của Hada
+- **求知之神** (deity) -> Cầu Tri Chi Thần
+- **诺文** (deity) -> Norwin
+- **公正之神菲尔** (deity) -> Công Chính Chi Thần Phil
+- **雷亚克王国** (location) -> vương quốc Reyak
+- **求知之神** (deity) -> Ma Pháp Nữ Thần
+- **公正之神** (deity) -> Công chính chi thần
+- **格林港** (location) -> cảng Green
+- **血牙帮** (organization) -> bang Huyết Nha
+- **格林** (location) -> Green
+- **兰蒂斯** (location) -> Plandis
+- **雷亚克** (location) -> Reyack
+- **斯塔罗什** (location) -> Starosh
+- **潜行者** (term) -> Tiềm hành giả
+- **潜行者** (term) -> Tiềm Hành Giả
+- **卡罗恩学院** (organization) -> Học viện Carone
+- **格林港** (location) -> cảng Green
+- **血牙帮** (organization) -> bang Huyết Nha
+- **求知之神** (entity) -> Thần Cầu Tri
+- **下城区** (location) -> khu Hạ Thành
+- **净息术** (magic) -> Tịnh Tức Thuật
+- **格林** (location) -> Green
+- **格林港** (location) -> cảng Green
+- **血牙帮** (organization) -> Huyết Nha bang
+- **净息术** (magic) -> Tịnh Tức Thuật
+- **卡罗恩学院** (organization) -> Học viện Caron
+- **奥法学派** (organization) -> học phái Áo pháp
+- **血牙帮** (organization) -> bang Huyết Nha
+- **莫尼兄弟酒馆** (location) -> quán rượu anh em Moni
+- **格林港** (location) -> cảng Green
+- **真名知晓** (skill) -> Biết Được Tên Thật
+- **潜行** (skill) -> Tiềm Hành
+- **钟声** (glossary) -> tiếng chuông
+- **公正** (glossary) -> công chính
+- **雷亚克王国** (location) -> vương quốc Reyak
+- **格林港** (location) -> cảng Green
+- **战士公会** (organization) -> Công hội Chiến binh
+- **莫尼兄弟酒馆** (location) -> quán rượu Anh em nhà Moni
+- **外神** (glossary) -> Ngoại thần
+- **职业者** (glossary) -> chức nghiệp giả
+- **雷亚克** (other) -> Reyack
+- **普兰蒂斯** (location) -> Plantis
+- **求知教派** (faction) -> Giáo phái Cầu Tri
+- **下城区** (location) -> khu Hạ Thành
+- **奥术** (other) -> áo thuật
+- **职业者** (glossary) -> Chức nghiệp giả
+- **评级职业者** (glossary) -> Chức nghiệp giả xếp hạng
+- **知识点数** (glossary) -> điểm tri thức
+- **怒气** (glossary) -> nộ khí
+- **格林** (location) -> Grimm
+- **求知之神** (deity) -> Thần Cầu Tri
+- **普鲁斯特** (deity) -> Proust
+- **财富之神** (deity) -> Thần Tài Phú
+- **英勇打击** (skill) -> Anh Dũng Đả Kích
+- **知识点数** (item) -> Điểm Tri Thức
+- **猪头酒吧** (location) -> quán bar Đầu Heo
+- **普兰蒂斯** (location) -> Plandis
+- **格林** (location) -> Green
+- **格林港** (location) -> Green Cảng
+- **普兰蒂斯大陆** (location) -> đại lục Plandis
+- **血牙帮** (organization) -> Huyết Nha Bang
+- **神之眼** (ability) -> Thần Chi Nhãn
+- **血色轮盘** (location) -> Vòng Quay Máu
+- **奥术弹幕** (spell) -> Phi đạn áo thuật
+- **吾主的真理普照大地** (quest) -> Chân lý của chủ ta phổ chiếu đại địa
+- **冥想** (skill) -> Thiền định
+- **化雨术** (spell) -> Hóa Vũ Thuật
+- **神之眼** (ability) -> Thần Chi Nhãn
+- **哈达** (deity) -> Ha-đa
+- **哈达之饥渴** (spell) -> Cơn đói của Hada
+- **哈达之饥渴** (spell) -> Cơn đói của Hadar
+- **哈达之饥渴** (spell) -> Cơn đói của Hada
+- **卡罗恩学院** (organization) -> Học viện Caron
+- **格林港** (location) -> cảng Green
+- **普兰蒂斯大陆** (location) -> đại lục Plantis
+- **求知之神** (god) -> Thần Tri Thức
+- **哈达之饥渴** (spell) -> Cơn đói của Hadar
+- **辉光神教** (organization) -> Quang Huy Thần Giáo
+- **真名知晓** (spell) -> Biết được chân danh
+- **雷亚克王国** (location) -> vương quốc Reak
+- **卡罗恩学院** (location) -> Học viện Caron
+- **普兰蒂斯大陆** (location) -> lục địa Plantis
+- **锻锤镇** (location) -> thị trấn Rèn Búa
+- **迷雾海** (location) -> biển Sương Mù
+- **幽暗森林** (location) -> rừng U Ám
+- **格林港** (location) -> cảng Green
+- **普兰蒂斯** (location) -> Plandis
+- **雷亚克** (location) -> Reyak
+- **卡罗恩学院** (organization) -> học viện Caron
+- **莫尼兄弟酒馆** (location) -> Tửu quán anh em Moni
+- **格林港** (location) -> cảng Green
+- **奥术飞弹** (spell) -> Phi đạn áo thuật
+- **格林港** (location) -> cảng Green
+- **下城区** (location) -> khu Hạ Thành
+- **上城区** (location) -> khu Thượng Thành
+- **莫尼兄弟酒馆** (location) -> Moni Gia
+- **庄园** (glossary) -> trang viên
+- **王八蛋** (glossary) -> khốn kiếp
+- **晋升** (glossary) -> tấn thăng
+- **格林** (location) -> Green
+- **兰蒂斯** (location) -> Plandis
+- **哈达之饥渴** (spell) -> Cơn Đói Của Hada
+- **求知之神** (deity) -> Cầu Tri Chi Thần
+- **诺文** (deity) -> Norwin
+- **公正之神菲尔** (deity) -> Công Chính Chi Thần Phil
+- **雷亚克王国** (location) -> vương quốc Reyak
+- **求知之神** (deity) -> Ma Pháp Nữ Thần
+- **公正之神** (deity) -> Công chính chi thần
+- **格林港** (location) -> cảng Green
+- **血牙帮** (organization) -> bang Huyết Nha
+- **格林** (location) -> Green
+- **兰蒂斯** (location) -> Plandis
+- **雷亚克** (location) -> Reyack
+- **斯塔罗什** (location) -> Starosh
+- **潜行者** (term) -> Tiềm hành giả
+- **潜行者** (term) -> Tiềm Hành Giả
+- **卡罗恩学院** (organization) -> Học viện Carone
+- **格林** (location) -> Green
+- **格林港** (location) -> cảng Green
+- **血牙帮** (organization) -> Huyết Nha bang
+- **净息术** (magic) -> Tịnh Tức Thuật
+- **卡罗恩学院** (organization) -> Học viện Caron
+- **奥法学派** (organization) -> học phái Áo pháp
+- **血牙帮** (organization) -> bang Huyết Nha
+- **莫尼兄弟酒馆** (location) -> quán rượu anh em Moni
+- **格林港** (location) -> cảng Green
+- **真名知晓** (skill) -> Biết Được Tên Thật
+- **潜行** (skill) -> Tiềm Hành
+- **雷亚克王国** (location) -> vương quốc Reyak
+- **格林港** (location) -> cảng Green
+- **战士公会** (organization) -> Công hội Chiến binh
+- **莫尼兄弟酒馆** (location) -> quán rượu Anh em nhà Moni
+- **外神** (glossary) -> Ngoại thần
+- **职业者** (glossary) -> chức nghiệp giả
+- **雷亚克** (other) -> Reyack
+- **普兰蒂斯** (location) -> Plantis
+- **求知教派** (faction) -> Giáo phái Cầu Tri
+- **下城区** (location) -> khu Hạ Thành
+- **奥术** (other) -> áo thuật
+- **职业者** (glossary) -> Chức nghiệp giả
+- **评级职业者** (glossary) -> Chức nghiệp giả xếp hạng
+- **知识点数** (glossary) -> điểm tri thức
+- **怒气** (glossary) -> nộ khí
+- **格林** (location) -> Grimm
+- **求知之神** (deity) -> Thần Cầu Tri
+- **普鲁斯特** (deity) -> Proust
+- **财富之神** (deity) -> Thần Tài Phú
+- **英勇打击** (skill) -> Anh Dũng Đả Kích
+- **知识点数** (item) -> Điểm Tri Thức
+- **猪头酒吧** (location) -> quán bar Đầu Heo
+- **普兰蒂斯** (location) -> Plandis
+- **格林** (location) -> Green
+- **格林港** (location) -> Green Cảng
+- **普兰蒂斯大陆** (location) -> đại lục Plandis
+- **血牙帮** (organization) -> Huyết Nha Bang
+- **神之眼** (ability) -> Thần Chi Nhãn
+- **血色轮盘** (location) -> Vòng Quay Máu
+- **奥术弹幕** (spell) -> Phi đạn áo thuật
+- **吾主的真理普照大地** (quest) -> Chân lý của chủ ta phổ chiếu đại địa
+- **冥想** (skill) -> Thiền định
+- **化雨术** (spell) -> Hóa Vũ Thuật
+- **马甲** (glossary) -> áo lót
+- **节能施法** (skill) -> Thi pháp tiết kiệm
+- **双手剑掌握** (skill) -> Nắm giữ kiếm hai tay
+- **怒气勃发** (skill) -> Nộ khí bừng bừng
+- **盾牌掌握** (skill) -> Nắm giữ khiên
+- **盾牌格挡** (skill) -> Đỡ đòn bằng khiên
+- **修行模拟器** (item) -> Tu hành máy giả lập
+- **横扫剑术** (skill) -> Quét ngang kiếm thuật
+- **破甲打击** (skill) -> Phá giáp đả kích
+- **双手剑掌握-基础** (skill) -> Nắm giữ kiếm hai tay - cơ sở
+- **修行模拟器** (object) -> Trình mô phỏng tu hành
+- **传奇等级** (concept) -> Cấp độ truyền kỳ
+- **牧师** (class) -> Mục sư
+- **修行模拟器** (item) -> bộ mô phỏng tu luyện
+- **战技** (skill) -> kỹ năng chiến đấu
+- **神术** (skill) -> thần thuật
+- **六维属性** (attribute) -> 6 thuộc tính
+- **神谕** (communication) -> thần dụ
+- **体质** (attribute) -> thể chất
+- **力量** (attribute) -> sức mạnh
+- **敏捷** (attribute) -> nhanh nhẹn
+- **智力** (attribute) -> trí lực
+- **精神** (attribute) -> tinh thần
+- **意志** (attribute) -> ý chí
+- **魔网** (magic_system) -> lưới ma thuật
+- **魔法隐修会** (organization) -> tu viện phép thuật

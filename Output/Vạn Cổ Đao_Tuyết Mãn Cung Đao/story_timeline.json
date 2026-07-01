@@ -1,0 +1,98 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 山中客.md",
+    "translated_file": "Chương 0001 Sơn Trung Khách.md",
+    "chapter": "Chương 0001 Sơn Trung Khách.md",
+    "summary": {
+      "main_events": "Trần Đường xuyên việt đến dị giới, nhập vào thân xác một thiếu niên bị chém trọng thương. Nhờ được Sơn Trung Khách cứu chữa và cho uống sữa bạch hổ, Trần Đường bình phục, nay chuẩn bị hạ sơn dấn thân vào giang hồ hiểm ác.",
+      "new_characters": [
+        "Trần Đường",
+        "Trần Đại An",
+        "Sơn Trung Khách"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 红衣映雪，伏虎少侠.md",
+    "translated_file": "Chương 0002 Áo đỏ rực rỡ, thiếu hiệp Phục Hổ.md",
+    "chapter": "Chương 0002 Áo đỏ rực rỡ, thiếu hiệp Phục Hổ.md",
+    "summary": {
+      "main_events": "Offline fallback mode",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 刀.md",
+    "translated_file": "Chương 0003 Dao.md",
+    "chapter": "Chương 0003 Dao.md",
+    "summary": {
+      "main_events": "Trần Đường xuyên không, phát hiện cha mình là Trần Đại An đã chết oan trong ngục. Anh ta nhận lấy thanh đao cha rèn và quyết tâm báo thù, điều tra sự thật.",
+      "new_characters": [
+        "Trần Đường",
+        "Trần Đại An",
+        "Lão Tôn đầu",
+        "Sài Gia",
+        "Thôi Dũng",
+        "Bạch dịch"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 月黑风高.md",
+    "translated_file": "Chương 0004 Nguyệt hắc phong cao.md",
+    "chapter": "Chương 0004 Nguyệt hắc phong cao.md",
+    "summary": {
+      "main_events": "Trần Đường phục kích và giết chết hai tên bạch dịch đã từng làm khó gia đình mình, đồng thời tra hỏi được thông tin về việc cha mình bị Thôi Dũng và Thôi bộ đầu hãm hại tống giam.",
+      "new_characters": [
+        "Thôi Dũng",
+        "Thôi bộ đầu",
+        "Trần Đại An",
+        "Ngưu Nhị",
+        "Tôn huyện lệnh"
+      ]
+    }
+  },
+  {
+    "chapter_index": 5,
+    "chapter_file": "Chapter 0005 杀人夜（上）.md",
+    "translated_file": "Chương 0005 Đêm giết người (Thượng).md",
+    "chapter": "Chương 0005 Đêm giết người (Thượng).md",
+    "summary": {
+      "main_events": "Offline fallback mode",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 6,
+    "chapter_file": "Chapter 0006 杀人夜（下）.md",
+    "translated_file": "Chương 0006 Đêm sát nhân (hạ).md",
+    "chapter": "Chương 0006 Đêm sát nhân (hạ).md",
+    "summary": {
+      "main_events": "Trần Đường giết Thôi Dũng, cướp tiền rồi chuẩn bị rời đi. Hắn chạm trán Sài Gia và đám người Ác Lang Bang. Sau đó, Sài Gia xông vào sân nhà Thôi Dũng và bị Trần Đường giết chết. Trần Đường suy ngẫm về trạng thái \"nhập thần tọa chiếu\" và kỹ năng \"hổ khẩu đoạt thực\" của mình.",
+      "new_characters": [
+        "Thôi Dũng",
+        "Sài Gia",
+        "Trần Đường",
+        "Mai Ánh Tuyết"
+      ]
+    }
+  },
+  {
+    "chapter_index": 7,
+    "chapter_file": "Chapter 0007 同居.md",
+    "translated_file": "Chương 0007 Ở chung.md",
+    "chapter": "Chương 0007 Ở chung.md",
+    "summary": {
+      "main_events": "Trần Đường vô tình đụng độ một lão già mập và một cô gái trẻ sau khi họ vừa giết sạch đám người Ác Lang Bang. Lão già mập phát hiện Trần Đường có nê hoàn cung bị ngoại lực phá mở nên quyết định ở lại quan sát hắn.",
+      "new_characters": [
+        "Sài Gia",
+        "Thanh Mộc",
+        "Sư Lão"
+      ]
+    }
+  }
+]

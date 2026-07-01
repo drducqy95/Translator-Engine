@@ -1,0 +1,81 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 讨债.md",
+    "translated_file": "Chương 0001 Đòi nợ.md",
+    "chapter": "Chương 0001 Đòi nợ.md",
+    "summary": {
+      "main_events": "Quý An xuyên không vào cơ thể một thiếu niên cùng tên ở một thế giới tu tiên. Vừa xuyên đến, hắn đã bị ba người đồng môn (Trương Viễn Sơn, Sở Hà, Triệu Mộng Dao) đến đòi nợ chín khối linh thạch mà nguyên chủ đã mượn để mua Khai Mạch Đan. Quý An đành phải dùng lời lẽ bịa chuyện hoãn binh đến sau kỳ khảo hạch tông môn, trong khi ba người kia thật ra đang nhắm đến bí pháp ngự thú của cha hắn.",
+      "new_characters": [
+        "Quý An",
+        "Sở Hà",
+        "Trương Viễn Sơn",
+        "Triệu Mộng Dao"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 石龟.md",
+    "translated_file": "Chương 0002 Rùa đá.md",
+    "chapter": "Chương 0002 Rùa đá.md",
+    "summary": {
+      "main_events": "Quý An xuyên không vào thế giới tu tiên, ban đầu hoảng loạn nhưng nhanh chóng lấy lại bình tĩnh để tìm cách sinh tồn. Nhờ linh hồn dung hợp, hắn ngộ ra cách vận hành pháp môn, thành công khai mở tổ khiếu và Tiên Mạch, đồng thời kích hoạt bàn tay vàng là một con rùa đá có vân bát quái.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 金灵宗考核.md",
+    "translated_file": "Chương 0003 Khảo hạch Kim Linh Tông.md",
+    "chapter": "Chương 0003 Khảo hạch Kim Linh Tông.md",
+    "summary": {
+      "main_events": "Quý An thông qua khảo hạch của Kim Linh Tông nhờ sự trợ giúp của thạch quy (bàn tay vàng). Hắn cùng các chủ nợ lên tàu cao tốc tiến về tông môn, đồng thời bắt đầu đối mặt với áp lực tu luyện và nợ nần.",
+      "new_characters": [
+        "Trương Viễn Sơn",
+        "Triệu Mộng Dao",
+        "Sở Hà"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 小云雨术.md",
+    "translated_file": "Chương 0004 Tiểu Vân Vũ Thuật.md",
+    "chapter": "Chương 0004 Tiểu Vân Vũ Thuật.md",
+    "summary": {
+      "main_events": "Quý An và các đệ tử mới đến Kim Linh Tông, được phân đến Bích Thủy Hồ làm linh nông. Quý An nhận được công pháp và pháp thuật cơ bản, sau đó cùng Lưu Ngọc lên đường đến nơi ở mới.",
+      "new_characters": [
+        "Trương Viễn Sơn",
+        "Sở Hà",
+        "Điền Thanh Bách",
+        "Lưu Ngọc",
+        "Ngụy Tông"
+      ]
+    }
+  },
+  {
+    "chapter_index": 5,
+    "chapter_file": "Chapter 0005 稳了.md",
+    "translated_file": "Chương 0005 Ổn rồi.md",
+    "chapter": "Chương 0005 Ổn rồi.md",
+    "summary": {
+      "main_events": "Quý An và Lưu Ngọc được Ngụy Tông đưa đến Linh Nông Các, bắt đầu cuộc sống làm Linh Nông. Quý An phát hiện thạch quy có khả năng nuốt chửng pháp lực nhưng cũng có thể giúp nâng cấp pháp thuật, hắn đã thành công học và nâng cấp Tiểu Vân Vũ Thuật.",
+      "new_characters": [
+        "Lão Hoàng"
+      ]
+    }
+  },
+  {
+    "chapter_index": 6,
+    "chapter_file": "Chapter 0006 灵田.md",
+    "translated_file": "Chương 0006 Linh điền.md",
+    "chapter": "Chương 0006 Linh điền.md",
+    "summary": {
+      "main_events": "Quý An bắt đầu ngày mới với việc kiểm tra thạch quy, sau đó được lão Hoàng hướng dẫn các kiến thức cơ bản về tu luyện và cách làm Linh Nông. Quý An nhận ra sự khác biệt giữa kỳ vọng về tu tiên và thực tế làm ruộng vất vả.",
+      "new_characters": [
+        "lão Hoàng"
+      ]
+    }
+  }
+]

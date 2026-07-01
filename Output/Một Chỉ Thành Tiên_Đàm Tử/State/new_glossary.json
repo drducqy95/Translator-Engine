@@ -1,0 +1,121 @@
+[
+  {
+    "raw": "鬼面幡",
+    "target": "Quỷ Diện Phiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "unique"
+  },
+  {
+    "raw": "元婴",
+    "target": "Nguyên Anh",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "洒水国",
+    "target": "Tát Thủy Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "魔门",
+    "target": "Ma môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "千变面具",
+    "target": "Thiên Biến Diện Cụ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "unique"
+  },
+  {
+    "raw": "筑基丹",
+    "target": "Trúc Cơ Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "unique"
+  },
+  {
+    "raw": "灵界",
+    "target": "Linh giới",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "realm"
+  },
+  {
+    "raw": "魔域",
+    "target": "Ma Vực",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "realm"
+  },
+  {
+    "raw": "国师府",
+    "target": "Quốc Sư phủ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "洒水国",
+    "target": "Sái Thủy Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "秦国",
+    "target": "Tần Quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "灵墟宗",
+    "target": "Linh Khư Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "汀水阁",
+    "target": "Đinh Thủy Các",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "building"
+  },
+  {
+    "raw": "洒水国",
+    "target": "Sái Thủy quốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geographical"
+  },
+  {
+    "raw": "灵墟宗",
+    "target": "Linh Khư tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "洒水国",
+    "target": "Sái Thủy quốc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "country"
+  },
+  {
+    "raw": "洒山",
+    "target": "Sái Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mountain"
+  }
+]

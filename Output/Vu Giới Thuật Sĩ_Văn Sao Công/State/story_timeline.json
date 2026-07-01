@@ -1,0 +1,99 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 穿越.md",
+    "translated_file": "Chương 0001 Xuyên không.md",
+    "chapter": "Chương 0001 Xuyên không.md",
+    "summary": {
+      "main_events": "Phương Minh tử vong do nổ hạt nhân và xuyên không vào thân xác của Leylin Farrell, một thiếu gia ăn chơi vừa bị đánh trọng thương trên đường đến Học viện Phù thủy. Sau khi tiếp nhận ký ức và làm quen với hoàn cảnh, hắn bước ra khỏi xe lấy thức ăn thì bất ngờ nhận được tín hiệu cảnh báo nguy hiểm trong đầu từ hệ thống.",
+      "new_characters": [
+        "Phương Minh",
+        "Leylin Farrell",
+        "George",
+        "Besta",
+        "John Farrell",
+        "Angre"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 芯片.md",
+    "translated_file": "Chương 0002 Chip.md",
+    "chapter": "Chương 0002 Chip.md",
+    "summary": {
+      "main_events": "Phương Minh tỉnh lại trong cơ thể Leylin Farlier với một con chip AI từ thế giới cũ và nhanh chóng nhận thức được sự yếu kém của bản thân so với những người xung quanh ở thế giới phép thuật này. Về đêm, thiếu nữ Besta - nguyên nhân cái chết của Leylin cũ - đến xin lỗi và tặng cậu thuốc trị thương.",
+      "new_characters": [
+        "Leylin Farlier",
+        "George",
+        "Besta"
+      ]
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 骑士.md",
+    "translated_file": "Chương 0003 Kỵ sĩ.md",
+    "chapter": "Chương 0003 Kỵ sĩ.md",
+    "summary": {
+      "main_events": "Lôi Lâm sử dụng chip để phân tích dược tề và ký ức của tiền thân, đồng thời bắt đầu lên kế hoạch huấn luyện kỵ sĩ để tự vệ trước khi vào học viện phù thuỷ.",
+      "new_characters": [
+        "bass",
+        "John·Pháp Lôi Nhĩ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 修炼.md",
+    "translated_file": "Chương 0004 Tu luyện.md",
+    "chapter": "Chương 0004 Tu luyện.md",
+    "summary": {
+      "main_events": "Lôi Lâm tối ưu hóa hô hấp pháp kỵ sĩ bằng Chip, sau đó tiến hành tu luyện lần đầu và đạt được kết quả khả quan. Sau đó, hắn đi tắm ở sông gần doanh trại và gặp Grey, người áo đen đang canh gác, đồng thời tận dụng Chip để phân tích các loại thực vật xung quanh.",
+      "new_characters": [
+        "Grey"
+      ]
+    }
+  },
+  {
+    "chapter_index": 5,
+    "chapter_file": "Chapter 0005 十字剑.md",
+    "translated_file": "Chương 0005 Thập tự kiếm.md",
+    "chapter": "Chương 0005 Thập tự kiếm.md",
+    "summary": {
+      "main_events": "Lôi Lâm luyện tập kiếm thuật cùng Kiều Trì vào ban đêm, sử dụng chip để phân tích và đánh bại Kiều Trì bằng cách nắm bắt thói quen chiến đấu của đối phương.",
+      "new_characters": [
+        "Kiều Trì",
+        "Cổ Tư",
+        "Pháp Lôi Nhĩ",
+        "Âu Lâm"
+      ]
+    }
+  },
+  {
+    "chapter_index": 6,
+    "chapter_file": "Chapter 0006 冲突（求收藏 推荐）.md",
+    "translated_file": "Chương 0006 Xung đột (Cầu cất giữ, đề cử).md",
+    "chapter": "Chương 0006 Xung đột (Cầu cất giữ, đề cử).md",
+    "summary": {
+      "main_events": "Lôi Lâm tiếp tục tu luyện hô hấp pháp kỵ sĩ và sử dụng chip để tối ưu hoá việc hồi phục cơ thể. Trong lúc đi tìm thực vật, hắn bị Âu Lâm chặn đường gây khó dễ vì chuyện liên quan đến Bass, Lôi Lâm đã dùng lời thề gia tộc để giải quyết tạm thời nhưng lại bị Âu Lâm đòi ma thạch.",
+      "new_characters": [
+        "Âu Lâm",
+        "Bass"
+      ]
+    }
+  },
+  {
+    "chapter_index": 7,
+    "chapter_file": "Chapter 0007 敲诈（求收藏 推荐）.md",
+    "translated_file": "Chương 0007 Tống tiền.md",
+    "chapter": "Chương 0007 Tống tiền.md",
+    "summary": {
+      "main_events": "Lôi Lâm đánh bại Âu Lâm và đám thiếu niên quý tộc, tống tiền họ bằng cách lấy đi một phần ma thạch và một thanh kiếm, đồng thời dùng Chip để phân tích tình hình.",
+      "new_characters": [
+        "Lôi Lâm",
+        "Âu Lâm"
+      ]
+    }
+  }
+]

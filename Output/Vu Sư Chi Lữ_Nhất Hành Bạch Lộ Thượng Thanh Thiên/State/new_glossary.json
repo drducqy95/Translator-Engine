@@ -1,0 +1,23 @@
+[
+  {
+    "raw": "毕瑟尔",
+    "target": "Tất Sắt Nhĩ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "莉莉丝小屋巫师学院",
+    "target": "Học viện phù thuỷ Lệ Lệ Ti",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "毕瑟尔城",
+    "target": "thành Tất Sắt Nhĩ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  }
+]

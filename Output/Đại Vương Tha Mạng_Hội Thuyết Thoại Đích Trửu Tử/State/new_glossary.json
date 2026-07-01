@@ -1,0 +1,23 @@
+[
+  {
+    "raw": "洛城",
+    "target": "Lạc Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "星辰果实",
+    "target": "Quả Tinh Thần",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "洗髓果实",
+    "target": "Quả Tẩy Tủy",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  }
+]

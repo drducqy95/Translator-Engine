@@ -1,0 +1,100 @@
+[
+  {
+    "raw": "卢米安",
+    "target": "Lumian",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莱恩.科斯",
+    "target": "Ryan Cos",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "瓦伦泰",
+    "target": "Valentine",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莉雅",
+    "target": "Leah",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "奥萝尔",
+    "target": "Aurore",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "皮埃尔",
+    "target": "Pierre",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莱恩",
+    "target": "Ryan",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "莉雅",
+    "target": "Leah",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "瓦伦泰",
+    "target": "Valentine",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "普阿利斯夫人",
+    "target": "phu nhân Pualis",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "奥萝尔",
+    "target": "Aurore",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "奥萝尔",
+    "target": "Áo La Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "卢米安",
+    "target": "Lô Mễ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "科尔杜村",
+    "target": "Đỗ Thôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

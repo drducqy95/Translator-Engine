@@ -1,0 +1,184 @@
+[
+  {
+    "raw": "方明",
+    "target": "Phương Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "雷林·法雷尔",
+    "target": "Leylin Farrell",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "约翰·法雷尔",
+    "target": "John Farrell",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "乔治",
+    "target": "George",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "贝斯塔",
+    "target": "Besta",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "安格雷",
+    "target": "Angre",
+    "type": "character",
+    "origin": "western",
+    "name_type": "person"
+  },
+  {
+    "raw": "雷林",
+    "target": "Leylin",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "法雷尔",
+    "target": "Farlier",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "乔治",
+    "target": "George",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "贝斯塔",
+    "target": "Besta",
+    "type": "character",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "方明",
+    "target": "Phương Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "贝斯塔",
+    "target": "bass",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "约翰·法雷尔",
+    "target": "John·Pháp Lôi Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "雷林",
+    "target": "Lôi Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "法雷尔",
+    "target": "Pháp Lôi Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "安格雷",
+    "target": "Grey",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "雷林",
+    "target": "Lôi Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "乔治",
+    "target": "Kiều Trì",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "古斯",
+    "target": "Cổ Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "法雷尔",
+    "target": "Pháp Lôi Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "欧林",
+    "target": "Âu Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莉儿",
+    "target": "Lì-ơ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "贝斯塔",
+    "target": "Bass",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "约翰子爵",
+    "target": "tử tước John",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "雷林",
+    "target": "Lôi Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "欧林",
+    "target": "Âu Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

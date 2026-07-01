@@ -1,0 +1,1521 @@
+[
+  {
+    "raw": "鼎湖派",
+    "target": "Đỉnh Hồ Phái",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "长蛇",
+    "target": "Trường Xà",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "因果集",
+    "target": "Tập Hợp Nhân Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "摇光殿",
+    "target": "điện Dao Quang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "开阳殿",
+    "target": "điện Khai Dương",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "道法阁",
+    "target": "Đạo Pháp Các",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "因果集",
+    "target": "Tập Hợp Nhân Quả",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "静心咒",
+    "target": "Tĩnh Tâm Chú",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "火雷符",
+    "target": "Hỏa Lôi Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "白阳符鉴",
+    "target": "Bạch Dương Phù Giám",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "游神行气法",
+    "target": "Du Thần Hành Khí Pháp",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "六丁六甲护身符",
+    "target": "Lục Đinh Lục Giáp Hộ Thân Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "折花手",
+    "target": "Chiết Hoa Thủ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "楼观剑法",
+    "target": "Lâu Quan Kiếm Pháp",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "开阳殿",
+    "target": "Khai Dương Điện",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "摇光殿",
+    "target": "Dao Quang Điện",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "因果集",
+    "target": "Tập Hợp Nhân Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "折花手",
+    "target": "Chiết Hoa Thủ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "楼观剑法",
+    "target": "Lâu Quan Kiếm Pháp",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "道人",
+    "target": "Đạo Nhân",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "因果集",
+    "target": "Tập Hợp Nhân Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "天兵道果",
+    "target": "Đạo Quả Thiên Binh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "求返其真",
+    "target": "Cầu Phản Kỳ Chân",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "楼观剑法",
+    "target": "Lâu Quan Kiếm Pháp",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "六爻算经",
+    "target": "Lục Hào Toán Kinh",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "龙甲神章",
+    "target": "Long Giáp Thần Chương",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "水灵符",
+    "target": "Thủy Linh Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "文帝钱",
+    "target": "Văn Đế Tiền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "道果",
+    "target": "Đạo Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "一坤年",
+    "target": "một năm Khôn",
+    "type": "time",
+    "origin": "chinese",
+    "name_type": "unit"
+  },
+  {
+    "raw": "楼观剑法",
+    "target": "Lâu Quan Kiếm Pháp",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "天兵道果",
+    "target": "Đạo Quả Thiên Binh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "天兵神威",
+    "target": "Thiên Binh Thần Uy",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "求返其真",
+    "target": "Cầu Phản Kỳ Chân",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "火雷符",
+    "target": "Hỏa Lôi Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "卷云步",
+    "target": "Quyển Vân Bộ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "浑元功",
+    "target": "Hỗn Nguyên Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "轻身符",
+    "target": "Khinh Thân Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "talisman"
+  },
+  {
+    "raw": "巨力符",
+    "target": "Cự Lực Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "talisman"
+  },
+  {
+    "raw": "二字钳羊马",
+    "target": "Nhị Tự Kiềm Dương Mã",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "铁裆功",
+    "target": "Thiết Đảng Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "风云台",
+    "target": "Phong Vân Đài",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "思返谷",
+    "target": "Tư Phản Cốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "因果集",
+    "target": "Nhân Quả Tập",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "道法阁",
+    "target": "Đạo Pháp Các",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "常春",
+    "target": "Thường Xuân",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "武曲坪",
+    "target": "Vũ Khúc Bình",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "气坟",
+    "target": "Khí Phần",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "楼观剑法",
+    "target": "Pháp Kiếm Lâu Quan",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "火雷符",
+    "target": "Hỏa Lôi Pháp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "风云台",
+    "target": "Đài Phong Vân",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "六丁六甲护身符",
+    "target": "bùa bảo vệ Lục Đinh Lục Giáp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "补元丹",
+    "target": "Bổ Nguyên Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "易筋伐髓",
+    "target": "Dịch Cân Phạt Tủy",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "因果集",
+    "target": "Nhân Quả Tập",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "六丁六甲护身符",
+    "target": "Lục Đinh Lục Giáp Hộ Thân Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "风云台",
+    "target": "Phong Vân Đài",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "思返谷",
+    "target": "Tư Phản Cốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "朱果",
+    "target": "Chu Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "roi đỏ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Chá Tiên",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "鼎湖派",
+    "target": "Đỉnh Hồ Phái",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "因果集",
+    "target": "Nhân Quả Tập",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "折花手",
+    "target": "Chiết Hoa Thủ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "五浊恶气",
+    "target": "Ngũ Trọc Ác Khí",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "phenomenon"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Chá Tiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "未知道果",
+    "target": "Vị Tri Đạo Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "易筋伐髓",
+    "target": "Dịch Cân Phạt Tủy",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "鼎湖派",
+    "target": "Đỉnh Hồ Phái",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "神都",
+    "target": "Thần Đô",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Chá Tiên",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "求返其真",
+    "target": "Cầu phản kỳ chân",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "因果集",
+    "target": "Nhân Quả Tập",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "游神行气法",
+    "target": "Du Thần Hành Khí Pháp",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Chá Tiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "水晶之肚",
+    "target": "Thủy Tinh Chi Đỗ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "阴符七术·实意法螣蛇",
+    "target": "Âm Phù Thất Thuật: Thực Ý Pháp Đằng Xà",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "阴符七术·转圆法猛兽",
+    "target": "Âm Phù Thất Thuật: Chuyển Viên Pháp Mãnh Thú",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "兰花拂穴手",
+    "target": "Lan Hoa Phất Huyệt Thủ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "折花手",
+    "target": "Chiết Hoa Thủ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "先天功",
+    "target": "Tiên Thiên Công",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "阴符经",
+    "target": "Âm Phù Kinh",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Chử Tiên",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "神农鼎",
+    "target": "Thần Nông Đỉnh",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "鼎湖派",
+    "target": "Đỉnh Hồ phái",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "损兑法灵蓍",
+    "target": "Tổn Đoài Pháp Linh Thi",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "恒卦",
+    "target": "quẻ Hằng",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "剥卦",
+    "target": "quẻ Bác",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "山地剥",
+    "target": "Sơn Địa Bác",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "开阳殿",
+    "target": "Khai Dương điện",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "道法阁",
+    "target": "Đạo Pháp các",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "思返谷",
+    "target": "Tư Phản cốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "阴符经注解",
+    "target": "Âm Phù Kinh Chú Giải",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "阴符七术",
+    "target": "Âm Phù Thất Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "实意法螣蛇",
+    "target": "Thực Ý Pháp Đằng Xà",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn Cung",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "螣蛇",
+    "target": "Đằng Xà",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "折花手",
+    "target": "Chiết Hoa Thủ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "气坟",
+    "target": "Khí Phần",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "神农鼎",
+    "target": "Thần Nông Đỉnh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Giả Tiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "荒神教",
+    "target": "Hoang Thần giáo",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "武曲坪",
+    "target": "Võ Khúc bình",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "开阳殿",
+    "target": "Khai Dương điện",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "道法阁",
+    "target": "Đạo Pháp các",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "摇光殿",
+    "target": "Diêu Quang điện",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "因果集",
+    "target": "Nhân Quả Tập",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "鼎湖派",
+    "target": "Đỉnh Hồ phái",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "摇光破军",
+    "target": "Diêu Quang Phá Quân",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "鼎湖派",
+    "target": "Đỉnh Hồ phái",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "思返谷",
+    "target": "Tư Phản Cốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "先天功",
+    "target": "Tiên Thiên Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Giả Tiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "墨武战匣",
+    "target": "Mặc Vũ chiến hạp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "none"
+  },
+  {
+    "raw": "剑心通明",
+    "target": "Kiếm Tâm Thông Minh",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "战汝娘亲",
+    "target": "Chiến Nhữ Nương Thân",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "神属道果",
+    "target": "đạo quả Thần thuộc",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "楼观剑法",
+    "target": "Lâu Quan Kiếm Pháp",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Giả Tiên",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "阴符七术",
+    "target": "Âm Phù Thất Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "散势法鸷鸟",
+    "target": "Tán Thế Pháp Chí Điểu",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "气坟",
+    "target": "Khí Phần",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "思返谷",
+    "target": "Tư Phản Cốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "执法堂",
+    "target": "Chấp Pháp Đường",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "姜氏",
+    "target": "Khương Thị",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "family"
+  },
+  {
+    "raw": "鼎湖派",
+    "target": "Đỉnh Hồ phái",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "应龙",
+    "target": "Ứng Long",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "mythological"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Giả Roi",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "玉真丹",
+    "target": "Ngọc Chân Đan",
+    "type": "consumable",
+    "origin": "chinese",
+    "name_type": "pill"
+  },
+  {
+    "raw": "坤元草",
+    "target": "Khôn Nguyên Thảo",
+    "type": "consumable",
+    "origin": "chinese",
+    "name_type": "herb"
+  },
+  {
+    "raw": "红霞",
+    "target": "Hồng Hà",
+    "type": "phenomenon",
+    "origin": "chinese",
+    "name_type": "color"
+  },
+  {
+    "raw": "思返谷",
+    "target": "Tư Phản Cốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "valley"
+  },
+  {
+    "raw": "金黄",
+    "target": "vàng óng",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "color"
+  },
+  {
+    "raw": "墨武战匣",
+    "target": "Mặc Võ chiến giáp",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "armor"
+  },
+  {
+    "raw": "雷光",
+    "target": "lôi quang",
+    "type": "phenomenon",
+    "origin": "chinese",
+    "name_type": "light"
+  },
+  {
+    "raw": "贤者全真",
+    "target": "Hiền giả Toàn Chân",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "求返其真",
+    "target": "Cầu phản kỳ chân",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "黄帝六相",
+    "target": "Hoàng Đế Lục Tương",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "实意法螣蛇",
+    "target": "Thực Ý Pháp Đằng Xà",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "阴符七术",
+    "target": "Âm Phù Thất Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "形坟",
+    "target": "Hình Phần",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "气坟",
+    "target": "Khí Phần",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Giả Tiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "实意法螣蛇",
+    "target": "Thực Ý Pháp Đằng Xà",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "形坟",
+    "target": "Hình Phần",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "应龙变",
+    "target": "Ứng Long Biến",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn Cung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "body_part"
+  },
+  {
+    "raw": "阴符经",
+    "target": "Âm Phù Kinh",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "少侠阿宾",
+    "target": "Thiếu Hiệp A Tân",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "应龙之息",
+    "target": "Ứng Long Chi Tức",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "先天功",
+    "target": "Tiên Thiên Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "性命双修",
+    "target": "Tính Mệnh Song Tu",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "实意法螣蛇",
+    "target": "Thực Ý Pháp Đằng Xà",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "万叶飞花掌",
+    "target": "Vạn Diệp Phi Hoa Chưởng",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "实意法螣蛇",
+    "target": "Thực Ý Pháp Đằng Xà",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Giả Tiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "折花手",
+    "target": "Chiết Hoa Thủ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "剑修",
+    "target": "Kiếm tu",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "术士",
+    "target": "Thuật sĩ",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "道果",
+    "target": "Đạo quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "道器",
+    "target": "đạo khí",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "剑修",
+    "target": "Kiếm tu",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "术士",
+    "target": "Thuật sĩ",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "乙巳占",
+    "target": "Ất Tị Chiêm",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "麟德历",
+    "target": "Lân Đức Lịch",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "推背图",
+    "target": "Thôi Bối Đồ",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "望气",
+    "target": "Vọng khí",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "乙巳占",
+    "target": "Ất Tị Chiêm",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "麟德历",
+    "target": "Lân Đức Lịch",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "推背图",
+    "target": "Thôi Bối Đồ",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "龙甲神章",
+    "target": "Long Giáp Thần Chương",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "归藏易",
+    "target": "Quy Tàng Dễ",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "地风升",
+    "target": "Địa Phong Thăng",
+    "type": "hexagram",
+    "origin": "chinese",
+    "name_type": "hexagram"
+  },
+  {
+    "raw": "气坟",
+    "target": "Khí Phần",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "先天功",
+    "target": "Tiên Thiên Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "直达天听",
+    "target": "Trực Đạt Thiên Thính",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "气坟",
+    "target": "Khí Mộ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "巡值四方",
+    "target": "Tuần Trị Tứ Phương",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "螣蛇",
+    "target": "Đằng Xà",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "mythical_beast"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Giả Tiên",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "鼎湖派",
+    "target": "Đỉnh Hồ phái",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "天权",
+    "target": "Thiên Quyền",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "九黎刀章",
+    "target": "Cửu Lê Đao Chương",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "蚩尤三盘经",
+    "target": "Xi Vưu Tam Bàn Kinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "气坟",
+    "target": "Khí Phẫn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "坤元",
+    "target": "Khôn Nguyên",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "尾闾",
+    "target": "Vĩ Lư",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "先天一炁",
+    "target": "Tiên Thiên Nhất Khí",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "气坟",
+    "target": "Khí Phần",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "九泉心诀",
+    "target": "Cửu Tuyền Tâm Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "神农九泉",
+    "target": "Thần Nông Cửu Tuyền",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "三分归元气",
+    "target": "Tam Phân Quy Nguyên Khí",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "地灵草",
+    "target": "Địa Linh Thảo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "天蓬咒",
+    "target": "Thiên Bồng Chú",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "先天一炁",
+    "target": "Tiên Thiên Nhất Khí",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "地灵草",
+    "target": "Địa Linh Thảo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "herb"
+  },
+  {
+    "raw": "气坟",
+    "target": "Khí Phần",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "十全大补丹",
+    "target": "Thập Toàn Đại Bổ Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "pill"
+  },
+  {
+    "raw": "五浊恶气",
+    "target": "Ngũ Trọc Ác Khí",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "energy"
+  },
+  {
+    "raw": "天蓬咒",
+    "target": "Thiên Bồng chú",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "spell"
+  },
+  {
+    "raw": "易术",
+    "target": "Dịch thuật",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "道法阁",
+    "target": "Đạo Pháp các",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "building"
+  },
+  {
+    "raw": "飞云镇",
+    "target": "Phi Vân trấn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "因果集",
+    "target": "Nhân Quả Tập",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "崇明岛",
+    "target": "đảo Sùng Minh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "思返谷",
+    "target": "Tư Phản Cốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "开阳殿",
+    "target": "Khai Dương Điện",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "赭鞭",
+    "target": "Giả Tiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "军神五兵",
+    "target": "Quân Thần Ngũ Binh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "妖神教",
+    "target": "Yêu Thần Giáo",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "雷边捷鬼",
+    "target": "Lôi Biên Tiệp Quỷ",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "急急如律令",
+    "target": "Cấp Cấp Như Luật Lệnh",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "真定郡",
+    "target": "quận Chân Định",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "神都",
+    "target": "Thần Đô",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "崩溃疗法",
+    "target": "liệu pháp sụp đổ",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "铜磬",
+    "target": "đồng khánh",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "诛心",
+    "target": "tru tâm",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  }
+]

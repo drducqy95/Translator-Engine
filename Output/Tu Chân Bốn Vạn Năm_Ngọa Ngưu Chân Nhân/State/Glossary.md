@@ -1,0 +1,162 @@
+# Term Glossary
+
+- **浮戈城** (location) -> Phù Qua Thành
+- **飞灵宗** (organization) -> Phi Linh Tông
+- **赤霄派** (organization) -> phái Xích Tiêu
+- **青龙门** (organization) -> Thanh Long Môn
+- **野狼帮** (organization) -> Dã Lang Bang
+- **立体光幕仪** (object) -> thiết bị quang mạc lập thể
+- **回** (symbol) -> hồi
+- **无影剑派** (organization) -> Vô Ảnh Kiếm Phái
+- **紫电** (technique) -> tử điện
+- **星击盾** (object) -> Tinh Kích Thuẫn
+- **修真40000年** (art) -> Tu Chân 40000 năm
+- **赤霄派附属第二高中** (location) -> Trung học số 2 trực thuộc phái Xích Tiêu
+- **地下晶轨三号线** (location) -> Tuyến đường sắt tinh thể ngầm số 3
+- **灵蛇身法** (technique) -> Linh Xà Thân Pháp
+- **赤霄二中** (organization) -> Trung học số 2 Xích Tiêu
+- **九大精英联校** (organization) -> Chín trường tinh anh liên hợp
+- **大荒战院** (organization) -> Học viện chiến đấu Đại Hoang
+- **联邦军** (organization) -> Quân liên bang
+- **赤霄运输集团** (organization) -> Tập đoàn vận tải Xích Tiêu
+- **玄鸟战梭** (object) -> Huyền điểu chiến toa
+- **九大精英联校** (organization) -> Chín trường liên kết tinh anh
+- **太虚幻境** (location) -> Thái Hư Huyễn Cảnh
+- **战兽十三势** (technique) -> Chiến Thú Thập Tam Thế
+- **噬心虫** (creature) -> Phệ Tâm Trùng
+- **灵山宗** (organization) -> Linh San Tông
+- **血杀堡** (organization) -> Huyết Sát Bảo
+- **大黑暗时代** (event) -> Đại Hắc Ám Thời Đại
+- **妖神病毒** (item) -> Yêu Thần Virus
+- **妖兽** (creature) -> yêu thú
+- **妖族** (race) -> yêu tộc
+- **天琴门** (organization) -> Thiên Cầm Môn
+- **广陵7型** (object) -> Quảng Lăng 7
+- **林荫** (location) -> bóng rừng
+- **浮戈城** (location) -> Phù Qua Thành
+- **朝阳新村** (location) -> khu nhà mới Triều Dương
+- **无渊海** (location) -> Vô Uyên Hải
+- **脊刺鲨** (creature) -> Tích Thứ Sa
+- **一百零八手披风乱锤法** (technique) -> Một trăm lẻ tám thức Phi Phong Loạn Chùy Pháp
+- **百炼宗** (organization) -> Bách Luyện Tông
+- **万剑古冢** (location) -> Vạn Kiếm Cổ Trủng
+- **光阴大阵** (object) -> Quang Âm Đại Trận
+- **百炼宗** (organization) -> Bách Luyện Tông
+- **星空巨兽** (item) -> Cự Linh Thần
+- **隐湖小境** (location) -> Ẩn Hồ Tiểu Cảnh
+- **隐冬湖** (location) -> Ẩn Đông Hồ
+- **女儿红** (item) -> Nữ Nhi Hồng
+- **赤霄二中** (organization) -> Trường Đỏ Tiêu Nhị Trung
+- **浮戈城** (location) -> Phù Qua Thành
+- **凤山二中** (organization) -> Phượng San Nhị Trung
+- **浮戈城** (place) -> Phù Qua Thành
+- **军道杀狼修炼馆** (location) -> Quân Đạo Sát Lang Tu Luyện Quán
+- **纹面符** (item) -> phù xăm mặt
+- **第五套健身体操** (skill) -> thể thao thể hình thứ năm
+- **第九套健身体操** (skill) -> thể thao thể hình thứ chín
+- **一百零八手披风乱锤法** (technique) -> Phi Phong Loạn Chùy Pháp
+- **赤霄二中** (location) -> Xích Tiêu Nhị Trung
+- **军道杀狼修炼馆** (location) -> võ quán Quân Đạo Sát Lang
+- **赤霄二中** (location) -> Xích Tiêu nhị trung
+- **火云掌** (shop) -> Hỏa Vân Chưởng
+- **妙音宗** (organization) -> Diệu Âm Tông
+- **音铃** (artifact) -> Âm Linh
+- **GALA乐队** (organization) -> ban nhạc GALA
+- **征服太平洋** (song) -> Chinh phục Thái Bình dương
+- **赤霄二中** (organization) -> Xích Tiêu Nhị Trung
+- **平行班** (terminology) -> lớp thường
+- **重点班** (terminology) -> lớp chọn
+- **一百零八手披风乱锤法** (skill) -> Một trăm lẻ tám đường Phi Phong Loạn Chùy pháp
+- **征服全宇宙** (art) -> Chinh Phục Toàn Vũ Trụ
+- **普通班** (organization) -> ban phổ thông
+- **赤霄二中** (location) -> trường trung học số 2 Xích Tiêu
+- **联邦少年极限挑战赛** (event) -> Liên bang Thiếu niên Cực hạn Khiêu chiến thi đấu
+- **战兽十三势** (technique) -> Chiến Thú Thập Tam Thế
+- **妙音宗** (organization) -> Diệu Âm Tông
+- **音铃** (artifact) -> Âm Linh
+- **赤霄二中** (organization) -> Xích Tiêu Nhị Trung
+- **晶脑** (item) -> tinh não
+- **军道杀狼修炼馆** (organization) -> Tu Luyện Quán Quân Đạo Sát Lang
+- **赤霄二中** (organization) -> Trung học Xích Tiêu số 2
+- **赤霄二中** (organization) -> trường Trung học số 2 Xích Tiêu
+- **激战时刻** (terminology) -> Thời Khắc Kịch Chiến
+- **晶脑** (glossary) -> tinh não
+- **灵能浮空船** (glossary) -> linh năng phù không thuyền
+- **魔蛟岛** (location) -> đảo Ma Giao
+- **炼体者** (terminology) -> luyện thể giả
+- **噗叽兽** (monster) -> thú Phốc Kỉ
+- **微型晶脑** (item) -> tinh não thu nhỏ
+- **魔蛟岛** (location) -> đảo Ma Giao
+- **星耀联邦** (location) -> Tinh Diệu Liên Bang
+- **妖神病毒** (item) -> Virus Yêu Thần
+- **晶脑** (item) -> tinh não
+- **拟兽古武学** (technique) -> Cổ võ học mô phỏng thú
+- **辽远号** (artifact) -> Liêu Viễn hào
+- **天野号** (artifact) -> Thiên Dã hào
+- **星耀联邦** (organization) -> Tinh Diệu Liên Bang
+- **东极妖国** (organization) -> Đông Cực Yêu Quốc
+- **魔蛟岛** (location) -> Ma Giao Đảo
+- **九星升龙旗** (artifact) -> Cờ Cửu Tinh Thăng Long
+- **东海之滨** (location) -> Đông Hải chi tân
+- **星云大学** (organization) -> Đại học Tinh Vân
+- **天幻书院** (organization) -> Thiên Huyễn Thư Viện
+- **灵子** (glossary) -> linh tử
+- **灵子对撞机** (glossary) -> máy va chạm linh tử
+- **星云大学** (organization) -> Đại học Tinh Vân
+- **天都医学院** (organization) -> Học viện Y khoa Thiên Đô
+- **深海大学** (organization) -> Đại học Thâm Hải
+- **九大精英联校** (organization) -> Chín Trường Tinh Anh Liên Kết
+- **太虚幻境** (terminology) -> Thái Hư Huyễn Cảnh
+- **灵子对撞机** (item) -> máy gia tốc hạt linh tử
+- **反妖兽防御系统** (item) -> Hệ thống phòng ngự phản yêu thú
+- **晶磁炮** (item) -> tinh từ pháo
+- **晶铠** (item) -> tinh khải
+- **深海大学** (organization) -> Đại học Biển Sâu
+- **大荒战院** (organization) -> Đại Hoang Chiến Viện
+- **无人驾驭飞剑** (item) -> Phi kiếm không người lái
+- **炼体者** (job) -> người luyện thể
+- **大荒战院** (organization) -> Đại Hoang Chiến Viện
+- **天幻书院** (organization) -> Thiên Huyễn Thư Viện
+- **大荒战院** (organization) -> Đại Hoang Chiến Viện
+- **天幻书院** (organization) -> Thiên Huyễn Thư Viện
+- **深海大学** (organization) -> Đại học Biển Sâu
+- **辽远号** (location) -> Liêu Viễn
+- **魔蛟岛** (location) -> Giao Đảo
+- **魔蛟岛** (location) -> đảo Ma Giao
+- **天元界** (location) -> Thiên Nguyên Giới
+- **辽远号** (artifact) -> tàu Liêu Viễn
+- **魔蛟岛** (location) -> đảo Ma Giao
+- **第一军事学院** (organization) -> Đệ Nhất Học viện Quân sự
+- **噗叽兽** (creature) -> thú Phốc Kỉ
+- **幻藤** (creature) -> Huyễn Đằng
+- **三目猿** (creature) -> Tam Mục Vượn
+- **噗叽兽** (creature) -> Phốc Chít Chít
+- **魔蛟岛** (location) -> đảo Ma Giao
+- **辽远号** (location) -> tàu Liêu Viễn
+- **虎鲨** (item) -> cá mập hổ
+- **雷霆** (item) -> Lôi Đình
+- **焚天** (item) -> Đốt Trời
+- **焚天战斧** (item) -> Phàn Thiên chiến phủ
+- **晶元炸弹** (item) -> bom Tinh Nguyên
+- **赤霄二中** (organization) -> trường trung học số 2 Xích Tiêu
+- **深海大学** (organization) -> Đại học Biển Sâu
+- **星云大学** (organization) -> Đại học Tinh Vân
+- **焚天战斧** (item) -> Chiến Phủ Đốt Trời
+- **链锯剑** (item) -> Kiếm Xích Cưa
+- **雷霆战刀** (item) -> Đao Chiến Lôi Đình
+- **魔蛟岛** (location) -> đảo Ma Giao
+- **噗叽兽** (creature) -> thú Puji
+- **小吉** (creature) -> Tiểu Cát
+- **灵子对撞机** (item) -> Linh Tử Đối Chàng Cơ
+- **辽远号** (item) -> Liêu Viễn Hào
+- **魔蛟岛** (location) -> đảo Vu Ma Giao
+- **魔蛟岛** (location) -> đảo Ma Giao
+- **链锯剑** (item) -> kiếm cưa xích
+- **焚天战斧** (item) -> búa chiến Phần Thiên
+- **噗叽兽** (creature) -> thú Phốc Kỉ
+- **魔蛟岛** (location) -> đảo Ma Giao
+- **深海大学** (organization) -> đại học Biển Sâu
+- **翻天印** (item) -> Phiên Thiên Ấn
+- **魔蛟岛** (location) -> đảo Ma Giao
+- **浮戈城** (location) -> Phù Qua Thành
+- **噗叽兽** (glossary) -> sinh vật hỗ trợ

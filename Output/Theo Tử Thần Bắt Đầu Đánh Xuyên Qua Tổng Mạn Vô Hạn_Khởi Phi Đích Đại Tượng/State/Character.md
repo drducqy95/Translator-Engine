@@ -1,0 +1,255 @@
+# Character Dictionary
+
+- **陆离** -> Lục Ly
+- **妮菲尔** -> Niffle
+- **林正东** -> Lâm Chính Đông
+- **陆离** -> Lục Ly
+- **妮菲尔** -> Niffle
+- **奥丁** -> Áo Đinh
+- **王悦** -> Vương Duyệt
+- **友哈** -> Hữu Cáp
+- **巴赫** -> Bach
+- **陆丰** -> Lục Phong
+- **陆离** -> Lục Ly
+- **卯之花烈** -> Unohana Retsu
+- **八千流** -> Yachiru
+- **友哈巴赫** -> Yhwach
+- **陆离** -> Lục Ly
+- **蓝染惣右介** -> Aizen Sosuke
+- **藤本** -> Fujimoto
+- **曳舟桐生** -> Hikifune Kirio
+- **藤本柱** -> Fujimoto
+- **卯之花** -> Unohana
+- **藤本柱** -> Fujimoto
+- **蓝染** -> Lam Nhiễm
+- **惣右介** -> Sōsuke
+- **卯之花八千流** -> Unohana Yachiru
+- **卯之花** -> Unohana
+- **藤本** -> Fujimoto
+- **四枫院夜一** -> Shihouin Yoruichi
+- **藤本** -> Fujimoto
+- **夜一** -> Yoruichi
+- **握菱铁斋** -> Ác Lăng Thiết Trai
+- **蓝染惣右介** -> Lam Nhiễm Sosuke
+- **四枫院夜一** -> Shihouin Yoruichi
+- **陆离** -> Lục Quân
+- **夜一** -> Yoruichi
+- **四枫院夜一** -> Shihōin Yoruichi
+- **大前田** -> Ōmaeda
+- **卯之花** -> Unohana
+- **刳屋敷剑八** -> Kotsubaki Kenpachi
+- **陆离** -> Lục Ly
+- **卯之花** -> Unohana
+- **惣右介** -> Sosuke
+- **陆离** -> Lục Ly
+- **雀部长次郎** -> Sasakibe Choujiro
+- **山本元柳斋（重国）** -> Yamamoto Genryusai (Shigekuni)
+- **四枫院夜一** -> Shihouin Yoruichi
+- **藤本柱** -> Fujimoto Hashira
+- **陆离** -> Lục Ly
+- **夜一** -> Yoruichi
+- **四枫院** -> Shihouin
+- **长次郎** -> Choujiro
+- **雀部** -> Sasakibe
+- **卯之花** -> Unohana
+- **惣右介** -> Sousuke
+- **卯之花** -> Mão Chi Hoa
+- **陆离** -> Lục Ly
+- **惣右介** -> Tổng Hữu Giới
+- **夜一** -> Dạ Nhất
+- **卯之花** -> Unohana
+- **总队长** -> Tổng đội trưởng
+- **砂川** -> Sa Xuyên
+- **四枫院** -> Tứ Phong Viện
+- **藤本柱** -> Đằng Bản Trụ
+- **蓝染** -> Lam Nhiễm
+- **夜一** -> Dạ Nhất
+- **卯之花** -> Mão Chi Hoa
+- **陆离** -> Lục Quân
+- **总队长** -> Tổng đội trưởng
+- **夜一** -> Yoruichi
+- **蓝染** -> Aizen
+- **惣右介** -> Sosuke
+- **惣右介** -> Sōsuke
+- **惣右介** -> Tống Hữu Giới
+- **秋元宜隆** -> Thu Nguyên Nghi Long
+- **平子真子** -> Bình Tử Chân Tử
+- **刳屋敷剑八** -> Khô Ốc Phu Kiếm Bát
+- **卯之花** -> Mão Chi Hoa
+- **蓝染惣右介** -> Aizen Sosuke
+- **卯之花八千流** -> Unohana Yachiru
+- **卯之花** -> Unohana
+- **曳舟桐生** -> Hikifune Kirio
+- **秋元宜隆** -> Thu Nguyên Nghi Long
+- **基力安** -> Gillian
+- **囚魔** -> Tù Ma
+- **黑旋风** -> Hắc Toàn Phong
+- **黑旋风** -> Hắc Toàn Phong
+- **陆离** -> Lục Ly
+- **卯之花老师** -> Unohana lão sư
+- **我的脚气谁来闻** -> Mùi hôi chân của ta ai ngửi đây
+- **尤里乌斯·莱因哈特** -> Julius Reinhold
+- **若槻武士** -> Wakatsuki Takeshi
+- **坂东洋平** -> Bando Yohei
+- **十鬼蛇王马** -> Tokita Ohma
+- **高田清助** -> Takada Seisuke
+- **永岛银司** -> Nagashima Ginji
+- **安然** -> bình yên
+- **终焉** -> chung yên
+- **格斗** -> cách đấu
+- **阿修罗** -> A Tu La
+- **向前走** -> đi về phía trước
+- **小混混** -> tiểu lưu manh
+- **高阶** -> cao giai
+- **明白** -> đã hiểu
+- **探索者** -> nhà thám hiểm
+- **小蘑菇** -> Tiểu Mô Cầu
+- **陆离** -> Lục Ly
+- **吴风水** -> Ngô Phong Thuỷ
+- **吴雷庵** -> Ngô Lôi Am
+- **Torii青年** -> Thanh niên Torii
+- **吴雷庵** -> Ngô Lôi Am
+- **陆离** -> Lục Ly
+- **吴惠利央** -> Ngô Huệ Lợi Ương
+- **吴风水** -> Ngô Phong Thủy
+- **吴堀栖** -> Ngô Khố Tịch
+- **陆离** -> Lục Ly
+- **吴惠利央** -> Ngô Huệ Lợi Ương
+- **吴风水** -> Ngô Phong Thủy
+- **迦楼罗** -> Già Lâu La
+- **十鬼蛇王马** -> Thập Quỷ Xà Vương Mã
+- **十鬼蛇王马** -> Thập Quỷ Xà Vương Mã
+- **吴风水** -> Ngô Phong Thủy
+- **十鬼蛇王马** -> Thập Quỷ Xà Vương Mã
+- **黑木** -> Hắc Mộc
+- **探索者** -> nhà thám hiểm
+- **斗技者** -> đấu sĩ
+- **武道宗师** -> đại tông sư võ đạo
+- **一阶探索者** -> Nhà thám hiểm cấp một
+- **雷庵** -> Lôi Am
+- **违规者** -> kẻ vi phạm quy tắc
+- **吴风水** -> Ngô Phong Thủy
+- **吴惠利央** -> Ngô Huệ Lợi Ương
+- **雷庵** -> Lôi Am
+- **王马** -> Vương Mã
+- **吴雷庵** -> Ngô Lôi Am
+- **和雷庵** -> Hòa Lôi Am
+- **吴惠利** -> Ngô Huệ Lợi
+- **但雷庵** -> Đãn Lôi Am
+- **迦楼** -> Già Lâu
+- **桐生刹那** -> Kiryu Setsuna
+- **十鬼蛇王马** -> Tokita Ohma
+- **陆离** -> Lu Li
+- **吴惠利央** -> Wu Kurei
+- **迦楼罗** -> Garuda
+- **片原灭堂** -> Phiến Nguyên Diệt Đường
+- **爱德华.吴** -> Edward Wu
+- **迦楼罗** -> Già Lâu La
+- **片原灭堂** -> Phiến Nguyên Diệt Đường
+- **加纳咢** -> Gia Nạp Ngạc
+- **黑木玄斋** -> Hắc Mộc Huyền Trai
+- **加纳咢** -> Gia Nạp Ngạc
+- **片原灭堂** -> Phiến Nguyên Diệt Đường
+- **加纳咢** -> Kanoh Agito
+- **片原鞘香** -> Katahara Sayaka
+- **片原灭堂** -> Katahara Metsudo
+- **桐生刹那** -> Kiryu Setsuna
+- **若槻武士** -> Wakatsuki Takeshi
+- **黑木玄斋** -> Kuroki Gensai
+- **王马** -> Ohma
+- **片原鞘香** -> Phiến Nguyên Tiêu Hương
+- **加纳咢** -> Gia Nạp Ngạc
+- **桐生刹那** -> Đồng Sinh Sát Na
+- **囚魔** -> Tù Quỷ
+- **Dạ Kiêu** -> Dạ Kiêu
+- **库雷** -> Khố Lôi
+- **桐生刹那** -> Kiryu Setsuna
+- **鞘香** -> Sayaka
+- **夏厌** -> Hạ Yếm
+- **理人** -> Lý Nhân
+- **泽田庆三郎** -> Trạch Điền Khánh Tam Lang
+- **狗圣** -> Cẩu Thánh
+- **吴惠利央** -> Ngô Huệ Lợi Ương
+- **迦楼罗** -> Già Lâu La
+- **雷庵** -> Lôi Am
+- **片原灭堂** -> Phiến Nguyên Diệt Phòng
+- **加纳咢** -> Gia Nạp Ngạc
+- **十鬼蛇王马** -> Thập Quỷ Xà Vương Mã
+- **黑木玄斋** -> Kuroki Gensai
+- **速水胜正** -> Hayami Katsumasa
+- **尤里乌斯.莱因哈特** -> Julius Reinhold
+- **申武龙** -> Thân Vũ Long
+- **龙毅** -> Long Nghị
+- **片原鞘香** -> Katahara Sayaka
+- **奏流院紫音** -> Soryuin Shion
+- **加纳咢** -> Kanoh Agito
+- **黑木玄斋** -> Kuroki Gensai
+- **桐生刹那** -> Kiryu Setsuna
+- **雷庵** -> Raian
+- **关林淳** -> Sekibayashi Jun
+- **团团** -> Đoàn Đoàn
+- **片原鞘香** -> Phiến Nguyên Vỏ Hương
+- **奏流院紫音** -> Tấu Lưu Viện Tử Âm
+- **夏厌** -> Hạ Yếm
+- **山下一夫** -> Sơn Hạ Nhất Phu
+- **山下健藏** -> Sơn Hạ Kiện Tàng
+- **迦楼罗** -> Già Lâu La
+- **鬼哭童子** -> Quỷ Khốc Đồng Tử
+- **吴堀栖** -> Ngô Quật Thê
+- **速水** -> Tốc Thủy
+- **灭堂之牙** -> Nanh Vuốt Diệt Đường
+- **夏厌** -> Hạ Yếm
+- **猛虎** -> Mãnh Hổ
+- **若槻武士** -> Nhược Quy Võ Sĩ
+- **夏厌** -> Xia Yan
+- **陆离** -> Lục Ly
+- **黑木玄斋** -> Kuroki Gensai
+- **若槻武士** -> Wakatsuki Takeshi
+- **片原鞘香** -> Katahara Sayaka
+- **加纳咢** -> Kanoh Agito
+- **片原灭堂** -> Katahara Metsudo
+- **吴惠利央** -> Kure Erioh
+- **迦楼罗** -> Karla
+- **夏厌** -> Hạ Yếm
+- **速水** -> Hayami
+- **陆离** -> Lục Ly
+- **卧王鹉角** -> Ngọa Vương Vũ Giác
+- **吴惠利央** -> Ngô Huệ Lợi Ương
+- **片原灭堂** -> Phiến Nguyên Diệt Đường
+- **速水** -> Tốc Thủy
+- **夏厌** -> Hạ Yếm
+- **爱德华吴** -> Edward Wu
+- **鬼哭童子** -> Kure Horio
+- **金刚鬼** -> Kure Hollis
+- **夏厌** -> Hạ Yếm
+- **山下一夫** -> Yamashita Kazuo
+- **迦楼罗** -> Karura
+- **申武龙** -> Thân Vũ Long
+- **夏忌** -> Hạ Kị
+- **申罗汉** -> Thân La Hán
+- **吞噬者** -> Kẻ Thôn Phệ
+- **陆离** -> Lục Ly
+- **吴风水** -> Ngô Phong Thủy
+- **陆离** -> Lục Ly
+- **卧王鹉角** -> Ngọa Vương Vũ Giác
+- **十鬼蛇二虎** -> Thập Quỷ Xà Nhị Hổ
+- **吞噬者** -> Kẻ Thôn Phệ
+- **夏厌** -> Hạ Yếm
+- **若槻武士** -> Wakatsuki Takeshi
+- **加纳** -> Kanoh Agito
+- **吞噬者** -> Kẻ Thôn Phệ
+- **申罗汉** -> Thân La Hán
+- **申武龙** -> Thân Vũ Long
+- **陆离** -> Lục Ly
+- **雷庵** -> Lôi Am
+- **裁决者** -> Phán Quyết Giả
+- **夏厌** -> Hạ Yếm
+- **无惨** -> Vô Thảm
+- **吞噬者** -> Kẻ Thôn Phệ
+- **申罗汉** -> Thân La Hán
+- **片原灭堂** -> Katahara Metsudo
+- **违规者** -> Kẻ Vi Quy
+- **团团** -> Đoàn Đoàn
+- **团团** -> Đoàn Đoàn
+- **囚魔** -> Tù Quỷ
+- **卯之花老师** -> Mao Chi Hoa

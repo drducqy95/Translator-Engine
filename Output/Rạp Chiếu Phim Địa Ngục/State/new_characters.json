@@ -1,0 +1,1423 @@
+[
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗昊生",
+    "target": "La Hạo Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "康雪妍",
+    "target": "Khang Tuyết Nghiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张念周",
+    "target": "Trương Niệm Chu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "夏云",
+    "target": "Hạ Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗昊生",
+    "target": "La Hạo Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张念周",
+    "target": "Trương Niệm Chu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "夏云",
+    "target": "Hạ Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杜岩",
+    "target": "Đỗ Nham",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "江幼琳",
+    "target": "Giang Ấu Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗雪妍",
+    "target": "La Tuyết Nghiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "康雪妍",
+    "target": "Khang Tuyết Nghiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "江毅",
+    "target": "Giang Nghị",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "韩若月",
+    "target": "Hàn Nhược Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张德坤",
+    "target": "Trương Đức Khôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刘安",
+    "target": "Lưu An",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗昊生",
+    "target": "La Hạo Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "康雪妍",
+    "target": "Khang Tuyết Nghiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "江幼琳",
+    "target": "Giang Ấu Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗昊生",
+    "target": "La Hạo Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张念周",
+    "target": "Trương Niệm Chu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杜岩",
+    "target": "Đỗ Nham",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "夏云",
+    "target": "Hạ Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "康雪妍",
+    "target": "Khang Tuyết Nghiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张德坤",
+    "target": "Trương Đức Khôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "江毅",
+    "target": "Giang Nghị",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刘安",
+    "target": "Lưu An",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "康雪妍",
+    "target": "Khang Tuyết Nghiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗昊生",
+    "target": "La Hạo Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "江幼琳",
+    "target": "Giang Ấu Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "夏云",
+    "target": "Hạ Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杜岩",
+    "target": "Đỗ Nham",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "穆小姐",
+    "target": "Cô Mục",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刘安",
+    "target": "Lưu An",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刘安",
+    "target": "Lưu An",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "江幼琳",
+    "target": "Giang Ấu Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刘安",
+    "target": "Lưu An",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "韩若月",
+    "target": "Hàn Nhược Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杜岩",
+    "target": "Đỗ Nham",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗昊生",
+    "target": "La Hạo Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "王明",
+    "target": "Vương Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "夏云",
+    "target": "Hạ Vân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "穆小姐",
+    "target": "cô Mục",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "江毅",
+    "target": "Giang Nghị",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "江幼琳",
+    "target": "Giang Ấu Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张德坤",
+    "target": "Trương Đức Khôn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张念周",
+    "target": "Trương Niệm Chu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "陆",
+    "target": "Lục",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫小姐",
+    "target": "Cô Mạc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "韩若月",
+    "target": "Hàn Nhược Nguyệt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "温羽凡",
+    "target": "Ôn Vũ Phàm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "江幼琳",
+    "target": "Giang Ấu Lâm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "温羽凡",
+    "target": "Ôn Vũ Phàm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "罗昊生",
+    "target": "La Hạo Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "朱定钧",
+    "target": "Chu Định Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏寒",
+    "target": "Tô Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫秋实",
+    "target": "Mạc Thu Thật",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lãnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "于辰",
+    "target": "Vu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白雨朔",
+    "target": "Bạch Vũ Sóc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫秋实",
+    "target": "Mạc Thu Thật",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "侯天白",
+    "target": "Hầu Thiên Bạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "石青秀",
+    "target": "thạch thanh Tú",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "朱定钧",
+    "target": "Chu Định Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李唯思",
+    "target": "Lý Duy Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "齐晴晴",
+    "target": "Tề Tình Tình",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏寒",
+    "target": "Tô Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吴兆天",
+    "target": "Ngô Triệu Thiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "成雪松",
+    "target": "Thành Tuyết Tùng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "焦梦期",
+    "target": "Tiêu Mộng Kỳ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lãnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "穆小姐",
+    "target": "cô Mục",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "印水天",
+    "target": "Ấn Thủy Thiên",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "何铭",
+    "target": "Hà Minh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "魏岚",
+    "target": "Ngụy Lam",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白树河",
+    "target": "Bạch Thụ Hà",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白无夏",
+    "target": "Bạch Vô Hạ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "焦梦期",
+    "target": "Tiêu Mộng Kỳ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "侯天白",
+    "target": "Hầu Thiên Bạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白雨朔",
+    "target": "Bạch Vũ Sóc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "石清秀",
+    "target": "Thạch Thanh Tú",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "成雪松",
+    "target": "Thành Tuyết Tùng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lãnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白雨朔",
+    "target": "Bạch Vũ Sóc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫秋实",
+    "target": "Mạc Thu Thật",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "温羽凡",
+    "target": "Ôn Vũ Phàm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "于辰",
+    "target": "Vu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏寒",
+    "target": "Tô Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "侯天白",
+    "target": "Hầu Thiên Bạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "柳海平",
+    "target": "Liễu Hải Bình",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张华",
+    "target": "Trương Hoa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张父",
+    "target": "Trương Phụ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张母",
+    "target": "Trương Mẫu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "阿华",
+    "target": "A Hoa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lạnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "柳先生",
+    "target": "Liễu Tiên Sanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "alias"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "唐海兰",
+    "target": "Đường Hải Lan",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "侯天白",
+    "target": "Hầu Thiên Bạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lãnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杭青书",
+    "target": "Hàng Thanh Thư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吴君",
+    "target": "Ngô Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "柳海平",
+    "target": "Liễu Hải Bình",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "于辰",
+    "target": "Vu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏寒",
+    "target": "Tô Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张华",
+    "target": "Trương Hoa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "焦梦期",
+    "target": "Tiêu Mộng Kỳ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杨河",
+    "target": "Dương Hà",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "唐海兰",
+    "target": "Đường Hải Lan",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "余浩",
+    "target": "Dư Hạo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "柳海平",
+    "target": "Liễu Hải Bình",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "焦梦期",
+    "target": "Tiêu Mộng Kỳ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "侯天白",
+    "target": "Hầu Thiên Bạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏寒",
+    "target": "Tô Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吴君",
+    "target": "Ngô Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杭青书",
+    "target": "Hàng Thanh Thư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "于辰",
+    "target": "Vu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刘莹",
+    "target": "Lưu Oánh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小雅",
+    "target": "Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "柳海",
+    "target": "Liễu Hải",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏寒",
+    "target": "Tô Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "侯天白",
+    "target": "Hầu Thiên Bạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "于辰",
+    "target": "Vu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "杭青书",
+    "target": "Hàng Thanh Thư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刘莹",
+    "target": "Lưu Oánh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吴君",
+    "target": "Ngô Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Tả",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "天下霸唱",
+    "target": "Thiên Hạ Bá Xướng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白雨朔",
+    "target": "Bạch Vũ Sóc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lãnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lãnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张华",
+    "target": "Trương Hoa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Vu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "于辰",
+    "target": "Vu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张华",
+    "target": "Trương Hoa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "侯天白",
+    "target": "Hầu Thiên Bạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "柳海平",
+    "target": "Liễu Hải Bình",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏寒",
+    "target": "Tô Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刘莹",
+    "target": "Lưu Oánh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小雅",
+    "target": "Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏寒",
+    "target": "Tô Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "于辰",
+    "target": "Vu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "柳海平",
+    "target": "Liễu Hải Bình",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吴君",
+    "target": "Ngô Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "刘莹",
+    "target": "Lưu Oánh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "张华",
+    "target": "Trương Hoa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏寒",
+    "target": "Tô Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lãnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "于辰",
+    "target": "Vu Thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏珊",
+    "target": "Tô San",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "欧阳祖平",
+    "target": "Âu Dương Tổ Bình",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵小雅",
+    "target": "Triệu Tiểu Nhã",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "朱定钧",
+    "target": "Chu Định Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "朱大哥",
+    "target": "Chu Đại Ca",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莫秋实",
+    "target": "Mạc Thu Thật",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李唯思",
+    "target": "Lý Duy Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "齐晴晴",
+    "target": "Tề Tình Tình",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lãnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白雨朔",
+    "target": "Bạch Vũ Sóc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "温羽凡",
+    "target": "Ôn Vũ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "岳康雄",
+    "target": "Nhạc Khang Hùng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "龙妮儿",
+    "target": "Rồng Nị",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "焦梦期",
+    "target": "Tiêu Mộng Kỳ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "石清秀",
+    "target": "Thạch Thanh Tú",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "温羽凡",
+    "target": "Ôn Vũ Phàm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白雨朔",
+    "target": "Bạch Vũ Sóc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方冷",
+    "target": "Phương Lãnh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "雪松",
+    "target": "tùng tuyết",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "傅恒君",
+    "target": "Phó Hằng Quân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "侯天白",
+    "target": "Hầu Thiên Bạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶想",
+    "target": "Diệp Tưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "温羽凡",
+    "target": "Ôn Vũ Phàm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "安知惠",
+    "target": "An Tri Huệ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "唐银城",
+    "target": "Đường Ngân Thành",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "宋俊",
+    "target": "Tống Tuấn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "惜玉",
+    "target": "Tích Ngọc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白雨朔",
+    "target": "Bạch Vũ Sóc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李唯思",
+    "target": "Lý Duy Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

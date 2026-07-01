@@ -1,0 +1,63 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 父子.md",
+    "translated_file": "Chương 0001 Phụ tử.md",
+    "chapter": "Chương 0001 Phụ tử.md",
+    "summary": {
+      "main_events": "Trong bữa cơm, Tô Long bất ngờ thông báo với con trai Tô Vũ quyết định sẽ tái nhập ngũ vào Trấn Ma Quân để ra tiền tuyến. Mặc cho Tô Vũ ra sức khuyên can và bực tức dọa sẽ đi ở rể, Tô Long vẫn dứt khoát lên đường.",
+      "new_characters": [
+        "Tô Long",
+        "Tô Vũ"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 四大学府体系.md",
+    "translated_file": "Chương 0002 Tứ Đại Học Phủ Hệ Thống.md",
+    "chapter": "Chương 0002 Tứ Đại Học Phủ Hệ Thống.md",
+    "summary": {
+      "main_events": "Tô Long rời đi, Tô Vũ lo lắng, quyết định đăng ký học phủ chiến tranh dù khó khăn; chuẩn bị thi và đối mặt với ác mộng kéo dài.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 万族图册.md",
+    "translated_file": "Chương 0003 Vạn Tộc Đồ Sách.md",
+    "chapter": "Chương 0003 Vạn Tộc Đồ Sách.md",
+    "summary": {
+      "main_events": "Tô Vũ đến thư viện để tìm hiểu về Lũ Ngư nhằm giải mã giấc mơ kỳ lạ của mình, đồng thời tìm kiếm phương pháp gia tốc tu luyện cảnh giới Khai Nguyên dù được cảnh báo về sự nguy hiểm.",
+      "new_characters": [
+        "Lưu Nguyệt"
+      ]
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 开元加速法.md",
+    "translated_file": "Chương 0004 Pháp gia tốc Khai Nguyên.md",
+    "chapter": "Chương 0004 Pháp gia tốc Khai Nguyên.md",
+    "summary": {
+      "main_events": "Tô Vũ nghiên cứu các phương pháp gia tốc cảnh giới Khai Nguyên trong thư viện và nhận ra chúng đều không khả thi hoặc quá đắt đỏ. Cậu hỏi Lưu Nguyệt về nguyên khí dịch và quyết định từ bỏ sau khi biết giá cả quá cao, đồng thời tiết lộ việc mình đã đăng ký thi vào Chiến tranh học phủ.",
+      "new_characters": [
+        "Lưu Nguyệt"
+      ]
+    }
+  },
+  {
+    "chapter_index": 5,
+    "chapter_file": "Chapter 0005 梦境（元宵节快乐）.md",
+    "translated_file": "Chương 0005 Mộng cảnh (Chúc mừng Tết Nguyên Tiêu).md",
+    "chapter": "Chương 0005 Mộng cảnh (Chúc mừng Tết Nguyên Tiêu).md",
+    "summary": {
+      "main_events": "Tô Vũ xem tin tức về Phủ chủ Hạ Long Vũ và Long Vũ Vệ, mơ ước thi vào Long Vũ Chiến Tranh Học Phủ. Trong giấc mộng bị Thiết Dực Điểu giết, hắn nghe và hiểu được đối phương muốn máu, liền quyết định sẽ đi mua máu Thiết Dực Điểu để giải mã giấc mộng.",
+      "new_characters": [
+        "夏龙武",
+        "苏龙",
+        "周破天"
+      ]
+    }
+  }
+]

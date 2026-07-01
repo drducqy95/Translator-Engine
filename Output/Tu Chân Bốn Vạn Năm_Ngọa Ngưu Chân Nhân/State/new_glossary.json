@@ -1,0 +1,1121 @@
+[
+  {
+    "raw": "浮戈城",
+    "target": "Phù Qua Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "飞灵宗",
+    "target": "Phi Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "赤霄派",
+    "target": "phái Xích Tiêu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "青龙门",
+    "target": "Thanh Long Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "野狼帮",
+    "target": "Dã Lang Bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "立体光幕仪",
+    "target": "thiết bị quang mạc lập thể",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "回",
+    "target": "hồi",
+    "type": "symbol",
+    "origin": "chinese",
+    "name_type": "symbol"
+  },
+  {
+    "raw": "无影剑派",
+    "target": "Vô Ảnh Kiếm Phái",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "紫电",
+    "target": "tử điện",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "星击盾",
+    "target": "Tinh Kích Thuẫn",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "修真40000年",
+    "target": "Tu Chân 40000 năm",
+    "type": "art",
+    "origin": "chinese",
+    "name_type": "work"
+  },
+  {
+    "raw": "赤霄派附属第二高中",
+    "target": "Trung học số 2 trực thuộc phái Xích Tiêu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "地下晶轨三号线",
+    "target": "Tuyến đường sắt tinh thể ngầm số 3",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "infrastructure"
+  },
+  {
+    "raw": "灵蛇身法",
+    "target": "Linh Xà Thân Pháp",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "Trung học số 2 Xích Tiêu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "九大精英联校",
+    "target": "Chín trường tinh anh liên hợp",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school_group"
+  },
+  {
+    "raw": "大荒战院",
+    "target": "Học viện chiến đấu Đại Hoang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "联邦军",
+    "target": "Quân liên bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "military"
+  },
+  {
+    "raw": "赤霄运输集团",
+    "target": "Tập đoàn vận tải Xích Tiêu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "company"
+  },
+  {
+    "raw": "玄鸟战梭",
+    "target": "Huyền điểu chiến toa",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "vehicle"
+  },
+  {
+    "raw": "九大精英联校",
+    "target": "Chín trường liên kết tinh anh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "太虚幻境",
+    "target": "Thái Hư Huyễn Cảnh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "战兽十三势",
+    "target": "Chiến Thú Thập Tam Thế",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "噬心虫",
+    "target": "Phệ Tâm Trùng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "灵山宗",
+    "target": "Linh San Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "血杀堡",
+    "target": "Huyết Sát Bảo",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "大黑暗时代",
+    "target": "Đại Hắc Ám Thời Đại",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "妖神病毒",
+    "target": "Yêu Thần Virus",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "妖兽",
+    "target": "yêu thú",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "妖族",
+    "target": "yêu tộc",
+    "type": "race",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "天琴门",
+    "target": "Thiên Cầm Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "广陵7型",
+    "target": "Quảng Lăng 7",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "林荫",
+    "target": "bóng rừng",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "浮戈城",
+    "target": "Phù Qua Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "朝阳新村",
+    "target": "khu nhà mới Triều Dương",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "无渊海",
+    "target": "Vô Uyên Hải",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "脊刺鲨",
+    "target": "Tích Thứ Sa",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "一百零八手披风乱锤法",
+    "target": "Một trăm lẻ tám thức Phi Phong Loạn Chùy Pháp",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "百炼宗",
+    "target": "Bách Luyện Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "万剑古冢",
+    "target": "Vạn Kiếm Cổ Trủng",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "光阴大阵",
+    "target": "Quang Âm Đại Trận",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "百炼宗",
+    "target": "Bách Luyện Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "星空巨兽",
+    "target": "Cự Linh Thần",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "food"
+  },
+  {
+    "raw": "隐湖小境",
+    "target": "Ẩn Hồ Tiểu Cảnh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "隐冬湖",
+    "target": "Ẩn Đông Hồ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "女儿红",
+    "target": "Nữ Nhi Hồng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "Trường Đỏ Tiêu Nhị Trung",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "浮戈城",
+    "target": "Phù Qua Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "凤山二中",
+    "target": "Phượng San Nhị Trung",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "浮戈城",
+    "target": "Phù Qua Thành",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "军道杀狼修炼馆",
+    "target": "Quân Đạo Sát Lang Tu Luyện Quán",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "纹面符",
+    "target": "phù xăm mặt",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "第五套健身体操",
+    "target": "thể thao thể hình thứ năm",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "第九套健身体操",
+    "target": "thể thao thể hình thứ chín",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "一百零八手披风乱锤法",
+    "target": "Phi Phong Loạn Chùy Pháp",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "Xích Tiêu Nhị Trung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "军道杀狼修炼馆",
+    "target": "võ quán Quân Đạo Sát Lang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "Xích Tiêu nhị trung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "火云掌",
+    "target": "Hỏa Vân Chưởng",
+    "type": "shop",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "妙音宗",
+    "target": "Diệu Âm Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "音铃",
+    "target": "Âm Linh",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "GALA乐队",
+    "target": "ban nhạc GALA",
+    "type": "organization",
+    "origin": "western",
+    "name_type": "band"
+  },
+  {
+    "raw": "征服太平洋",
+    "target": "Chinh phục Thái Bình dương",
+    "type": "song",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "Xích Tiêu Nhị Trung",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "平行班",
+    "target": "lớp thường",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "重点班",
+    "target": "lớp chọn",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "一百零八手披风乱锤法",
+    "target": "Một trăm lẻ tám đường Phi Phong Loạn Chùy pháp",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "征服全宇宙",
+    "target": "Chinh Phục Toàn Vũ Trụ",
+    "type": "art",
+    "origin": "chinese",
+    "name_type": "song"
+  },
+  {
+    "raw": "普通班",
+    "target": "ban phổ thông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "trường trung học số 2 Xích Tiêu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "联邦少年极限挑战赛",
+    "target": "Liên bang Thiếu niên Cực hạn Khiêu chiến thi đấu",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "战兽十三势",
+    "target": "Chiến Thú Thập Tam Thế",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "妙音宗",
+    "target": "Diệu Âm Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "音铃",
+    "target": "Âm Linh",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "Xích Tiêu Nhị Trung",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "晶脑",
+    "target": "tinh não",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon_item"
+  },
+  {
+    "raw": "军道杀狼修炼馆",
+    "target": "Tu Luyện Quán Quân Đạo Sát Lang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "Trung học Xích Tiêu số 2",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "trường Trung học số 2 Xích Tiêu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "激战时刻",
+    "target": "Thời Khắc Kịch Chiến",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "晶脑",
+    "target": "tinh não",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "灵能浮空船",
+    "target": "linh năng phù không thuyền",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Ma Giao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "fictional"
+  },
+  {
+    "raw": "炼体者",
+    "target": "luyện thể giả",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "fictional"
+  },
+  {
+    "raw": "噗叽兽",
+    "target": "thú Phốc Kỉ",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "fictional"
+  },
+  {
+    "raw": "微型晶脑",
+    "target": "tinh não thu nhỏ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "fictional"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Ma Giao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "星耀联邦",
+    "target": "Tinh Diệu Liên Bang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "妖神病毒",
+    "target": "Virus Yêu Thần",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "晶脑",
+    "target": "tinh não",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "拟兽古武学",
+    "target": "Cổ võ học mô phỏng thú",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "辽远号",
+    "target": "Liêu Viễn hào",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "vehicle"
+  },
+  {
+    "raw": "天野号",
+    "target": "Thiên Dã hào",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "vehicle"
+  },
+  {
+    "raw": "星耀联邦",
+    "target": "Tinh Diệu Liên Bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "nation"
+  },
+  {
+    "raw": "东极妖国",
+    "target": "Đông Cực Yêu Quốc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "nation"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "Ma Giao Đảo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "island"
+  },
+  {
+    "raw": "九星升龙旗",
+    "target": "Cờ Cửu Tinh Thăng Long",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "flag"
+  },
+  {
+    "raw": "东海之滨",
+    "target": "Đông Hải chi tân",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "星云大学",
+    "target": "Đại học Tinh Vân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "天幻书院",
+    "target": "Thiên Huyễn Thư Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "灵子",
+    "target": "linh tử",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "灵子对撞机",
+    "target": "máy va chạm linh tử",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "星云大学",
+    "target": "Đại học Tinh Vân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "institution"
+  },
+  {
+    "raw": "天都医学院",
+    "target": "Học viện Y khoa Thiên Đô",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "institution"
+  },
+  {
+    "raw": "深海大学",
+    "target": "Đại học Thâm Hải",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "institution"
+  },
+  {
+    "raw": "九大精英联校",
+    "target": "Chín Trường Tinh Anh Liên Kết",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "institution"
+  },
+  {
+    "raw": "太虚幻境",
+    "target": "Thái Hư Huyễn Cảnh",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "灵子对撞机",
+    "target": "máy gia tốc hạt linh tử",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "technology"
+  },
+  {
+    "raw": "反妖兽防御系统",
+    "target": "Hệ thống phòng ngự phản yêu thú",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "technology"
+  },
+  {
+    "raw": "晶磁炮",
+    "target": "tinh từ pháo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "晶铠",
+    "target": "tinh khải",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "armor"
+  },
+  {
+    "raw": "深海大学",
+    "target": "Đại học Biển Sâu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "大荒战院",
+    "target": "Đại Hoang Chiến Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "无人驾驭飞剑",
+    "target": "Phi kiếm không người lái",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "炼体者",
+    "target": "người luyện thể",
+    "type": "job",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "大荒战院",
+    "target": "Đại Hoang Chiến Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "天幻书院",
+    "target": "Thiên Huyễn Thư Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "大荒战院",
+    "target": "Đại Hoang Chiến Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "天幻书院",
+    "target": "Thiên Huyễn Thư Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "深海大学",
+    "target": "Đại học Biển Sâu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "辽远号",
+    "target": "Liêu Viễn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "vessel"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "Giao Đảo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Ma Giao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "天元界",
+    "target": "Thiên Nguyên Giới",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "辽远号",
+    "target": "tàu Liêu Viễn",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Ma Giao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "第一军事学院",
+    "target": "Đệ Nhất Học viện Quân sự",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "噗叽兽",
+    "target": "thú Phốc Kỉ",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "monster"
+  },
+  {
+    "raw": "幻藤",
+    "target": "Huyễn Đằng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "plant"
+  },
+  {
+    "raw": "三目猿",
+    "target": "Tam Mục Vượn",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "噗叽兽",
+    "target": "Phốc Chít Chít",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Ma Giao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "辽远号",
+    "target": "tàu Liêu Viễn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "vehicle"
+  },
+  {
+    "raw": "虎鲨",
+    "target": "cá mập hổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "雷霆",
+    "target": "Lôi Đình",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "焚天",
+    "target": "Đốt Trời",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "焚天战斧",
+    "target": "Phàn Thiên chiến phủ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "晶元炸弹",
+    "target": "bom Tinh Nguyên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "赤霄二中",
+    "target": "trường trung học số 2 Xích Tiêu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "school"
+  },
+  {
+    "raw": "深海大学",
+    "target": "Đại học Biển Sâu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "university"
+  },
+  {
+    "raw": "星云大学",
+    "target": "Đại học Tinh Vân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "university"
+  },
+  {
+    "raw": "焚天战斧",
+    "target": "Chiến Phủ Đốt Trời",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "链锯剑",
+    "target": "Kiếm Xích Cưa",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "雷霆战刀",
+    "target": "Đao Chiến Lôi Đình",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Ma Giao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "噗叽兽",
+    "target": "thú Puji",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "小吉",
+    "target": "Tiểu Cát",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "灵子对撞机",
+    "target": "Linh Tử Đối Chàng Cơ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "辽远号",
+    "target": "Liêu Viễn Hào",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Vu Ma Giao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Ma Giao",
+    "type": "location",
+    "origin": "chinese"
+  },
+  {
+    "raw": "链锯剑",
+    "target": "kiếm cưa xích",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "焚天战斧",
+    "target": "búa chiến Phần Thiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "噗叽兽",
+    "target": "thú Phốc Kỉ",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Ma Giao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "深海大学",
+    "target": "đại học Biển Sâu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "翻天印",
+    "target": "Phiên Thiên Ấn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "魔蛟岛",
+    "target": "đảo Ma Giao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "浮戈城",
+    "target": "Phù Qua Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "噗叽兽",
+    "target": "sinh vật hỗ trợ",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "object"
+  }
+]

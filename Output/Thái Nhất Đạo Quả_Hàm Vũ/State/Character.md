@@ -1,0 +1,116 @@
+# Character Dictionary
+
+- **姜离** -> Khương Ly
+- **周明云** -> Chu Minh Vân
+- **姜离** -> Khương Ly
+- **杨冲** -> Dương Trùng
+- **罗仪** -> La Nghi
+- **姜冲** -> Khương Trùng
+- **罗大师** -> La đại sư
+- **风紫阳** -> Phong Tử Dương
+- **姜师弟** -> Khương Sư Đệ
+- **齐长生** -> Tề Trường Sanh
+- **姜离** -> Khương Ly
+- **云长老** -> Vân Trường Lão
+- **周明云** -> Chu Minh Vân
+- **阿宾** -> A Tân
+- **罗仪** -> La Nghi
+- **姜逐云** -> Khương Trục Vân
+- **万长老** -> Vạn Trường Lão
+- **姜逐云** -> Khương Trục Vân
+- **风紫阳** -> Phong Tử Dương
+- **丁震** -> Đinh Chấn
+- **蔡志英** -> Thái Chí Anh
+- **易扬** -> Dịch Dương
+- **吕忘机** -> Lữ Vong Ky
+- **炎帝** -> Viêm Đế
+- **风紫阳** -> Phong Tử Dương
+- **炎帝** -> Viêm Đế
+- **炎帝** -> Viêm Đế
+- **哮天犬** -> Hao Thiên Khuyển
+- **罗仪** -> La Nghi
+- **姜离** -> Khương Ly
+- **公孙青玥** -> Công Tôn Thanh Nguyệt
+- **姜逐云** -> Khương Trục Vân
+- **风紫阳** -> Phong Tử Dương
+- **风紫阳** -> Tử Dương
+- **天蓬** -> Tiên Bồng
+- **姜离** -> Khương Ly
+- **庞然巨** -> Bàng Nhiên Cự
+- **齐长生** -> Tề Trường Sanh
+- **天蓬** -> Tiên Bồng
+- **曹玄德** -> Tào Huyền Đức
+- **公孙师姐** -> Công Tôn Sư Tả
+- **红颜** -> hồng nhan
+- **姜离** -> Khương Ly
+- **公孙青玥** -> Công Tôn Thanh Nguyệt
+- **惊雷** -> Kinh Lôi
+- **曹玄德** -> Tào Huyền Đức
+- **秋水** -> Thu Thuỷ
+- **公孙青玥** -> Công Tôn Thanh Nguyệt
+- **姜离** -> Khương Ly
+- **天蓬** -> Thiên Bồng
+- **齐长生** -> Tề Trường Sanh
+- **墨武** -> Mặc Vũ
+- **姜离** -> Khương Ly
+- **老虎** -> lão hổ
+- **曹玄德** -> Tào Huyền Đức
+- **须弥** -> Sumeru
+- **齐长生** -> Tề Trường Sanh
+- **天蓬** -> Thiên Bồng
+- **姜氏** -> Khương Thị
+- **姜逐云** -> Khương Trục Vân
+- **阿宾** -> A Tân
+- **公孙青玥** -> Công Tôn Thanh Nguyệt
+- **天蓬** -> Thiên Bồng
+- **姜逐云** -> Khương Trục Vân
+- **公孙青玥** -> Công Tôn Thanh Nguyệt
+- **姜离** -> Khương Ly
+- **天璇** -> Thiên Tuyền
+- **兰花** -> Hoa Lan
+- **姜离** -> Khương Ly
+- **墨武** -> Mặc Vũ
+- **罗仪** -> La Nghi
+- **姜逐云** -> Khương Trục Vân
+- **公孙青玥** -> Công Tôn Thanh Nguyệt
+- **应龙** -> Ứng Long
+- **蓬元帅** -> Bồng Nguyên Suất
+- **蚩尤** -> Xi Vưu
+- **夸父** -> Khoa Phụ
+- **地祇** -> Địa Kỳ
+- **天璇长老** -> Trưởng lão Thiên Tuyền
+- **公孙青玥** -> Công Tôn Thanh Nguyệt
+- **姜离** -> Khương Ly
+- **姜逐云** -> Khương Trục Vân
+- **摇光** -> Diêu Quang
+- **罗仪** -> La Nghi
+- **天蓬长老** -> Trưởng lão Thiên Bồng
+- **曹玄德** -> Tào Huyền Đức
+- **萧师道** -> Tiêu Sư Đạo
+- **秋水** -> Thu Thủy
+- **叶雨迟** -> Diệp Vũ Trì
+- **吕忘机** -> Lữ Vong Ky
+- **姜离** -> Khương Ly
+- **墨蛇** -> Mặc Xà
+- **王重阳** -> Vương Trùng Dương
+- **风紫阳** -> Phong Tử Dương
+- **风紫阳** -> Phong Tử Dương
+- **叶雨迟** -> Diệp Vũ Trì
+- **李淳风** -> Lý Thuần Phong
+- **姜离** -> Khương Ly
+- **姜逐云** -> Khương Trục Vân
+- **公孙青玥** -> Công Tôn Thanh Nguyệt
+- **李重岳** -> Lý Trọng Nhạc
+- **张振阳** -> Trương Chấn Dương
+- **吕忘机** -> Lữ Vong Ky
+- **公孙青玥** -> Công Tôn Thanh Nguyệt
+- **万长老** -> Vạn Trường Lão
+- **纪云流** -> Kỉ Vân Lưu
+- **云九夜** -> Vân Cửu Dạ
+- **风紫阳** -> Phong Tử Dương
+- **妘秋池** -> Vân Thu Trì
+- **炎帝** -> Viêm Đế
+- **炎帝** -> Viêm Đế
+- **向枢使** -> Hướng Khu Sứ
+- **向枢使** -> Hướng Xu Sứ
+- **姜洛** -> Khương Lạc

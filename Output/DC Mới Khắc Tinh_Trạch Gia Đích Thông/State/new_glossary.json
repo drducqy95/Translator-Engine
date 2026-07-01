@@ -1,0 +1,51 @@
+[
+  {
+    "raw": "氪星",
+    "target": "Krypton",
+    "type": "place",
+    "origin": "latin",
+    "name_type": "location"
+  },
+  {
+    "raw": "曙光探索号",
+    "target": "Ánh Rạng Đông",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "spaceship"
+  },
+  {
+    "raw": "氪星",
+    "target": "Krypton",
+    "type": "location",
+    "origin": "dc_comics",
+    "name_type": "place"
+  },
+  {
+    "raw": "坎多城",
+    "target": "Kandor",
+    "type": "location",
+    "origin": "dc_comics",
+    "name_type": "place"
+  },
+  {
+    "raw": "氪星",
+    "target": "Krypton",
+    "type": "location",
+    "origin": "western",
+    "name_type": "place"
+  },
+  {
+    "raw": "生命法典",
+    "target": "Pháp điển",
+    "type": "object",
+    "origin": "western",
+    "name_type": "item"
+  },
+  {
+    "raw": "曙光系统",
+    "target": "hệ thống Ánh Rạng Đông",
+    "type": "object",
+    "origin": "western",
+    "name_type": "item"
+  }
+]

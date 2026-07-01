@@ -1,0 +1,1549 @@
+[
+  {
+    "raw": "神之眼",
+    "target": "Thần Nhãn",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "哈达",
+    "target": "Hada",
+    "type": "deity",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn đói của Hada",
+    "type": "spell",
+    "origin": "fantasy",
+    "name_type": "spell"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn đói của Hadar",
+    "type": "spell",
+    "origin": "unknown",
+    "name_type": "spell"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn đói của Hada",
+    "type": "spell",
+    "origin": "unknown",
+    "name_type": "skill"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "Học viện Caron",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "普兰蒂斯大陆",
+    "target": "đại lục Plantis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Tri Thức",
+    "type": "god",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn đói của Hadar",
+    "type": "spell",
+    "origin": "latin",
+    "name_type": "skill"
+  },
+  {
+    "raw": "辉光神教",
+    "target": "Quang Huy Thần Giáo",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "真名知晓",
+    "target": "Biết được chân danh",
+    "type": "spell",
+    "origin": "fantasy",
+    "name_type": "spell"
+  },
+  {
+    "raw": "雷亚克王国",
+    "target": "vương quốc Reak",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "Học viện Caron",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "普兰蒂斯大陆",
+    "target": "lục địa Plantis",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "锻锤镇",
+    "target": "thị trấn Rèn Búa",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "迷雾海",
+    "target": "biển Sương Mù",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "幽暗森林",
+    "target": "rừng U Ám",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "普兰蒂斯",
+    "target": "Plandis",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "雷亚克",
+    "target": "Reyak",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "học viện Caron",
+    "type": "organization",
+    "origin": "unknown",
+    "name_type": "organization"
+  },
+  {
+    "raw": "莫尼兄弟酒馆",
+    "target": "Tửu quán anh em Moni",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "奥术飞弹",
+    "target": "Phi đạn áo thuật",
+    "type": "spell",
+    "origin": "unknown",
+    "name_type": "spell"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "下城区",
+    "target": "khu Hạ Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "上城区",
+    "target": "khu Thượng Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "莫尼兄弟酒馆",
+    "target": "Moni Gia",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "庄园",
+    "target": "trang viên",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "王八蛋",
+    "target": "khốn kiếp",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "晋升",
+    "target": "tấn thăng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "兰蒂斯",
+    "target": "Plandis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn Đói Của Hada",
+    "type": "spell",
+    "origin": "chinese",
+    "name_type": "spell"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Cầu Tri Chi Thần",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "title"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "公正之神菲尔",
+    "target": "Công Chính Chi Thần Phil",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "title"
+  },
+  {
+    "raw": "雷亚克王国",
+    "target": "vương quốc Reyak",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "god"
+  },
+  {
+    "raw": "公正之神",
+    "target": "Công chính chi thần",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "god"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "血牙帮",
+    "target": "bang Huyết Nha",
+    "type": "organization",
+    "origin": "unknown",
+    "name_type": "group"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "兰蒂斯",
+    "target": "Plandis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "雷亚克",
+    "target": "Reyack",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "country"
+  },
+  {
+    "raw": "斯塔罗什",
+    "target": "Starosh",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "region"
+  },
+  {
+    "raw": "潜行者",
+    "target": "Tiềm hành giả",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "class"
+  },
+  {
+    "raw": "潜行者",
+    "target": "Tiềm Hành Giả",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "Học viện Carone",
+    "type": "organization",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "血牙帮",
+    "target": "bang Huyết Nha",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Cầu Tri",
+    "type": "entity",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "下城区",
+    "target": "khu Hạ Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "净息术",
+    "target": "Tịnh Tức Thuật",
+    "type": "magic",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "血牙帮",
+    "target": "Huyết Nha bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "净息术",
+    "target": "Tịnh Tức Thuật",
+    "type": "magic",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "Học viện Caron",
+    "type": "organization",
+    "origin": "english",
+    "name_type": "organization"
+  },
+  {
+    "raw": "奥法学派",
+    "target": "học phái Áo pháp",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "血牙帮",
+    "target": "bang Huyết Nha",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "莫尼兄弟酒馆",
+    "target": "quán rượu anh em Moni",
+    "type": "location",
+    "origin": "english",
+    "name_type": "location"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "english",
+    "name_type": "location"
+  },
+  {
+    "raw": "真名知晓",
+    "target": "Biết Được Tên Thật",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "潜行",
+    "target": "Tiềm Hành",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "钟声",
+    "target": "tiếng chuông",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "公正",
+    "target": "công chính",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "雷亚克王国",
+    "target": "vương quốc Reyak",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "战士公会",
+    "target": "Công hội Chiến binh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "莫尼兄弟酒馆",
+    "target": "quán rượu Anh em nhà Moni",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "外神",
+    "target": "Ngoại thần",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "职业者",
+    "target": "chức nghiệp giả",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "雷亚克",
+    "target": "Reyack",
+    "type": "other",
+    "origin": "western",
+    "name_type": "other"
+  },
+  {
+    "raw": "普兰蒂斯",
+    "target": "Plantis",
+    "type": "location",
+    "origin": "western",
+    "name_type": "location"
+  },
+  {
+    "raw": "求知教派",
+    "target": "Giáo phái Cầu Tri",
+    "type": "faction",
+    "origin": "vietnamese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "下城区",
+    "target": "khu Hạ Thành",
+    "type": "location",
+    "origin": "vietnamese",
+    "name_type": "location"
+  },
+  {
+    "raw": "奥术",
+    "target": "áo thuật",
+    "type": "other",
+    "origin": "vietnamese",
+    "name_type": "other"
+  },
+  {
+    "raw": "职业者",
+    "target": "Chức nghiệp giả",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "评级职业者",
+    "target": "Chức nghiệp giả xếp hạng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "知识点数",
+    "target": "điểm tri thức",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "怒气",
+    "target": "nộ khí",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "格林",
+    "target": "Grimm",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Cầu Tri",
+    "type": "deity",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "普鲁斯特",
+    "target": "Proust",
+    "type": "deity",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "财富之神",
+    "target": "Thần Tài Phú",
+    "type": "deity",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "英勇打击",
+    "target": "Anh Dũng Đả Kích",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "知识点数",
+    "target": "Điểm Tri Thức",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "system_currency"
+  },
+  {
+    "raw": "猪头酒吧",
+    "target": "quán bar Đầu Heo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "普兰蒂斯",
+    "target": "Plandis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "continent"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "格林港",
+    "target": "Green Cảng",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "普兰蒂斯大陆",
+    "target": "đại lục Plandis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "血牙帮",
+    "target": "Huyết Nha Bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "神之眼",
+    "target": "Thần Chi Nhãn",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "血色轮盘",
+    "target": "Vòng Quay Máu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "奥术弹幕",
+    "target": "Phi đạn áo thuật",
+    "type": "spell",
+    "origin": "chinese",
+    "name_type": "spell"
+  },
+  {
+    "raw": "吾主的真理普照大地",
+    "target": "Chân lý của chủ ta phổ chiếu đại địa",
+    "type": "quest",
+    "origin": "chinese",
+    "name_type": "quest"
+  },
+  {
+    "raw": "冥想",
+    "target": "Thiền định",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "化雨术",
+    "target": "Hóa Vũ Thuật",
+    "type": "spell",
+    "origin": "chinese",
+    "name_type": "spell"
+  },
+  {
+    "raw": "神之眼",
+    "target": "Thần Chi Nhãn",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "哈达",
+    "target": "Ha-đa",
+    "type": "deity",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn đói của Hada",
+    "type": "spell",
+    "origin": "fantasy",
+    "name_type": "spell"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn đói của Hadar",
+    "type": "spell",
+    "origin": "unknown",
+    "name_type": "spell"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn đói của Hada",
+    "type": "spell",
+    "origin": "unknown",
+    "name_type": "skill"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "Học viện Caron",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "普兰蒂斯大陆",
+    "target": "đại lục Plantis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Tri Thức",
+    "type": "god",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn đói của Hadar",
+    "type": "spell",
+    "origin": "latin",
+    "name_type": "skill"
+  },
+  {
+    "raw": "辉光神教",
+    "target": "Quang Huy Thần Giáo",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "真名知晓",
+    "target": "Biết được chân danh",
+    "type": "spell",
+    "origin": "fantasy",
+    "name_type": "spell"
+  },
+  {
+    "raw": "雷亚克王国",
+    "target": "vương quốc Reak",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "Học viện Caron",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "普兰蒂斯大陆",
+    "target": "lục địa Plantis",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "锻锤镇",
+    "target": "thị trấn Rèn Búa",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "迷雾海",
+    "target": "biển Sương Mù",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "幽暗森林",
+    "target": "rừng U Ám",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "普兰蒂斯",
+    "target": "Plandis",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "雷亚克",
+    "target": "Reyak",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "học viện Caron",
+    "type": "organization",
+    "origin": "unknown",
+    "name_type": "organization"
+  },
+  {
+    "raw": "莫尼兄弟酒馆",
+    "target": "Tửu quán anh em Moni",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "奥术飞弹",
+    "target": "Phi đạn áo thuật",
+    "type": "spell",
+    "origin": "unknown",
+    "name_type": "spell"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "下城区",
+    "target": "khu Hạ Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "上城区",
+    "target": "khu Thượng Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "莫尼兄弟酒馆",
+    "target": "Moni Gia",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "庄园",
+    "target": "trang viên",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "王八蛋",
+    "target": "khốn kiếp",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "晋升",
+    "target": "tấn thăng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "兰蒂斯",
+    "target": "Plandis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "哈达之饥渴",
+    "target": "Cơn Đói Của Hada",
+    "type": "spell",
+    "origin": "chinese",
+    "name_type": "spell"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Cầu Tri Chi Thần",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "title"
+  },
+  {
+    "raw": "诺文",
+    "target": "Norwin",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "公正之神菲尔",
+    "target": "Công Chính Chi Thần Phil",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "title"
+  },
+  {
+    "raw": "雷亚克王国",
+    "target": "vương quốc Reyak",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Ma Pháp Nữ Thần",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "god"
+  },
+  {
+    "raw": "公正之神",
+    "target": "Công chính chi thần",
+    "type": "deity",
+    "origin": "unknown",
+    "name_type": "god"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "unknown",
+    "name_type": "place"
+  },
+  {
+    "raw": "血牙帮",
+    "target": "bang Huyết Nha",
+    "type": "organization",
+    "origin": "unknown",
+    "name_type": "group"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "兰蒂斯",
+    "target": "Plandis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "雷亚克",
+    "target": "Reyack",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "country"
+  },
+  {
+    "raw": "斯塔罗什",
+    "target": "Starosh",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "region"
+  },
+  {
+    "raw": "潜行者",
+    "target": "Tiềm hành giả",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "class"
+  },
+  {
+    "raw": "潜行者",
+    "target": "Tiềm Hành Giả",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "Học viện Carone",
+    "type": "organization",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "血牙帮",
+    "target": "Huyết Nha bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "净息术",
+    "target": "Tịnh Tức Thuật",
+    "type": "magic",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "卡罗恩学院",
+    "target": "Học viện Caron",
+    "type": "organization",
+    "origin": "english",
+    "name_type": "organization"
+  },
+  {
+    "raw": "奥法学派",
+    "target": "học phái Áo pháp",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "血牙帮",
+    "target": "bang Huyết Nha",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "莫尼兄弟酒馆",
+    "target": "quán rượu anh em Moni",
+    "type": "location",
+    "origin": "english",
+    "name_type": "location"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "english",
+    "name_type": "location"
+  },
+  {
+    "raw": "真名知晓",
+    "target": "Biết Được Tên Thật",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "潜行",
+    "target": "Tiềm Hành",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "雷亚克王国",
+    "target": "vương quốc Reyak",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "格林港",
+    "target": "cảng Green",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "战士公会",
+    "target": "Công hội Chiến binh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "莫尼兄弟酒馆",
+    "target": "quán rượu Anh em nhà Moni",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "外神",
+    "target": "Ngoại thần",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "职业者",
+    "target": "chức nghiệp giả",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "雷亚克",
+    "target": "Reyack",
+    "type": "other",
+    "origin": "western",
+    "name_type": "other"
+  },
+  {
+    "raw": "普兰蒂斯",
+    "target": "Plantis",
+    "type": "location",
+    "origin": "western",
+    "name_type": "location"
+  },
+  {
+    "raw": "求知教派",
+    "target": "Giáo phái Cầu Tri",
+    "type": "faction",
+    "origin": "vietnamese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "下城区",
+    "target": "khu Hạ Thành",
+    "type": "location",
+    "origin": "vietnamese",
+    "name_type": "location"
+  },
+  {
+    "raw": "奥术",
+    "target": "áo thuật",
+    "type": "other",
+    "origin": "vietnamese",
+    "name_type": "other"
+  },
+  {
+    "raw": "职业者",
+    "target": "Chức nghiệp giả",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "评级职业者",
+    "target": "Chức nghiệp giả xếp hạng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "知识点数",
+    "target": "điểm tri thức",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "怒气",
+    "target": "nộ khí",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "格林",
+    "target": "Grimm",
+    "type": "location",
+    "origin": "latin",
+    "name_type": "place"
+  },
+  {
+    "raw": "求知之神",
+    "target": "Thần Cầu Tri",
+    "type": "deity",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "普鲁斯特",
+    "target": "Proust",
+    "type": "deity",
+    "origin": "latin",
+    "name_type": "person"
+  },
+  {
+    "raw": "财富之神",
+    "target": "Thần Tài Phú",
+    "type": "deity",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "英勇打击",
+    "target": "Anh Dũng Đả Kích",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "知识点数",
+    "target": "Điểm Tri Thức",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "system_currency"
+  },
+  {
+    "raw": "猪头酒吧",
+    "target": "quán bar Đầu Heo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "普兰蒂斯",
+    "target": "Plandis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "continent"
+  },
+  {
+    "raw": "格林",
+    "target": "Green",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "格林港",
+    "target": "Green Cảng",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "普兰蒂斯大陆",
+    "target": "đại lục Plandis",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "血牙帮",
+    "target": "Huyết Nha Bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "神之眼",
+    "target": "Thần Chi Nhãn",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "血色轮盘",
+    "target": "Vòng Quay Máu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "奥术弹幕",
+    "target": "Phi đạn áo thuật",
+    "type": "spell",
+    "origin": "chinese",
+    "name_type": "spell"
+  },
+  {
+    "raw": "吾主的真理普照大地",
+    "target": "Chân lý của chủ ta phổ chiếu đại địa",
+    "type": "quest",
+    "origin": "chinese",
+    "name_type": "quest"
+  },
+  {
+    "raw": "冥想",
+    "target": "Thiền định",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "化雨术",
+    "target": "Hóa Vũ Thuật",
+    "type": "spell",
+    "origin": "chinese",
+    "name_type": "spell"
+  },
+  {
+    "raw": "马甲",
+    "target": "áo lót",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "节能施法",
+    "target": "Thi pháp tiết kiệm",
+    "type": "skill",
+    "origin": "fantasy",
+    "name_type": "skill"
+  },
+  {
+    "raw": "双手剑掌握",
+    "target": "Nắm giữ kiếm hai tay",
+    "type": "skill",
+    "origin": "fantasy",
+    "name_type": "skill"
+  },
+  {
+    "raw": "怒气勃发",
+    "target": "Nộ khí bừng bừng",
+    "type": "skill",
+    "origin": "fantasy",
+    "name_type": "skill"
+  },
+  {
+    "raw": "盾牌掌握",
+    "target": "Nắm giữ khiên",
+    "type": "skill",
+    "origin": "fantasy",
+    "name_type": "skill"
+  },
+  {
+    "raw": "盾牌格挡",
+    "target": "Đỡ đòn bằng khiên",
+    "type": "skill",
+    "origin": "fantasy",
+    "name_type": "skill"
+  },
+  {
+    "raw": "修行模拟器",
+    "target": "Tu hành máy giả lập",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "横扫剑术",
+    "target": "Quét ngang kiếm thuật",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "破甲打击",
+    "target": "Phá giáp đả kích",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "双手剑掌握-基础",
+    "target": "Nắm giữ kiếm hai tay - cơ sở",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "修行模拟器",
+    "target": "Trình mô phỏng tu hành",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "传奇等级",
+    "target": "Cấp độ truyền kỳ",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "terminology"
+  },
+  {
+    "raw": "牧师",
+    "target": "Mục sư",
+    "type": "class",
+    "origin": "chinese",
+    "name_type": "class"
+  },
+  {
+    "raw": "修行模拟器",
+    "target": "bộ mô phỏng tu luyện",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "战技",
+    "target": "kỹ năng chiến đấu",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "神术",
+    "target": "thần thuật",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "六维属性",
+    "target": "6 thuộc tính",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "attribute"
+  },
+  {
+    "raw": "神谕",
+    "target": "thần dụ",
+    "type": "communication",
+    "origin": "chinese",
+    "name_type": "communication"
+  },
+  {
+    "raw": "体质",
+    "target": "thể chất",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "attribute"
+  },
+  {
+    "raw": "力量",
+    "target": "sức mạnh",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "attribute"
+  },
+  {
+    "raw": "敏捷",
+    "target": "nhanh nhẹn",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "attribute"
+  },
+  {
+    "raw": "智力",
+    "target": "trí lực",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "attribute"
+  },
+  {
+    "raw": "精神",
+    "target": "tinh thần",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "attribute"
+  },
+  {
+    "raw": "意志",
+    "target": "ý chí",
+    "type": "attribute",
+    "origin": "chinese",
+    "name_type": "attribute"
+  },
+  {
+    "raw": "魔网",
+    "target": "lưới ma thuật",
+    "type": "magic_system",
+    "origin": "chinese",
+    "name_type": "magic_system"
+  },
+  {
+    "raw": "魔法隐修会",
+    "target": "tu viện phép thuật",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  }
+]

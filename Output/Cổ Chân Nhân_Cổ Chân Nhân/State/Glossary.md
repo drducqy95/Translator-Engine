@@ -1,0 +1,154 @@
+# Term Glossary
+
+- **春秋蝉** (item) -> Xuân Thu Thiền
+- **青茅山** (location) -> Thanh Mao Sơn
+- **古月山寨** (location) -> Cổ Nguyệt Sơn Trại
+- **春秋蝉** (item) -> Xuân Thu Thiền
+- **青茅山** (location) -> Thanh Mao Sơn
+- **古月山寨** (location) -> Cổ Nguyệt Sơn Trại
+- **困境** (creature) -> Khó Khăn
+- **希望蛊** (item) -> quái Hy Vọng
+- **力量蛊** (item) -> quái Sức Mạnh
+- **智慧蛊** (item) -> quái Trí Tuệ
+- **酒虫** (item) -> Tửu Trùng
+- **月光蛊** (item) -> Nguyệt Quang Cổ
+- **青茅山** (location) -> Thanh Mao Sơn
+- **古月山寨** (location) -> Cổ Nguyệt sơn trại
+- **月光蛊** (item) -> nguyệt quang ủng
+- **酒虫** (item) -> tửu trùng
+- **酒虫** (creature) -> Tửu Trùng
+- **酒虫** (creature) -> Tửu Trùng
+- **月光蛊** (item) -> Nguyệt Quang Cổ
+- **龙丸蛐蛐** (creature) -> dế Long Hoàn
+- **酒囊花蛊** (item) -> Tửu Nang Hoa Cổ
+- **饭袋草蛊** (item) -> Phạn Đại Thảo Cổ
+- **月影** (item) -> Nguyệt Ảnh
+- **酒虫** (item) -> Tửu Trùng
+- **留影存声蛊** (item) -> Lưu Ảnh Tồn Thanh cổ
+- **酒虫** (item) -> Tửu Trùng
+- **酒囊花蛊** (item) -> Tửu Nang Hoa cổ
+- **饭袋草蛊** (item) -> Phạn Đại Thảo cổ
+- **月影蛊** (item) -> Nguyệt Ảnh cổ
+- **酒虫** (item) -> tửu trùng
+- **月光蛊** (item) -> Nguyệt Quang Cổ
+- **春秋蝉** (item) -> Xuân Thu Thiền
+- **酒虫** (item) -> Tửu Trùng
+- **春秋蝉** (gu) -> Xuân Thu Thiền
+- **酒虫** (gu) -> Tửu Trùng
+- **月光蛊** (gu) -> Nguyệt Quang Cổ
+- **青铜真元** (glossary) -> chân nguyên đồng
+- **真元海** (glossary) -> biển chân nguyên
+- **月光蛊** (item) -> Nguyệt Quang Cổ
+- **月刃** (skill) -> Nguyệt Nhận
+- **草人蛊** (item) -> Người Rơm Cổ
+- **铜皮蛊** (item) -> Đồng Bì Cổ
+- **古月** (clan) -> Cổ Nguyệt
+- **月光蛊** (item) -> Ánh Trăng Cổ
+- **月刃** (skill) -> Nguyệt Nhận
+- **月光蛊** (term) -> Nguyệt Quang Cổ
+- **雷冠头狼** (creature) -> Lôi Quan đầu lang
+- **月光蛊** (item) -> Nguyệt Quang cổ
+- **酒虫** (item) -> Tửu trùng
+- **赤家** (faction) -> Xích gia
+- **古月一族** (faction) -> Cổ Nguyệt nhất tộc
+- **希望蛊** (item) -> Hy Vọng cổ
+- **寿蛊** (item) -> Thọ cổ
+- **力量蛊** (item) -> Lực Lượng cổ
+- **智慧蛊** (item) -> Trí Tuệ cổ
+- **规** (item) -> Quy
+- **矩** (item) -> Củ
+- **规矩** (item) -> Quy Củ
+- **春秋蝉** (item) -> Xuân Thu Thiền
+- **黄铜** (object) -> đồng thau
+- **癞土蛤蟆** (item) -> Lại Thổ Cáp Mô
+- **磐石寨** (location) -> Bàn Thạch Trại
+- **古墓寨** (location) -> Cổ Mộ Trại
+- **月光蛊** (item) -> Nguyệt Quang Cổ
+- **酒虫** (item) -> Tửu Trùng
+- **青茅山** (location) -> Thanh Mao Sơn
+- **解石** (concept) -> giải thạch
+- **古月** (place) -> Cổ Nguyệt
+- **金石** (item) -> kim thạch
+- **波涛** (concept) -> sóng cả
+- **真元哗** (entity) -> Chân Nguyên Hoa
+- **翠绿** (color) -> xanh biếc
+- **真元** (concept) -> chân nguyên
+- **真元水** (substance) -> Chân Nguyên Thủy
+- **成中阶** (rank) -> Thành Trung Giai
+- **解石** (action) -> giải thạch
+- **古月** (place) -> cổ nguyệt
+- **高阶** (rank) -> cao giai
+- **钱财** (concept) -> tiền tài
+- **冷笑** (expression) -> cười lạnh
+- **元石** (item) -> nguyên thạch
+- **若真** (person) -> Nhược Chân
+- **贾金生** (person) -> Cổ Kim Sanh
+- **托辞** (phrase) -> tìm cớ
+- **方正** (person) -> ngay ngắn
+- **宝藏** (place) -> bảo tàng
+- **灯草酒** (item) -> Đăng Thảo tửu
+- **九曲酒** (item) -> Cửu Khúc tửu
+- **古龙井** (item) -> Cổ Long Tỉnh
+- **花石大曲** (item) -> Hoa Thạch đại khúc
+- **百泉老窖** (item) -> Bách Tuyền lão diếu
+- **醉三秋** (item) -> Túy Tam Thu
+- **天真蘑菇** (item) -> nấm Thiên Chân
+- **猴儿酒** (item) -> Hầu Nhi tửu
+- **白家寨** (location) -> Bạch gia trại
+- **黒豕蛊** (item) -> Hắc Thỉ cổ
+- **留影存声蛊** (item) -> Lưu Ảnh Tồn Thanh cổ
+- **癞土蛤蟆** (item) -> Lại Thổ Cáp Mô
+- **御妖至尊** (misc) -> Ngự Yêu Chí Tôn
+- **白家寨** (location) -> Bạch gia trại
+- **千里地狼蛛** (creature) -> Thiên Lý Địa Lang Chu
+- **青茅山** (location) -> núi Thanh Mao
+- **青土** (material) -> đất xanh
+- **月刃** (skill) -> Nguyệt nhận
+- **酒虫** (creature) -> Tửu trùng
+- **青茅山** (location) -> núi Thanh Sơn
+- **古月山寨** (location) -> sơn trại Cổ Nguyệt
+- **酒虫** (item) -> Tửu Trùng
+- **净水蛊** (item) -> Tịnh Thủy Cổ
+- **水膜** (term) -> thủy mạc
+- **空窍** (term) -> không khiếu
+- **班头** (title) -> ban đầu
+- **元石** (item) -> Nguyên Thạch
+- **副班头** (title) -> phó ban đầu
+- **学堂家老** (title) -> gia lão học đường
+- **族长** (title) -> tộc trưởng
+- **蛊师** (occupation) -> Cổ Sư
+- **四转** (rank) -> Tứ Chuyển
+- **酒虫** (item) -> Tửu Trùng
+- **癞土蛤蟆** (item) -> Lại Thổ Cáp Mô
+- **冥路蝶** (item) -> Minh Lộ Điệp
+- **癞土蛤蟆** (item) -> Lại Thổ Cáp Mô
+- **酒虫** (item) -> Tửu Trùng
+- **黑豕蛊** (item) -> Hắc Trệ Cổ
+- **足迹蛊** (item) -> Dấu Chân Cổ
+- **竹君子** (item) -> Trúc Quân Tử
+- **影壁** (object) -> ảnh bích
+- **影流念存音蛊** (item) -> cổ Ảnh Lưu Niệm Tồn Âm
+- **月光蛊** (item) -> cổ Nguyệt Quang
+- **青竹酒** (item) -> rượu Thanh Trúc
+- **酒虫** (item) -> Tửu Trùng
+- **小光蛊** (item) -> Tiểu Quang Cổ
+- **铜皮蛊** (item) -> Đồng Bì Cổ
+- **石皮蛊** (item) -> Thạch Bì Cổ
+- **铁皮蛊** (item) -> Thiết Bì Cổ
+- **兽皮蛊** (item) -> Thú Bì Cổ
+- **蛮力天牛蛊** (item) -> Man Lực Thiên Ngưu Cổ
+- **豕蛊** (item) -> Trư Cổ
+- **粉豕蛊** (item) -> Phấn Trư Cổ
+- **花豕蛊** (item) -> Hoa Trư Cổ
+- **黑豕蛊** (item) -> Hắc Trư Cổ
+- **白豕蛊** (item) -> Bạch Trư Cổ
+- **龙丸蛐蛐蛊** (item) -> Long Hoàn Dế Cổ
+- **地藏花蛊** (item) -> Địa Tạng Hoa Cổ
+- **月光蛊** (item) -> Nguyệt Quang Cổ
+- **铜皮蛊** (item) -> Đồng Bì Cổ
+- **黄骆天牛蛊** (item) -> Hoàng Lạc Thiên Ngưu Cổ
+- **龙丸蛐蛐蛊** (item) -> Long Hoàn Khúc Khúc Cổ
+- **小光蛊** (item) -> Tiểu Quang Cổ
+- **玉皮蛊** (item) -> Ngọc Bì Cổ
+- **白豕蛊** (item) -> Bạch Thỉ Cổ
+- **春秋蝉** (item) -> Xuân Thu Thiền

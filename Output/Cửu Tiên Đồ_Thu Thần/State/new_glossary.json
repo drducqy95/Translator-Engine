@@ -1,0 +1,107 @@
+[
+  {
+    "raw": "方氏丹阁",
+    "target": "Phương Thị Đan Các",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "洗髓丹",
+    "target": "Tẩy Tủy Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "开眼丹",
+    "target": "Khai Nhãn Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "奇珍阁",
+    "target": "Tòng Kì Trân",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "望气瞳",
+    "target": "Vọng Khí Đồng",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "封天",
+    "target": "Phong Thiên",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "锁地",
+    "target": "Tỏa Địa",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "囚仙",
+    "target": "Tù Tiên",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "困神",
+    "target": "Khốn Thần",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "开天印",
+    "target": "Khai Thiên Ấn",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "斩仙神剑",
+    "target": "Trảm Tiên Thần Kiếm",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "天眼",
+    "target": "Thiên Nhãn",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "诛天下",
+    "target": "Tru Thiên Hạ",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "三花经",
+    "target": "Tam Hoa Kinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "方家",
+    "target": "Phương Gia",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "clan"
+  }
+]

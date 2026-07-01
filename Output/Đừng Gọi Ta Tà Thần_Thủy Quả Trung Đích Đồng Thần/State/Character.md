@@ -1,0 +1,242 @@
+# Character Dictionary
+
+- **诺文** -> Norwen 
+- **诺文** -> Norwen
+- **哈达** -> Hada
+- **培特·奇纳尔** -> Pette Chinar
+- **培特奇纳尔** -> Pette Chinar
+- **培特·奇纳尔** -> Pette Chinar
+- **巴哈姆特·康克敦特斯格拉兹查尔登** -> Bahamut Conkdon Tesglazchaldon
+- **培特** -> Pette
+- **魔法女神** -> Ma Pháp Nữ Thần
+- **巴哈姆特** -> Bahamut
+- **诺文** -> Norwin
+- **纲德** -> Cương Đức
+- **黑袍人** -> kẻ áo đen
+- **巴哈姆特** -> Bahamut
+- **巴哈姆特·康克敦特斯格拉兹查尔登** -> Bahamut Conkdon Tesglazchaldon
+- **巴哈姆特** -> Bahamut
+- **特伦** -> Terun
+- **卡罗恩·拉杆** -> Caron Lagan
+- **培特·奇纳尔** -> Pette Chinar
+- **特伦** -> Terun
+- **蕾娜** -> Lena
+- **莫妮娅** -> Mạc Ny Á
+- **培特** -> Pette
+- **格林** -> Green
+- **诺文** -> Norwin
+- **培特** -> Pette
+- **卡罗恩·拉杆** -> Caron Lagan
+- **蕾娜** -> Rena
+- **老莫尼** -> Lão Moni
+- **德思礼** -> Dursley
+- **诺文** -> Norwin
+- **培特** -> Pette
+- **莫尼** -> Moni
+- **德思礼** -> Dursley
+- **蕾娜** -> Lena
+- **德思礼** -> Dursley
+- **蕾娜** -> Lena
+- **格林** -> Green
+- **莫尼** -> Moni
+- **蒙格** -> Mông Cách
+- **蕾娜** -> Lena
+- **德思礼** -> Dursley
+- **狡影·碎石** -> Xảo Ảnh·Toái Thạch
+- **蕾娜·莫尼娅** -> Lena Moni Á
+- **德思礼** -> Dursley
+- **培特** -> Pette
+- **蕾娜** -> Lena
+- **德思礼** -> Dursley
+- **莫尼** -> Moni
+- **蕾娜** -> Lena
+- **德思礼** -> Dursley
+- **了培特** -> Liễu Pette
+- **魔法女神** -> Ma Pháp Nữ Thần
+- **诺文** -> Norwin
+- **光凭培特** -> Quang Bằng Pette
+- **蕾娜** -> Lena
+- **公正之神菲尔** -> Công chính thần Phỉ
+- **魔法女神** -> Ma Pháp Nữ Thần
+- **培特** -> Pette
+- **求知之神** -> Cầu Tri Chi Thần
+- **暗影之神** -> Ám Ảnh Chi Thần
+- **辉光之神** -> Huy Quang Chi Thần
+- **培特** -> Pette
+- **公正之神** -> Công Chính Chi Thần
+- **求知之神** -> Cầu Tri Chi Thần
+- **公正** -> công chính
+- **但培特** -> Đãn Pette
+- **蕾娜** -> Lena
+- **魔法女神** -> Ma Pháp Nữ Thần
+- **墨菲** -> Murphy
+- **那诺文** -> Na Norwin
+- **格林** -> Green
+- **莫尼** -> Moni
+- **德思礼** -> Dursley
+- **木召草** -> Mộc Triệu Thảo
+- **培特** -> Pette
+- **蕾娜** -> Rena
+- **培特** -> Pette
+- **蕾娜** -> Reina
+- **求知之神** -> Thần Cầu Tri
+- **布兰登·罗伯特** -> Brandon·Robert
+- **蕾娜** -> Lena
+- **培特** -> Pette
+- **沃德** -> Ốc Đức
+- **莫尼** -> Moni
+- **格林** -> Green
+- **培特** -> Pette
+- **布兰登·罗伯特** -> Brandon Robert
+- **布兰登** -> Brandon
+- **罗伯特** -> Robert
+- **蕾娜** -> Rena
+- **诺文** -> Noven
+- **火曜日** -> Hỏa Diệu Nhật
+- **布兰登** -> Brandon
+- **罗伯特** -> Robert
+- **格林** -> Green
+- **那贵** -> Na Quý
+- **莫尼** -> Moni
+- **布兰登·罗伯特** -> Brandon Robert
+- **公正之神** -> Thần Công Chính
+- **菲尔** -> Phil
+- **布兰登** -> Brandon
+- **菲尔** -> Phil
+- **诺文** -> Noven
+- **求知之神** -> Thần Cầu Tri
+- **培特·奇纳尔** -> Pette Chinar
+- **培特** -> Pette
+- **布兰登** -> Brandon
+- **辉光之神** -> Thần Huy Quang
+- **求知之神** -> Thần Cầu Tri
+- **布兰登** -> Brandon
+- **蕾娜** -> Rena
+- **培特** -> Pate
+- **莫尼** -> Moni
+- **诺文** -> Noven
+- **墨菲** -> Murphy
+- **布兰登** -> Brandon
+- **格林** -> Green
+- **杜姆** -> Đỗ Mỗ
+- **布兰登** -> Brandon
+- **诺文** -> Norwin
+- **纳瓦尔** -> Nạp Ngõa Nhĩ
+- **德莱尔** -> Delaire
+- **盖尔** -> Gael
+- **盖尔** -> Gael
+- **诺文** -> Norwin
+- **诺文** -> Norwin
+- **哈达** -> Hada
+- **培特·奇纳尔** -> Pette Chinar
+- **培特奇纳尔** -> Pette Chinar
+- **培特·奇纳尔** -> Pette Chinar
+- **巴哈姆特·康克敦特斯格拉兹查尔登** -> Bahamut Conkdon Tesglazchaldon
+- **培特** -> Pette
+- **魔法女神** -> Ma Pháp Nữ Thần
+- **巴哈姆特** -> Bahamut
+- **诺文** -> Norwin
+- **纲德** -> Cương Đức
+- **黑袍人** -> kẻ áo đen
+- **巴哈姆特** -> Bahamut
+- **巴哈姆特·康克敦特斯格拉兹查尔登** -> Bahamut Conkdon Tesglazchaldon
+- **巴哈姆特** -> Bahamut
+- **特伦** -> Terun
+- **卡罗恩·拉杆** -> Caron Lagan
+- **培特·奇纳尔** -> Pette Chinar
+- **特伦** -> Terun
+- **蕾娜** -> Lena
+- **莫妮娅** -> Mạc Ny Á
+- **培特** -> Pette
+- **格林** -> Green
+- **诺文** -> Norwin
+- **培特** -> Pette
+- **卡罗恩·拉杆** -> Caron Lagan
+- **蕾娜** -> Rena
+- **老莫尼** -> Lão Moni
+- **德思礼** -> Dursley
+- **诺文** -> Norwin
+- **培特** -> Pette
+- **莫尼** -> Moni
+- **德思礼** -> Dursley
+- **蕾娜** -> Lena
+- **德思礼** -> Dursley
+- **蕾娜** -> Lena
+- **格林** -> Green
+- **莫尼** -> Moni
+- **蒙格** -> Mông Cách
+- **蕾娜** -> Lena
+- **德思礼** -> Dursley
+- **狡影·碎石** -> Xảo Ảnh·Toái Thạch
+- **蕾娜·莫尼娅** -> Lena Moni Á
+- **德思礼** -> Dursley
+- **培特** -> Pette
+- **蕾娜** -> Lena
+- **德思礼** -> Dursley
+- **莫尼** -> Moni
+- **蕾娜** -> Lena
+- **德思礼** -> Dursley
+- **了培特** -> Liễu Pette
+- **魔法女神** -> Ma Pháp Nữ Thần
+- **诺文** -> Norwin
+- **光凭培特** -> Quang Bằng Pette
+- **蕾娜** -> Lena
+- **公正之神菲尔** -> Công chính thần Phỉ
+- **魔法女神** -> Ma Pháp Nữ Thần
+- **培特** -> Pette
+- **求知之神** -> Cầu Tri Chi Thần
+- **暗影之神** -> Ám Ảnh Chi Thần
+- **辉光之神** -> Huy Quang Chi Thần
+- **培特** -> Pette
+- **公正之神** -> Công Chính Chi Thần
+- **求知之神** -> Cầu Tri Chi Thần
+- **公正** -> công chính
+- **但培特** -> Đãn Pette
+- **蕾娜** -> Lena
+- **魔法女神** -> Ma Pháp Nữ Thần
+- **墨菲** -> Murphy
+- **那诺文** -> Na Norwin
+- **格林** -> Green
+- **莫尼** -> Moni
+- **德思礼** -> Dursley
+- **木召草** -> Mộc Triệu Thảo
+- **培特** -> Pette
+- **蕾娜** -> Reina
+- **求知之神** -> Thần Cầu Tri
+- **培特** -> Pette
+- **布兰登·罗伯特** -> Brandon Robert
+- **布兰登** -> Brandon
+- **罗伯特** -> Robert
+- **蕾娜** -> Rena
+- **诺文** -> Noven
+- **布兰登·罗伯特** -> Brandon Robert
+- **公正之神** -> Thần Công Chính
+- **菲尔** -> Phil
+- **布兰登** -> Brandon
+- **菲尔** -> Phil
+- **诺文** -> Noven
+- **求知之神** -> Thần Cầu Tri
+- **培特·奇纳尔** -> Pette Chinar
+- **培特** -> Pette
+- **布兰登** -> Brandon
+- **辉光之神** -> Thần Huy Quang
+- **求知之神** -> Thần Cầu Tri
+- **布兰登** -> Brandon
+- **蕾娜** -> Rena
+- **培特** -> Pate
+- **莫尼** -> Moni
+- **诺文** -> Noven
+- **墨菲** -> Murphy
+- **布兰登** -> Brandon
+- **格林** -> Green
+- **杜姆** -> Đỗ Mỗ
+- **布兰登** -> Brandon
+- **诺文** -> Norwin
+- **纳瓦尔** -> Nạp Ngõa Nhĩ
+- **德莱尔** -> Delaire
+- **盖尔** -> Gael
+- **盖尔** -> Gael
+- **埃文** -> Ai Văn
+- **德莱尔** -> Delaire
+- **米兰达·沃伦** -> Mễ Lan Đạt Ốc Luân
+- **斯凯特** -> Skater

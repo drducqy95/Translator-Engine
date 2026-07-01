@@ -1,0 +1,121 @@
+[
+  {
+    "raw": "顾青",
+    "target": "Cố Thanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "阿青",
+    "target": "A Thanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小红",
+    "target": "Tiểu Hồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "顾青",
+    "target": "cố thanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小红",
+    "target": "tiểu Hồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小姐",
+    "target": "cô",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "陆狸",
+    "target": "Lục Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "陆狸",
+    "target": "Lục Ly",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小红",
+    "target": "Tiểu Hồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "顾青",
+    "target": "Cố Thanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小二",
+    "target": "tiểu nhị",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "和尚",
+    "target": "hòa thượng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "柳笛声",
+    "target": "Liễu Địch Thanh",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小红",
+    "target": "Tiểu Hồng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小姐",
+    "target": "cô",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "刚象",
+    "target": "Cương Tượng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "钟无道",
+    "target": "Chung Vô Đạo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

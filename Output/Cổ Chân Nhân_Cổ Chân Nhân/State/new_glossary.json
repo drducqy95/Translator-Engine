@@ -1,0 +1,1066 @@
+[
+  {
+    "raw": "春秋蝉",
+    "target": "Xuân Thu Thiền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "青茅山",
+    "target": "Thanh Mao Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "古月山寨",
+    "target": "Cổ Nguyệt Sơn Trại",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "春秋蝉",
+    "target": "Xuân Thu Thiền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "青茅山",
+    "target": "Thanh Mao Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "古月山寨",
+    "target": "Cổ Nguyệt Sơn Trại",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "困境",
+    "target": "Khó Khăn",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "希望蛊",
+    "target": "quái Hy Vọng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "力量蛊",
+    "target": "quái Sức Mạnh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "智慧蛊",
+    "target": "quái Trí Tuệ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Nguyệt Quang Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "青茅山",
+    "target": "Thanh Mao Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "古月山寨",
+    "target": "Cổ Nguyệt sơn trại",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "nguyệt quang ủng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "酒虫",
+    "target": "tửu trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Nguyệt Quang Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "龙丸蛐蛐",
+    "target": "dế Long Hoàn",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "酒囊花蛊",
+    "target": "Tửu Nang Hoa Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "饭袋草蛊",
+    "target": "Phạn Đại Thảo Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "月影",
+    "target": "Nguyệt Ảnh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "gu"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "gu"
+  },
+  {
+    "raw": "留影存声蛊",
+    "target": "Lưu Ảnh Tồn Thanh cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "酒囊花蛊",
+    "target": "Tửu Nang Hoa cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "饭袋草蛊",
+    "target": "Phạn Đại Thảo cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "月影蛊",
+    "target": "Nguyệt Ảnh cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "酒虫",
+    "target": "tửu trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Nguyệt Quang Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "春秋蝉",
+    "target": "Xuân Thu Thiền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "春秋蝉",
+    "target": "Xuân Thu Thiền",
+    "type": "gu",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "gu",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Nguyệt Quang Cổ",
+    "type": "gu",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "青铜真元",
+    "target": "chân nguyên đồng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "真元海",
+    "target": "biển chân nguyên",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Nguyệt Quang Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "月刃",
+    "target": "Nguyệt Nhận",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "草人蛊",
+    "target": "Người Rơm Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "铜皮蛊",
+    "target": "Đồng Bì Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "古月",
+    "target": "Cổ Nguyệt",
+    "type": "clan",
+    "origin": "chinese",
+    "name_type": "clan"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Ánh Trăng Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "gu"
+  },
+  {
+    "raw": "月刃",
+    "target": "Nguyệt Nhận",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Nguyệt Quang Cổ",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "雷冠头狼",
+    "target": "Lôi Quan đầu lang",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Nguyệt Quang cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "赤家",
+    "target": "Xích gia",
+    "type": "faction",
+    "origin": "chinese",
+    "name_type": "family"
+  },
+  {
+    "raw": "古月一族",
+    "target": "Cổ Nguyệt nhất tộc",
+    "type": "faction",
+    "origin": "chinese",
+    "name_type": "family"
+  },
+  {
+    "raw": "希望蛊",
+    "target": "Hy Vọng cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "寿蛊",
+    "target": "Thọ cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "力量蛊",
+    "target": "Lực Lượng cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "智慧蛊",
+    "target": "Trí Tuệ cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "规",
+    "target": "Quy",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "矩",
+    "target": "Củ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "规矩",
+    "target": "Quy Củ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "春秋蝉",
+    "target": "Xuân Thu Thiền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黄铜",
+    "target": "đồng thau",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "material"
+  },
+  {
+    "raw": "癞土蛤蟆",
+    "target": "Lại Thổ Cáp Mô",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "磐石寨",
+    "target": "Bàn Thạch Trại",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "古墓寨",
+    "target": "Cổ Mộ Trại",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Nguyệt Quang Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "青茅山",
+    "target": "Thanh Mao Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "解石",
+    "target": "giải thạch",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "古月",
+    "target": "Cổ Nguyệt",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "金石",
+    "target": "kim thạch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "波涛",
+    "target": "sóng cả",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "abstract"
+  },
+  {
+    "raw": "真元哗",
+    "target": "Chân Nguyên Hoa",
+    "type": "entity",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "翠绿",
+    "target": "xanh biếc",
+    "type": "color",
+    "origin": "chinese",
+    "name_type": "abstract"
+  },
+  {
+    "raw": "真元",
+    "target": "chân nguyên",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "abstract"
+  },
+  {
+    "raw": "真元水",
+    "target": "Chân Nguyên Thủy",
+    "type": "substance",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "成中阶",
+    "target": "Thành Trung Giai",
+    "type": "rank",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "解石",
+    "target": "giải thạch",
+    "type": "action",
+    "origin": "chinese",
+    "name_type": "verb"
+  },
+  {
+    "raw": "古月",
+    "target": "cổ nguyệt",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "高阶",
+    "target": "cao giai",
+    "type": "rank",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "钱财",
+    "target": "tiền tài",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "abstract"
+  },
+  {
+    "raw": "冷笑",
+    "target": "cười lạnh",
+    "type": "expression",
+    "origin": "chinese",
+    "name_type": "phrase"
+  },
+  {
+    "raw": "元石",
+    "target": "nguyên thạch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "若真",
+    "target": "Nhược Chân",
+    "type": "person",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "贾金生",
+    "target": "Cổ Kim Sanh",
+    "type": "person",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "托辞",
+    "target": "tìm cớ",
+    "type": "phrase",
+    "origin": "chinese",
+    "name_type": "phrase"
+  },
+  {
+    "raw": "方正",
+    "target": "ngay ngắn",
+    "type": "person",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "宝藏",
+    "target": "bảo tàng",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "灯草酒",
+    "target": "Đăng Thảo tửu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "wine"
+  },
+  {
+    "raw": "九曲酒",
+    "target": "Cửu Khúc tửu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "wine"
+  },
+  {
+    "raw": "古龙井",
+    "target": "Cổ Long Tỉnh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "wine"
+  },
+  {
+    "raw": "花石大曲",
+    "target": "Hoa Thạch đại khúc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "wine"
+  },
+  {
+    "raw": "百泉老窖",
+    "target": "Bách Tuyền lão diếu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "wine"
+  },
+  {
+    "raw": "醉三秋",
+    "target": "Túy Tam Thu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "wine"
+  },
+  {
+    "raw": "天真蘑菇",
+    "target": "nấm Thiên Chân",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "plant"
+  },
+  {
+    "raw": "猴儿酒",
+    "target": "Hầu Nhi tửu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "wine"
+  },
+  {
+    "raw": "白家寨",
+    "target": "Bạch gia trại",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "黒豕蛊",
+    "target": "Hắc Thỉ cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "留影存声蛊",
+    "target": "Lưu Ảnh Tồn Thanh cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "癞土蛤蟆",
+    "target": "Lại Thổ Cáp Mô",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "御妖至尊",
+    "target": "Ngự Yêu Chí Tôn",
+    "type": "misc",
+    "origin": "chinese",
+    "name_type": "novel_title"
+  },
+  {
+    "raw": "白家寨",
+    "target": "Bạch gia trại",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "千里地狼蛛",
+    "target": "Thiên Lý Địa Lang Chu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "gu_worm"
+  },
+  {
+    "raw": "青茅山",
+    "target": "núi Thanh Mao",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geographic"
+  },
+  {
+    "raw": "青土",
+    "target": "đất xanh",
+    "type": "material",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "月刃",
+    "target": "Nguyệt nhận",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu trùng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "gu_worm"
+  },
+  {
+    "raw": "青茅山",
+    "target": "núi Thanh Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "古月山寨",
+    "target": "sơn trại Cổ Nguyệt",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "净水蛊",
+    "target": "Tịnh Thủy Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "水膜",
+    "target": "thủy mạc",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "noun"
+  },
+  {
+    "raw": "空窍",
+    "target": "không khiếu",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "noun"
+  },
+  {
+    "raw": "班头",
+    "target": "ban đầu",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "元石",
+    "target": "Nguyên Thạch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "副班头",
+    "target": "phó ban đầu",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "学堂家老",
+    "target": "gia lão học đường",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "族长",
+    "target": "tộc trưởng",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "蛊师",
+    "target": "Cổ Sư",
+    "type": "occupation",
+    "origin": "chinese",
+    "name_type": "occupation"
+  },
+  {
+    "raw": "四转",
+    "target": "Tứ Chuyển",
+    "type": "rank",
+    "origin": "chinese",
+    "name_type": "rank"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "癞土蛤蟆",
+    "target": "Lại Thổ Cáp Mô",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "冥路蝶",
+    "target": "Minh Lộ Điệp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "癞土蛤蟆",
+    "target": "Lại Thổ Cáp Mô",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黑豕蛊",
+    "target": "Hắc Trệ Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "足迹蛊",
+    "target": "Dấu Chân Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "竹君子",
+    "target": "Trúc Quân Tử",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "影壁",
+    "target": "ảnh bích",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "影流念存音蛊",
+    "target": "cổ Ảnh Lưu Niệm Tồn Âm",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "cổ Nguyệt Quang",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "青竹酒",
+    "target": "rượu Thanh Trúc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "酒虫",
+    "target": "Tửu Trùng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "小光蛊",
+    "target": "Tiểu Quang Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "铜皮蛊",
+    "target": "Đồng Bì Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "石皮蛊",
+    "target": "Thạch Bì Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "铁皮蛊",
+    "target": "Thiết Bì Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "兽皮蛊",
+    "target": "Thú Bì Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "蛮力天牛蛊",
+    "target": "Man Lực Thiên Ngưu Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "豕蛊",
+    "target": "Trư Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "粉豕蛊",
+    "target": "Phấn Trư Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "花豕蛊",
+    "target": "Hoa Trư Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黑豕蛊",
+    "target": "Hắc Trư Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "白豕蛊",
+    "target": "Bạch Trư Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "龙丸蛐蛐蛊",
+    "target": "Long Hoàn Dế Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "地藏花蛊",
+    "target": "Địa Tạng Hoa Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "thing"
+  },
+  {
+    "raw": "月光蛊",
+    "target": "Nguyệt Quang Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "thing"
+  },
+  {
+    "raw": "铜皮蛊",
+    "target": "Đồng Bì Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "thing"
+  },
+  {
+    "raw": "黄骆天牛蛊",
+    "target": "Hoàng Lạc Thiên Ngưu Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "thing"
+  },
+  {
+    "raw": "龙丸蛐蛐蛊",
+    "target": "Long Hoàn Khúc Khúc Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "thing"
+  },
+  {
+    "raw": "小光蛊",
+    "target": "Tiểu Quang Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "thing"
+  },
+  {
+    "raw": "玉皮蛊",
+    "target": "Ngọc Bì Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "thing"
+  },
+  {
+    "raw": "白豕蛊",
+    "target": "Bạch Thỉ Cổ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "thing"
+  },
+  {
+    "raw": "春秋蝉",
+    "target": "Xuân Thu Thiền",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "thing"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "raw": "诺丁",
+    "target": "Nặc Đinh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "奥斯菲尔",
+    "target": "Áo Tư Phỉ Nhĩ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "萨拉丁王国",
+    "target": "Vương quốc Tát Lạp Đinh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "马斯洛联盟",
+    "target": "Liên minh Mã Tư Lạc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "克洛家族",
+    "target": "Gia tộc Crow",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "安娜布尔",
+    "target": "An Na Bố Nhĩ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "克洛",
+    "target": "Crow",
+    "type": "family",
+    "origin": "unknown",
+    "name_type": "family"
+  },
+  {
+    "raw": "真理",
+    "target": "Chân Lý",
+    "type": "AI",
+    "origin": "unknown",
+    "name_type": "AI"
+  },
+  {
+    "raw": "真理芯片",
+    "target": "Chip Chân Lý",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "安娜布尔山脉",
+    "target": "dãy núi An Na Bố Nhĩ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "纳森河",
+    "target": "Nạp Sâm Hà",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "萨拉丁",
+    "target": "Saladin",
+    "type": "location",
+    "origin": "western",
+    "name_type": "kingdom"
+  },
+  {
+    "raw": "风暴呼吸法",
+    "target": "Phong Bạo Hô Hấp Pháp",
+    "type": "technique",
+    "origin": "fantasy",
+    "name_type": "skill"
+  }
+]

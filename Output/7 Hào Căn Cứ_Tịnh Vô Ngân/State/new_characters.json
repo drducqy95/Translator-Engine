@@ -1,0 +1,440 @@
+[
+  {
+    "raw": "许末",
+    "target": "Hứa Mạt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "许幺",
+    "target": "Hứa Yêu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "许叔",
+    "target": "Hứa Thúc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "许末",
+    "target": "Hứa Mạt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "米亚",
+    "target": "Mễ Á",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴图",
+    "target": "Ba Đồ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "连幺儿",
+    "target": "Liên Yêu Nhi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴图老爷",
+    "target": "Lão gia Ba Đồ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "米亚",
+    "target": "Mễ Á",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "许末",
+    "target": "Hứa Mạt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "幺儿",
+    "target": "Tiểu Muội",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "艾尔莎",
+    "target": "Elsa",
+    "type": "character",
+    "origin": "english",
+    "name_type": "person"
+  },
+  {
+    "raw": "白鬼",
+    "target": "Bạch Quỷ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "alias"
+  },
+  {
+    "raw": "沙窐尔",
+    "target": "Sa Oa Nhĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "莱恩",
+    "target": "Lai Ân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白刃",
+    "target": "Dao Sắc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "code_name"
+  },
+  {
+    "raw": "秦仲",
+    "target": "Tần Trọng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白薇",
+    "target": "Bạch Vi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白老板",
+    "target": "Bạch ông chủ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "金丝眼镜男",
+    "target": "người đeo kính gọng vàng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "剔骨刀",
+    "target": "Dao Róc Xương",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "nickname"
+  },
+  {
+    "raw": "布雷",
+    "target": "Đặt Mìn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蛇哥",
+    "target": "Ca Rắn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "alias"
+  },
+  {
+    "raw": "露西奶奶",
+    "target": "bà Lộ Tây",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "林妮",
+    "target": "Lâm Ny",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "米亚",
+    "target": "Mễ Á",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "艾尔莎",
+    "target": "Ái Nhĩ Sa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "库柏",
+    "target": "Khố Bách",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "库柏飞",
+    "target": "Khố Bách Phi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "苏西",
+    "target": "Tô Tây",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蝶姐",
+    "target": "Bướm tỷ",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "魔术师助手",
+    "target": "Trợ thủ ảo thuật gia",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "A Tân",
+    "target": "A Tân",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "牧师",
+    "target": "Mục sư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "光头男子",
+    "target": "gã trọc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "鬼面人",
+    "target": "người mặt quỷ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "医生",
+    "target": "Bác sĩ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "银面人",
+    "target": "người mặt nạ bạc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方泽",
+    "target": "Phương Trạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小七",
+    "target": "Tiểu Thất",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "C姐",
+    "target": "Cane",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person",
+    "entity_origin": "Japanese"
+  },
+  {
+    "raw": "瘦高男子",
+    "target": "người đàn ông cao gầy",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "descriptor"
+  },
+  {
+    "raw": "埃利斯太太",
+    "target": "Phu nhân Ai Lợi Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "男子 (cha Ái Nhĩ Sa)",
+    "target": "Danshi (cha Ai Nhi Nh Sa)",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person",
+    "entity_origin": "Japanese"
+  },
+  {
+    "raw": "赛斯",
+    "target": "Tái Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "金秘书",
+    "target": "Kim Thư ký",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老K",
+    "target": "RouK",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person",
+    "entity_origin": "Japanese"
+  },
+  {
+    "raw": "莫克",
+    "target": "Mạc Khắc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "金秘书",
+    "target": "Kim Thư ký",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "叶青蝶",
+    "target": "Diệp Thanh Điệp",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赛斯",
+    "target": "Tái Tư",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "方叔",
+    "target": "Phương Thúc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小泽",
+    "target": "Tiểu Trạch",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "许末",
+    "target": "Hứa Mạt",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "秦仲",
+    "target": "Tần Trọng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老K",
+    "target": "RouK",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person",
+    "entity_origin": "Japanese"
+  },
+  {
+    "raw": "莫克",
+    "target": "Mạc Khắc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "米亚",
+    "target": "Mễ Á",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "巴图老爷",
+    "target": "Lão gia Ba Đồ",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "艾尔莎",
+    "target": "Ái Nhĩ Sa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "白薇",
+    "target": "Bạch Vi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "韩秘书",
+    "target": "Thư ký Hàn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

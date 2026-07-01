@@ -1,0 +1,205 @@
+# Character Dictionary
+
+- **叶想** -> Diệp Tưởng
+- **罗昊生** -> La Hạo Sanh
+- **康雪妍** -> Khang Tuyết Nghiên
+- **张念周** -> Trương Niệm Chu
+- **夏云** -> Hạ Vân
+- **罗昊生** -> La Hạo Sanh
+- **张念周** -> Trương Niệm Chu
+- **夏云** -> Hạ Vân
+- **杜岩** -> Đỗ Nham
+- **江幼琳** -> Giang Ấu Lâm
+- **罗雪妍** -> La Tuyết Nghiên
+- **康雪妍** -> Khang Tuyết Nghiên
+- **叶想** -> Diệp Tưởng
+- **江毅** -> Giang Nghị
+- **韩若月** -> Hàn Nhược Nguyệt
+- **张德坤** -> Trương Đức Khôn
+- **刘安** -> Lưu An
+- **罗昊生** -> La Hạo Sanh
+- **康雪妍** -> Khang Tuyết Nghiên
+- **叶想** -> Diệp Tưởng
+- **江幼琳** -> Giang Ấu Lâm
+- **罗昊生** -> La Hạo Sanh
+- **张念周** -> Trương Niệm Chu
+- **杜岩** -> Đỗ Nham
+- **夏云** -> Hạ Vân
+- **康雪妍** -> Khang Tuyết Nghiên
+- **张德坤** -> Trương Đức Khôn
+- **江毅** -> Giang Nghị
+- **刘安** -> Lưu An
+- **康雪妍** -> Khang Tuyết Nghiên
+- **罗昊生** -> La Hạo Sanh
+- **江幼琳** -> Giang Ấu Lâm
+- **夏云** -> Hạ Vân
+- **杜岩** -> Đỗ Nham
+- **叶想** -> Diệp Tưởng
+- **穆小姐** -> Cô Mục
+- **刘安** -> Lưu An
+- **刘安** -> Lưu An
+- **江幼琳** -> Giang Ấu Lâm
+- **刘安** -> Lưu An
+- **韩若月** -> Hàn Nhược Nguyệt
+- **杜岩** -> Đỗ Nham
+- **罗昊生** -> La Hạo Sanh
+- **王明** -> Vương Minh
+- **夏云** -> Hạ Vân
+- **穆小姐** -> cô Mục
+- **江毅** -> Giang Nghị
+- **江幼琳** -> Giang Ấu Lâm
+- **张德坤** -> Trương Đức Khôn
+- **张念周** -> Trương Niệm Chu
+- **叶想** -> Diệp Tưởng
+- **陆** -> Lục
+- **莫小姐** -> Cô Mạc
+- **韩若月** -> Hàn Nhược Nguyệt
+- **温羽凡** -> Ôn Vũ Phàm
+- **江幼琳** -> Giang Ấu Lâm
+- **温羽凡** -> Ôn Vũ Phàm
+- **叶想** -> Diệp Tưởng
+- **罗昊生** -> La Hạo Sanh
+- **朱定钧** -> Chu Định Quân
+- **苏寒** -> Tô Hàn
+- **莫秋实** -> Mạc Thu Thật
+- **方冷** -> Phương Lãnh
+- **于辰** -> Vu Thần
+- **白雨朔** -> Bạch Vũ Sóc
+- **莫秋实** -> Mạc Thu Thật
+- **侯天白** -> Hầu Thiên Bạch
+- **石青秀** -> thạch thanh Tú
+- **朱定钧** -> Chu Định Quân
+- **李唯思** -> Lý Duy Tư
+- **齐晴晴** -> Tề Tình Tình
+- **苏寒** -> Tô Hàn
+- **吴兆天** -> Ngô Triệu Thiên
+- **成雪松** -> Thành Tuyết Tùng
+- **焦梦期** -> Tiêu Mộng Kỳ
+- **方冷** -> Phương Lãnh
+- **穆小姐** -> cô Mục
+- **叶想** -> Diệp Tưởng
+- **印水天** -> Ấn Thủy Thiên
+- **何铭** -> Hà Minh
+- **魏岚** -> Ngụy Lam
+- **白树河** -> Bạch Thụ Hà
+- **白无夏** -> Bạch Vô Hạ
+- **焦梦期** -> Tiêu Mộng Kỳ
+- **侯天白** -> Hầu Thiên Bạch
+- **白雨朔** -> Bạch Vũ Sóc
+- **石清秀** -> Thạch Thanh Tú
+- **成雪松** -> Thành Tuyết Tùng
+- **方冷** -> Phương Lãnh
+- **白雨朔** -> Bạch Vũ Sóc
+- **莫秋实** -> Mạc Thu Thật
+- **温羽凡** -> Ôn Vũ Phàm
+- **于辰** -> Vu Thần
+- **苏寒** -> Tô Hàn
+- **侯天白** -> Hầu Thiên Bạch
+- **柳海平** -> Liễu Hải Bình
+- **张华** -> Trương Hoa
+- **张父** -> Trương Phụ
+- **张母** -> Trương Mẫu
+- **阿华** -> A Hoa
+- **叶想** -> Diệp Tưởng
+- **方冷** -> Phương Lạnh
+- **赵小雅** -> Triệu Tiểu Nhã
+- **叶想** -> Diệp Tưởng
+- **柳先生** -> Liễu Tiên Sanh
+- **赵小雅** -> Triệu Tiểu Nhã
+- **唐海兰** -> Đường Hải Lan
+- **侯天白** -> Hầu Thiên Bạch
+- **方冷** -> Phương Lãnh
+- **杭青书** -> Hàng Thanh Thư
+- **吴君** -> Ngô Quân
+- **柳海平** -> Liễu Hải Bình
+- **于辰** -> Vu Thần
+- **苏寒** -> Tô Hàn
+- **张华** -> Trương Hoa
+- **焦梦期** -> Tiêu Mộng Kỳ
+- **杨河** -> Dương Hà
+- **唐海兰** -> Đường Hải Lan
+- **余浩** -> Dư Hạo
+- **叶想** -> Diệp Tưởng
+- **柳海平** -> Liễu Hải Bình
+- **焦梦期** -> Tiêu Mộng Kỳ
+- **叶想** -> Diệp Tưởng
+- **赵小雅** -> Triệu Tiểu Nhã
+- **侯天白** -> Hầu Thiên Bạch
+- **苏寒** -> Tô Hàn
+- **吴君** -> Ngô Quân
+- **杭青书** -> Hàng Thanh Thư
+- **于辰** -> Vu Thần
+- **刘莹** -> Lưu Oánh
+- **小雅** -> Tiểu Nhã
+- **叶想** -> Diệp Tưởng
+- **柳海** -> Liễu Hải
+- **叶想** -> Diệp Tưởng
+- **苏寒** -> Tô Hàn
+- **侯天白** -> Hầu Thiên Bạch
+- **于辰** -> Vu Thần
+- **杭青书** -> Hàng Thanh Thư
+- **刘莹** -> Lưu Oánh
+- **吴君** -> Ngô Quân
+- **赵小雅** -> Triệu Tiểu Tả
+- **天下霸唱** -> Thiên Hạ Bá Xướng
+- **叶想** -> Diệp Tưởng
+- **白雨朔** -> Bạch Vũ Sóc
+- **赵小雅** -> Triệu Tiểu Nhã
+- **赵小雅** -> Triệu Tiểu Nhã
+- **方冷** -> Phương Lãnh
+- **赵小雅** -> Triệu Tiểu Nhã
+- **赵小雅** -> Triệu Tiểu Nhã
+- **方冷** -> Phương Lãnh
+- **赵小雅** -> Triệu Tiểu Nhã
+- **叶想** -> Diệp Tưởng
+- **张华** -> Trương Hoa
+- **叶想** -> Vu Thần
+- **于辰** -> Vu Thần
+- **张华** -> Trương Hoa
+- **侯天白** -> Hầu Thiên Bạch
+- **柳海平** -> Liễu Hải Bình
+- **苏寒** -> Tô Hàn
+- **刘莹** -> Lưu Oánh
+- **小雅** -> Tiểu Nhã
+- **苏寒** -> Tô Hàn
+- **于辰** -> Vu Thần
+- **叶想** -> Diệp Tưởng
+- **柳海平** -> Liễu Hải Bình
+- **吴君** -> Ngô Quân
+- **刘莹** -> Lưu Oánh
+- **赵小雅** -> Triệu Tiểu Nhã
+- **张华** -> Trương Hoa
+- **叶想** -> Diệp Tưởng
+- **苏寒** -> Tô Hàn
+- **方冷** -> Phương Lãnh
+- **于辰** -> Vu Thần
+- **苏珊** -> Tô San
+- **欧阳祖平** -> Âu Dương Tổ Bình
+- **叶想** -> Diệp Tưởng
+- **赵小雅** -> Triệu Tiểu Nhã
+- **朱定钧** -> Chu Định Quân
+- **朱大哥** -> Chu Đại Ca
+- **莫秋实** -> Mạc Thu Thật
+- **李唯思** -> Lý Duy Tư
+- **齐晴晴** -> Tề Tình Tình
+- **方冷** -> Phương Lãnh
+- **白雨朔** -> Bạch Vũ Sóc
+- **温羽凡** -> Ôn Vũ
+- **岳康雄** -> Nhạc Khang Hùng
+- **龙妮儿** -> Rồng Nị
+- **焦梦期** -> Tiêu Mộng Kỳ
+- **石清秀** -> Thạch Thanh Tú
+- **温羽凡** -> Ôn Vũ Phàm
+- **白雨朔** -> Bạch Vũ Sóc
+- **方冷** -> Phương Lãnh
+- **雪松** -> tùng tuyết
+- **傅恒君** -> Phó Hằng Quân
+- **侯天白** -> Hầu Thiên Bạch
+- **叶想** -> Diệp Tưởng
+- **温羽凡** -> Ôn Vũ Phàm
+- **安知惠** -> An Tri Huệ
+- **唐银城** -> Đường Ngân Thành
+- **宋俊** -> Tống Tuấn
+- **惜玉** -> Tích Ngọc
+- **白雨朔** -> Bạch Vũ Sóc
+- **李唯思** -> Lý Duy Tư

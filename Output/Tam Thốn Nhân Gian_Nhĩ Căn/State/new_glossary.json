@@ -1,0 +1,86 @@
+[
+  {
+    "raw": "缥缈道院",
+    "target": "Phiêu Miểu Đạo Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "三寸人间",
+    "target": "Tam Thốn Nhân Gian",
+    "type": "other",
+    "origin": "chinese",
+    "name_type": "book_title"
+  },
+  {
+    "raw": "联邦",
+    "target": "Liên Bang",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "幽骨狼",
+    "target": "U Cốt Lang",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "养气诀",
+    "target": "Dưỡng Khí Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "气血",
+    "target": "Khí Huyết",
+    "type": "level",
+    "origin": "chinese",
+    "name_type": "level"
+  },
+  {
+    "raw": "封身",
+    "target": "Phong Thân",
+    "type": "level",
+    "origin": "chinese",
+    "name_type": "level"
+  },
+  {
+    "raw": "补脉",
+    "target": "Bổ Mạch",
+    "type": "level",
+    "origin": "chinese",
+    "name_type": "level"
+  },
+  {
+    "raw": "缥缈道院",
+    "target": "Phiêu Miểu Đạo Viện",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "法兵系",
+    "target": "Pháp Binh Hệ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "青木湖",
+    "target": "Thanh Mộc Hồ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "古蛮鬼熊",
+    "target": "Cổ Man Quỷ Hùng",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  }
+]

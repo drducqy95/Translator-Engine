@@ -1,0 +1,53 @@
+[
+  {
+    "chapter_index": 1,
+    "chapter_file": "Chapter 0001 骇尔苏醒.md",
+    "translated_file": "Chương 0001 H'el thức tỉnh.md",
+    "chapter": "Chương 0001 H'el thức tỉnh.md",
+    "summary": {
+      "main_events": "H'el tỉnh dậy từ buồng đông lạnh trên con tàu thăm dò Ánh Rạng Đông đang trôi dạt trong vũ trụ. Anh phát hiện ra cha nuôi Jor-El đã thay đổi lộ trình, làm cạn kiệt năng lượng tàu và đày ải anh giữa không gian sâu thẳm thay vì tiến đến hệ Mặt Trời vàng như dự định.",
+      "new_characters": [
+        "H'el",
+        "Jor-El",
+        "Zod",
+        "Kara",
+        "Lara"
+      ]
+    }
+  },
+  {
+    "chapter_index": 2,
+    "chapter_file": "Chapter 0002 乔-艾尔.md",
+    "translated_file": "Chương 0002 Jor-El.md",
+    "chapter": "Chương 0002 Jor-El.md",
+    "summary": {
+      "main_events": "Jor-El đối chất với Hael về dã tâm thống trị Krypton thông qua việc sử dụng người nhân bản và kích động quân phản kháng. Hael thừa nhận bản chất ngạo mạn và mục đích lợi dụng tầng lớp dưới đáy để lật đổ trật tự cũ, khiến Jor-El quyết định tống khứ hắn vào vũ trụ.",
+      "new_characters": [
+        "Jor-El",
+        "Hael",
+        "Zor-El",
+        "Lara"
+      ]
+    }
+  },
+  {
+    "chapter_index": 3,
+    "chapter_file": "Chapter 0003 是我赢了.md",
+    "translated_file": "Chương 0003 Là ta thắng.md",
+    "chapter": "Chương 0003 Là ta thắng.md",
+    "summary": {
+      "main_events": "Ngải Nhĩ đối mặt với chương trình ý thức của Jor-El trên con tàu đang trôi dạt trong không gian. Ngải Nhĩ khẳng định mình đã thắng vì đã rời khỏi Krypton trước khi nó hủy diệt, trong khi Jor-El cố gắng thực hiện mệnh lệnh cuối cùng là để Ngải Nhĩ chết trong giấc ngủ. Ngải Nhĩ sau đó dùng thủ thuật để nôn ra thứ gì đó từ trong dạ dày.",
+      "new_characters": []
+    }
+  },
+  {
+    "chapter_index": 4,
+    "chapter_file": "Chapter 0004 底牌.md",
+    "translated_file": "Chương 0004 Đá Bàn.md",
+    "chapter": "Chương 0004 Đá Bàn.md",
+    "summary": {
+      "main_events": "Hãi Nhĩ dùng dạ dày bạch tuộc ba đầu để phá vỡ phòng thủ, chiếm tàu, đối đầu Jo-Ái, cuối cùng format và lên đường tìm nguồn tài nguyên mới.",
+      "new_characters": []
+    }
+  }
+]

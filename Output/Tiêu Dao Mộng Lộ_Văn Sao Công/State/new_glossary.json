@@ -1,0 +1,1227 @@
+[
+  {
+    "raw": "归灵宗",
+    "target": "Quy Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "玉晶米",
+    "target": "Ngọc Tinh Mễ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "crop"
+  },
+  {
+    "raw": "红玉稻种",
+    "target": "Hồng Ngọc Đạo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "crop"
+  },
+  {
+    "raw": "玉晶米",
+    "target": "lúa Ngọc Tinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "青首乌",
+    "target": "Thanh Thủ Ô",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "火龙树",
+    "target": "Hỏa Long thụ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "红玉稻",
+    "target": "Hồng Ngọc Đạo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "还火液",
+    "target": "Hoàn Hỏa dịch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "红玉稻",
+    "target": "Hồng Ngọc Đạo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "珍珠玉晶米",
+    "target": "Trân Châu Ngọc Tinh Mễ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "火液",
+    "target": "Hỏa Dịch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "火肥",
+    "target": "Hỏa Phì",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "富贵楼",
+    "target": "Phú Quý Lâu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青叶城",
+    "target": "thành Thanh Diệp",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "清灵山",
+    "target": "Linh San",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "清河郡",
+    "target": "quận Thanh Hà",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "问心茶树",
+    "target": "cây trà Vấn Tâm",
+    "type": "plant",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "红玉稻",
+    "target": "Hồng Ngọc Đạo",
+    "type": "plant",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "还火液",
+    "target": "Hoàn Hỏa Dịch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "辟兽散",
+    "target": "Tị Thú Tán",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "问心茶树",
+    "target": "cây trà Vấn Tâm",
+    "type": "plant",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "红玉稻谷",
+    "target": "lúa hồng ngọc",
+    "type": "plant",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "还火液",
+    "target": "Hoàn Hỏa Dịch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "坐忘茶道",
+    "target": "trà đạo Tọa Vong",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "红山参",
+    "target": "Hồng Sơn Sâm",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "红玉稻田",
+    "target": "ruộng Ngọc Tinh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "归灵宗",
+    "target": "Quy Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "金锁重楼十二关",
+    "target": "Kim Tỏa Trọng Lâu mười hai quan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "毒龙草",
+    "target": "Độc Long Thảo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "herb"
+  },
+  {
+    "raw": "阎王令",
+    "target": "Lệnh Diêm Vương",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "medicine"
+  },
+  {
+    "raw": "绮罗香",
+    "target": "Khỉ La Hương",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "参合子",
+    "target": "Sâm Hợp Tử",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "珠尾蛇",
+    "target": "rắn Châu Vĩ",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "animal"
+  },
+  {
+    "raw": "黑沙掌",
+    "target": "Hắc Sa Chưởng",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "金锁重楼十二关",
+    "target": "Kim Tỏa Trọng Lâu Thập Nhị Quan",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "system"
+  },
+  {
+    "raw": "鹰爪功",
+    "target": "Ưng Trảo Công",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "武宗",
+    "target": "Vũ Tông",
+    "type": "rank",
+    "origin": "chinese",
+    "name_type": "rank"
+  },
+  {
+    "raw": "归灵宗",
+    "target": "Quy Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "花狐貂",
+    "target": "Hoa Hồ Điêu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "清灵山",
+    "target": "Thanh Linh San",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "黑沙掌",
+    "target": "Hắc Sa Chưởng",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "金锁重楼",
+    "target": "Khóa Vàng Trọng Lâu",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "珍珠玉晶米",
+    "target": "gạo Ngọc Tinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黑沙掌",
+    "target": "Hắc Sa Chưởng",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "玉晶米",
+    "target": "gạo Ngọc Tinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "food"
+  },
+  {
+    "raw": "红玉稻",
+    "target": "lúa Hồng Ngọc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "plant"
+  },
+  {
+    "raw": "问心茶树",
+    "target": "cây trà Vấn Tâm",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "plant"
+  },
+  {
+    "raw": "花狐貂",
+    "target": "Hoa Hồ Điêu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "beast"
+  },
+  {
+    "raw": "灵米",
+    "target": "Linh Mễ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "红玉稻米",
+    "target": "gạo Hồng Ngọc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黑沙掌",
+    "target": "Hắc Sa Chưởng",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "归灵宗",
+    "target": "Quy Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "情人醉",
+    "target": "Tình Nhân Say",
+    "type": "poison",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "变异珠尾蛇",
+    "target": "biến dị Châu Vĩ Xà",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "阎王帖",
+    "target": "Diêm Vương Thiếp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "归灵心诀",
+    "target": "Quy Linh Tâm Quyết",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "鹰爪功",
+    "target": "Ưng Trảo Công",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "坐忘茶道",
+    "target": "Tọa Vong Trà Đạo",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "断缘",
+    "target": "Đoạn Duyên",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "收心",
+    "target": "Thu Tâm",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "简事",
+    "target": "Giản Sự",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "真观",
+    "target": "Chân Quan",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "毒龙草",
+    "target": "Độc Long thảo",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "珠尾蛇",
+    "target": "rắn Châu Vĩ",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "清灵山",
+    "target": "núi Thanh Linh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青峰山",
+    "target": "Thanh Phong sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "鹰爪手",
+    "target": "Ưng Trảo Thủ",
+    "type": "martial_art",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "坐忘茶道",
+    "target": "Tọa Vong trà đạo",
+    "type": "martial_art",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "红玉稻米",
+    "target": "Linh Mễ hồng ngọc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "灵禽",
+    "target": "linh cầm",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "entity"
+  },
+  {
+    "raw": "灵鸟",
+    "target": "linh điểu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "entity"
+  },
+  {
+    "raw": "鹰爪铁布衫",
+    "target": "Ưng Trảo Thiết Bố Sam",
+    "type": "martial_arts",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "青叶城",
+    "target": "thành Thanh Diệp",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "周家",
+    "target": "nhà họ Chu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "伤门",
+    "target": "Thương Môn",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "金锁重楼十二关",
+    "target": "Kim Tỏa Trọng Lâu mười hai cửa",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "青叶城",
+    "target": "Thanh Diệp thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geographic"
+  },
+  {
+    "raw": "法士",
+    "target": "pháp sĩ",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "伤门",
+    "target": "Thương môn",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "明月诀",
+    "target": "Minh Nguyệt Quyết",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "四海阁",
+    "target": "Tứ Hải Các",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "飞燕穿云击",
+    "target": "Phi Yến Xuyên Vân Kích",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "天涯海阁",
+    "target": "Thiên Nhai Hải Các",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "四海阁",
+    "target": "Tứ Hải Các",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "青罗功",
+    "target": "Thanh La Công",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "鹰爪铁布衫",
+    "target": "Ưng Trảo Thiết Bố Sam",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "还死丹",
+    "target": "Hoàn Tử Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "鹰爪手",
+    "target": "Ưng Trảo Thủ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "魔风手",
+    "target": "Ma Phong Thủ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "血魔解体",
+    "target": "Huyết Ma Giải Thể",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "催魂燃魄",
+    "target": "Thôi Hồn Nhiên Phách",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "珠尾蛇",
+    "target": "Châu Vĩ xà",
+    "type": "monster",
+    "origin": "chinese",
+    "name_type": "animal"
+  },
+  {
+    "raw": "阎王帖",
+    "target": "Diêm vương thiếp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "pill"
+  },
+  {
+    "raw": "清河郡",
+    "target": "Quận Thanh Hà",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "问心茶树",
+    "target": "Vấn Tâm Trà thụ",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "金锁重楼十二关",
+    "target": "Kim Tỏa Trọng Lâu Thập Nhị Quan",
+    "type": "martial_arts",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "伤门",
+    "target": "Thương Môn",
+    "type": "martial_arts",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "翡翠草",
+    "target": "Cỏ Phỉ Thúy",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "plant"
+  },
+  {
+    "raw": "坐忘茶道",
+    "target": "Tọa Vong Trà Đạo",
+    "type": "martial_arts",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "翡翠灵草",
+    "target": "linh thảo Phỉ Thúy",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "坐忘茶道",
+    "target": "trà đạo Tọa Vong",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "伤门",
+    "target": "Thương Môn",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "金锁重楼",
+    "target": "Kim Tỏa Trọng Lâu",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "通灵月身",
+    "target": "Thông Linh Nguyệt thân",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "雄黄粉",
+    "target": "bột hùng hoàng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "惊门",
+    "target": "Kinh Môn",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "martial_arts_level"
+  },
+  {
+    "raw": "死门",
+    "target": "Tử Môn",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "martial_arts_level"
+  },
+  {
+    "raw": "四天门",
+    "target": "Tứ Thiên Môn",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "martial_arts_level"
+  },
+  {
+    "raw": "还火液",
+    "target": "Hoàn Hỏa Dịch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "郭家",
+    "target": "Quách Gia",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "family"
+  },
+  {
+    "raw": "叶城",
+    "target": "Diệp Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青叶城",
+    "target": "Thanh Diệp Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "幽谷",
+    "target": "U Cốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青峰灵地",
+    "target": "Thanh Phong Linh Địa",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "练实",
+    "target": "Luyện Thực",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "红眼白鸟王",
+    "target": "bạch điểu vương",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "黑沙鹰爪手",
+    "target": "Hắc Sa Ưng Trảo Thủ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "问心茶树",
+    "target": "Cây trà Vấn Tâm",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "plant"
+  },
+  {
+    "raw": "问心茶",
+    "target": "Trà Vấn Tâm",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "坐忘茶道",
+    "target": "Tọa Vong trà đạo",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "翡翠草",
+    "target": "Cỏ Phỉ Thúy",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "plant"
+  },
+  {
+    "raw": "鹰爪手",
+    "target": "Ưng Trảo Thủ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "朱果",
+    "target": "chu quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "五鬼门",
+    "target": "Ngũ Quỷ Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "青叶城",
+    "target": "Thanh Diệp Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "烈阳郡",
+    "target": "Liệt Dương Quận",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "region"
+  },
+  {
+    "raw": "清河郡",
+    "target": "Thanh Hà Quận",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "region"
+  },
+  {
+    "raw": "小寒山",
+    "target": "Tiểu Hàn Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mountain"
+  },
+  {
+    "raw": "五鬼门",
+    "target": "Ngũ Quỷ Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "阴阳玉",
+    "target": "Âm Dương Ngọc",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "惑心丸",
+    "target": "Hoặc Tâm Hoàn",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "pill"
+  },
+  {
+    "raw": "通灵月身",
+    "target": "Thông Linh Nguyệt Thân",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "physique"
+  },
+  {
+    "raw": "归灵宗",
+    "target": "Quy Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "五鬼门",
+    "target": "Ngũ Quỷ Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "十八鬼蝠手",
+    "target": "Thập Bát Quỷ Bức Thủ",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "五鬼门",
+    "target": "Ngũ Quỷ Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "连六关",
+    "target": "Liên Lục Quan",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "cultivation_level"
+  },
+  {
+    "raw": "四天门",
+    "target": "Tứ Thiên Môn",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "cultivation_level"
+  },
+  {
+    "raw": "死关",
+    "target": "tử quan",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "cultivation_level"
+  },
+  {
+    "raw": "黑沙鹰爪手",
+    "target": "Hắc Sa Ưng Trảo Thủ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "鬼阴爪",
+    "target": "Quỷ Âm Trảo",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "先声夺人",
+    "target": "Tiên Thanh Đoạt Nhân",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "阴阳玉",
+    "target": "Âm Dương Ngọc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "阎王帖",
+    "target": "Diêm Vương Thiếp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "青叶城",
+    "target": "Thanh Diệp thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "幽谷",
+    "target": "U Cốc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "area"
+  },
+  {
+    "raw": "四天门",
+    "target": "Tứ Thiên môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "五鬼门",
+    "target": "Ngũ Quỷ môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "归灵宗",
+    "target": "Quy Linh tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "落日城",
+    "target": "Lạc Nhật thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "落日城",
+    "target": "Lạc Nhật thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "city"
+  },
+  {
+    "raw": "清灵",
+    "target": "Thanh Linh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "风雷掌",
+    "target": "Phong Lôi Chưởng",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "幽山府",
+    "target": "U Sơn phủ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "地元",
+    "target": "Địa Nguyên",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "realm"
+  },
+  {
+    "raw": "血狂丹",
+    "target": "Huyết Cuồng Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "竹果",
+    "target": "Trúc Quả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "阎王帖",
+    "target": "Diêm Vương Thiếp",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "五鬼门",
+    "target": "Ngũ Quỷ Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "五鬼门",
+    "target": "Ngũ Quỷ Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "青叶城",
+    "target": "Thanh Diệp Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "玄炎山脉",
+    "target": "dãy núi Huyền Viêm",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "归灵宗",
+    "target": "Quy Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "阴阳玉",
+    "target": "âm dương ngọc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "鹰爪铁布衫",
+    "target": "Ưng Trảo Thiết Bố Sam",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "黑沙掌",
+    "target": "Hắc Sa Chưởng",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "问心茶树",
+    "target": "cây Vấn Tâm Trà",
+    "type": "plant",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "红玉稻米",
+    "target": "Hồng Ngọc đạo mễ",
+    "type": "plant",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "翡翠草",
+    "target": "Phỉ Thúy Thảo",
+    "type": "plant",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "红眼白鸟王",
+    "target": "Mắt Đỏ Bạch Điểu Vương",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "阴阳玉",
+    "target": "Âm Dương Ngọc",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "烈阳郡",
+    "target": "Liệt Dương Quận",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "五鬼门",
+    "target": "Ngũ Quỷ Môn",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "归灵宗",
+    "target": "Quy Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "血魔功",
+    "target": "Huyết Ma Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  }
+]

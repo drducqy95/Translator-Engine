@@ -1,0 +1,16 @@
+[
+  {
+    "raw": "天琅书苑",
+    "target": "Thiên Lang Thư Uyển",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "三笑散",
+    "target": "Tam Tiếu Tán",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  }
+]

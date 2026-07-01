@@ -1,0 +1,142 @@
+[
+  {
+    "raw": "小苍山",
+    "target": "Núi Tiểu Thương",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青松道院",
+    "target": "Thanh Tùng Đạo Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "沧水行脉法",
+    "target": "Thương Thủy Hành Mạch Pháp",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "开脉丹",
+    "target": "Khai Mạch Đan",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "气海穴",
+    "target": "Khí Hải Huyệt",
+    "type": "body_part",
+    "origin": "chinese",
+    "name_type": "body_part"
+  },
+  {
+    "raw": "金灵宗",
+    "target": "Kim Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "金灵宗",
+    "target": "Kim Linh Tông",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "碧水湖",
+    "target": "Bích Thủy Hồ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "清源经",
+    "target": "Thanh Nguyên Kinh",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "小云雨术",
+    "target": "Tiểu Vân Vũ Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "石龟",
+    "target": "thạch quy",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "坎灵",
+    "target": "Khảm Linh",
+    "type": "resource",
+    "origin": "chinese",
+    "name_type": "resource"
+  },
+  {
+    "raw": "坤灵",
+    "target": "Khôn Linh",
+    "type": "resource",
+    "origin": "chinese",
+    "name_type": "resource"
+  },
+  {
+    "raw": "巽灵",
+    "target": "Tốn Linh",
+    "type": "resource",
+    "origin": "chinese",
+    "name_type": "resource"
+  },
+  {
+    "raw": "清源经",
+    "target": "Thanh Nguyên Kinh",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "小云雨术",
+    "target": "Tiểu Vân Vũ Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "厚土诀",
+    "target": "Hậu Thổ Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "枯荣诀",
+    "target": "Khô Vinh Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "炎火咒",
+    "target": "Viêm Hỏa Chú",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "锐金诀",
+    "target": "Duệ Kim Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  }
+]

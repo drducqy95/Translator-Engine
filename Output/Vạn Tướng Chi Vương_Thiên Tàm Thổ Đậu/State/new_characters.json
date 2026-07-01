@@ -1,0 +1,79 @@
+[
+  {
+    "raw": "李洛",
+    "target": "Lý Lạc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "赵阔",
+    "target": "Triệu Khoát",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "姜青娥",
+    "target": "Khương Thanh Nga",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "徐山岳",
+    "target": "Từ Sơn Nhạc",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "小娥儿",
+    "target": "Tiểu Nga Nhi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蒂法晴",
+    "target": "Đế Pháp Tình",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "贝锟",
+    "target": "Bối Côn",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吕会长",
+    "target": "Lữ hội trưởng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "吕清儿",
+    "target": "Lữ Thanh Nhi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "裴昊",
+    "target": "Bùi Hạo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "蔡薇",
+    "target": "Thái Vi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  }
+]

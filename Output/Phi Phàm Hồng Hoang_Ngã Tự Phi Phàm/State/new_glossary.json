@@ -1,0 +1,626 @@
+[
+  {
+    "raw": "貔貅",
+    "target": "Tỳ Hưu",
+    "type": "mythical_creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "不周山",
+    "target": "núi Bất Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mountain"
+  },
+  {
+    "raw": "洪荒",
+    "target": "Hồng Hoang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "world"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn Cung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "貔貅",
+    "target": "Tỳ Hưu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "不周山",
+    "target": "núi Bất Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "貔貅",
+    "target": "Tỳ Hưu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "先天神祇",
+    "target": "tiên thiên thần chỉ",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "不周山",
+    "target": "núi Bất Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn cung",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "貔貅",
+    "target": "Tỳ Hưu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "mythical_beast"
+  },
+  {
+    "raw": "不周山",
+    "target": "núi Bất Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn Cung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "body_part"
+  },
+  {
+    "raw": "不周山",
+    "target": "núi Bất Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "玄之又玄",
+    "target": "Huyền Chi Hựu Huyền",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "不周山",
+    "target": "núi Bất Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "貔貅",
+    "target": "Tỳ Hưu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "天魔",
+    "target": "thiên ma",
+    "type": "entity",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn Cung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "天魔",
+    "target": "Thiên Ma",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "species"
+  },
+  {
+    "raw": "他化自在天",
+    "target": "Tha Hóa Tự Tại Thiên",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "不周山",
+    "target": "Bất Chu Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn Cung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "成道体",
+    "target": "Thành Đạo Thể",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "不周",
+    "target": "Bất Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "不周",
+    "target": "Bất Chu",
+    "type": "location/concept",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "不周山",
+    "target": "Bất Chu Sơn",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn Cung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "法力",
+    "target": "pháp lực",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "罡风雷火",
+    "target": "Cương Phong Lôi Hỏa",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "貔貅",
+    "target": "Tỳ Hưu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "mythical_beast"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn cung",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "body_part"
+  },
+  {
+    "raw": "先天道体",
+    "target": "Tiên Thiên Đạo Thể",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "不周山",
+    "target": "núi Bất Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geographic"
+  },
+  {
+    "raw": "元灵",
+    "target": "Nguyên Linh",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "先天道体",
+    "target": "tiên thiên đạo thể",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "地仙道果",
+    "target": "Địa Tiên đạo quả",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "太乙道果",
+    "target": "Thái Ất đạo quả",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "大罗道果",
+    "target": "Đại La đạo quả",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "混元道果",
+    "target": "Hỗn Nguyên đạo quả",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "散仙",
+    "target": "Tán Tiên",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "rank"
+  },
+  {
+    "raw": "貔貅",
+    "target": "Tỳ Hưu",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "race"
+  },
+  {
+    "raw": "不周山",
+    "target": "Bất Chu Sơn",
+    "type": "location",
+    "origin": "chinese"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "Nê Hoàn cung",
+    "type": "location",
+    "origin": "chinese"
+  },
+  {
+    "raw": "三昧神风",
+    "target": "tam muội thần phong",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "戊土神雷",
+    "target": "mậu thổ thần lôi",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "先天神祇",
+    "target": "tiên thiên thần kỳ",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "罡风雷火层",
+    "target": "tầng cương phong lôi hỏa",
+    "type": "location",
+    "origin": "chinese"
+  },
+  {
+    "raw": "先天不灭灵光",
+    "target": "Tiên Thiên Bất Diệt Linh Quang",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "灵光",
+    "target": "linh quang",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "师尊",
+    "target": "sư tôn",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "鸿蒙",
+    "target": "thời hồng hoang",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "先天不灭灵光",
+    "target": "Tiên thiên bất diệt linh quang",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "先天道体",
+    "target": "Tiên thiên đạo thể",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "先天灵宝",
+    "target": "Tiên thiên linh bảo",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "混元道果",
+    "target": "Hỗn Nguyên đạo quả",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "地仙道果",
+    "target": "Địa Tiên đạo quả",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "太乙道果",
+    "target": "Thái Ất đạo quả",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "大罗道果",
+    "target": "Đại La đạo quả",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "不周山",
+    "target": "núi Bất Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geography"
+  },
+  {
+    "raw": "混沌元气",
+    "target": "Hỗn Độn nguyên khí",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "罡风雷火层",
+    "target": "tầng Cương Phong Lôi Hỏa",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geography"
+  },
+  {
+    "raw": "泥丸宫",
+    "target": "nê hoàn cung",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "识海",
+    "target": "thức hải",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "顶天立地诀",
+    "target": "Đội trời đạp đất quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "先天道体",
+    "target": "Tiên Thiên Đạo Thể",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "state"
+  },
+  {
+    "raw": "虚空无极宫殿术",
+    "target": "Thuật Hư Không Vô Cực Cung Điện",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "虚空无极宫殿术",
+    "target": "Hư Không Vô Cực Cung Điện Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "戊土之精",
+    "target": "Mậu Thổ Chi Tinh",
+    "type": "material",
+    "origin": "chinese",
+    "name_type": "material"
+  },
+  {
+    "raw": "戊土神雷",
+    "target": "Mậu Thổ Thần Lôi",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "虚空无极宫殿术",
+    "target": "Thuật Hư Không Vô Cực Cung Điện",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "虚空无极宫殿术",
+    "target": "Hư Không Vô Cực Cung Điện Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "虚空无极宫",
+    "target": "Hư Không Vô Cực Cung",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "先天不灭灵光",
+    "target": "Tiên Thiên Bất Diệt Linh Quang",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "戊土神雷",
+    "target": "Mậu Thổ Thần Lôi",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "雷池",
+    "target": "Lôi Trì",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "戊土之精",
+    "target": "Mậu Thổ Chi Tinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "法器",
+    "target": "pháp khí",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "混沌元石",
+    "target": "Hỗn Độn Nguyên Thạch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "混沌元石",
+    "target": "Hỗn Độn Nguyên Thạch",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "顶天立地诀",
+    "target": "Đỉnh Thiên Lập Địa Quyết",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "不周山",
+    "target": "Bất Chu Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "mountain"
+  },
+  {
+    "raw": "虚空无极宫",
+    "target": "Hư Không Vô Cực Cung",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "虚空无极宫殿术",
+    "target": "Hư Không Vô Cực Cung Điện Thuật",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "先天不灭灵光",
+    "target": "Tiên Thiên Bất Diệt Linh Quang",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "地仙道果",
+    "target": "Địa Tiên Đạo Quả",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "cultivation_level"
+  },
+  {
+    "raw": "混沌元石",
+    "target": "hỗn độn nguyên thạch",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "虚空无极宫殿术",
+    "target": "Hư Không Vô Cực Cung Điện Thuật",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "法宝",
+    "target": "pháp bảo",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "顶天立地诀",
+    "target": "Đỉnh Thiên Lập Địa Quyết",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "technique"
+  }
+]

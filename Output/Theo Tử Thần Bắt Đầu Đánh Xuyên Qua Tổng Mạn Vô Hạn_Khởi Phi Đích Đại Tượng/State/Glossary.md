@@ -1,0 +1,266 @@
+# Term Glossary
+
+- **死霸装** (item) -> Tử Bá Trang
+- **浅打** (item) -> Thiển Đả
+- **瀞灵廷** (location) -> Tịnh Linh Đình
+- **尸魂界** (location) -> Thi Hồn Giới
+- **流魂街** (location) -> Lưu Hồn Nhai
+- **护庭十三队** (organization) -> Hộ Đình Thập Tam Đội
+- **真央灵术院** (organization) -> Chân Ương Linh Thuật Viện
+- **护庭十三队** (organization) -> Hộ Đình Thập Tam Đội
+- **真央灵术院** (organization) -> Học viện Chân Ương Linh Thuật
+- **浅打** (item) -> Asauchi
+- **斩魄刀** (item) -> Trảm Phách Đao
+- **始解** (ability) -> Shikai
+- **流魂街** (location) -> Lưu Hồn Nhai
+- **瀞灵廷** (location) -> Tịnh Linh Đình
+- **真央灵术院** (organization) -> Học viện Chân Ương Linh Thuật
+- **流魂街** (location) -> Lưu Hồn Nhai
+- **尸魂界** (location) -> Tịnh Linh Đình
+- **真央灵术院** (location) -> Học viện Chân Ương Linh Thuật
+- **浅打** (item) -> Asauchi
+- **白打** (skill) -> Bạch đả
+- **瞬步** (skill) -> Thuấn bộ
+- **鬼道** (skill) -> Quỷ đạo
+- **四枫院** (organization) -> Shihouin
+- **赤火炮** (skill) -> Xích Hỏa Pháo
+- **破道之四.白雷** (skill) -> Phá đạo chi tứ - Bạch Lôi
+- **缚道之九.击** (skill) -> Phược đạo chi cửu - Kích
+- **黑棺** (skill) -> Hắc Quan
+- **镜花水月** (weapon) -> Kyouka Suigetsu
+- **浅打** (weapon) -> Thiển đả
+- **始解** (ability) -> Thủy giải
+- **卍解** (ability) -> Vạn giải
+- **空蝉** (skill) -> Không Thiền
+- **瞬神** (title) -> Thuấn Thần
+- **隐秘机动部队** (organization) -> Đội Cơ Động Bí Mật
+- **灵术院** (location) -> Linh Thuật Viện
+- **空蝉** (technique) -> Không Thiền
+- **肉雫唼** (weapon) -> Minazuki
+- **更木区** (location) -> khu Zaraki
+- **流民街** (location) -> Lưu Hồn Nhai
+- **真央灵术院** (organization) -> Chân Ương Linh Thuật
+- **真央灵术院** (organization) -> Chân Ương Linh Thuật Viện
+- **回道** (skill) -> Hồi Đạo
+- **斩魄刀** (item) -> Trảm Phách Đao
+- **始解** (skill) -> Thủy Giải
+- **浅打** (item) -> Thiển Đả
+- **鬼道** (skill) -> Quỷ Đạo
+- **缚道** (skill) -> Phược Đạo
+- **破道** (skill) -> Phá Đạo
+- **空蝉** (skill) -> Không Thiền
+- **浅打** (item) -> Thiển Đả
+- **始解** (ability) -> Thủy giải
+- **斩魄刀** (item) -> Trảm Phách Đao
+- **瞬步** (ability) -> Thuấn Bộ
+- **灵术院** (organization) -> Linh Thuật Viện
+- **护庭十三队** (organization) -> Hộ Đình Thập Tam Đội
+- **灵术院** (organization) -> Linh Thuật Viện
+- **回道** (skill) -> Hồi đạo
+- **斩拳走鬼** (skill) -> Trảm, Quyền, Tẩu, Quỷ
+- **大虚** (creature) -> Đại Hư
+- **始解** (skill) -> Thủy giải
+- **瓦史托德** (terminology) -> Vasto Lorde
+- **终焉空间** (terminology) -> Không gian Chung Yên
+- **真央灵术院** (terminology) -> Chân Ương Linh Thuật Viện
+- **护庭十三队** (terminology) -> Hộ Đình Thập Tam Đội
+- **镜花水月** (terminology) -> Kính Hoa Thủy Nguyệt
+- **始解** (terminology) -> Thủy giải
+- **卍解** (terminology) -> Vạn giải
+- **镜花水月** (object) -> Kính Hoa Thủy Nguyệt
+- **斩魄刀** (object) -> Trảm Phách Đao
+- **浅打** (object) -> Thiển Đả
+- **元流** (location) -> Nguyên Lưu
+- **浅打** (item) -> Asauchi
+- **肉雫唼** (item) -> Minazuki
+- **回道** (skill) -> Kaido
+- **羽织** (item) -> haori
+- **囚魔** (weapon) -> Tù Ma
+- **肉雫唼** (weapon) -> Minazuki
+- **囚魔** (weapon) -> Tù Ma
+- **浅打** (weapon) -> Thiển Đả
+- **终焉空间** (organization) -> Chung Yên Không Gian
+- **真央灵术院** (organization) -> Chân Ương Linh Thuật Viện
+- **回道** (ability) -> Hồi Đạo
+- **始解** (ability) -> Thủy Giải
+- **护庭十三队** (organization) -> Hộ Đình Thập Tam Đội
+- **死霸装** (glossary) -> Tử Bá trang
+- **真央灵术院** (glossary) -> Chân Ương Linh Thuật Viện
+- **破道** (glossary) -> Phá đạo
+- **始解** (glossary) -> Thủy giải
+- **黑腔** (glossary) -> Hắc khang
+- **虚圈** (glossary) -> Hư quyển
+- **终焉空间** (glossary) -> Không Gian Chung Yên
+- **衍生世界** (glossary) -> Thế giới phái sinh
+- **浅打** (glossary) -> Thiển đả
+- **先驱者** (role) -> Người Mở Đường
+- **无畏者** (item) -> Kẻ Vô Úy
+- **裁决者** (role) -> Người Phán Quyết
+- **传承结晶** (item) -> tinh thể truyền thừa
+- **终焉币** (item) -> tiền Chung Yên
+- **终焉空间** (location) -> không gian Chung Yên
+- **真央灵术院** (location) -> Chân Ương Linh Thuật Viện
+- **终焉空间** (glossary) -> không gian Chung Yên
+- **终焉古藤** (glossary) -> Chung Yên Cổ Đằng
+- **后援者** (glossary) -> hậu viện giả
+- **终焉币** (glossary) -> đồng Chung Yên
+- **先驱者** (glossary) -> tiên khu giả
+- **灵威锻炼法** (glossary) -> Linh Uy Đoán Luyện Pháp
+- **囚魔** (glossary) -> Tù Ma
+- **始解** (glossary) -> Thủy Giải
+- **探索者印记** (glossary) -> Dấu ấn nhà thám hiểm
+- **先驱者印记** (glossary) -> Dấu ấn tiên khu giả
+- **传承结晶.小** (glossary) -> Tinh Thể Truyền Thừa (Nhỏ)
+- **武装色霸气修炼法** (glossary) -> Tu luyện pháp Haki Vũ Trang
+- **海贼王** (glossary) -> One Piece
+- **霸气** (glossary) -> Haki
+- **囚魔** (weapon) -> Tù Ma
+- **魂源** (energy) -> Hồn nguyên
+- **先驱者** (title) -> Người tiên phong
+- **终焉币** (currency) -> đồng chung yên
+- **武装色霸气** (skill) -> Vũ trang sắc bá khí
+- **传承结晶.小** (item) -> Tinh thể truyền thừa - Nhỏ
+- **拳愿阿修罗** (world) -> Quyền Nguyện A Tu La
+- **曬首监狱** (location) -> Nhà tù Sái Thủ
+- **霓虹** (location) -> Nghê Hồng
+- **吴之一族** (organization) -> gia tộc Kure
+- **斗技** (glossary) -> đấu kỹ
+- **古罗马** (glossary) -> Cổ La Mã
+- **上门** (glossary) -> tới cửa
+- **东西** (glossary) -> gì đó
+- **河畔** (glossary) -> bờ sông
+- **东京** (glossary) -> Đông kinh
+- **聊天** (glossary) -> nói chuyện phiếm
+- **大佬** (glossary) -> đại lão
+- **尔康手** (term) -> bàn tay Nhĩ Khang
+- **吴之一族** (organization) -> Ngô chi nhất tộc
+- **武装色霸气** (skill) -> Haki Vũ Trang
+- **囚魔** (weapon) -> Tù Ma
+- **始解** (skill) -> Thủy Giải
+- **解放** (skill) -> Giải Phóng
+- **拳愿绝命淘汰赛** (event) -> giải đấu Quyền Nguyện Tuyệt Mệnh
+- **拳愿阿修罗** (work) -> Quyền Vương A Tu La
+- **魔枪传** (work) -> Truyện Ma Thương
+- **拳愿岛** (location) -> Đảo Quyền Vương
+- **机械降神** (work) -> Thần Máy Giáng Thế
+- **公频** (event) -> kênh công cộng
+- **拳愿世界** (location) -> thế giới Quyền Vương
+- **格斗专精** (skill) -> chuyên môn cách đấu
+- **征西派** (organization) -> Phái Chinh Tây
+- **吴** (organization) -> Ngô
+- **蟲** (organization) -> Trùng
+- **拳愿绝命淘汰赛** (event) -> vòng loại Quyền Vương Tử Thần
+- **起源之种** (item) -> Hạt Giống Nguyên Thủy
+- **吴之一族** (organization) -> tộc Ngô
+- **演武场** (location) -> võ trường
+- **秘术** (skill) -> bí thuật
+- **秘技解放** (skill) -> Bí kỹ Giải Phóng
+- **肉体均衡** (skill) -> sự cân bằng cơ thể
+- **究极的武** (concept) -> võ thuật tối thượng
+- **傲娇** (trait) -> ngạo kiều
+- **探索者** (occupation) -> nhà thám hiểm
+- **乌云** (object) -> mây đen
+- **冷汗** (symptom) -> mồ hôi lạnh
+- **格斗** (skill) -> cách đấu
+- **罗刹** (term) -> La Sát
+- **红潮** (expression) -> đỏ mặt
+- **雷霆** (phenomenon) -> Lôi Đình
+- **吴家** (family) -> Ngô Gia
+- **毛巾** (object) -> khăn mặt
+- **吴之里** (location) -> Ngô Chi Lý
+- **摩天大楼** (building) -> nhà chọc trời
+- **东京** (location) -> Đông kinh
+- **城市** (location) -> thành thị
+- **六本木** (location) -> Lục Bổn Mộc
+- **长发** (feature) -> tóc dài
+- **普通** (trait) -> bình thường
+- **斗技** (skill) -> đấu kỹ
+- **中射** (term) -> Trung Xạ
+- **东西** (pronoun) -> gì đó
+- **巨浪** (phenomenon) -> sóng lớn
+- **灭堂之牙** (terminology) -> Diệt Đường Chi Nha
+- **拳愿绝命淘汰赛** (event) -> giải đấu Quyền Nguyện Tuyệt Mệnh
+- **拳愿会** (organization) -> Hội Quyền Nguyện
+- **起源之种** (item) -> Hạt giống Khởi Nguyên
+- **征西派吴** (organization) -> Chinh Tây Phái Ngô
+- **蟲组织** (organization) -> tổ chức Trùng
+- **灭堂之牙** (term) -> Diệt Đường Chi Nha
+- **拳愿绝命淘汰赛** (event) -> Giải Đấu Tuyệt Mệnh Quyền Nguyện
+- **拳愿会** (organization) -> Hiệp hội Quyền Nguyện
+- **蟲** (organization) -> tổ chức Trùng
+- **征西派** (organization) -> phái Chinh Tây
+- **虎之器** (term) -> Hổ Chi Khí
+- **大日本银行** (organization) -> ngân hàng Dainippon
+- **灭堂之牙** (title) -> Nanh Metsudo
+- **二虎流** (martial_arts) -> Nhị Hổ Phái
+- **先之先** (technique) -> Tiên chi Tiên
+- **起源之种** (item) -> Hạt giống Khởi nguyên
+- **拳愿绝命淘汰赛** (event) -> Giải đấu Kengan Zetsumei
+- **皇樱学院** (location) -> Học viện Koyo
+- **吴之一族** (organization) -> tộc Kure
+- **囚魔** (weapon) -> Tù Ma
+- **终焉币** (currency) -> Chung Yên tệ
+- **起源之种** (item) -> Nguồn Cơn Chi Chủng
+- **囚魔** (weapon) -> Tù Ma
+- **虎之器** (item) -> Hổ Chi Khí
+- **乃木集团** (organization) -> Tập đoàn Nãi Mộc
+- **山下商事** (organization) -> Sơn Hạ Thương Sự
+- **虎之器** (item) -> Hổ Chi Khí
+- **山下商事** (organization) -> Thương sự Sơn Hạ
+- **UM社** (organization) -> tổ chức UM
+- **征西派** (organization) -> phái Chinh Tây
+- **十王通信** (organization) -> Thập Vương Thông Tín
+- **凭神** (skill) -> Bằng Thần
+- **降魔** (skill) -> Hàng Ma
+- **神魔** (skill) -> Thần Ma
+- **二虎流** (skill) -> Nhị Hổ Lưu
+- **虎之器** (skill) -> Khí của Hổ
+- **囚魔** (weapon) -> Tù Ma
+- **蟲** (organization) -> Trùng
+- **吴之一族** (organization) -> Ngô Tộc
+- **囚魔** (weapon) -> Tù Ma
+- **龙家** (group) -> Long gia
+- **二虎流** (term) -> Nhị Hổ Lưu
+- **卧王流** (term) -> Ngọa Vương Lưu
+- **解放** (term) -> Giải Phóng
+- **凭神** (term) -> Bằng Thần
+- **降魔** (term) -> Hàng Ma
+- **神魔** (term) -> Thần Ma
+- **世界之核** (term) -> Lõi thế giới
+- **终焉空间** (location) -> Không gian chung yên
+- **拳愿** (term) -> Quyền Nguyện
+- **囚魔** (weapon) -> Tù Quỷ
+- **囚魔** (item) -> Tù Ma
+- **降魔** (skill) -> Hàng Ma
+- **解放** (skill) -> Giải Phóng
+- **凭神** (skill) -> Bằng Thần
+- **秘技.鬼神** (skill) -> Bí kỹ: Quỷ Thần
+- **吴之一族** (faction) -> Ngô Chi Nhất Tộc
+- **死之商人** (faction) -> Thương Nhân Cái Chết
+- **终焉空间** (location) -> Không Gian Chung Yên
+- **吴之一族** (faction) -> Ngô nhất tộc
+- **拳愿世界** (world) -> thế giới Kengan
+- **凭神** (ability) -> Bằng Thần
+- **降魔** (ability) -> Hàng Ma
+- **鬼魂** (ability) -> Quỷ Hồn
+- **解放** (ability) -> Giải Phóng
+- **限制器解除** (ability) -> Mở Khóa Giới Hạn
+- **灵种** (item) -> Linh Chủng
+- **起源之种** (item) -> Hạt Giống Khởi Nguyên
+- **鬼神** (ability) -> Quỷ Thần
+- **终焉币** (item) -> đồng Chung Yên
+- **先驱者** (title) -> Tiên Khu Giả
+- **无畏者** (title) -> Kẻ Vô Úy
+- **莽夫** (title) -> Mãng Phu
+- **灵压** (ability) -> Linh Áp
+- **武装色霸气** (ability) -> Haki Vũ Trang
+- **屠戮者** (item) -> Đồ Lục Giả
+- **囚魔** (weapon) -> Tù Ma
+- **屠戮者** (item) -> Đồ Lục Giả
+- **终焉币** (currency) -> Chung Yên tệ
+- **后援者** (character_class) -> Hậu Viện Giả
+- **无梦** (item) -> Vô Mộng
+- **私人订制** (location) -> Hàng đặt riêng
+- **无梦** (item) -> Vô Mộng
+- **回道** (skill) -> Hồi Đạo
+- **侦查** (skill) -> Trinh sát

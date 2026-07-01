@@ -1,0 +1,156 @@
+[
+  {
+    "raw": "小人儿",
+    "target": "tiểu nhân nhi",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "神祇",
+    "target": "thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "真龙",
+    "target": "Chân Long",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "龙珠",
+    "target": "Long Châu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李昊",
+    "target": "Lý Hạo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "烛龙",
+    "target": "Rồng Ngậm Nến",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "怪物",
+    "target": "quái vật",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "古龙",
+    "target": "Cổ Long",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "大佬",
+    "target": "đại lão",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "造物主",
+    "target": "Đấng Tạo Hóa",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "先知",
+    "target": "Tiên Tri",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李昊",
+    "target": "Lý Hạo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "梦瑶",
+    "target": "Mộng Dao",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "老驴头",
+    "target": "Lão Lừa Già",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "李昊",
+    "target": "Lý Hạo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "梦瑶",
+    "target": "Mộng Dao",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "烛龙",
+    "target": "Chúc Long",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "疤脸",
+    "target": "Mặt Thẹo",
+    "type": "character",
+    "origin": "unknown",
+    "name_type": "person"
+  },
+  {
+    "raw": "疤脸",
+    "target": "Mặt Thẹo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "烛龙",
+    "target": "Chúc Long",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "mythological"
+  },
+  {
+    "raw": "疤脸",
+    "target": "Mặt Thẹo",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "烛龙",
+    "target": "Chúc Long",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "monster"
+  }
+]

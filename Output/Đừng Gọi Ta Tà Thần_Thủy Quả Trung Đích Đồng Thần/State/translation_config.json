@@ -1,0 +1,12 @@
+{
+  "translation_goal": {
+    "style": "văn xuôi tiếng Việt tự nhiên, chính xác nghĩa, giữ giọng fantasy phương Tây",
+    "proper_name_policy": "Tên người/địa danh/thần danh bối cảnh Tây dùng Latin ổn định theo Locked Dictionary; không Hán Việt hóa target Latin.",
+    "anti_goals": [
+      "Không giữ ký tự CJK trong bản dịch cuối",
+      "Không đổi target đã khóa trong Locked Dictionary",
+      "Không dịch lại tên Latin sang Hán Việt",
+      "Không dùng Hán Việt cho tên riêng đã có dạng Latin trong seed/state/project DB"
+    ]
+  }
+}

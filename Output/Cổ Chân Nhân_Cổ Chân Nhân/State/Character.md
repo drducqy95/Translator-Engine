@@ -1,0 +1,171 @@
+# Character Dictionary
+
+- **古月方源** -> Cổ Nguyệt Phương Nguyên
+- **白凝冰** -> Bạch Ngưng Băng
+- **方源** -> Phương Nguyên
+- **方正** -> Phương Chính
+- **沈翠** -> Trầm Thúy
+- **方正** -> Phương Chính
+- **沈嬷嬷** -> Trầm ma ma
+- **古月方源** -> Cổ Nguyệt Phương Nguyên
+- **古月陈博** -> Cổ Nguyệt Trần Bác
+- **古月漠北** -> Cổ Nguyệt Mạc Bắc
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **古月赤练** -> Cổ Nguyệt Xích Luyện
+- **古月漠尘** -> Cổ Nguyệt Mạc Trần
+- **人祖** -> Người Tổ
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **古月赤练** -> Cổ Nguyệt Xích Luyện
+- **古月漠尘** -> Cổ Nguyệt Mạc Trần
+- **古月博** -> Cổ Nguyệt Bác
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **古月方源** -> Cổ Nguyệt Phương Nguyên
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **古月冻土** -> Cổ Nguyệt Đống Thổ
+- **沈翠** -> Trầm Thúy
+- **沈嬷嬷** -> Nhũ mẫu Thẩm
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **沈翠** -> Trầm Thúy
+- **江牙** -> Giang Nha
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **江牙** -> Giang Nha
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **沈翠** -> Thẩm Thúy
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **春秋蝉** -> Xuân Thu Ve
+- **方源** -> Phương Nguyên
+- **方正** -> Phương Ngắn
+- **白珍珠** -> Bạch Trân Châu
+- **月光蛊** -> Nguyệt Quang Cổ
+- **酒虫** -> sâu rượu
+- **古月漠尘** -> Cổ Nguyệt Mạc Trần
+- **古月赤练** -> Cổ Nguyệt Xích Luyện
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **江牙** -> Giang Nha
+- **拳脚教头** -> Giáo đầu quyền cước
+- **古月漠北** -> Cổ Nguyệt Mạc Bắc
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **方正** -> ngay ngắn
+- **古月北巨** -> Cổ Nguyệt Bắc Cự
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **学堂家老** -> Học đường gia lão
+- **方源** -> Phương Nguyên
+- **古月赤城** -> Cổ Nguyệt – Chiến Đoạn Đỏ
+- **古月赤练** -> Cổ Nguyệt – Chiến Đoạn Luyện
+- **古月冻土** -> Cổ Nguyệt Đống Thổ
+- **古月漠北** -> Cổ Nguyệt Mạc Bắc
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **古月漠尘** -> Cổ Nguyệt Mạc Trần
+- **古月漠颜** -> Cổ Nguyệt Mạc Nhan
+- **方源** -> Phương Nguyên
+- **漠颜** -> Mạc Nhan
+- **高碗** -> Cao Oản
+- **方正** -> Phương Chính
+- **漠颜** -> Mạc Nhan
+- **高碗** -> Cao Oản
+- **漠颜** -> Mạc Nhan
+- **高碗** -> Cao Oản
+- **漠北** -> Mạc Bắc
+- **方源朗** -> Phương Nguyên Lãng
+- **漠颜** -> Mạc Nhan Đô
+- **高碗** -> Cao Oản
+- **花酒行者** -> Hoa Tửu hành giả
+- **漠颜** -> Mạc Nhan
+- **古月漠尘** -> Cổ Nguyệt Mạc Trần
+- **漠颜** -> Mạc Nhan
+- **方源** -> Phương Nguyên
+- **方源** -> Phương Nguyên
+- **古月漠尘** -> Cổ Nguyệt Mạc Trần
+- **漠颜** -> Mạc Nhan
+- **古月漠北** -> Cổ Nguyệt Mạc Bắc
+- **贾名富** -> Cổ Danh Phú
+- **贾富** -> Cổ Phú
+- **古月** -> Cổ Nguyệt
+- **高碗** -> Cao Oản
+- **方源便** -> Phương Nguyên Tiện
+- **方源轻** -> Phương Nguyên Khinh
+- **贾金生** -> Cổ Kim Sanh
+- **癞土蛤蟆** -> Lại Thổ Cáp Mô
+- **宝气黄铜蟾** -> Bảo Khí Hoàng Đồng Thiềm
+- **驼鸡** -> Đà kê
+- **水晶瓢虫** -> Thủy Tinh biều trùng
+- **金钟蛊** -> Kim Chung cổ
+- **癞土蛤蟆** -> Lại Thổ thiềm thừ
+- **黒豕蛊** -> Hắc Thỉ cổ
+- **臭屁肥虫** -> Xú Thí phì trùng
+- **贾金生** -> Giả Kim Sinh
+- **贾富** -> Giả Phú
+- **贾贵** -> Giả Quý
+- **贾家家主** -> Gia chủ Giả gia
+- **白凝冰** -> Bạch Ngưng Băng
+- **花酒行者** -> Hoa Tửu hành giả
+- **贾金生** -> Giả Kim Sinh
+- **贾富** -> Giả Phú
+- **花酒行者** -> Hoa Tửu hành giả
+- **贾金生** -> Cổ Kim Sanh
+- **贾富** -> Cổ Phú
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **古月漠北** -> Cổ Nguyệt Mạc Bắc
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **高碗** -> Cao Oản
+- **拳脚教头** -> quyền cước giáo đầu
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **赤城** -> Xích Thành
+- **漠北** -> Mạc Bắc
+- **古月漠北** -> Cổ Nguyệt Mạc Bắc
+- **古月漠颜** -> Cổ Nguyệt Mạc Nhan
+- **古月赤练** -> Cổ Nguyệt Xích Luyện
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **方源** -> Phương Nguyên
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **高碗** -> Cao Oản
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **方正** -> Phương Chính
+- **古月漠北** -> Cổ Nguyệt Mạc Bắc
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **方源** -> Phương Nguyên
+- **古月漠北** -> Cổ Nguyệt Mạc Bắc
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **侍卫** -> thị vệ
+- **王大** -> Vương Đại
+- **吴二** -> Ngô Nhị
+- **古月赤练** -> Cổ Nguyệt Xích Luyện
+- **古月漠尘** -> Cổ Nguyệt Mạc Trần
+- **古月博** -> Cổ Nguyệt Bác
+- **贾富** -> Giả Phú
+- **贾金生** -> Giả Kim Sinh
+- **贾金生** -> Cổ Kim Sanh
+- **贾富** -> Cổ Phú
+- **古月博** -> Cổ Nguyệt Bác
+- **贾金生** -> Cổ Kim Sanh
+- **贾富** -> Cổ Phú
+- **贾贵** -> Cổ Quý
+- **捕神铁血冷** -> Bắt Thần Thiết Huyết Lãnh
+- **古月博** -> Cổ Nguyệt Bác
+- **学堂家老** -> học đường gia lão
+- **方源** -> Phương Nguyên
+- **方正** -> Phương Chính
+- **漠北** -> Mạc Bắc
+- **赤城** -> Xích Thành
+- **花酒行者** -> Hoa Tửu Hành Giả
+- **古月博** -> Cổ Nguyệt Bác
+- **古月方正** -> Cổ Nguyệt Phương Chính
+- **方正** -> Phương Chính
+- **古月漠北** -> Cổ Nguyệt Mạc Bắc
+- **漠北** -> Mạc Bắc
+- **古月赤城** -> Cổ Nguyệt Xích Thành
+- **赤城** -> Xích Thành
+- **古月方源** -> Cổ Nguyệt Phương Nguyên
+- **方源** -> Phương Nguyên
+- **花酒行者** -> Hoa Tửu Hành Giả

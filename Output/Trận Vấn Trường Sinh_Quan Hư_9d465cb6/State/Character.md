@@ -1,0 +1,159 @@
+# Character Dictionary
+
+- **墨画** -> Mực Họa
+- **墨画** -> Mặc Họa
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **孙老头** -> Tôn lão đầu
+- **柳如画** -> Liễu Như Họa
+- **墨山** -> Mặc San
+- **墨山** -> Mặc San
+- **柳如画** -> Liễu Như Họa
+- **墨画** -> Mặc Họa
+- **老楚** -> Lão Sở
+- **墨画** -> Mặc Họa
+- **墨山** -> Mặc San
+- **柳如画** -> Liễu Như Họa
+- **墨画** -> Mặc Họa
+- **墨山** -> Mặc San
+- **柳如画** -> Liễu Như Họa
+- **冯老先生** -> Phùng lão tiên sinh
+- **墨画** -> Mặc Họa
+- **季青柏** -> Quý Thanh Bách
+- **季礼** -> Quý Lễ
+- **郑叔** -> Trịnh Thúc
+- **墨山** -> Mặc San
+- **柳如画** -> Liễu Như Họa
+- **墨画** -> Mặc Họa
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **周老** -> Chu Lão
+- **严教习** -> Nghiêm giáo tập
+- **周教习** -> Chu giáo tập
+- **墨画** -> Mặc Họa
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **安小胖** -> An Tiểu Bàn
+- **王管事** -> Vương quản sự
+- **大虎** -> Đại Hổ
+- **双虎** -> Song Hổ
+- **小虎** -> Tiểu Hổ
+- **严教习** -> Nghiêm giáo tập
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **严教习** -> Nghiêm giáo tập
+- **胖管事** -> Béo quản sự
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **安小胖** -> An Tiểu Bàn
+- **胖管事** -> quản sự béo
+- **观虚** -> Quan Hư
+- **严教习** -> Nghiêm giáo tập
+- **胖管事** -> Béo quản sự
+- **墨画** -> Mặc Họa
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **莫管事** -> Mạc quản sự
+- **胖管事** -> quản sự mập
+- **双虎** -> Song Hổ
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **严教习** -> Nghiêm giáo tập
+- **莫管事** -> Mạc quản sự
+- **冯老先生** -> Phùng lão tiên sinh
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **莫管事** -> Mạc quản sự
+- **杨大婶** -> Thím Dương
+- **冯老先生** -> Phùng lão tiên sinh
+- **墨画** -> Mặc Họa
+- **安小胖** -> An Tiểu Bàn
+- **安小富** -> An Tiểu Phú
+- **严教习** -> Nghiêm giáo tập
+- **冯老先生** -> Phùng lão tiên sinh
+- **墨画** -> Mặc Họa
+- **安小胖** -> An Tiểu Bàn
+- **墨画** -> Mặc Họa
+- **莫管事** -> Mạc quản sự
+- **严教习** -> Nghiêm giáo tập
+- **大虎** -> Đại Hổ
+- **陈师傅** -> Trần sư phó
+- **陈师傅** -> Trần sư phó
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **墨画** -> Mặc Họa
+- **陈师傅** -> bác tài Trần
+- **墨画** -> Mực Họa
+- **陈师傅** -> Bác tài Trần
+- **陈师傅** -> bác tài Trần
+- **大柱** -> Đại Trụ
+- **墨画** -> Mặc Họa
+- **陈师傅** -> bác tài Trần
+- **墨山** -> Mặc San
+- **柳如画** -> Liễu Như Họa
+- **大柱** -> Đại Trụ
+- **孟大叔** -> Chú Mạnh
+- **孟大婶** -> Thím Mạnh
+- **姜芸** -> Khương Vân
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **钱长老** -> Tiền trưởng lão
+- **周老教习** -> Chu Lão giáo tập
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **莫管事** -> Mạc quản sự
+- **洛大师** -> Lạc đại sư
+- **观虚** -> Quan Hư
+- **严教习** -> Nghiêm giáo tập
+- **墨画** -> Mực Họa
+- **钱长老** -> Tiền trưởng lão
+- **大虎** -> Đại Hổ
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **傀老** -> Khôi lão
+- **严教习** -> Nghiêm giáo tập
+- **庄先生** -> Trang Tiên Sanh
+- **墨画** -> Mặc Họa
+- **严教习** -> Nghiêm giáo tập
+- **傀老** -> Khôi lão
+- **墨画** -> Mặc Họa
+- **庄先生** -> Trang Tiên Sanh
+- **莫管事** -> Mạc quản sự
+- **严教习** -> Nghiêm giáo tập
+- **大虎** -> Đại Hổ
+- **墨山** -> Mặc San
+- **柳如画** -> Liễu Như Họa
+- **姜芸** -> Khương Vân
+- **傀老** -> Khôi lão
+- **墨画** -> Mặc Họa
+- **傀老** -> Khôi Lão
+- **墨画** -> Mặc Họa
+- **雪姨** -> Tuyết Di
+- **白子胜** -> Bạch Tử Thắng
+- **白子曦** -> Bạch Tử Hi
+- **傀老** -> Khôi lão
+- **墨画** -> Mặc Họa
+- **白子胜** -> Bạch Tử Thắng
+- **白子曦** -> Bạch Tử Hi
+- **傀老** -> Khôi lão
+- **观虚** -> Quan Hư
+- **庄先生** -> Trang Tiên Sanh
+- **雪姨** -> Tuyết Di
+- **白子胜** -> Hòa Tử Thắng
+- **白子曦** -> Tử Hi
+- **墨画** -> Mực Họa
+- **白子胜** -> Bạch Tử Thắng
+- **白子曦** -> Bạch Tử Hi
+- **雪姨** -> Tuyết Di
+- **墨画** -> Mặc Họa
+- **白子胜** -> Bạch Tử Thắng
+- **白子曦** -> Bạch Tử Hi
+- **潘大头** -> Phan Đầu To
+- **莲华散人** -> Liên Hoa Tán Nhân
+- **白子曦** -> Bạch Tử Hi
+- **白子胜** -> Bạch Tử Thắng
+- **墨画** -> Mặc Họa
+- **雪姨** -> Tuyết Di
+- **大虎** -> Đại Hổ
+- **双虎** -> Song Hổ
+- **小虎** -> Tiểu Hổ

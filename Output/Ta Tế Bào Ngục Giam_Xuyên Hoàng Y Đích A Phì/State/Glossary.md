@@ -1,0 +1,97 @@
+# Term Glossary
+
+- **无面者的头颅** (item) -> Đầu của kẻ không mặt
+- **圣城** (location) -> Thánh Thành
+- **无面者的头颅** (item) -> Đầu của kẻ không mặt
+- **死尸注射器** (item) -> Ống tiêm tử thi
+- **黑蔷薇骑士团** (organization) -> Hắc Tường Vi Kị Sĩ Đoàn
+- **黑蔷薇胸章** (item) -> Huy hiệu Hắc Tường Vi
+- **诺因忒纳** (location) -> Nointherna
+- **中邪** (movie) -> Trung Tà
+- **无面者的头颅** (item) -> Đầu của kẻ không mặt
+- **李坝** (location) -> Lý Bá
+- **王子岗** (location) -> Vương Tử Cương
+- **无面者的头颅** (object) -> Đầu Của Kẻ Vô Diện
+- **命运空间** (term) -> Không gian Vận mệnh
+- **便携式监狱** (item) -> nhà giam bỏ túi
+- **中邪者** (term) -> Kẻ trúng tà
+- **邪变者** (term) -> Kẻ biến tà
+- **炼邪** (term) -> Luyện tà
+- **无面人脸** (term) -> Khuôn mặt vô diện
+- **腐败地窖** (location) -> Hầm mục nát
+- **瘟疫之家** (event) -> Nhà ôn dịch
+- **瘟疫医生的短刃** (item) -> Đoản kiếm của bác sĩ ôn dịch
+- **瘟疫医生的短刃** (item) -> Đoản đao của bác sĩ dịch bệnh
+- **中邪** (event) -> Trúng tà
+- **诺因忒纳** (location) -> Nointherna
+- **圣杯** (item) -> Chén thánh
+- **神秘学** (skill) -> Thần bí học
+- **无面者的头颅** (item) -> Đầu lâu của kẻ vô diện
+- **祭典广场** (location) -> Quảng trường Tế điển
+- **黑蔷薇骑士团** (organization) -> Kỵ sĩ đoàn Hắc Tường Vi
+- **国立皇家骑士学院** (organization) -> Học viện Kỵ sĩ Hoàng gia Quốc lập
+- **国立皇家骑士学院** (organization) -> Học viện Kỵ sĩ Hoàng gia Quốc lập
+- **黑蔷薇骑士团** (organization) -> Kỵ sĩ đoàn Tường Vi Đen
+- **莫斯拉比河** (location) -> Sông Moslabi
+- **骑士学院** (organization) -> Học viện Kỵ Sĩ
+- **蒸汽机械之城** (location) -> Thành Phố Máy Móc Hơi Nước
+- **返回者** (concept) -> Người Trở Về
+- **无面者** (concept) -> Kẻ Vô Diện
+- **诺因忒纳** (location) -> Nointena
+- **命运空间** (other) -> không gian vận mệnh
+- **萨麦街道** (place) -> Đường Tát Mạch
+- **萨麦** (location) -> Samael
+- **黑蔷薇骑士团** (organization) -> Đoàn Kỵ sĩ Hắc Tường Vi
+- **国立皇家骑士学院** (organization) -> Học viện Kỵ sĩ Hoàng gia Quốc lập
+- **加纳平民区** (location) -> Khu bình dân Ghana
+- **铁锤与烈火酒馆** (location) -> Quán rượu Búa Sắt và Lửa Đỏ
+- **神秘学** (glossary) -> Thần bí học
+- **国立皇家骑士学院** (glossary) -> Quốc lập Hoàng gia Kỵ sĩ học viện
+- **天赋树** (glossary) -> cây tài năng
+- **维多利亚** (glossary) -> Vích-to-ri-a
+- **治安** (glossary) -> trị an
+- **铁锤与烈火酒馆** (glossary) -> Quán rượu Sắt và Lửa
+- **瘟疫医生的短刃** (item) -> Đoản kiếm của Bác sĩ Dịch hạch
+- **便携式监狱** (item) -> Nhà tù di động
+- **食尸鬼** (creature) -> Ghoul
+- **十字军** (organization) -> Thập Tự Quân
+- **瘟疫医生的短刃** (item) -> Đoản đao Bác sĩ Dịch hạch
+- **见习骑士** (term) -> Kỵ sĩ kiến tập
+- **十字军** (term) -> Thập Tự Quân
+- **神秘学** (term) -> Thần Bí Học
+- **掌控** (term) -> Khống Chế
+- **食尸鬼** (monster) -> Quỷ ăn xác
+- **十字军** (organization) -> Thập tự quân
+- **国立皇家骑士学院** (location) -> Học viện Kỵ sĩ Hoàng gia Quốc lập
+- **无面者头颅** (item) -> Vô Diện Nhân Đầu Lâu
+- **诺因忒纳** (location) -> Nặc Nhân Thắc Nạp
+- **阿瑞斯之阶** (location) -> Bậc thang A Thụy Tư
+- **骑士学院** (organization) -> Học viện Kỵ sĩ
+- **神秘系** (organization) -> Hệ Thần Bí
+- **观星室** (location) -> Phòng Ngắm Sao
+- **暗月森林** (location) -> Rừng Ám Nguyệt
+- **哀悼之盒** (item) -> Hộp Ai Điếu
+- **暗月森林** (location) -> Rừng Ám Nguyệt
+- **神秘学** (terminology) -> Thần bí học
+- **食尸鬼手臂** (terminology) -> Cánh tay Thực thi quỷ
+- **伪装撤销** (terminology) -> Hủy bỏ ngụy trang
+- **命运空间** (location) -> Không gian Vận mệnh
+- **墓地真菌** (terminology) -> Nấm nghĩa trang
+- **剪刀缝合怪** (monster) -> quái vật khâu vá kéo
+- **暗月森林** (location) -> Rừng Ám Nguyệt
+- **暗月高塔** (location) -> Tháp Ám Nguyệt
+- **暗月高塔** (location) -> Ám Nguyệt Cao Tháp
+- **瘟疫骑士团** (organization) -> Ôn Dịch Kỵ Sĩ Đoàn
+- **观星室** (location) -> Xem sao thất
+- **旧下水道** (location) -> Cống Thoát Nước Cũ
+- **暗月高塔** (location) -> Ám Nguyệt Cao Tháp
+- **食尸鬼** (terminology) -> quỷ ăn xác
+- **种子** (concept) -> Hạt giống
+- **瘟疫学** (book) -> Ôn dịch học
+- **旧下水道** (location) -> Cống thoát nước cũ
+- **鸟嘴医生套装** (item) -> Bộ đồ bác sĩ mỏ chim
+- **大不列颠** (location) -> Great Britain
+- **邪咒** (magic_skill) -> Tà chú
+- **贝克大宅** (location) -> dinh thự Baker
+- **共振磁石** (item) -> Nam châm cộng hưởng
+- **鸟嘴医生装束** (item) -> Bộ trang phục Bác sĩ mỏ chim

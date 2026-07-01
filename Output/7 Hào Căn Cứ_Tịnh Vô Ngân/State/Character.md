@@ -1,0 +1,64 @@
+# Character Dictionary
+
+- **许末** -> Hứa Mạt
+- **许幺** -> Hứa Yêu
+- **许叔** -> Hứa Thúc
+- **许末** -> Hứa Mạt
+- **米亚** -> Mễ Á
+- **巴图** -> Ba Đồ
+- **连幺儿** -> Liên Yêu Nhi
+- **巴图老爷** -> Lão gia Ba Đồ
+- **米亚** -> Mễ Á
+- **许末** -> Hứa Mạt
+- **幺儿** -> Tiểu Muội
+- **艾尔莎** -> Elsa
+- **白鬼** -> Bạch Quỷ
+- **沙窐尔** -> Sa Oa Nhĩ
+- **莱恩** -> Lai Ân
+- **白刃** -> Dao Sắc
+- **秦仲** -> Tần Trọng
+- **白薇** -> Bạch Vi
+- **白老板** -> Bạch ông chủ
+- **金丝眼镜男** -> người đeo kính gọng vàng
+- **剔骨刀** -> Dao Róc Xương
+- **布雷** -> Đặt Mìn
+- **蛇哥** -> Ca Rắn
+- **露西奶奶** -> bà Lộ Tây
+- **林妮** -> Lâm Ny
+- **米亚** -> Mễ Á
+- **艾尔莎** -> Ái Nhĩ Sa
+- **库柏** -> Khố Bách
+- **库柏飞** -> Khố Bách Phi
+- **苏西** -> Tô Tây
+- **蝶姐** -> Bướm tỷ
+- **魔术师助手** -> Trợ thủ ảo thuật gia
+- **A Tân** -> A Tân
+- **牧师** -> Mục sư
+- **光头男子** -> gã trọc
+- **鬼面人** -> người mặt quỷ
+- **医生** -> Bác sĩ
+- **银面人** -> người mặt nạ bạc
+- **方泽** -> Phương Trạch
+- **小七** -> Tiểu Thất
+- **C姐** -> Cane
+- **瘦高男子** -> người đàn ông cao gầy
+- **埃利斯太太** -> Phu nhân Ai Lợi Tư
+- **男子 (cha Ái Nhĩ Sa)** -> Danshi (cha Ai Nhi Nh Sa)
+- **赛斯** -> Tái Tư
+- **金秘书** -> Kim Thư ký
+- **老K** -> RouK
+- **莫克** -> Mạc Khắc
+- **金秘书** -> Kim Thư ký
+- **叶青蝶** -> Diệp Thanh Điệp
+- **赛斯** -> Tái Tư
+- **方叔** -> Phương Thúc
+- **小泽** -> Tiểu Trạch
+- **许末** -> Hứa Mạt
+- **秦仲** -> Tần Trọng
+- **老K** -> RouK
+- **莫克** -> Mạc Khắc
+- **米亚** -> Mễ Á
+- **巴图老爷** -> Lão gia Ba Đồ
+- **艾尔莎** -> Ái Nhĩ Sa
+- **白薇** -> Bạch Vi
+- **韩秘书** -> Thư ký Hàn

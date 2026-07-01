@@ -1,0 +1,28 @@
+# Term Glossary
+
+- **广济寺** (location) -> Quảng Tể Tự
+- **红石** (object) -> Hồng Thạch
+- **医药司** (organization) -> Ti Phối
+- **真血木** (item) -> Chân Huyết Mộc
+- **六扇门** (organization) -> Lục Phiến Môn
+- **京兆府** (organization) -> phủ Kinh Triệu
+- **真血木** (item) -> Chân Huyết Mộc
+- **百草经注** (item) -> Bách Thảo Kinh Chú
+- **医药司** (organization) -> Y Dược Ti
+- **医药司** (organization) -> Y Dược Ti
+- **杂役堂** (location) -> Tạp Dịch Đường
+- **玄冰草** (item) -> Huyền Băng Thảo
+- **火晶草** (item) -> Hỏa Tinh Thảo
+- **雷竹** (item) -> Lôi Trúc
+- **第九街** (location) -> Đệ Cửu Nhai
+- **医药司** (location) -> Y Dược Ty
+- **杂役堂** (location) -> Tạp dịch phòng
+- **第六局** (location) -> Đệ Lục Cục
+- **第二署** (location) -> Đệ Nhị Thự
+- **第一署** (location) -> Đệ Nhất Thự
+- **药务库** (location) -> Dược Vụ Kho
+- **第九街十二号药铺** (location) -> Tiệm thuốc số 12 Đệ Cửu Nhai
+- **花家铺子** (location) -> Hoa gia điếm
+- **无垢术** (skill) -> Vô Cấu Thuật
+- **百草经注** (skill) -> Bách Thảo Kinh Chú
+- **控水术** (skill) -> Khống Thủy Thuật

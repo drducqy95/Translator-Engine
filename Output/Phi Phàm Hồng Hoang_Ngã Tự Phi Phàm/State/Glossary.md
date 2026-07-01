@@ -1,0 +1,92 @@
+# Term Glossary
+
+- **貔貅** (mythical_creature) -> Tỳ Hưu
+- **不周山** (location) -> núi Bất Chu
+- **洪荒** (location) -> Hồng Hoang
+- **泥丸宫** (location) -> Nê Hoàn Cung
+- **貔貅** (creature) -> Tỳ Hưu
+- **不周山** (location) -> núi Bất Chu
+- **貔貅** (creature) -> Tỳ Hưu
+- **先天神祇** (concept) -> tiên thiên thần chỉ
+- **不周山** (location) -> núi Bất Chu
+- **泥丸宫** (concept) -> Nê Hoàn cung
+- **貔貅** (creature) -> Tỳ Hưu
+- **不周山** (location) -> núi Bất Chu
+- **泥丸宫** (location) -> Nê Hoàn Cung
+- **不周山** (location) -> núi Bất Chu
+- **玄之又玄** (concept) -> Huyền Chi Hựu Huyền
+- **不周山** (location) -> núi Bất Chu
+- **貔貅** (creature) -> Tỳ Hưu
+- **天魔** (entity) -> thiên ma
+- **泥丸宫** (location) -> Nê Hoàn Cung
+- **天魔** (creature) -> Thiên Ma
+- **他化自在天** (location) -> Tha Hóa Tự Tại Thiên
+- **不周山** (location) -> Bất Chu Sơn
+- **泥丸宫** (location) -> Nê Hoàn Cung
+- **成道体** (concept) -> Thành Đạo Thể
+- **不周** (location) -> Bất Chu
+- **不周** (location/concept) -> Bất Chu
+- **不周山** (object) -> Bất Chu Sơn
+- **泥丸宫** (location) -> Nê Hoàn Cung
+- **法力** (concept) -> pháp lực
+- **罡风雷火** (location) -> Cương Phong Lôi Hỏa
+- **貔貅** (creature) -> Tỳ Hưu
+- **泥丸宫** (location) -> Nê Hoàn cung
+- **先天道体** (concept) -> Tiên Thiên Đạo Thể
+- **不周山** (location) -> núi Bất Chu
+- **元灵** (concept) -> Nguyên Linh
+- **先天道体** (term) -> tiên thiên đạo thể
+- **地仙道果** (term) -> Địa Tiên đạo quả
+- **太乙道果** (term) -> Thái Ất đạo quả
+- **大罗道果** (term) -> Đại La đạo quả
+- **混元道果** (term) -> Hỗn Nguyên đạo quả
+- **散仙** (term) -> Tán Tiên
+- **貔貅** (creature) -> Tỳ Hưu
+- **不周山** (location) -> Bất Chu Sơn
+- **泥丸宫** (location) -> Nê Hoàn cung
+- **三昧神风** (glossary) -> tam muội thần phong
+- **戊土神雷** (glossary) -> mậu thổ thần lôi
+- **先天神祇** (glossary) -> tiên thiên thần kỳ
+- **罡风雷火层** (location) -> tầng cương phong lôi hỏa
+- **先天不灭灵光** (concept) -> Tiên Thiên Bất Diệt Linh Quang
+- **灵光** (concept) -> linh quang
+- **师尊** (title) -> sư tôn
+- **鸿蒙** (concept) -> thời hồng hoang
+- **先天不灭灵光** (terminology) -> Tiên thiên bất diệt linh quang
+- **先天道体** (terminology) -> Tiên thiên đạo thể
+- **先天灵宝** (terminology) -> Tiên thiên linh bảo
+- **混元道果** (terminology) -> Hỗn Nguyên đạo quả
+- **地仙道果** (terminology) -> Địa Tiên đạo quả
+- **太乙道果** (terminology) -> Thái Ất đạo quả
+- **大罗道果** (terminology) -> Đại La đạo quả
+- **不周山** (location) -> núi Bất Chu
+- **混沌元气** (terminology) -> Hỗn Độn nguyên khí
+- **罡风雷火层** (location) -> tầng Cương Phong Lôi Hỏa
+- **泥丸宫** (concept) -> nê hoàn cung
+- **识海** (concept) -> thức hải
+- **顶天立地诀** (technique) -> Đội trời đạp đất quyết
+- **先天道体** (concept) -> Tiên Thiên Đạo Thể
+- **虚空无极宫殿术** (technique) -> Thuật Hư Không Vô Cực Cung Điện
+- **虚空无极宫殿术** (technique) -> Hư Không Vô Cực Cung Điện Thuật
+- **戊土之精** (material) -> Mậu Thổ Chi Tinh
+- **戊土神雷** (technique) -> Mậu Thổ Thần Lôi
+- **虚空无极宫殿术** (technique) -> Thuật Hư Không Vô Cực Cung Điện
+- **虚空无极宫殿术** (technique) -> Hư Không Vô Cực Cung Điện Thuật
+- **虚空无极宫** (artifact) -> Hư Không Vô Cực Cung
+- **先天不灭灵光** (artifact) -> Tiên Thiên Bất Diệt Linh Quang
+- **戊土神雷** (technique) -> Mậu Thổ Thần Lôi
+- **雷池** (location) -> Lôi Trì
+- **戊土之精** (item) -> Mậu Thổ Chi Tinh
+- **法器** (item) -> pháp khí
+- **混沌元石** (item) -> Hỗn Độn Nguyên Thạch
+- **混沌元石** (item) -> Hỗn Độn Nguyên Thạch
+- **顶天立地诀** (glossary) -> Đỉnh Thiên Lập Địa Quyết
+- **不周山** (location) -> Bất Chu Sơn
+- **虚空无极宫** (glossary) -> Hư Không Vô Cực Cung
+- **虚空无极宫殿术** (glossary) -> Hư Không Vô Cực Cung Điện Thuật
+- **先天不灭灵光** (glossary) -> Tiên Thiên Bất Diệt Linh Quang
+- **地仙道果** (glossary) -> Địa Tiên Đạo Quả
+- **混沌元石** (glossary) -> hỗn độn nguyên thạch
+- **虚空无极宫殿术** (technique) -> Hư Không Vô Cực Cung Điện Thuật
+- **法宝** (object) -> pháp bảo
+- **顶天立地诀** (technique) -> Đỉnh Thiên Lập Địa Quyết

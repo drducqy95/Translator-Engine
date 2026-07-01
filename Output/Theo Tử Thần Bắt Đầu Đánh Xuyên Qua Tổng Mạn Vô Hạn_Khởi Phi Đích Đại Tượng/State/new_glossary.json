@@ -1,0 +1,1842 @@
+[
+  {
+    "raw": "死霸装",
+    "target": "Tử Bá Trang",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "clothing"
+  },
+  {
+    "raw": "浅打",
+    "target": "Thiển Đả",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "瀞灵廷",
+    "target": "Tịnh Linh Đình",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "尸魂界",
+    "target": "Thi Hồn Giới",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "流魂街",
+    "target": "Lưu Hồn Nhai",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "护庭十三队",
+    "target": "Hộ Đình Thập Tam Đội",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "group"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Chân Ương Linh Thuật Viện",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "group"
+  },
+  {
+    "raw": "护庭十三队",
+    "target": "Hộ Đình Thập Tam Đội",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "group"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Học viện Chân Ương Linh Thuật",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "group"
+  },
+  {
+    "raw": "浅打",
+    "target": "Asauchi",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "object"
+  },
+  {
+    "raw": "斩魄刀",
+    "target": "Trảm Phách Đao",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "object"
+  },
+  {
+    "raw": "始解",
+    "target": "Shikai",
+    "type": "ability",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "流魂街",
+    "target": "Lưu Hồn Nhai",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "瀞灵廷",
+    "target": "Tịnh Linh Đình",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Học viện Chân Ương Linh Thuật",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "location"
+  },
+  {
+    "raw": "流魂街",
+    "target": "Lưu Hồn Nhai",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "location"
+  },
+  {
+    "raw": "尸魂界",
+    "target": "Tịnh Linh Đình",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "location"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Học viện Chân Ương Linh Thuật",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "浅打",
+    "target": "Asauchi",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "白打",
+    "target": "Bạch đả",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "瞬步",
+    "target": "Thuấn bộ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "鬼道",
+    "target": "Quỷ đạo",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "四枫院",
+    "target": "Shihouin",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "family"
+  },
+  {
+    "raw": "赤火炮",
+    "target": "Xích Hỏa Pháo",
+    "type": "skill",
+    "origin": "bleach",
+    "name_type": "technique"
+  },
+  {
+    "raw": "破道之四.白雷",
+    "target": "Phá đạo chi tứ - Bạch Lôi",
+    "type": "skill",
+    "origin": "bleach",
+    "name_type": "technique"
+  },
+  {
+    "raw": "缚道之九.击",
+    "target": "Phược đạo chi cửu - Kích",
+    "type": "skill",
+    "origin": "bleach",
+    "name_type": "technique"
+  },
+  {
+    "raw": "黑棺",
+    "target": "Hắc Quan",
+    "type": "skill",
+    "origin": "bleach",
+    "name_type": "technique"
+  },
+  {
+    "raw": "镜花水月",
+    "target": "Kyouka Suigetsu",
+    "type": "weapon",
+    "origin": "japanese",
+    "name_type": "zanpakuto"
+  },
+  {
+    "raw": "浅打",
+    "target": "Thiển đả",
+    "type": "weapon",
+    "origin": "japanese",
+    "name_type": "zanpakuto"
+  },
+  {
+    "raw": "始解",
+    "target": "Thủy giải",
+    "type": "ability",
+    "origin": "japanese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "卍解",
+    "target": "Vạn giải",
+    "type": "ability",
+    "origin": "japanese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "空蝉",
+    "target": "Không Thiền",
+    "type": "skill",
+    "origin": "bleach",
+    "name_type": "technique"
+  },
+  {
+    "raw": "瞬神",
+    "target": "Thuấn Thần",
+    "type": "title",
+    "origin": "bleach",
+    "name_type": "title"
+  },
+  {
+    "raw": "隐秘机动部队",
+    "target": "Đội Cơ Động Bí Mật",
+    "type": "organization",
+    "origin": "bleach",
+    "name_type": "group"
+  },
+  {
+    "raw": "灵术院",
+    "target": "Linh Thuật Viện",
+    "type": "location",
+    "origin": "bleach",
+    "name_type": "place"
+  },
+  {
+    "raw": "空蝉",
+    "target": "Không Thiền",
+    "type": "technique",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "肉雫唼",
+    "target": "Minazuki",
+    "type": "weapon",
+    "origin": "japanese",
+    "name_type": "sword"
+  },
+  {
+    "raw": "更木区",
+    "target": "khu Zaraki",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "流民街",
+    "target": "Lưu Hồn Nhai",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Chân Ương Linh Thuật",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Chân Ương Linh Thuật Viện",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "回道",
+    "target": "Hồi Đạo",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "斩魄刀",
+    "target": "Trảm Phách Đao",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "始解",
+    "target": "Thủy Giải",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "浅打",
+    "target": "Thiển Đả",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "鬼道",
+    "target": "Quỷ Đạo",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "缚道",
+    "target": "Phược Đạo",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "破道",
+    "target": "Phá Đạo",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "空蝉",
+    "target": "Không Thiền",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "浅打",
+    "target": "Thiển Đả",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "object"
+  },
+  {
+    "raw": "始解",
+    "target": "Thủy giải",
+    "type": "ability",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "斩魄刀",
+    "target": "Trảm Phách Đao",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "object"
+  },
+  {
+    "raw": "瞬步",
+    "target": "Thuấn Bộ",
+    "type": "ability",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "灵术院",
+    "target": "Linh Thuật Viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "护庭十三队",
+    "target": "Hộ Đình Thập Tam Đội",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "group"
+  },
+  {
+    "raw": "灵术院",
+    "target": "Linh Thuật Viện",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "回道",
+    "target": "Hồi đạo",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "斩拳走鬼",
+    "target": "Trảm, Quyền, Tẩu, Quỷ",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "大虚",
+    "target": "Đại Hư",
+    "type": "creature",
+    "origin": "japanese",
+    "name_type": "creature"
+  },
+  {
+    "raw": "始解",
+    "target": "Thủy giải",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "瓦史托德",
+    "target": "Vasto Lorde",
+    "type": "terminology",
+    "origin": "english",
+    "name_type": "other"
+  },
+  {
+    "raw": "终焉空间",
+    "target": "Không gian Chung Yên",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Chân Ương Linh Thuật Viện",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "护庭十三队",
+    "target": "Hộ Đình Thập Tam Đội",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "镜花水月",
+    "target": "Kính Hoa Thủy Nguyệt",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "始解",
+    "target": "Thủy giải",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "卍解",
+    "target": "Vạn giải",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "镜花水月",
+    "target": "Kính Hoa Thủy Nguyệt",
+    "type": "object",
+    "origin": "bleach",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "斩魄刀",
+    "target": "Trảm Phách Đao",
+    "type": "object",
+    "origin": "bleach",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "浅打",
+    "target": "Thiển Đả",
+    "type": "object",
+    "origin": "bleach",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "元流",
+    "target": "Nguyên Lưu",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "浅打",
+    "target": "Asauchi",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "肉雫唼",
+    "target": "Minazuki",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "回道",
+    "target": "Kaido",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "羽织",
+    "target": "haori",
+    "type": "item",
+    "origin": "japanese",
+    "name_type": "clothing"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "weapon",
+    "origin": "bleach",
+    "name_type": "zanpakuto"
+  },
+  {
+    "raw": "肉雫唼",
+    "target": "Minazuki",
+    "type": "weapon",
+    "origin": "bleach",
+    "name_type": "zanpakuto"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "浅打",
+    "target": "Thiển Đả",
+    "type": "weapon",
+    "origin": "japanese",
+    "name_type": "object"
+  },
+  {
+    "raw": "终焉空间",
+    "target": "Chung Yên Không Gian",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Chân Ương Linh Thuật Viện",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "回道",
+    "target": "Hồi Đạo",
+    "type": "ability",
+    "origin": "japanese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "始解",
+    "target": "Thủy Giải",
+    "type": "ability",
+    "origin": "japanese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "护庭十三队",
+    "target": "Hộ Đình Thập Tam Đội",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "死霸装",
+    "target": "Tử Bá trang",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "clothing"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Chân Ương Linh Thuật Viện",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "破道",
+    "target": "Phá đạo",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "始解",
+    "target": "Thủy giải",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "黑腔",
+    "target": "Hắc khang",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "portal"
+  },
+  {
+    "raw": "虚圈",
+    "target": "Hư quyển",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "终焉空间",
+    "target": "Không Gian Chung Yên",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "衍生世界",
+    "target": "Thế giới phái sinh",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "浅打",
+    "target": "Thiển đả",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "先驱者",
+    "target": "Người Mở Đường",
+    "type": "role",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "无畏者",
+    "target": "Kẻ Vô Úy",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "裁决者",
+    "target": "Người Phán Quyết",
+    "type": "role",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "传承结晶",
+    "target": "tinh thể truyền thừa",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "终焉币",
+    "target": "tiền Chung Yên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "终焉空间",
+    "target": "không gian Chung Yên",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "真央灵术院",
+    "target": "Chân Ương Linh Thuật Viện",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "终焉空间",
+    "target": "không gian Chung Yên",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "终焉古藤",
+    "target": "Chung Yên Cổ Đằng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "后援者",
+    "target": "hậu viện giả",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "终焉币",
+    "target": "đồng Chung Yên",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "先驱者",
+    "target": "tiên khu giả",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "灵威锻炼法",
+    "target": "Linh Uy Đoán Luyện Pháp",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "始解",
+    "target": "Thủy Giải",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "探索者印记",
+    "target": "Dấu ấn nhà thám hiểm",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "先驱者印记",
+    "target": "Dấu ấn tiên khu giả",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "传承结晶.小",
+    "target": "Tinh Thể Truyền Thừa (Nhỏ)",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "武装色霸气修炼法",
+    "target": "Tu luyện pháp Haki Vũ Trang",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "海贼王",
+    "target": "One Piece",
+    "type": "glossary",
+    "origin": "english",
+    "name_type": "other"
+  },
+  {
+    "raw": "霸气",
+    "target": "Haki",
+    "type": "glossary",
+    "origin": "english",
+    "name_type": "skill"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "魂源",
+    "target": "Hồn nguyên",
+    "type": "energy",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "先驱者",
+    "target": "Người tiên phong",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "终焉币",
+    "target": "đồng chung yên",
+    "type": "currency",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "武装色霸气",
+    "target": "Vũ trang sắc bá khí",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "传承结晶.小",
+    "target": "Tinh thể truyền thừa - Nhỏ",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "拳愿阿修罗",
+    "target": "Quyền Nguyện A Tu La",
+    "type": "world",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "曬首监狱",
+    "target": "Nhà tù Sái Thủ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "霓虹",
+    "target": "Nghê Hồng",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "吴之一族",
+    "target": "gia tộc Kure",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "group"
+  },
+  {
+    "raw": "斗技",
+    "target": "đấu kỹ",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "古罗马",
+    "target": "Cổ La Mã",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "上门",
+    "target": "tới cửa",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "东西",
+    "target": "gì đó",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "河畔",
+    "target": "bờ sông",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "东京",
+    "target": "Đông kinh",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "聊天",
+    "target": "nói chuyện phiếm",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "大佬",
+    "target": "đại lão",
+    "type": "glossary",
+    "origin": "chinese"
+  },
+  {
+    "raw": "尔康手",
+    "target": "bàn tay Nhĩ Khang",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "slang"
+  },
+  {
+    "raw": "吴之一族",
+    "target": "Ngô chi nhất tộc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "武装色霸气",
+    "target": "Haki Vũ Trang",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "始解",
+    "target": "Thủy Giải",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "解放",
+    "target": "Giải Phóng",
+    "type": "skill",
+    "origin": "japanese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "拳愿绝命淘汰赛",
+    "target": "giải đấu Quyền Nguyện Tuyệt Mệnh",
+    "type": "event",
+    "origin": "japanese",
+    "name_type": "event"
+  },
+  {
+    "raw": "拳愿阿修罗",
+    "target": "Quyền Vương A Tu La",
+    "type": "work",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "魔枪传",
+    "target": "Truyện Ma Thương",
+    "type": "work",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "拳愿岛",
+    "target": "Đảo Quyền Vương",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "机械降神",
+    "target": "Thần Máy Giáng Thế",
+    "type": "work",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "公频",
+    "target": "kênh công cộng",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "拳愿世界",
+    "target": "thế giới Quyền Vương",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "格斗专精",
+    "target": "chuyên môn cách đấu",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "征西派",
+    "target": "Phái Chinh Tây",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "吴",
+    "target": "Ngô",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "蟲",
+    "target": "Trùng",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "拳愿绝命淘汰赛",
+    "target": "vòng loại Quyền Vương Tử Thần",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "competition"
+  },
+  {
+    "raw": "起源之种",
+    "target": "Hạt Giống Nguyên Thủy",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "吴之一族",
+    "target": "tộc Ngô",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "演武场",
+    "target": "võ trường",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "秘术",
+    "target": "bí thuật",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "秘技解放",
+    "target": "Bí kỹ Giải Phóng",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "肉体均衡",
+    "target": "sự cân bằng cơ thể",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "究极的武",
+    "target": "võ thuật tối thượng",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "傲娇",
+    "target": "ngạo kiều",
+    "type": "trait",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "探索者",
+    "target": "nhà thám hiểm",
+    "type": "occupation",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "乌云",
+    "target": "mây đen",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "冷汗",
+    "target": "mồ hôi lạnh",
+    "type": "symptom",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "格斗",
+    "target": "cách đấu",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "罗刹",
+    "target": "La Sát",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "红潮",
+    "target": "đỏ mặt",
+    "type": "expression",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "雷霆",
+    "target": "Lôi Đình",
+    "type": "phenomenon",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "吴家",
+    "target": "Ngô Gia",
+    "type": "family",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "毛巾",
+    "target": "khăn mặt",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "吴之里",
+    "target": "Ngô Chi Lý",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "摩天大楼",
+    "target": "nhà chọc trời",
+    "type": "building",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "东京",
+    "target": "Đông kinh",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "城市",
+    "target": "thành thị",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "六本木",
+    "target": "Lục Bổn Mộc",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "长发",
+    "target": "tóc dài",
+    "type": "feature",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "普通",
+    "target": "bình thường",
+    "type": "trait",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "斗技",
+    "target": "đấu kỹ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "中射",
+    "target": "Trung Xạ",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "东西",
+    "target": "gì đó",
+    "type": "pronoun",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "巨浪",
+    "target": "sóng lớn",
+    "type": "phenomenon",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "灭堂之牙",
+    "target": "Diệt Đường Chi Nha",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "拳愿绝命淘汰赛",
+    "target": "giải đấu Quyền Nguyện Tuyệt Mệnh",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "拳愿会",
+    "target": "Hội Quyền Nguyện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "起源之种",
+    "target": "Hạt giống Khởi Nguyên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "征西派吴",
+    "target": "Chinh Tây Phái Ngô",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "蟲组织",
+    "target": "tổ chức Trùng",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "灭堂之牙",
+    "target": "Diệt Đường Chi Nha",
+    "type": "term",
+    "origin": "japanese",
+    "name_type": "title"
+  },
+  {
+    "raw": "拳愿绝命淘汰赛",
+    "target": "Giải Đấu Tuyệt Mệnh Quyền Nguyện",
+    "type": "event",
+    "origin": "japanese",
+    "name_type": "event"
+  },
+  {
+    "raw": "拳愿会",
+    "target": "Hiệp hội Quyền Nguyện",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "蟲",
+    "target": "tổ chức Trùng",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "征西派",
+    "target": "phái Chinh Tây",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "虎之器",
+    "target": "Hổ Chi Khí",
+    "type": "term",
+    "origin": "japanese",
+    "name_type": "title"
+  },
+  {
+    "raw": "大日本银行",
+    "target": "ngân hàng Dainippon",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "灭堂之牙",
+    "target": "Nanh Metsudo",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "二虎流",
+    "target": "Nhị Hổ Phái",
+    "type": "martial_arts",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "先之先",
+    "target": "Tiên chi Tiên",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "起源之种",
+    "target": "Hạt giống Khởi nguyên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "拳愿绝命淘汰赛",
+    "target": "Giải đấu Kengan Zetsumei",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "皇樱学院",
+    "target": "Học viện Koyo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "吴之一族",
+    "target": "tộc Kure",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "终焉币",
+    "target": "Chung Yên tệ",
+    "type": "currency",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "起源之种",
+    "target": "Nguồn Cơn Chi Chủng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "虎之器",
+    "target": "Hổ Chi Khí",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "乃木集团",
+    "target": "Tập đoàn Nãi Mộc",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "group"
+  },
+  {
+    "raw": "山下商事",
+    "target": "Sơn Hạ Thương Sự",
+    "type": "organization",
+    "origin": "japanese",
+    "name_type": "group"
+  },
+  {
+    "raw": "虎之器",
+    "target": "Hổ Chi Khí",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "山下商事",
+    "target": "Thương sự Sơn Hạ",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "UM社",
+    "target": "tổ chức UM",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "征西派",
+    "target": "phái Chinh Tây",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "十王通信",
+    "target": "Thập Vương Thông Tín",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "凭神",
+    "target": "Bằng Thần",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "降魔",
+    "target": "Hàng Ma",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "神魔",
+    "target": "Thần Ma",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "二虎流",
+    "target": "Nhị Hổ Lưu",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "虎之器",
+    "target": "Khí của Hổ",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "蟲",
+    "target": "Trùng",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "吴之一族",
+    "target": "Ngô Tộc",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "weapon",
+    "origin": "unknown",
+    "name_type": "object"
+  },
+  {
+    "raw": "龙家",
+    "target": "Long gia",
+    "type": "group",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "二虎流",
+    "target": "Nhị Hổ Lưu",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "卧王流",
+    "target": "Ngọa Vương Lưu",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "解放",
+    "target": "Giải Phóng",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "凭神",
+    "target": "Bằng Thần",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "降魔",
+    "target": "Hàng Ma",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "神魔",
+    "target": "Thần Ma",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "世界之核",
+    "target": "Lõi thế giới",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "终焉空间",
+    "target": "Không gian chung yên",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "拳愿",
+    "target": "Quyền Nguyện",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "franchise"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Quỷ",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "降魔",
+    "target": "Hàng Ma",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "解放",
+    "target": "Giải Phóng",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "凭神",
+    "target": "Bằng Thần",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "秘技.鬼神",
+    "target": "Bí kỹ: Quỷ Thần",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "吴之一族",
+    "target": "Ngô Chi Nhất Tộc",
+    "type": "faction",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "死之商人",
+    "target": "Thương Nhân Cái Chết",
+    "type": "faction",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "终焉空间",
+    "target": "Không Gian Chung Yên",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "realm"
+  },
+  {
+    "raw": "吴之一族",
+    "target": "Ngô nhất tộc",
+    "type": "faction",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "拳愿世界",
+    "target": "thế giới Kengan",
+    "type": "world",
+    "origin": "chinese",
+    "name_type": "world"
+  },
+  {
+    "raw": "凭神",
+    "target": "Bằng Thần",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "降魔",
+    "target": "Hàng Ma",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "鬼魂",
+    "target": "Quỷ Hồn",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "解放",
+    "target": "Giải Phóng",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "限制器解除",
+    "target": "Mở Khóa Giới Hạn",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "灵种",
+    "target": "Linh Chủng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "起源之种",
+    "target": "Hạt Giống Khởi Nguyên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "鬼神",
+    "target": "Quỷ Thần",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "终焉币",
+    "target": "đồng Chung Yên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "先驱者",
+    "target": "Tiên Khu Giả",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "无畏者",
+    "target": "Kẻ Vô Úy",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "莽夫",
+    "target": "Mãng Phu",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "灵压",
+    "target": "Linh Áp",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "武装色霸气",
+    "target": "Haki Vũ Trang",
+    "type": "ability",
+    "origin": "chinese",
+    "name_type": "ability"
+  },
+  {
+    "raw": "屠戮者",
+    "target": "Đồ Lục Giả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "囚魔",
+    "target": "Tù Ma",
+    "type": "weapon",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "屠戮者",
+    "target": "Đồ Lục Giả",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "equipment"
+  },
+  {
+    "raw": "终焉币",
+    "target": "Chung Yên tệ",
+    "type": "currency",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "后援者",
+    "target": "Hậu Viện Giả",
+    "type": "character_class",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "无梦",
+    "target": "Vô Mộng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "私人订制",
+    "target": "Hàng đặt riêng",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "无梦",
+    "target": "Vô Mộng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "回道",
+    "target": "Hồi Đạo",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "侦查",
+    "target": "Trinh sát",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  }
+]

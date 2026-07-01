@@ -1,0 +1,1010 @@
+[
+  {
+    "raw": "凌风楼",
+    "target": "Lăng Phong Lâu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大周",
+    "target": "Đại Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "白水乡",
+    "target": "Bạch Thủy Hương",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "香武堂",
+    "target": "Hương Võ Đường",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "吴家坞堡",
+    "target": "Ngô Gia Ổ Bảo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大周",
+    "target": "Đại Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "主神殿",
+    "target": "Chủ Thần Điện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "大青庄",
+    "target": "Đại Thanh Trang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "乡勇",
+    "target": "hương dũng",
+    "type": "character_class",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "胡人",
+    "target": "người Hồ",
+    "type": "character_class",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "图鲁勇士",
+    "target": "dũng sĩ người Hồ",
+    "type": "character_class",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "狼神天",
+    "target": "Lang Thần Thiên",
+    "type": "deity",
+    "origin": "chinese",
+    "name_type": "deity"
+  },
+  {
+    "raw": "大青庄",
+    "target": "Đại Thanh Trang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大青庄",
+    "target": "Đại Thanh Trang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "陪戎副尉",
+    "target": "Bồi Nhung Phó Úy",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "乌金环",
+    "target": "Vòng Vàng Đen",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "灵龟养气功",
+    "target": "Linh Quy Dưỡng Khí Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "灵龟养气功",
+    "target": "Linh Quy Dưỡng Khí Công",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "束阴索",
+    "target": "Thúc Âm Tác",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "丧门钉",
+    "target": "Tang Môn Đinh",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "史论杂谈·卷七",
+    "target": "Sử Luận Tạp Đàm · Quyển Bảy",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "金刚大力鹰爪手",
+    "target": "Kim Cương Đại Lực Ưng Trảo Thủ",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "真气境",
+    "target": "Chân Khí Cảnh",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "cultivation_stage"
+  },
+  {
+    "raw": "先天",
+    "target": "Tiên Thiên",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "cultivation_stage"
+  },
+  {
+    "raw": "外罡",
+    "target": "Ngoại Cương",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "cultivation_stage"
+  },
+  {
+    "raw": "内罡",
+    "target": "Nội Cương",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "cultivation_stage"
+  },
+  {
+    "raw": "吴家堡",
+    "target": "Pháo đài Ngô Gia",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "道院",
+    "target": "Đạo viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "乌金指环",
+    "target": "Nhẫn tử đồng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "歃血盟",
+    "target": "Nhập Minh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "黑台县",
+    "target": "Hắc Thai Huyền",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "黑山",
+    "target": "Hắc Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "黑山",
+    "target": "Hắc Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "黑台县",
+    "target": "Hắc Thai Huyền",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "却鬼丸",
+    "target": "Khước Quỷ Hoàn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黑水镇",
+    "target": "Hắc Thủy Trấn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大周",
+    "target": "Đại Chu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "entity"
+  },
+  {
+    "raw": "黑台",
+    "target": "Hắc Thai",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "黑水",
+    "target": "Hắc Thủy",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "李家庄",
+    "target": "Lý gia trang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "东水",
+    "target": "Đông Thủy",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "纪家老店",
+    "target": "lão điếm nhà họ Kỷ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "歃血盟",
+    "target": "Sáp Huyết Minh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "黑水镇",
+    "target": "Hắc Thủy Trấn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大周",
+    "target": "Đại Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "黑水镇",
+    "target": "Hắc Thủy Trấn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "却鬼丸",
+    "target": "Khước Quỷ Hoàn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "黑水镇",
+    "target": "Trấn Hắc Thủy",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "黑台县",
+    "target": "Huyện Hắc Đài",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "金风",
+    "target": "Kim Phong",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "无尘法衣",
+    "target": "pháp y Vô Trần",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "乌金环",
+    "target": "Ô Kim Hoàn",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "主神殿",
+    "target": "Chủ Thần Điện",
+    "type": "faction",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "大周",
+    "target": "Đại Chu",
+    "type": "faction",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "青石村",
+    "target": "thôn Thanh Thạch",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "乌金环",
+    "target": "Ô Kim Hoàn",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "artifact"
+  },
+  {
+    "raw": "小诸天雷符",
+    "target": "Tiểu Chư Thiên Lôi Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "spell"
+  },
+  {
+    "raw": "周家",
+    "target": "Nhà họ Chu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "青石村",
+    "target": "thôn Thanh Thạch",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "冰敬炭敬",
+    "target": "Băng Kính, Thán Kính",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "白水村",
+    "target": "Bạch Thủy thôn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青石村",
+    "target": "Thanh Thạch thôn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大田村",
+    "target": "Đại Điền thôn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "云平",
+    "target": "Vân Bình",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "青石村",
+    "target": "Thanh Thạch thôn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "白水村",
+    "target": "Bạch Thủy thôn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "大田村",
+    "target": "Đại Điền thôn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "云平",
+    "target": "Vân Bình",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "勺子山",
+    "target": "Thược Tử Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "周家",
+    "target": "Chu gia",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "接天风",
+    "target": "Tiếp Thiên Phong",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "勺子山",
+    "target": "Thược Tử Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "巡检司",
+    "target": "Tuần Kiểm Ti",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "小回春符",
+    "target": "Tiểu Hồi Xuân Phù",
+    "type": "artifact",
+    "origin": "chinese",
+    "name_type": "magic_item"
+  },
+  {
+    "raw": "周家",
+    "target": "Chu gia",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "坞堡",
+    "target": "ổ bảo",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "base"
+  },
+  {
+    "raw": "道院",
+    "target": "đạo viện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "女冠",
+    "target": "nữ quan",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "掌院",
+    "target": "chưởng viện",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "监院",
+    "target": "giám viện",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "高功",
+    "target": "cao công",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "真传",
+    "target": "chân truyền",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "受箓",
+    "target": "thụ lục",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "cultivation"
+  },
+  {
+    "raw": "火工杂役",
+    "target": "hỏa công tạp dịch",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "role"
+  },
+  {
+    "raw": "炼师",
+    "target": "luyện sư",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "cultivation"
+  },
+  {
+    "raw": "法师",
+    "target": "pháp sư",
+    "type": "term",
+    "origin": "chinese",
+    "name_type": "cultivation"
+  },
+  {
+    "raw": "勺子山",
+    "target": "Thược Tử Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geographic"
+  },
+  {
+    "raw": "太阴炼尸法",
+    "target": "Thái Âm Luyện Thi Pháp",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "五石返明散",
+    "target": "Ngũ Thạch Phản Minh Tán",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "黄庭阴符经",
+    "target": "Hoàng Đình Âm Phù Kinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "识海",
+    "target": "thức hải",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "泥丸",
+    "target": "nê hoàn",
+    "type": "terminology",
+    "origin": "chinese",
+    "name_type": "anatomy"
+  },
+  {
+    "raw": "《黄庭阴符经》",
+    "target": "《 Hoàng Đình Âm Phù Kinh 》",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "九凤破秽箓",
+    "target": "Cửu Phượng Phá Uế Lục",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "龙门之会",
+    "target": "Long Môn chi hội",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "郡望",
+    "target": "quận vọng",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "group"
+  },
+  {
+    "raw": "坞堡",
+    "target": "ổ bảo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "building"
+  },
+  {
+    "raw": "怒龙江",
+    "target": "Nộ Long Giang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geographical"
+  },
+  {
+    "raw": "龙门峡",
+    "target": "Long Môn hiệp",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geographical"
+  },
+  {
+    "raw": "大周世界",
+    "target": "thế giới Đại Chu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "geographical"
+  },
+  {
+    "raw": "牙兵",
+    "target": "nha binh",
+    "type": "group",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "九山军",
+    "target": "Cửu Sơn Quân",
+    "type": "group",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "烈山都",
+    "target": "Liệt Sơn Đô",
+    "type": "group",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "九山军",
+    "target": "Cửu Sơn quân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "烈山",
+    "target": "Liệt Sơn",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "真定郡",
+    "target": "quận Chân Định",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "致果校尉",
+    "target": "Trí Quả hiệu úy",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "乱星",
+    "target": "Loạn Tinh",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "破煞",
+    "target": "Phá Sát",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "太岁镇煞符",
+    "target": "Thái Tuế Trấn Sát Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "乾元",
+    "target": "Kiền Nguyên",
+    "type": "era",
+    "origin": "chinese",
+    "name_type": "era_name"
+  },
+  {
+    "raw": "九山郡",
+    "target": "Cửu Sơn quận",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "大周",
+    "target": "Đại Chu",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "主神殿",
+    "target": "Chủ Thần Điện",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "faction"
+  },
+  {
+    "raw": "聚阴幡",
+    "target": "Tụ Âm Phiên",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "烈山都指挥使",
+    "target": "Liệt Sơn Đô chỉ huy sứ",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "九山军",
+    "target": "Cửu Sơn quân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "沧浪郡",
+    "target": "Thương Lãng quận",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "厢兵",
+    "target": "Sương binh",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "organization"
+  },
+  {
+    "raw": "郡尉",
+    "target": "Quận úy",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "太岁镇煞符",
+    "target": "Thái Tuế Trấn Sát Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "item"
+  },
+  {
+    "raw": "星辰世界",
+    "target": "thế giới Tinh Thần",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "主神空间",
+    "target": "không gian Chủ Thần",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "人仙境",
+    "target": "Nhân Tiên cảnh",
+    "type": "cultivation",
+    "origin": "chinese",
+    "name_type": "realm"
+  },
+  {
+    "raw": "肉身境",
+    "target": "Nhục Thân cảnh",
+    "type": "cultivation",
+    "origin": "chinese",
+    "name_type": "realm"
+  },
+  {
+    "raw": "搜神记",
+    "target": "Sưu Thần Ký",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "book"
+  },
+  {
+    "raw": "断蛇丘",
+    "target": "Đoạn Xà Khâu",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "龙门之会",
+    "target": "Long Môn chi hội",
+    "type": "event",
+    "origin": "chinese",
+    "name_type": "event"
+  },
+  {
+    "raw": "天功",
+    "target": "thiên công",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "currency"
+  },
+  {
+    "raw": "天工戒",
+    "target": "Thiên Công Giới",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "五雷掌法",
+    "target": "Ngũ Lôi Chưởng Pháp",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  },
+  {
+    "raw": "五色法袍",
+    "target": "Ngũ Sắc Pháp Bào",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "太岁镇煞符",
+    "target": "Thái Tuế Trấn Sát Phù",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "王家",
+    "target": "Vương gia",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "family"
+  },
+  {
+    "raw": "马家老店",
+    "target": "Mã Gia Lão Điếm",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "establishment"
+  },
+  {
+    "raw": "九山军",
+    "target": "Cửu Sơn Quân",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "military_unit"
+  },
+  {
+    "raw": "霸下",
+    "target": "Bá Hạ",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "郡守",
+    "target": "quận trưởng",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "official"
+  },
+  {
+    "raw": "郡丞",
+    "target": "quận thừa",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "official"
+  },
+  {
+    "raw": "郡尉",
+    "target": "quận úy",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "official"
+  },
+  {
+    "raw": "厢兵",
+    "target": "sương binh",
+    "type": "military_unit",
+    "origin": "chinese",
+    "name_type": "generic"
+  },
+  {
+    "raw": "随侯珠",
+    "target": "Tùy Hầu Châu",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "unique"
+  },
+  {
+    "raw": "《太平御览》",
+    "target": "Thái Bình Ngự Lãm",
+    "type": "book",
+    "origin": "chinese",
+    "name_type": "unique"
+  },
+  {
+    "raw": "主神殿",
+    "target": "Chủ Thần Điện",
+    "type": "place",
+    "origin": "chinese",
+    "name_type": "unique"
+  }
+]

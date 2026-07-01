@@ -1,0 +1,114 @@
+[
+  {
+    "raw": "周庄",
+    "target": "Chu Trang",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "江城",
+    "target": "Giang Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "酸秀才",
+    "target": "tú tài",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "白丁",
+    "target": "bạch đinh",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "金玉满堂",
+    "target": "kim ngọc mãn đường",
+    "type": "idiom",
+    "origin": "chinese",
+    "name_type": "idiom"
+  },
+  {
+    "raw": "江城",
+    "target": "Giang Thành",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "画舫",
+    "target": "thuyền hoa",
+    "type": "object",
+    "origin": "chinese",
+    "name_type": "object"
+  },
+  {
+    "raw": "青衿",
+    "target": "áo xanh",
+    "type": "clothing",
+    "origin": "chinese",
+    "name_type": "clothing"
+  },
+  {
+    "raw": "茴香豆",
+    "target": "đậu hồi hương",
+    "type": "food",
+    "origin": "chinese",
+    "name_type": "food"
+  },
+  {
+    "raw": "紫檀木",
+    "target": "gỗ tử đàn",
+    "type": "material",
+    "origin": "chinese",
+    "name_type": "material"
+  },
+  {
+    "raw": "清泉",
+    "target": "thanh tuyền",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "location"
+  },
+  {
+    "raw": "甘冽",
+    "target": "Cam Liệt",
+    "type": "adjective",
+    "origin": "chinese",
+    "name_type": "adjective"
+  },
+  {
+    "raw": "红鱼",
+    "target": "Cá Hồng",
+    "type": "item",
+    "origin": "chinese",
+    "name_type": "weapon"
+  },
+  {
+    "raw": "金刚寺",
+    "target": "Kim Cương Tự",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "天绝观",
+    "target": "Thiên Tuyệt Quan",
+    "type": "organization",
+    "origin": "chinese",
+    "name_type": "sect"
+  },
+  {
+    "raw": "混元童子功",
+    "target": "Hỗn Nguyên Đồng Tử Công",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "technique"
+  }
+]
