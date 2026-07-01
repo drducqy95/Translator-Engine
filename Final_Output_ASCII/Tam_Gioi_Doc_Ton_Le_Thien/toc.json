@@ -1,0 +1,23 @@
+{
+  "novel": "Tam_Gioi_Doc_Ton_Le_Thien",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Con_trai_Thien_De_chuyen_the_trung_sinh.md",
+      "title": "chapter_0001_Chuong_0001_Con_trai_Thien_De_chuyen_the_trung_sinh",
+      "path": "chapter_0001_Chuong_0001_Con_trai_Thien_De_chuyen_the_trung_sinh.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Cha_bao_che_khuyet_diem_ban_than_trong_nghia.md",
+      "title": "chapter_0002_Chuong_0002_Cha_bao_che_khuyet_diem_ban_than_trong_nghia",
+      "path": "chapter_0002_Chuong_0002_Cha_bao_che_khuyet_diem_ban_than_trong_nghia.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Dang_mat_tan_cua_danh_cho_toi_boi.md",
+      "title": "chapter_0003_Chuong_0003_Dang_mat_tan_cua_danh_cho_toi_boi",
+      "path": "chapter_0003_Chuong_0003_Dang_mat_tan_cua_danh_cho_toi_boi.md"
+    }
+  ]
+}

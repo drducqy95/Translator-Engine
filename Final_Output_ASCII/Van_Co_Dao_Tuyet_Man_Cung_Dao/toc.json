@@ -1,0 +1,47 @@
+{
+  "novel": "Van_Co_Dao_Tuyet_Man_Cung_Dao",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Son_Trung_Khach.md",
+      "title": "chapter_0001_Chuong_0001_Son_Trung_Khach",
+      "path": "chapter_0001_Chuong_0001_Son_Trung_Khach.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Ao_do_ruc_ro_thieu_hiep_Phuc_Ho.md",
+      "title": "chapter_0002_Chuong_0002_Ao_do_ruc_ro_thieu_hiep_Phuc_Ho",
+      "path": "chapter_0002_Chuong_0002_Ao_do_ruc_ro_thieu_hiep_Phuc_Ho.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Dao.md",
+      "title": "chapter_0003_Chuong_0003_Dao",
+      "path": "chapter_0003_Chuong_0003_Dao.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Nguyet_hac_phong_cao.md",
+      "title": "chapter_0004_Chuong_0004_Nguyet_hac_phong_cao",
+      "path": "chapter_0004_Chuong_0004_Nguyet_hac_phong_cao.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Dem_giet_nguoi_Thuong.md",
+      "title": "chapter_0005_Chuong_0005_Dem_giet_nguoi_Thuong",
+      "path": "chapter_0005_Chuong_0005_Dem_giet_nguoi_Thuong.md"
+    },
+    {
+      "index": 6,
+      "file": "chapter_0006_Chuong_0006_Dem_sat_nhan_ha.md",
+      "title": "chapter_0006_Chuong_0006_Dem_sat_nhan_ha",
+      "path": "chapter_0006_Chuong_0006_Dem_sat_nhan_ha.md"
+    },
+    {
+      "index": 7,
+      "file": "chapter_0007_Chuong_0007_O_chung.md",
+      "title": "chapter_0007_Chuong_0007_O_chung",
+      "path": "chapter_0007_Chuong_0007_O_chung.md"
+    }
+  ]
+}

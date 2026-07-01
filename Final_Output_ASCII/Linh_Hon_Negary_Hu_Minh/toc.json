@@ -1,0 +1,35 @@
+{
+  "novel": "Linh_Hon_Negary_Hu_Minh",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Khoi_dau_cua_tat_ca.md",
+      "title": "chapter_0001_Chuong_0001_Khoi_dau_cua_tat_ca",
+      "path": "chapter_0001_Chuong_0001_Khoi_dau_cua_tat_ca.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Tan_hon_Sach_moi_cau_cat_giu_cau_phieu_de_cu.md",
+      "title": "chapter_0002_Chuong_0002_Tan_hon_Sach_moi_cau_cat_giu_cau_phieu_de_cu",
+      "path": "chapter_0002_Chuong_0002_Tan_hon_Sach_moi_cau_cat_giu_cau_phieu_de_cu.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Negary.md",
+      "title": "chapter_0003_Chuong_0003_Negary",
+      "path": "chapter_0003_Chuong_0003_Negary.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Cach_thang_cap_chinh_xac.md",
+      "title": "chapter_0004_Chuong_0004_Cach_thang_cap_chinh_xac",
+      "path": "chapter_0004_Chuong_0004_Cach_thang_cap_chinh_xac.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Truyen_ba.md",
+      "title": "chapter_0005_Chuong_0005_Truyen_ba",
+      "path": "chapter_0005_Chuong_0005_Truyen_ba.md"
+    }
+  ]
+}

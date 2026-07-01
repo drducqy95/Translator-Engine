@@ -1,0 +1,35 @@
+{
+  "novel": "Nhat_The_Chi_Ton_Ai_Tiem_Thuy_Dich_O_Tac",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Xao_tra.md",
+      "title": "chapter_0001_Chuong_0001_Xao_tra",
+      "path": "chapter_0001_Chuong_0001_Xao_tra.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Khong_Mon.md",
+      "title": "chapter_0002_Chuong_0002_Khong_Mon",
+      "path": "chapter_0002_Chuong_0002_Khong_Mon.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Ngang_dau_nhin_Minh_Nguyet.md",
+      "title": "chapter_0003_Chuong_0003_Ngang_dau_nhin_Minh_Nguyet",
+      "path": "chapter_0003_Chuong_0003_Ngang_dau_nhin_Minh_Nguyet.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Tram_Ngay_Truc_Co.md",
+      "title": "chapter_0004_Chuong_0004_Tram_Ngay_Truc_Co",
+      "path": "chapter_0004_Chuong_0004_Tram_Ngay_Truc_Co.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Tieu_Ngoc_Phat.md",
+      "title": "chapter_0005_Chuong_0005_Tieu_Ngoc_Phat",
+      "path": "chapter_0005_Chuong_0005_Tieu_Ngoc_Phat.md"
+    }
+  ]
+}

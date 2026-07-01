@@ -1,0 +1,29 @@
+{
+  "novel": "DC_Moi_Khac_Tinh_Trach_Gia_Dich_Thong",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_H_el_thuc_tinh.md",
+      "title": "chapter_0001_Chuong_0001_H_el_thuc_tinh",
+      "path": "chapter_0001_Chuong_0001_H_el_thuc_tinh.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Jor-El.md",
+      "title": "chapter_0002_Chuong_0002_Jor-El",
+      "path": "chapter_0002_Chuong_0002_Jor-El.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_La_ta_thang.md",
+      "title": "chapter_0003_Chuong_0003_La_ta_thang",
+      "path": "chapter_0003_Chuong_0003_La_ta_thang.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Da_Ban.md",
+      "title": "chapter_0004_Chuong_0004_Da_Ban",
+      "path": "chapter_0004_Chuong_0004_Da_Ban.md"
+    }
+  ]
+}

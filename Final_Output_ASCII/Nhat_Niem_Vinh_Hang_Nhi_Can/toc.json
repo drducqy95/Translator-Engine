@@ -1,0 +1,35 @@
+{
+  "novel": "Nhat_Niem_Vinh_Hang_Nhi_Can",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Han_ten_Bach_Tieu_Thuan.md",
+      "title": "chapter_0001_Chuong_0001_Han_ten_Bach_Tieu_Thuan",
+      "path": "chapter_0001_Chuong_0001_Han_ten_Bach_Tieu_Thuan.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Nha_Bep_Lua.md",
+      "title": "chapter_0002_Chuong_0002_Nha_Bep_Lua",
+      "path": "chapter_0002_Chuong_0002_Nha_Bep_Lua.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003.md",
+      "title": "chapter_0003_Chuong_0003",
+      "path": "chapter_0003_Chuong_0003.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Sau_cau_chan_ngon.md",
+      "title": "chapter_0004_Chuong_0004_Sau_cau_chan_ngon",
+      "path": "chapter_0004_Chuong_0004_Sau_cau_chan_ngon.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005.md",
+      "title": "chapter_0005_Chuong_0005",
+      "path": "chapter_0005_Chuong_0005.md"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "novel": "Gen_Dai_Thoi_Dai_Tru_Tam_Bat",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Ky_thi_chung_gen.md",
+      "title": "chapter_0001_Chuong_0001_Ky_thi_chung_gen",
+      "path": "chapter_0001_Chuong_0001_Ky_thi_chung_gen.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Ngoai_Trai_Dat.md",
+      "title": "chapter_0002_Chuong_0002_Ngoai_Trai_Dat",
+      "path": "chapter_0002_Chuong_0002_Ngoai_Trai_Dat.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Vien_Nghien_cuu_Gen_Cau_cat_giu_cau_de_cu.md",
+      "title": "chapter_0003_Chuong_0003_Vien_Nghien_cuu_Gen_Cau_cat_giu_cau_de_cu",
+      "path": "chapter_0003_Chuong_0003_Vien_Nghien_cuu_Gen_Cau_cat_giu_cau_de_cu.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Khong_phai_thi_giac_xuyen_thau.md",
+      "title": "chapter_0004_Chuong_0004_Khong_phai_thi_giac_xuyen_thau",
+      "path": "chapter_0004_Chuong_0004_Khong_phai_thi_giac_xuyen_thau.md"
+    }
+  ]
+}

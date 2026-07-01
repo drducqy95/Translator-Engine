@@ -1,0 +1,35 @@
+{
+  "novel": "Van_Yeu_Chi_To_Co_Doc_Phieu_Luu",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Trung_sinh_thanh_ho.md",
+      "title": "chapter_0001_Chuong_0001_Trung_sinh_thanh_ho",
+      "path": "chapter_0001_Chuong_0001_Trung_sinh_thanh_ho.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Nha_tan_ho_buon.md",
+      "title": "chapter_0002_Chuong_0002_Nha_tan_ho_buon",
+      "path": "chapter_0002_Chuong_0002_Nha_tan_ho_buon.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Dem_trang_tron.md",
+      "title": "chapter_0003_Chuong_0003_Dem_trang_tron",
+      "path": "chapter_0003_Chuong_0003_Dem_trang_tron.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Nuot_huyet_thuc.md",
+      "title": "chapter_0004_Chuong_0004_Nuot_huyet_thuc",
+      "path": "chapter_0004_Chuong_0004_Nuot_huyet_thuc.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Tinh_hoa_nhat_nguyet.md",
+      "title": "chapter_0005_Chuong_0005_Tinh_hoa_nhat_nguyet",
+      "path": "chapter_0005_Chuong_0005_Tinh_hoa_nhat_nguyet.md"
+    }
+  ]
+}

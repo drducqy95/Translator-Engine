@@ -1,0 +1,23 @@
+{
+  "novel": "Vu_Su_Chi_Lu_Nhat_Hanh_Bach_Lo_Thuong_Thanh_Thien",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_The_gioi_phu_thuy.md",
+      "title": "chapter_0001_Chuong_0001_The_gioi_phu_thuy",
+      "path": "chapter_0001_Chuong_0001_The_gioi_phu_thuy.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Mot_phu_thuy.md",
+      "title": "chapter_0002_Chuong_0002_Mot_phu_thuy",
+      "path": "chapter_0002_Chuong_0002_Mot_phu_thuy.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Ma_quai.md",
+      "title": "chapter_0003_Chuong_0003_Ma_quai",
+      "path": "chapter_0003_Chuong_0003_Ma_quai.md"
+    }
+  ]
+}

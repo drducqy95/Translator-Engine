@@ -1,0 +1,35 @@
+{
+  "novel": "Linh_Hon_Mu_Mien_Hu_Minh",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Than_se_phu_ho_nhung_ke_tin_thanh.md",
+      "title": "chapter_0001_Chuong_0001_Than_se_phu_ho_nhung_ke_tin_thanh",
+      "path": "chapter_0001_Chuong_0001_Than_se_phu_ho_nhung_ke_tin_thanh.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Nguoi_soi.md",
+      "title": "chapter_0002_Chuong_0002_Nguoi_soi",
+      "path": "chapter_0002_Chuong_0002_Nguoi_soi.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Hoa_hinh.md",
+      "title": "chapter_0003_Chuong_0003_Hoa_hinh",
+      "path": "chapter_0003_Chuong_0003_Hoa_hinh.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Dong_loai.md",
+      "title": "chapter_0004_Chuong_0004_Dong_loai",
+      "path": "chapter_0004_Chuong_0004_Dong_loai.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Cam_giac.md",
+      "title": "chapter_0005_Chuong_0005_Cam_giac",
+      "path": "chapter_0005_Chuong_0005_Cam_giac.md"
+    }
+  ]
+}

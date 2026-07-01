@@ -1,0 +1,41 @@
+{
+  "novel": "Van_Phap_Dao_Quan_Theo_Tieu_Van_Mua_Thuat_Bat_Dau_Nhat_Kien_Hoa_Khai",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Doi_no.md",
+      "title": "chapter_0001_Chuong_0001_Doi_no",
+      "path": "chapter_0001_Chuong_0001_Doi_no.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Rua_da.md",
+      "title": "chapter_0002_Chuong_0002_Rua_da",
+      "path": "chapter_0002_Chuong_0002_Rua_da.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Khao_hach_Kim_Linh_Tong.md",
+      "title": "chapter_0003_Chuong_0003_Khao_hach_Kim_Linh_Tong",
+      "path": "chapter_0003_Chuong_0003_Khao_hach_Kim_Linh_Tong.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Tieu_Van_Vu_Thuat.md",
+      "title": "chapter_0004_Chuong_0004_Tieu_Van_Vu_Thuat",
+      "path": "chapter_0004_Chuong_0004_Tieu_Van_Vu_Thuat.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_On_roi.md",
+      "title": "chapter_0005_Chuong_0005_On_roi",
+      "path": "chapter_0005_Chuong_0005_On_roi.md"
+    },
+    {
+      "index": 6,
+      "file": "chapter_0006_Chuong_0006_Linh_dien.md",
+      "title": "chapter_0006_Chuong_0006_Linh_dien",
+      "path": "chapter_0006_Chuong_0006_Linh_dien.md"
+    }
+  ]
+}

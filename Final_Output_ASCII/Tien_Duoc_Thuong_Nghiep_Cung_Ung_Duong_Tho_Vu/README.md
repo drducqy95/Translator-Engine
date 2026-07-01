@@ -1,0 +1,9 @@
+# Tien_Duoc_Thuong_Nghiep_Cung_Ung_Duong_Tho_Vu
+
+Chapters: 4
+
+## TOC
+1. [0001_Chuong_0001_Cuu_nguoi_than_ky_tu_tren_troi_roi_xuong](chapter_0001_Chuong_0001_Cuu_nguoi_than_ky_tu_tren_troi_roi_xuong.md)
+2. [0002_Chuong_0002_Mot_bau_nuoc_hai_mau_ruong](chapter_0002_Chuong_0002_Mot_bau_nuoc_hai_mau_ruong.md)
+3. [0003_Chuong_0003_Danh_toi_boi_cao_phu_soai_chuyen_cua_bach_phu_my](chapter_0003_Chuong_0003_Danh_toi_boi_cao_phu_soai_chuyen_cua_bach_phu_my.md)
+4. [0004_Chuong_0004_Day_deu_la_rac_thai](chapter_0004_Chuong_0004_Day_deu_la_rac_thai.md)

@@ -1,0 +1,41 @@
+{
+  "novel": "Van_Tuong_Chi_Chu_Trung_Nguyen_Ngu_Bach",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Co_Thanh.md",
+      "title": "chapter_0001_Chuong_0001_Co_Thanh",
+      "path": "chapter_0001_Chuong_0001_Co_Thanh.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Giang_Thanh_thang_nam_hoa_mai_rung.md",
+      "title": "chapter_0002_Chuong_0002_Giang_Thanh_thang_nam_hoa_mai_rung",
+      "path": "chapter_0002_Chuong_0002_Giang_Thanh_thang_nam_hoa_mai_rung.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Luc_Ly.md",
+      "title": "chapter_0003_Chuong_0003_Luc_Ly",
+      "path": "chapter_0003_Chuong_0003_Luc_Ly.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Hoa_thuong.md",
+      "title": "chapter_0004_Chuong_0004_Hoa_thuong",
+      "path": "chapter_0004_Chuong_0004_Hoa_thuong.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Tien_biet.md",
+      "title": "chapter_0005_Chuong_0005_Tien_biet",
+      "path": "chapter_0005_Chuong_0005_Tien_biet.md"
+    },
+    {
+      "index": 6,
+      "file": "chapter_0006_Chuong_0006_Ca_Hong.md",
+      "title": "chapter_0006_Chuong_0006_Ca_Hong",
+      "path": "chapter_0006_Chuong_0006_Ca_Hong.md"
+    }
+  ]
+}

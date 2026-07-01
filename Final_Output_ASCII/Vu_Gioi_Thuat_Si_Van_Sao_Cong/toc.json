@@ -1,0 +1,47 @@
+{
+  "novel": "Vu_Gioi_Thuat_Si_Van_Sao_Cong",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Xuyen_khong.md",
+      "title": "chapter_0001_Chuong_0001_Xuyen_khong",
+      "path": "chapter_0001_Chuong_0001_Xuyen_khong.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Chip.md",
+      "title": "chapter_0002_Chuong_0002_Chip",
+      "path": "chapter_0002_Chuong_0002_Chip.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Ky_si.md",
+      "title": "chapter_0003_Chuong_0003_Ky_si",
+      "path": "chapter_0003_Chuong_0003_Ky_si.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Tu_luyen.md",
+      "title": "chapter_0004_Chuong_0004_Tu_luyen",
+      "path": "chapter_0004_Chuong_0004_Tu_luyen.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Thap_tu_kiem.md",
+      "title": "chapter_0005_Chuong_0005_Thap_tu_kiem",
+      "path": "chapter_0005_Chuong_0005_Thap_tu_kiem.md"
+    },
+    {
+      "index": 6,
+      "file": "chapter_0006_Chuong_0006_Xung_dot_Cau_cat_giu_de_cu.md",
+      "title": "chapter_0006_Chuong_0006_Xung_dot_Cau_cat_giu_de_cu",
+      "path": "chapter_0006_Chuong_0006_Xung_dot_Cau_cat_giu_de_cu.md"
+    },
+    {
+      "index": 7,
+      "file": "chapter_0007_Chuong_0007_Tong_tien.md",
+      "title": "chapter_0007_Chuong_0007_Tong_tien",
+      "path": "chapter_0007_Chuong_0007_Tong_tien.md"
+    }
+  ]
+}

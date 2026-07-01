@@ -1,0 +1,35 @@
+{
+  "novel": "Van_Toc_Chi_Kiep_Lao_Ung_Cat_Tieu_Ke",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Phu_tu.md",
+      "title": "chapter_0001_Chuong_0001_Phu_tu",
+      "path": "chapter_0001_Chuong_0001_Phu_tu.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Tu_Dai_Hoc_Phu_He_Thong.md",
+      "title": "chapter_0002_Chuong_0002_Tu_Dai_Hoc_Phu_He_Thong",
+      "path": "chapter_0002_Chuong_0002_Tu_Dai_Hoc_Phu_He_Thong.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Van_Toc_Do_Sach.md",
+      "title": "chapter_0003_Chuong_0003_Van_Toc_Do_Sach",
+      "path": "chapter_0003_Chuong_0003_Van_Toc_Do_Sach.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Phap_gia_toc_Khai_Nguyen.md",
+      "title": "chapter_0004_Chuong_0004_Phap_gia_toc_Khai_Nguyen",
+      "path": "chapter_0004_Chuong_0004_Phap_gia_toc_Khai_Nguyen.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Mong_canh_Chuc_mung_Tet_Nguyen_Tieu.md",
+      "title": "chapter_0005_Chuong_0005_Mong_canh_Chuc_mung_Tet_Nguyen_Tieu",
+      "path": "chapter_0005_Chuong_0005_Mong_canh_Chuc_mung_Tet_Nguyen_Tieu.md"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "novel": "Tha_Cau_Chi_Than_Hoi_Lang_Khieu_Dich_Tru",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Thieu_nien_bi_keo_xuong_day_bien.md",
+      "title": "chapter_0001_Chuong_0001_Thieu_nien_bi_keo_xuong_day_bien",
+      "path": "chapter_0001_Chuong_0001_Thieu_nien_bi_keo_xuong_day_bien.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Luyen_Yeu_Ho.md",
+      "title": "chapter_0002_Chuong_0002_Luyen_Yeu_Ho",
+      "path": "chapter_0002_Chuong_0002_Luyen_Yeu_Ho.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Thuc_luc_moi_la_vuong_dao.md",
+      "title": "chapter_0003_Chuong_0003_Thuc_luc_moi_la_vuong_dao",
+      "path": "chapter_0003_Chuong_0003_Thuc_luc_moi_la_vuong_dao.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Lan_dau_buong_cau.md",
+      "title": "chapter_0004_Chuong_0004_Lan_dau_buong_cau",
+      "path": "chapter_0004_Chuong_0004_Lan_dau_buong_cau.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Bat_ngo_dot_pha.md",
+      "title": "chapter_0005_Chuong_0005_Bat_ngo_dot_pha",
+      "path": "chapter_0005_Chuong_0005_Bat_ngo_dot_pha.md"
+    }
+  ]
+}

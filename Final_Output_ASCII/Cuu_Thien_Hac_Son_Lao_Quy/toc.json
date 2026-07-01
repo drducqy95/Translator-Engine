@@ -1,0 +1,29 @@
+{
+  "novel": "Cuu_Thien_Hac_Son_Lao_Quy",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Anh_hung_hay_tieu_my_nhan.md",
+      "title": "chapter_0001_Chuong_0001_Anh_hung_hay_tieu_my_nhan",
+      "path": "chapter_0001_Chuong_0001_Anh_hung_hay_tieu_my_nhan.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Dong_tien_than_bi.md",
+      "title": "chapter_0002_Chuong_0002_Dong_tien_than_bi",
+      "path": "chapter_0002_Chuong_0002_Dong_tien_than_bi.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Tien_dan_va_con_ret.md",
+      "title": "chapter_0003_Chuong_0003_Tien_dan_va_con_ret",
+      "path": "chapter_0003_Chuong_0003_Tien_dan_va_con_ret.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Ke_chang_so_gi_ca.md",
+      "title": "chapter_0004_Chuong_0004_Ke_chang_so_gi_ca",
+      "path": "chapter_0004_Chuong_0004_Ke_chang_so_gi_ca.md"
+    }
+  ]
+}

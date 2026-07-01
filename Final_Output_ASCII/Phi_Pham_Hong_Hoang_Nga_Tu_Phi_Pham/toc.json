@@ -1,0 +1,377 @@
+{
+  "novel": "Phi_Pham_Hong_Hoang_Nga_Tu_Phi_Pham",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Thuo_hong_hoang_co_Ty_Huu.md",
+      "title": "chapter_0001_Chuong_0001_Thuo_hong_hoang_co_Ty_Huu",
+      "path": "chapter_0001_Chuong_0001_Thuo_hong_hoang_co_Ty_Huu.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Thuo_hong_hoang_co_Ty_Huu.md",
+      "title": "chapter_0002_Chuong_0002_Thuo_hong_hoang_co_Ty_Huu",
+      "path": "chapter_0002_Chuong_0002_Thuo_hong_hoang_co_Ty_Huu.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Ngam_nui_Bat_Chu_ngo_cong_phap.md",
+      "title": "chapter_0003_Chuong_0003_Ngam_nui_Bat_Chu_ngo_cong_phap",
+      "path": "chapter_0003_Chuong_0003_Ngam_nui_Bat_Chu_ngo_cong_phap.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Ngam_nui_Bat_Chu_ngo_cong_phap.md",
+      "title": "chapter_0004_Chuong_0004_Ngam_nui_Bat_Chu_ngo_cong_phap",
+      "path": "chapter_0004_Chuong_0004_Ngam_nui_Bat_Chu_ngo_cong_phap.md"
+    },
+    {
+      "index": 5,
+      "file": "chapter_0005_Chuong_0005_Cong_phap_Vo_Danh_thanh.md",
+      "title": "chapter_0005_Chuong_0005_Cong_phap_Vo_Danh_thanh",
+      "path": "chapter_0005_Chuong_0005_Cong_phap_Vo_Danh_thanh.md"
+    },
+    {
+      "index": 6,
+      "file": "chapter_0006_Chuong_0006_Cong_phap_Vo_Danh_thanh.md",
+      "title": "chapter_0006_Chuong_0006_Cong_phap_Vo_Danh_thanh",
+      "path": "chapter_0006_Chuong_0006_Cong_phap_Vo_Danh_thanh.md"
+    },
+    {
+      "index": 7,
+      "file": "chapter_0007_Chuong_0007_Ba_nam_len_duong.md",
+      "title": "chapter_0007_Chuong_0007_Ba_nam_len_duong",
+      "path": "chapter_0007_Chuong_0007_Ba_nam_len_duong.md"
+    },
+    {
+      "index": 8,
+      "file": "chapter_0008_Chuong_0008_Ba_nam_len_duong.md",
+      "title": "chapter_0008_Chuong_0008_Ba_nam_len_duong",
+      "path": "chapter_0008_Chuong_0008_Ba_nam_len_duong.md"
+    },
+    {
+      "index": 9,
+      "file": "chapter_0009_Chuong_0009_Ba_van_nam_voi_va_troi_qua.md",
+      "title": "chapter_0009_Chuong_0009_Ba_van_nam_voi_va_troi_qua",
+      "path": "chapter_0009_Chuong_0009_Ba_van_nam_voi_va_troi_qua.md"
+    },
+    {
+      "index": 10,
+      "file": "chapter_0010_Chuong_0010_Ba_van_nam_voi_va_troi_qua.md",
+      "title": "chapter_0010_Chuong_0010_Ba_van_nam_voi_va_troi_qua",
+      "path": "chapter_0010_Chuong_0010_Ba_van_nam_voi_va_troi_qua.md"
+    },
+    {
+      "index": 11,
+      "file": "chapter_0011_Chuong_0011_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_1.md",
+      "title": "chapter_0011_Chuong_0011_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_1",
+      "path": "chapter_0011_Chuong_0011_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_1.md"
+    },
+    {
+      "index": 12,
+      "file": "chapter_0012_Chuong_0012_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_1.md",
+      "title": "chapter_0012_Chuong_0012_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_1",
+      "path": "chapter_0012_Chuong_0012_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_1.md"
+    },
+    {
+      "index": 13,
+      "file": "chapter_0013_Chuong_0013_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_2.md",
+      "title": "chapter_0013_Chuong_0013_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_2",
+      "path": "chapter_0013_Chuong_0013_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_2.md"
+    },
+    {
+      "index": 14,
+      "file": "chapter_0014_Chuong_0014_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_2.md",
+      "title": "chapter_0014_Chuong_0014_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_2",
+      "path": "chapter_0014_Chuong_0014_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_2.md"
+    },
+    {
+      "index": 15,
+      "file": "chapter_0015_Chuong_0015_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_3.md",
+      "title": "chapter_0015_Chuong_0015_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_3",
+      "path": "chapter_0015_Chuong_0015_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_3.md"
+    },
+    {
+      "index": 16,
+      "file": "chapter_0016_Chuong_0016_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_3.md",
+      "title": "chapter_0016_Chuong_0016_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_3",
+      "path": "chapter_0016_Chuong_0016_Cuong_phong_loi_hoa_toi_luyen_nhuc_than_Phan_3.md"
+    },
+    {
+      "index": 17,
+      "file": "chapter_0017_Chuong_0017_Bat_Chu_son_chong_troi_dap_dat.md",
+      "title": "chapter_0017_Chuong_0017_Bat_Chu_son_chong_troi_dap_dat",
+      "path": "chapter_0017_Chuong_0017_Bat_Chu_son_chong_troi_dap_dat.md"
+    },
+    {
+      "index": 18,
+      "file": "chapter_0018_Chuong_0018_Nui_Bat_Chu_chong_troi_dap_dat.md",
+      "title": "chapter_0018_Chuong_0018_Nui_Bat_Chu_chong_troi_dap_dat",
+      "path": "chapter_0018_Chuong_0018_Nui_Bat_Chu_chong_troi_dap_dat.md"
+    },
+    {
+      "index": 19,
+      "file": "chapter_0019_Chuong_0019_Thien_ma_ngoai_vuc_1.md",
+      "title": "chapter_0019_Chuong_0019_Thien_ma_ngoai_vuc_1",
+      "path": "chapter_0019_Chuong_0019_Thien_ma_ngoai_vuc_1.md"
+    },
+    {
+      "index": 20,
+      "file": "chapter_0020_Chuong_0020_Vuc_ngoai_co_thien_ma_1.md",
+      "title": "chapter_0020_Chuong_0020_Vuc_ngoai_co_thien_ma_1",
+      "path": "chapter_0020_Chuong_0020_Vuc_ngoai_co_thien_ma_1.md"
+    },
+    {
+      "index": 21,
+      "file": "chapter_0021_Chuong_0021_Ngoai_vuc_co_Thien_Ma_2.md",
+      "title": "chapter_0021_Chuong_0021_Ngoai_vuc_co_Thien_Ma_2",
+      "path": "chapter_0021_Chuong_0021_Ngoai_vuc_co_Thien_Ma_2.md"
+    },
+    {
+      "index": 22,
+      "file": "chapter_0022_Chuong_0022_Vuc_ngoai_co_thien_ma_2.md",
+      "title": "chapter_0022_Chuong_0022_Vuc_ngoai_co_thien_ma_2",
+      "path": "chapter_0022_Chuong_0022_Vuc_ngoai_co_thien_ma_2.md"
+    },
+    {
+      "index": 23,
+      "file": "chapter_0023_Chuong_0023_Thien_ma_ngoai_vuc_3.md",
+      "title": "chapter_0023_Chuong_0023_Thien_ma_ngoai_vuc_3",
+      "path": "chapter_0023_Chuong_0023_Thien_ma_ngoai_vuc_3.md"
+    },
+    {
+      "index": 24,
+      "file": "chapter_0024_Chuong_0024_Vuc_ngoai_co_thien_ma_3.md",
+      "title": "chapter_0024_Chuong_0024_Vuc_ngoai_co_thien_ma_3",
+      "path": "chapter_0024_Chuong_0024_Vuc_ngoai_co_thien_ma_3.md"
+    },
+    {
+      "index": 25,
+      "file": "chapter_0025_Chuong_0025_Chin_tang_gio_sam_lua_set_duoc_phan_chia_bau_troi_sao_vo_tan_chua_thien_dia.md",
+      "title": "chapter_0025_Chuong_0025_Chin_tang_gio_sam_lua_set_duoc_phan_chia_bau_troi_sao_vo_tan_chua_thien_dia",
+      "path": "chapter_0025_Chuong_0025_Chin_tang_gio_sam_lua_set_duoc_phan_chia_bau_troi_sao_vo_tan_chua_thien_dia.md"
+    },
+    {
+      "index": 26,
+      "file": "chapter_0026_Chuong_0026_Cuong_phong_loi_hoa_chia_chin_tang_tinh_khong_vo_tan_co_dat_troi.md",
+      "title": "chapter_0026_Chuong_0026_Cuong_phong_loi_hoa_chia_chin_tang_tinh_khong_vo_tan_co_dat_troi",
+      "path": "chapter_0026_Chuong_0026_Cuong_phong_loi_hoa_chia_chin_tang_tinh_khong_vo_tan_co_dat_troi.md"
+    },
+    {
+      "index": 27,
+      "file": "chapter_0027_Chuong_0027_Thanh_Dao_The_hoa_Bat_Chu_1.md",
+      "title": "chapter_0027_Chuong_0027_Thanh_Dao_The_hoa_Bat_Chu_1",
+      "path": "chapter_0027_Chuong_0027_Thanh_Dao_The_hoa_Bat_Chu_1.md"
+    },
+    {
+      "index": 28,
+      "file": "chapter_0028_Chuong_0028_Thanh_Dao_The_Hoa_Bat_Chu_Toan_1.md",
+      "title": "chapter_0028_Chuong_0028_Thanh_Dao_The_Hoa_Bat_Chu_Toan_1",
+      "path": "chapter_0028_Chuong_0028_Thanh_Dao_The_Hoa_Bat_Chu_Toan_1.md"
+    },
+    {
+      "index": 29,
+      "file": "chapter_0029_Chuong_0029_Thanh_Dao_The_Hoa_Bat_Chu_2.md",
+      "title": "chapter_0029_Chuong_0029_Thanh_Dao_The_Hoa_Bat_Chu_2",
+      "path": "chapter_0029_Chuong_0029_Thanh_Dao_The_Hoa_Bat_Chu_2.md"
+    },
+    {
+      "index": 30,
+      "file": "chapter_0030_Chuong_0030_Thanh_dao_the_hoa_Bat_Chu_2.md",
+      "title": "chapter_0030_Chuong_0030_Thanh_dao_the_hoa_Bat_Chu_2",
+      "path": "chapter_0030_Chuong_0030_Thanh_dao_the_hoa_Bat_Chu_2.md"
+    },
+    {
+      "index": 31,
+      "file": "chapter_0031_Chuong_0031_Thanh_dao_the_hoa_khong_chu_toan_3.md",
+      "title": "chapter_0031_Chuong_0031_Thanh_dao_the_hoa_khong_chu_toan_3",
+      "path": "chapter_0031_Chuong_0031_Thanh_dao_the_hoa_khong_chu_toan_3.md"
+    },
+    {
+      "index": 32,
+      "file": "chapter_0032_Chuong_0032_Thanh_Dao_The_Hoa_Bat_Chu_Toan_3.md",
+      "title": "chapter_0032_Chuong_0032_Thanh_Dao_The_Hoa_Bat_Chu_Toan_3",
+      "path": "chapter_0032_Chuong_0032_Thanh_Dao_The_Hoa_Bat_Chu_Toan_3.md"
+    },
+    {
+      "index": 33,
+      "file": "chapter_0033_Chuong_0033_Thanh_Dao_The_Hoa_Bat_Chu_4.md",
+      "title": "chapter_0033_Chuong_0033_Thanh_Dao_The_Hoa_Bat_Chu_4",
+      "path": "chapter_0033_Chuong_0033_Thanh_Dao_The_Hoa_Bat_Chu_4.md"
+    },
+    {
+      "index": 34,
+      "file": "chapter_0034_Chuong_0034_Thanh_dao_the_hoa_Bat_Chu_4.md",
+      "title": "chapter_0034_Chuong_0034_Thanh_dao_the_hoa_Bat_Chu_4",
+      "path": "chapter_0034_Chuong_0034_Thanh_dao_the_hoa_Bat_Chu_4.md"
+    },
+    {
+      "index": 35,
+      "file": "chapter_0035_Chuong_0035_Tien_Thien_Dao_The_Ban_Co_Nguyen_Linh.md",
+      "title": "chapter_0035_Chuong_0035_Tien_Thien_Dao_The_Ban_Co_Nguyen_Linh",
+      "path": "chapter_0035_Chuong_0035_Tien_Thien_Dao_The_Ban_Co_Nguyen_Linh.md"
+    },
+    {
+      "index": 36,
+      "file": "chapter_0036_Chuong_0036_Tien_thien_dao_the_Ban_Co_nguyen_linh.md",
+      "title": "chapter_0036_Chuong_0036_Tien_thien_dao_the_Ban_Co_nguyen_linh",
+      "path": "chapter_0036_Chuong_0036_Tien_thien_dao_the_Ban_Co_nguyen_linh.md"
+    },
+    {
+      "index": 37,
+      "file": "chapter_0037_Chuong_0037_Dia_tien_dao_qua_vo_luong_than_thong.md",
+      "title": "chapter_0037_Chuong_0037_Dia_tien_dao_qua_vo_luong_than_thong",
+      "path": "chapter_0037_Chuong_0037_Dia_tien_dao_qua_vo_luong_than_thong.md"
+    },
+    {
+      "index": 38,
+      "file": "chapter_0038_Chuong_0038_Dia_tien_dao_qua_vo_luong_than_thong.md",
+      "title": "chapter_0038_Chuong_0038_Dia_tien_dao_qua_vo_luong_than_thong",
+      "path": "chapter_0038_Chuong_0038_Dia_tien_dao_qua_vo_luong_than_thong.md"
+    },
+    {
+      "index": 39,
+      "file": "chapter_0039_Chuong_0039_Tien_Thien_Bat_Diet_Linh_Quang_1.md",
+      "title": "chapter_0039_Chuong_0039_Tien_Thien_Bat_Diet_Linh_Quang_1",
+      "path": "chapter_0039_Chuong_0039_Tien_Thien_Bat_Diet_Linh_Quang_1.md"
+    },
+    {
+      "index": 40,
+      "file": "chapter_0040_Chuong_0040_Tien_thien_bat_diet_linh_quang_1.md",
+      "title": "chapter_0040_Chuong_0040_Tien_thien_bat_diet_linh_quang_1",
+      "path": "chapter_0040_Chuong_0040_Tien_thien_bat_diet_linh_quang_1.md"
+    },
+    {
+      "index": 41,
+      "file": "chapter_0041_Chuong_0041_Tien_thien_bat_diet_linh_quang_2.md",
+      "title": "chapter_0041_Chuong_0041_Tien_thien_bat_diet_linh_quang_2",
+      "path": "chapter_0041_Chuong_0041_Tien_thien_bat_diet_linh_quang_2.md"
+    },
+    {
+      "index": 42,
+      "file": "chapter_0042_Chuong_0042_Tien_thien_bat_diet_linh_quang_2.md",
+      "title": "chapter_0042_Chuong_0042_Tien_thien_bat_diet_linh_quang_2",
+      "path": "chapter_0042_Chuong_0042_Tien_thien_bat_diet_linh_quang_2.md"
+    },
+    {
+      "index": 43,
+      "file": "chapter_0043_Chuong_0043_Hong_Quan_dai_phap_doi_troi_dap_dat_1.md",
+      "title": "chapter_0043_Chuong_0043_Hong_Quan_dai_phap_doi_troi_dap_dat_1",
+      "path": "chapter_0043_Chuong_0043_Hong_Quan_dai_phap_doi_troi_dap_dat_1.md"
+    },
+    {
+      "index": 44,
+      "file": "chapter_0044_Chuong_0044_Hong_Quan_dai_phap_Doi_troi_dap_dat_1.md",
+      "title": "chapter_0044_Chuong_0044_Hong_Quan_dai_phap_Doi_troi_dap_dat_1",
+      "path": "chapter_0044_Chuong_0044_Hong_Quan_dai_phap_Doi_troi_dap_dat_1.md"
+    },
+    {
+      "index": 45,
+      "file": "chapter_0045_Chuong_0045_Hong_Quan_Dai_Phap_Dung_Troi_Dap_Dat_2.md",
+      "title": "chapter_0045_Chuong_0045_Hong_Quan_Dai_Phap_Dung_Troi_Dap_Dat_2",
+      "path": "chapter_0045_Chuong_0045_Hong_Quan_Dai_Phap_Dung_Troi_Dap_Dat_2.md"
+    },
+    {
+      "index": 46,
+      "file": "chapter_0046_Chuong_0046_Hong_Quan_dai_phap_Doi_troi_dap_dat_2.md",
+      "title": "chapter_0046_Chuong_0046_Hong_Quan_dai_phap_Doi_troi_dap_dat_2",
+      "path": "chapter_0046_Chuong_0046_Hong_Quan_dai_phap_Doi_troi_dap_dat_2.md"
+    },
+    {
+      "index": 47,
+      "file": "chapter_0047_Chuong_0047_Hong_Quan_dai_phap_doi_troi_dap_dat_3.md",
+      "title": "chapter_0047_Chuong_0047_Hong_Quan_dai_phap_doi_troi_dap_dat_3",
+      "path": "chapter_0047_Chuong_0047_Hong_Quan_dai_phap_doi_troi_dap_dat_3.md"
+    },
+    {
+      "index": 48,
+      "file": "chapter_0048_Chuong_0048_Hong_Quan_dai_phap_doi_troi_dap_dat_3.md",
+      "title": "chapter_0048_Chuong_0048_Hong_Quan_dai_phap_doi_troi_dap_dat_3",
+      "path": "chapter_0048_Chuong_0048_Hong_Quan_dai_phap_doi_troi_dap_dat_3.md"
+    },
+    {
+      "index": 49,
+      "file": "chapter_0049_Chuong_0049_Thuat_Hu_Khong_Vo_Cuc_Cung_Dien_1.md",
+      "title": "chapter_0049_Chuong_0049_Thuat_Hu_Khong_Vo_Cuc_Cung_Dien_1",
+      "path": "chapter_0049_Chuong_0049_Thuat_Hu_Khong_Vo_Cuc_Cung_Dien_1.md"
+    },
+    {
+      "index": 50,
+      "file": "chapter_0050_Chuong_0050_Hu_Khong_Vo_Cuc_Cung_Dien_Thuat_1.md",
+      "title": "chapter_0050_Chuong_0050_Hu_Khong_Vo_Cuc_Cung_Dien_Thuat_1",
+      "path": "chapter_0050_Chuong_0050_Hu_Khong_Vo_Cuc_Cung_Dien_Thuat_1.md"
+    },
+    {
+      "index": 51,
+      "file": "chapter_0051_Chuong_0051_Thuat_Hu_Khong_Vo_Cuc_Cung_Dien_2.md",
+      "title": "chapter_0051_Chuong_0051_Thuat_Hu_Khong_Vo_Cuc_Cung_Dien_2",
+      "path": "chapter_0051_Chuong_0051_Thuat_Hu_Khong_Vo_Cuc_Cung_Dien_2.md"
+    },
+    {
+      "index": 52,
+      "file": "chapter_0052_Chuong_0052_Hu_Khong_Vo_Cuc_Cung_Dien_Thuat_II.md",
+      "title": "chapter_0052_Chuong_0052_Hu_Khong_Vo_Cuc_Cung_Dien_Thuat_II",
+      "path": "chapter_0052_Chuong_0052_Hu_Khong_Vo_Cuc_Cung_Dien_Thuat_II.md"
+    },
+    {
+      "index": 53,
+      "file": "chapter_0053_Chuong_0053_Uy_luc_phap_khi_Hon_Don_Nguyen_Thach.md",
+      "title": "chapter_0053_Chuong_0053_Uy_luc_phap_khi_Hon_Don_Nguyen_Thach",
+      "path": "chapter_0053_Chuong_0053_Uy_luc_phap_khi_Hon_Don_Nguyen_Thach.md"
+    },
+    {
+      "index": 54,
+      "file": "chapter_0054_Chuong_0054_Uy_luc_phap_khi_Hon_Don_Nguyen_Thach.md",
+      "title": "chapter_0054_Chuong_0054_Uy_luc_phap_khi_Hon_Don_Nguyen_Thach",
+      "path": "chapter_0054_Chuong_0054_Uy_luc_phap_khi_Hon_Don_Nguyen_Thach.md"
+    },
+    {
+      "index": 55,
+      "file": "chapter_0055_Chuong_0055_Uy_nang_cua_phap_bao_1.md",
+      "title": "chapter_0055_Chuong_0055_Uy_nang_cua_phap_bao_1",
+      "path": "chapter_0055_Chuong_0055_Uy_nang_cua_phap_bao_1.md"
+    },
+    {
+      "index": 56,
+      "file": "chapter_0056_Chuong_0056_Kha_nang_cua_phap_bao_1.md",
+      "title": "chapter_0056_Chuong_0056_Kha_nang_cua_phap_bao_1",
+      "path": "chapter_0056_Chuong_0056_Kha_nang_cua_phap_bao_1.md"
+    },
+    {
+      "index": 57,
+      "file": "chapter_0057_Chuong_0057_Uy_luc_cua_phap_bao_2.md",
+      "title": "chapter_0057_Chuong_0057_Uy_luc_cua_phap_bao_2",
+      "path": "chapter_0057_Chuong_0057_Uy_luc_cua_phap_bao_2.md"
+    },
+    {
+      "index": 58,
+      "file": "chapter_0058_Chuong_0058_Nang_luc_cua_phap_bao_2.md",
+      "title": "chapter_0058_Chuong_0058_Nang_luc_cua_phap_bao_2",
+      "path": "chapter_0058_Chuong_0058_Nang_luc_cua_phap_bao_2.md"
+    },
+    {
+      "index": 59,
+      "file": "chapter_0059_Chuong_0059_Uy_luc_cua_phap_bao_3.md",
+      "title": "chapter_0059_Chuong_0059_Uy_luc_cua_phap_bao_3",
+      "path": "chapter_0059_Chuong_0059_Uy_luc_cua_phap_bao_3.md"
+    },
+    {
+      "index": 60,
+      "file": "chapter_0060_Chuong_0060_Phap_bao_kha_nang_3.md",
+      "title": "chapter_0060_Chuong_0060_Phap_bao_kha_nang_3",
+      "path": "chapter_0060_Chuong_0060_Phap_bao_kha_nang_3.md"
+    },
+    {
+      "index": 61,
+      "file": "chapter_0061_Chuong_0061_Phap_bao_chi_nang_4.md",
+      "title": "chapter_0061_Chuong_0061_Phap_bao_chi_nang_4",
+      "path": "chapter_0061_Chuong_0061_Phap_bao_chi_nang_4.md"
+    },
+    {
+      "index": 62,
+      "file": "chapter_0062_Chuong_0062_Nang_luc_cua_phap_bao_4.md",
+      "title": "chapter_0062_Chuong_0062_Nang_luc_cua_phap_bao_4",
+      "path": "chapter_0062_Chuong_0062_Nang_luc_cua_phap_bao_4.md"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Mot_Cai_Than_Truong_Thanh_Lai_Nhan_Zero
+
+Chapters: 6
+
+## TOC
+1. [0001_Chuong_0001_Rong_Ngam_Nen](chapter_0001_Chuong_0001_Rong_Ngam_Nen.md)
+2. [0002_Chuong_0002_Kha_nang_doc_tam_Sach_moi_cau_ung_ho](chapter_0002_Chuong_0002_Kha_nang_doc_tam_Sach_moi_cau_ung_ho.md)
+3. [0003_Chuong_0003_Than_linh_so_sinh](chapter_0003_Chuong_0003_Than_linh_so_sinh.md)
+4. [0004_Chuong_0004_Tao_vat_chu_giang_lam_Sach_moi_cau_ung_ho](chapter_0004_Chuong_0004_Tao_vat_chu_giang_lam_Sach_moi_cau_ung_ho.md)
+5. [0005_Chuong_0005_Ke_dai_hanh_cua_than_linh](chapter_0005_Chuong_0005_Ke_dai_hanh_cua_than_linh.md)
+6. [0006_Chuong_0006_Tien_tri_hoang_da_Sach_moi_cau_ung_ho](chapter_0006_Chuong_0006_Tien_tri_hoang_da_Sach_moi_cau_ung_ho.md)

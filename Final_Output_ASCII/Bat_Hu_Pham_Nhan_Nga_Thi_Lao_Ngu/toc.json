@@ -1,0 +1,29 @@
+{
+  "novel": "Bat_Hu_Pham_Nhan_Nga_Thi_Lao_Ngu",
+  "chapters": [
+    {
+      "index": 1,
+      "file": "chapter_0001_Chuong_0001_Loi_tua.md",
+      "title": "chapter_0001_Chuong_0001_Loi_tua",
+      "path": "chapter_0001_Chuong_0001_Loi_tua.md"
+    },
+    {
+      "index": 2,
+      "file": "chapter_0002_Chuong_0002_Vuong_tu_sa_co.md",
+      "title": "chapter_0002_Chuong_0002_Vuong_tu_sa_co",
+      "path": "chapter_0002_Chuong_0002_Vuong_tu_sa_co.md"
+    },
+    {
+      "index": 3,
+      "file": "chapter_0003_Chuong_0003_Song_Con_Gian_Nan.md",
+      "title": "chapter_0003_Chuong_0003_Song_Con_Gian_Nan",
+      "path": "chapter_0003_Chuong_0003_Song_Con_Gian_Nan.md"
+    },
+    {
+      "index": 4,
+      "file": "chapter_0004_Chuong_0004_Chi_la_Pham_Can.md",
+      "title": "chapter_0004_Chuong_0004_Chi_la_Pham_Can",
+      "path": "chapter_0004_Chuong_0004_Chi_la_Pham_Can.md"
+    }
+  ]
+}
