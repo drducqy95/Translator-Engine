@@ -20,6 +20,20 @@ KNOWN_NON_LATIN_ALIAS = {
     "德思礼": ["Đức Tư Lễ"],
 }
 
+ENTITY_CANONICAL_OVERRIDES = {
+    "Cách Lâm": "Green",
+    "Bồi Đặc": "Pette",
+    "Nặc Văn": "Norwin",
+    "Lôi Na": "Lena",
+    "Mạc Ni": "Moni",
+    "Bố Lan Đăng": "Brandon",
+    "Lôi Á Khắc": "Reyak",
+    "Lan Đế Tư": "Plandis",
+    "La Bá Đặc": "Robert",
+    "Mặc Phỉ": "Murphy",
+    "Đức Tư Lễ": "Dursley",
+}
+
 
 def target_text(value):
     if isinstance(value, dict):
@@ -79,6 +93,8 @@ def apply_locked_terms(text: str, context_pack: dict | None) -> str:
             if alias and alias != target:
                 replacements[alias] = target
     for src, dst in sorted(replacements.items(), key=lambda item: len(item[0]), reverse=True):
+        text = text.replace(src, dst)
+    for src, dst in sorted(ENTITY_CANONICAL_OVERRIDES.items(), key=lambda item: len(item[0]), reverse=True):
         text = text.replace(src, dst)
     return text
 
