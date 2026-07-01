@@ -1,4 +1,5 @@
 import subprocess
+import shutil
 from pathlib import Path
 
 
@@ -36,6 +37,12 @@ def _collect_output_files(out_dir: Path) -> list[str]:
     return files
 
 
+def _remove_nested_git_dirs(out_dir: Path) -> None:
+    for git_dir in out_dir.rglob('.git'):
+        if git_dir.is_dir():
+            shutil.rmtree(git_dir, ignore_errors=True)
+
+
 def _rel_to_git_root(git_root: Path, path: Path) -> str:
     try:
         return path.resolve().relative_to(git_root.resolve()).as_posix()
@@ -69,6 +76,8 @@ def run(out_dir: Path, chapter_filename: str):
     print(f"[Stage 5] Đang push Git cho chương: {chapter_filename}")
     
     try:
+        out_dir = Path(out_dir)
+
         # Khởi tạo git nếu chưa có
         git_root = _find_git_root(out_dir)
         if not (git_root / ".git").exists():
@@ -78,13 +87,12 @@ def run(out_dir: Path, chapter_filename: str):
         # Thêm file (force include large ignored outputs + final artifacts)
         subprocess.run(["git", "config", "user.name", "Translator Engine Bot"], cwd=git_root, check=False)
         subprocess.run(["git", "config", "user.email", "translator-engine-bot@localhost"], cwd=git_root, check=False)
+        _remove_nested_git_dirs(out_dir)
         _refresh_final_output_indexes(git_root)
-        out_dir = Path(out_dir)
         tracked = _collect_output_files(out_dir)
         tracked.append(_rel_to_git_root(git_root, git_root / "Final_Output_ASCII"))
         _git_add_force(git_root, tracked)
         _git_reset_paths(git_root, [_rel_to_git_root(git_root, out_dir / "Intermediate")])
-        subprocess.run(["git", "add", "."], cwd=git_root, check=True)
         _git_reset_paths(git_root, [_rel_to_git_root(git_root, out_dir / "Intermediate")])
         
         # Commit
