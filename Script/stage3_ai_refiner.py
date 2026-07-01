@@ -141,7 +141,7 @@ def run(novel_id: str, context_pack: dict, output_dir: str) -> dict:
     print("[Stage 3] Gọi AI...")
     import ai_client
     response_text, ai_err, meta = ai_client.call_ai_checked_with_meta(
-        user_prompt, system_prompt=system_prompt, temperature=0.2, timeout=300, max_retries=2)
+        user_prompt, system_prompt=system_prompt, temperature=0.2, timeout=900, max_retries=3)
 
     if ai_err or not response_text:
         raise Exception(f"AI failed: {ai_err}")

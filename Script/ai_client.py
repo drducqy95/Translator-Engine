@@ -33,6 +33,8 @@ COOLDOWN_STATE = ROOT / 'Dashboard' / 'data' / 'ai_cooldown.json'
 
 DEFAULT_COOLDOWN = 300  # seconds a rate-limited provider sits out
 DEFAULT_CLI_FALLBACK = ['agy', 'claude']
+DEFAULT_HTTP_TIMEOUT = 900
+DEFAULT_MAX_RETRIES = 3
 
 # Signatures in an error body that mean "this provider is rate-limited / out of quota".
 _RATELIMIT_MARKERS = ('rate', 'quota', 'provider_account_unavailable',
@@ -290,7 +292,8 @@ def _call_cli(tool, prompt, timeout):
 def call_ai_checked_with_meta(prompt, *, stream=False, temperature=0.2, timeout=600, system_prompt=None, max_retries=None):
     """Try every enabled provider in priority order, then CLI fallbacks.
     Returns (text, None, meta) on success, (None, error_summary, None) if everything failed."""
-    if max_retries is None: max_retries = 3
+    if max_retries is None: max_retries = DEFAULT_MAX_RETRIES
+    timeout = max(timeout or 0, DEFAULT_HTTP_TIMEOUT)
     
     cfg = load_providers()
     cooldowns = _load_cooldowns()
@@ -324,7 +327,7 @@ def call_ai_checked_with_meta(prompt, *, stream=False, temperature=0.2, timeout=
                 errors.append(f'{name}: {str(e)[:60]}')
         
         if attempt < max_retries - 1:
-            time.sleep(5)
+            time.sleep(10)
 
     # CLI fallback tier. CLI tools receive one prompt string, so preserve the
     # stage system contract by prefixing it instead of dropping it.
