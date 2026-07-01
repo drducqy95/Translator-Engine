@@ -1073,3 +1073,6 @@
 ## Chương 313: Chương 0313 Lòng người hỗn loạn, Vô hạn bản vị.md
 - **Sự kiện chính:** Offline fallback mode
 
+## Chương 315: Chương 0315 Một Thể Hai Mặt, Kế Nhỏ Bên Rìa.md
+- **Sự kiện chính:** Offline fallback mode
+
