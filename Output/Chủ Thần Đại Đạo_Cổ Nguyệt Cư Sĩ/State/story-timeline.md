@@ -1102,3 +1102,6 @@
 ## Chương 328: Chương 0328 Thần cách, thần hồn, thần khu, thần hỏa thành tựu thần.md
 - **Sự kiện chính:** Bùi Kiện trở về sau nhiệm vụ thất bại ở phó bản Tam quốc, chứng kiến hiện tượng kỳ lạ với giọt nước thế giới và hai ngón tay thần bí. Triệu Kì đang tu luyện thần lực, hoàn thiện các yếu tố thành thần (thần cách, thần hồn, thần khu, thần hỏa).
 
+## Chương 330: Chương 0330 Siêu Phàm Lực Lượng, Sự Trỗi Dậy Của Võ Lực Trắc Và Ma Pháp Trắc.md
+- **Sự kiện chính:** Địa cầu mở rộng, địa mạo biến đổi, xã hội loạn lạc rồi dần ổn định. Sức mạnh siêu phàm cả võ lực lẫn ma pháp đều tăng mạnh, các pháp sư có thể chiến đấu. Các quốc gia bị cô lập do biến đổi địa lý, nhiều Shoukoku biến mất. Yêu thú siêu phàm xuất hiện khắp nơi, tạo ra nghề săn bán chúng.
+

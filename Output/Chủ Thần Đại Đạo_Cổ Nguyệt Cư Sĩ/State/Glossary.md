@@ -431,3 +431,4 @@
 - **大汉天柱** (glossary) -> Đại Hán thiên trụ
 - **人皇天柱** (glossary) -> Nhân Hoàng thiên trụ
 - **大幽天反魂之阵** (glossary) -> Đại U Thiên Phản Hồn Chi Trận
+- **棉兔** (creature) -> thỏ bông

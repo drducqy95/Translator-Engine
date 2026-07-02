@@ -3014,5 +3014,12 @@
     "type": "glossary",
     "origin": "chinese",
     "name_type": "skill"
+  },
+  {
+    "raw": "棉兔",
+    "target": "thỏ bông",
+    "type": "creature",
+    "origin": "chinese",
+    "name_type": "common"
   }
 ]
