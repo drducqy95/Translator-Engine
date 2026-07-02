@@ -1091,5 +1091,5 @@
 - **Nhân vật mới xuất hiện:** Hinh Nhã Trai Chủ
 
 ## Chương 322: Chương 0322 Không binh, không tướng, không lòng dân!.md
-- **Sự kiện chính:** 温馨雅一行三人目睹刘协在许都清洗文臣武将，掌控皇宫。温馨雅解释她通过自身功法让刘协快速入门超凡，但根基有限；同时计划利用现代政治手段和改造功法来稳固统治，并准备应对曹操的反扑。
+- **Sự kiện chính:** Na Hinh Nhã cùng đồng đội đang thao túng Ryuukyou (Hiến Đế) thực hiện cuộc thanh trừng đẫm máu tại Hứa Đô để giành quyền kiểm soát, đồng thời chuẩn bị hồi sinh các danh tướng và sử dụng tư tưởng hiện đại để thu phục lòng dân.
 
