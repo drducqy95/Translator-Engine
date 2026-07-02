@@ -1127,3 +1127,6 @@
 ## Chương 340: Chương 0340 Giao phó tiền đề, hồi tố hậu quả.md
 - **Sự kiện chính:** Triệu Kì triệu tập các vị thần dưới trướng đến Chân Thực Giới để thông báo về việc mình sắp đăng thần trong ba ngày tới. Ngài giải thích rằng việc trì hoãn là để hoàn thiện bốn cửa ải thành thần nhằm đạt tới giới hạn cao nhất, đồng thời giao phó nhiệm vụ cho họ để đối phó với những biến động sắp tới.
 
+## Chương 341: Chương 0341 Triệu Kì phân bảo, thế giới quyền bính.md
+- **Sự kiện chính:** Triệu Kì triệu tập các phân thân để phân chia quyền bính thế giới trước khi thành tựu thần linh, nhằm đảm bảo sự thuần khiết của thần cách và chuẩn bị cho những biến cố không thể dự đoán.
+
