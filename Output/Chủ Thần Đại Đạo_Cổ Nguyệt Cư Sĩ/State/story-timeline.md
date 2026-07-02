@@ -1086,3 +1086,7 @@
 - **Sự kiện chính:** Ba thành viên của Không Gian Ác Mộng đang ở Hứa Đô, bàn kế hoạch lợi dụng thời điểm Tào Tháo đi đánh Xích Bích để phò tá Hán Hiến Đế, nhằm thực hiện nhiệm vụ của Hệ thống Vô Hạn.
 - **Nhân vật mới xuất hiện:** Lý Huân, Khải Thắng, Na Hinh Nhã
 
+## Chương 320: Chương 0320 Giả thần giả quỷ.md
+- **Sự kiện chính:** Ryuukyou, vị hoàng đế bù nhìn của Hán thất, đang tuyệt vọng trong cung thì gặp được Hinh Nhã Trai Chủ, một phân thân huyễn thần được Koubumikado Ryuushuu tạo ra từ 3 giáp tử trước để cứu vãn Hán triều. Nàng đề nghị giúp Ryuukyou luyện khí và huấn luyện tinh binh để thoát khỏi khốn cảnh trong vòng 3 tháng.
+- **Nhân vật mới xuất hiện:** Hinh Nhã Trai Chủ
+
