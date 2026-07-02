@@ -409,3 +409,12 @@
 - **菩提证** (glossary) -> Bồ đề chứng
 - **功德证** (glossary) -> Công đức chứng
 - **帝师** (title) -> Đế sư
+- **下邳** (location) -> Hạ Bi
+- **天子龙拳** (skill) -> Thiên Tử Long Quyền
+- **五帝皇拳** (skill) -> Ngũ Đế Hoàng Quyền
+- **五德圣皇书** (skill) -> Ngũ Đức Thánh Hoàng Thư
+- **魔种** (concept) -> ma chủng
+- **天子龙气** (concept) -> thiên tử long khí
+- **道基** (concept) -> đạo cơ
+- **魔道功法** (concept) -> ma đạo công pháp
+- **速发** (concept) -> tốc phát

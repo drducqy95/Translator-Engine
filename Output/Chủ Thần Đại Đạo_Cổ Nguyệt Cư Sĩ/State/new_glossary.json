@@ -2860,5 +2860,68 @@
     "type": "title",
     "origin": "chinese",
     "name_type": "title"
+  },
+  {
+    "raw": "下邳",
+    "target": "Hạ Bi",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "天子龙拳",
+    "target": "Thiên Tử Long Quyền",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "五帝皇拳",
+    "target": "Ngũ Đế Hoàng Quyền",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "五德圣皇书",
+    "target": "Ngũ Đức Thánh Hoàng Thư",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "魔种",
+    "target": "ma chủng",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "天子龙气",
+    "target": "thiên tử long khí",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "道基",
+    "target": "đạo cơ",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "魔道功法",
+    "target": "ma đạo công pháp",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
+  },
+  {
+    "raw": "速发",
+    "target": "tốc phát",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "term"
   }
 ]

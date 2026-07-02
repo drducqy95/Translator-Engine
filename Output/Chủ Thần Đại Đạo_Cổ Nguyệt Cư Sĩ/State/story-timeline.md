@@ -1090,3 +1090,6 @@
 - **Sự kiện chính:** Ryuukyou, vị hoàng đế bù nhìn của Hán thất, đang tuyệt vọng trong cung thì gặp được Hinh Nhã Trai Chủ, một phân thân huyễn thần được Koubumikado Ryuushuu tạo ra từ 3 giáp tử trước để cứu vãn Hán triều. Nàng đề nghị giúp Ryuukyou luyện khí và huấn luyện tinh binh để thoát khỏi khốn cảnh trong vòng 3 tháng.
 - **Nhân vật mới xuất hiện:** Hinh Nhã Trai Chủ
 
+## Chương 322: Chương 0322 Không binh, không tướng, không lòng dân!.md
+- **Sự kiện chính:** 温馨雅一行三人目睹刘协在许都清洗文臣武将，掌控皇宫。温馨雅解释她通过自身功法让刘协快速入门超凡，但根基有限；同时计划利用现代政治手段和改造功法来稳固统治，并准备应对曹操的反扑。
+

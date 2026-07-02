@@ -2569,14 +2569,19 @@
     {
       "index": 321,
       "file": "Chapter 0321 第321章.md",
-      "status": "pending",
-      "title": "第321章"
+      "status": "blocked",
+      "title": "第321章",
+      "error": "[Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'sinh huy' (Gốc: '生辉', nhóm: characters)\", \"Thiếu term đã khóa: 'Shokou' (Gốc: '诸公', nhóm: characters)\"]\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 765, in process_chapter\n    raise e\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 758, in process_chapter\n    self._validate_stage3(stage3_data, context_pack)\n    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 252, in _validate_stage3\n    self._stage_fail(\"Stage 3\", f\"QC fail: {qc.get('errors', [])}\")\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 116, in _stage_fail\n    raise ValueError(f\"[{stage} FAILED] {message}\")\nValueError: [Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'sinh huy' (Gốc: '生辉', nhóm: characters)\", \"Thiếu term đã khóa: 'Shokou' (Gốc: '诸公', nhóm: characters)\"]\n",
+      "fail_count": 3
     },
     {
       "index": 322,
       "file": "Chapter 0322 第32 0章 无兵，无将，无民心！.md",
-      "status": "pending",
-      "title": "第32 0章 无兵，无将，无民心！"
+      "status": "done",
+      "title": "Chương 0322 Không binh, không tướng, không lòng dân!",
+      "error": "",
+      "fail_count": 1,
+      "translated_file": "Chương 0322 Không binh, không tướng, không lòng dân!.md"
     },
     {
       "index": 323,
