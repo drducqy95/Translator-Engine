@@ -2580,26 +2580,31 @@
       "status": "done",
       "title": "Chương 0322 Không binh, không tướng, không lòng dân!",
       "error": "",
-      "fail_count": 2,
       "translated_file": "Chương 0322 Không binh, không tướng, không lòng dân!.md"
     },
     {
       "index": 323,
       "file": "Chapter 0323 炸营.md",
-      "status": "pending",
-      "title": "炸营"
+      "status": "blocked",
+      "title": "炸营",
+      "error": "[Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'Motosusumu' (Gốc: '许进', nhóm: characters)\", \"Thiếu term đã khóa: 'Soumago' (Gốc: '曹孙', nhóm: characters)\", \"Thiếu term đã khóa: 'Joun' (Gốc: '如云', nhóm: characters)\", \"Thiếu term đã khóa: 'Retsuhata' (Gốc: '列旗', nhóm: characters)\", \"Thiếu term đã khóa: 'Takararuri' (Gốc: '宝琉璃', nhóm: characters)\", \"Thiếu term đã khóa: 'Takarahikari' (Gốc: '宝光', nhóm: characters)\", \"Thiếu term đã khóa: 'Ryuumago' (Gốc: '刘孙', nhóm: characters)\"]\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 765, in process_chapter\n    raise e\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 758, in process_chapter\n    self._validate_stage3(stage3_data, context_pack)\n    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 252, in _validate_stage3\n    self._stage_fail(\"Stage 3\", f\"QC fail: {qc.get('errors', [])}\")\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 116, in _stage_fail\n    raise ValueError(f\"[{stage} FAILED] {message}\")\nValueError: [Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'Motosusumu' (Gốc: '许进', nhóm: characters)\", \"Thiếu term đã khóa: 'Soumago' (Gốc: '曹孙', nhóm: characters)\", \"Thiếu term đã khóa: 'Joun' (Gốc: '如云', nhóm: characters)\", \"Thiếu term đã khóa: 'Retsuhata' (Gốc: '列旗', nhóm: characters)\", \"Thiếu term đã khóa: 'Takararuri' (Gốc: '宝琉璃', nhóm: characters)\", \"Thiếu term đã khóa: 'Takarahikari' (Gốc: '宝光', nhóm: characters)\", \"Thiếu term đã khóa: 'Ryuumago' (Gốc: '刘孙', nhóm: characters)\"]\n",
+      "fail_count": 3
     },
     {
       "index": 324,
       "file": "Chapter 0324 图穷匕见.md",
-      "status": "pending",
-      "title": "图穷匕见"
+      "status": "blocked",
+      "title": "图穷匕见",
+      "error": "Fallback segment 17 thất bại: CJK\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_ai_refiner.py\", line 78, in _extract_json_object\n    data, _ = json.JSONDecoder().raw_decode(text[start:])\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 361, in raw_decode\n    obj, end = self.scan_once(s, idx)\n               ~~~~~~~~~~~~~~^^^^^^^^\njson.decoder.JSONDecodeError: Expecting ',' delimiter: line 185 column 102 (char 9728)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_ai_refiner.py\", line 150, in run\n    data = _extract_json_object(response_text)\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_ai_refiner.py\", line 80, in _extract_json_object\n    raise ValueError(f\"JSON không hợp lệ: {e}\")\nValueError: JSON không hợp lệ: Expecting ',' delimiter: line 185 column 102 (char 9728)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 765, in process_chapter\n    raise e\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 753, in process_chapter\n    stage3_data = stage3_ai_refiner.run(\n        novel_id=self.novel_id,\n        context_pack=context_pack,\n        output_dir=str(self.out_dir)\n    )\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_ai_refiner.py\", line 156, in run\n    data = stage3_offline_hymt.run_fallback(novel_id, cp, output_dir, response_text, meta_safe)\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_offline_hymt.py\", line 114, in run_fallback\n    raise ValueError(f\"Fallback segment {sid} thất bại: {err or 'CJK'}\")\nValueError: Fallback segment 17 thất bại: CJK\n",
+      "fail_count": 3
     },
     {
       "index": 325,
       "file": "Chapter 0325 兵抵兵，将对将，王见王.md",
-      "status": "pending",
-      "title": "兵抵兵，将对将，王见王"
+      "status": "done",
+      "title": "Chương 0325 Binh đối binh, Tướng đấu tướng, Oukenou",
+      "error": "",
+      "translated_file": "Chương 0325 Binh đối binh, Tướng đấu tướng, Oukenou.md"
     },
     {
       "index": 326,

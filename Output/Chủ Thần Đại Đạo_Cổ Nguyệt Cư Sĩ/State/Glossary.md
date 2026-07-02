@@ -418,3 +418,9 @@
 - **道基** (concept) -> đạo cơ
 - **魔道功法** (concept) -> ma đạo công pháp
 - **速发** (concept) -> tốc phát
+- **汉朝** (glossary) -> nhà Hán
+- **黄巾** (glossary) -> Hoàng Cân
+- **九城** (glossary) -> chín thành
+- **赤色光辉** (glossary) -> Ánh sáng Xích Sắc
+- **五帝龙拳** (glossary) -> Ngũ Đế Long Quyền
+- **五子良将** (glossary) -> Ngũ Tử Lương Tướng

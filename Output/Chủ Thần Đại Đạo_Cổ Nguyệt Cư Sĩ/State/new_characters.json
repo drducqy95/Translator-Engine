@@ -1769,5 +1769,33 @@
     "type": "character",
     "origin": "chinese",
     "name_type": "person"
+  },
+  {
+    "raw": "元让",
+    "target": "Kakouton",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "公明",
+    "target": "Từ Hoảng",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "废帝",
+    "target": "Phế đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "伪帝",
+    "target": "Ngụy đế",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
   }
 ]

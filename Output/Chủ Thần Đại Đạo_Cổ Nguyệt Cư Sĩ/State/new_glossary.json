@@ -2923,5 +2923,47 @@
     "type": "concept",
     "origin": "chinese",
     "name_type": "term"
+  },
+  {
+    "raw": "汉朝",
+    "target": "nhà Hán",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "dynasty"
+  },
+  {
+    "raw": "黄巾",
+    "target": "Hoàng Cân",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "historical_event"
+  },
+  {
+    "raw": "九城",
+    "target": "chín thành",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "place"
+  },
+  {
+    "raw": "赤色光辉",
+    "target": "Ánh sáng Xích Sắc",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "五帝龙拳",
+    "target": "Ngũ Đế Long Quyền",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "martial_art"
+  },
+  {
+    "raw": "五子良将",
+    "target": "Ngũ Tử Lương Tướng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "group"
   }
 ]

@@ -1093,3 +1093,6 @@
 ## Chương 322: Chương 0322 Không binh, không tướng, không lòng dân!.md
 - **Sự kiện chính:** Na Hinh Nhã cùng đồng đội đang thao túng Ryuukyou (Hiến Đế) thực hiện cuộc thanh trừng đẫm máu tại Hứa Đô để giành quyền kiểm soát, đồng thời chuẩn bị hồi sinh các danh tướng và sử dụng tư tưởng hiện đại để thu phục lòng dân.
 
+## Chương 325: Chương 0325 Binh đối binh, Tướng đấu tướng, Oukenou.md
+- **Sự kiện chính:** Hai đại quân của Ryuukyou và Tào Tháo cuối cùng cũng chạm trán trên chiến trường. Ryuukyou thể hiện sức mạnh phi thường với Ngũ Đế Long Quyền và thủ hạ thần bí, trong khi Tào Tháo điều động tướng lĩnh đỉnh cao bao gồm Ngũ Tử Lương Tướng tấn công. Đây là cuộc đối đầu quyết định cho số phận phương Bắc và ngôi vị.
+
