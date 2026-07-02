@@ -1122,5 +1122,5 @@
 - **Sự kiện chính:** Offline fallback mode
 
 ## Chương 339: Chương 0339 Mười năm cày cấy, ngày thu hoạch.md
-- **Sự kiện chính:** Sau cuộc xung đột tại Vô Hạn Chi Đảo, thế giới rơi vào trạng thái căng thẳng khi Yêu tộc phơi bày thực lực. Triệu Kì sau mười năm chuẩn bị đã quyết định bắt đầu giai đoạn thu hoạch và triệu tập các Chí Cao Thần.
+- **Sự kiện chính:** Triệu Kì sau 10 năm gieo mầm đã đến lúc thu hoạch, triệu tập các Chí Cao Thần. Thế giới hiện thực đang thay đổi mạnh mẽ khi Yêu tộc lộ diện và các siêu phàm giả tăng trưởng thực lực nhanh chóng.
 
