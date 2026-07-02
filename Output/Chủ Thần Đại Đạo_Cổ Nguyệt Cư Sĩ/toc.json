@@ -2652,14 +2652,16 @@
       "status": "done",
       "title": "Chương 0331 Quan sát Yêu tộc, khí số nhân đạo",
       "error": "",
-      "fail_count": 2,
       "translated_file": "Chương 0331 Quan sát Yêu tộc, khí số nhân đạo.md"
     },
     {
       "index": 332,
       "file": "Chapter 0332 无限之岛， 迎接未知的客人.md",
-      "status": "pending",
-      "title": "无限之岛， 迎接未知的客人"
+      "status": "done",
+      "title": "Chương 0332 Vô Hạn Chi Đảo, Nghênh Tiếp Khách Nhân Bí Ẩn",
+      "error": "",
+      "fail_count": 1,
+      "translated_file": "Chương 0332 Vô Hạn Chi Đảo, Nghênh Tiếp Khách Nhân Bí Ẩn.md"
     },
     {
       "index": 333,
