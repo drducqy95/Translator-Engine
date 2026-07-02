@@ -1105,3 +1105,6 @@
 ## Chương 330: Chương 0330 Siêu Phàm Lực Lượng, Sự Trỗi Dậy Của Võ Lực Trắc Và Ma Pháp Trắc.md
 - **Sự kiện chính:** Địa cầu mở rộng, địa mạo biến đổi, xã hội loạn lạc rồi dần ổn định. Sức mạnh siêu phàm cả võ lực lẫn ma pháp đều tăng mạnh, các pháp sư có thể chiến đấu. Các quốc gia bị cô lập do biến đổi địa lý, nhiều Shoukoku biến mất. Yêu thú siêu phàm xuất hiện khắp nơi, tạo ra nghề săn bán chúng.
 
+## Chương 331: Chương 0331 Quan sát Yêu tộc, khí số nhân đạo.md
+- **Sự kiện chính:** Triệu Kì quan sát sự phát triển của nhân đạo và Yêu tộc trên Trái Đất, nhận thấy sự bùng nổ của siêu phàm và sự trỗi dậy của Yêu tộc mà hắn đã sắp đặt từ trước. Hắn nhận ra thế giới đang thay đổi quá nhanh và bản thân chỉ có thể đóng vai trò dẫn dắt dòng chảy Kouzui mà mình đã tạo ra.
+
