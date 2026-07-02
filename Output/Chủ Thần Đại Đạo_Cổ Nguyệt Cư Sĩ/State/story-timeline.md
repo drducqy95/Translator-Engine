@@ -1082,3 +1082,7 @@
 ## Chương 318: Chương 0318 Tiểu đội hoà hợp.md
 - **Sự kiện chính:** Tại thế giới, Phật môn trải qua đại lễ và thanh lọc với sự giám sát của Sơn Vương Thế Tôn, dẫn đến sự ra đời của Bồ đề chứng và Công đức chứng để phản chiếu khí số. Bùi Kiện và các đồng đội Rakureiin, Chánh Giác, Mao Sầm tiến vào phó bản Tam quốc tại Xích Bích, thảo luận về việc chọn chư hầu và nhận ra sự tồn tại của một đội ngũ đối thủ.
 
+## Chương 319: Chương 0319 Đế sư.md
+- **Sự kiện chính:** Ba thành viên của Không Gian Ác Mộng đang ở Hứa Đô, bàn kế hoạch lợi dụng thời điểm Tào Tháo đi đánh Xích Bích để phò tá Hán Hiến Đế, nhằm thực hiện nhiệm vụ của Hệ thống Vô Hạn.
+- **Nhân vật mới xuất hiện:** Lý Huân, Khải Thắng, Na Hinh Nhã
+

@@ -408,3 +408,4 @@
 - **神币** (item) -> Thần tệ
 - **菩提证** (glossary) -> Bồ đề chứng
 - **功德证** (glossary) -> Công đức chứng
+- **帝师** (title) -> Đế sư
