@@ -432,3 +432,7 @@
 - **人皇天柱** (glossary) -> Nhân Hoàng thiên trụ
 - **大幽天反魂之阵** (glossary) -> Đại U Thiên Phản Hồn Chi Trận
 - **棉兔** (creature) -> thỏ bông
+- **九阶** (level) -> cửu giai
+- **十阶** (level) -> thập giai
+- **天庭火部灵霄真册** (skill) -> Thiên Đình Hỏa Bộ Linh Tiêu Chân Sách
+- **金鹏亲王** (title) -> Thân vương Kim Bằng

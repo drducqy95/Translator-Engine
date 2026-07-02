@@ -1111,3 +1111,7 @@
 ## Chương 332: Chương 0332 Vô Hạn Chi Đảo, Nghênh Tiếp Khách Nhân Bí Ẩn.md
 - **Sự kiện chính:** Offline fallback mode
 
+## Chương 333: Chương 0333 Bí mật siêu phàm.md
+- **Sự kiện chính:** Kim Bằng và Bằng Ma Vương giáng lâm, Khương Lăng tiếp đón, tiết lộ bí mật tu luyện siêu phàm và quan hệ với Chí Cao Thần Sáng Tạo. Gặp Lộ Viễn và Bằng Ma Vương.
+- **Nhân vật mới xuất hiện:** Lộ Viễn, Bằng Ma Vương
+

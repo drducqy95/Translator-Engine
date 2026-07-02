@@ -3021,5 +3021,33 @@
     "type": "creature",
     "origin": "chinese",
     "name_type": "common"
+  },
+  {
+    "raw": "九阶",
+    "target": "cửu giai",
+    "type": "level",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "十阶",
+    "target": "thập giai",
+    "type": "level",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "天庭火部灵霄真册",
+    "target": "Thiên Đình Hỏa Bộ Linh Tiêu Chân Sách",
+    "type": "skill",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "金鹏亲王",
+    "target": "Thân vương Kim Bằng",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "person"
   }
 ]
