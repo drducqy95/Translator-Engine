@@ -1118,3 +1118,6 @@
 ## Chương 335: Chương 0335 Khắc Khắc Khắc, Không Nạp Tiền, Sao Mạnh Được.md
 - **Sự kiện chính:** Offline fallback mode
 
+## Chương 338: Chương 0338 Quy Tắc Sáng Tạo.md
+- **Sự kiện chính:** Offline fallback mode
+
