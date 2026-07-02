@@ -436,3 +436,5 @@
 - **十阶** (level) -> thập giai
 - **天庭火部灵霄真册** (skill) -> Thiên Đình Hỏa Bộ Linh Tiêu Chân Sách
 - **金鹏亲王** (title) -> Thân vương Kim Bằng
+- **种田** (action) -> cày cấy
+- **历史剧本** (glossary) -> kịch bản lịch sử

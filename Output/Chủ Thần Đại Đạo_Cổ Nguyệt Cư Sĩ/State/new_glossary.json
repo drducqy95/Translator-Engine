@@ -3049,5 +3049,19 @@
     "type": "title",
     "origin": "chinese",
     "name_type": "person"
+  },
+  {
+    "raw": "种田",
+    "target": "cày cấy",
+    "type": "action",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "历史剧本",
+    "target": "kịch bản lịch sử",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
   }
 ]
