@@ -1,1388 +1,550 @@
 {
-  "books": [
+  "novels": [
     {
       "branch": "Đừng Gọi Ta Tà Thần_Thủy Quả Trung Đích Đồng Thần",
       "title": "Nếu tôi xuyên không thành một vị thần ác thì sao?",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 63 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Đừng Gọi Ta Tà Thần_Thủy Quả Trung Đích Đồng Thần/README.md",
+      "toc": "Output/Đừng Gọi Ta Tà Thần_Thủy Quả Trung Đích Đồng Thần/State/toc.json",
       "completed_chapters": 63,
-      "detail": "Tiến độ: 63 chương",
-      "updated_at": "2026-06-29T03:01:31.718385+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Đừng Gọi Ta Tà Thần_Thủy Quả Trung Đích Đồng Thần/README.md",
-      "toc_path": "Output/Đừng Gọi Ta Tà Thần_Thủy Quả Trung Đích Đồng Thần/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.718385+07:00"
     },
     {
       "branch": "Địa Phủ Tái Nhập Nhân Gian_Liên Sơn Dịch Tử",
       "title": "Mặt Xanh Răng Hàm",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Kinh dị",
-      "style_tags": [
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Địa Phủ Tái Nhập Nhân Gian_Liên Sơn Dịch Tử/README.md",
+      "toc": "Output/Địa Phủ Tái Nhập Nhân Gian_Liên Sơn Dịch Tử/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720312+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Địa Phủ Tái Nhập Nhân Gian_Liên Sơn Dịch Tử/README.md",
-      "toc_path": "Output/Địa Phủ Tái Nhập Nhân Gian_Liên Sơn Dịch Tử/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720312+07:00"
     },
     {
       "branch": "Đại Vương Tha Mạng_Hội Thuyết Thoại Đích Trửu Tử",
       "title": "Đại Vương Tha Mạng",
       "author": "Hội Thuyết Thoại Đích Trác Tử",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Đang cập nhật",
-      "style_tags": [],
-      "categories": [],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Đại Vương Tha Mạng_Hội Thuyết Thoại Đích Trửu Tử/README.md",
+      "toc": "Output/Đại Vương Tha Mạng_Hội Thuyết Thoại Đích Trửu Tử/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720329+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Đại Vương Tha Mạng_Hội Thuyết Thoại Đích Trửu Tử/README.md",
-      "toc_path": "Output/Đại Vương Tha Mạng_Hội Thuyết Thoại Đích Trửu Tử/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720329+07:00"
     },
     {
       "branch": "Vạn Yêu Chi Tổ_Cô Độc Phiêu Lưu",
       "title": "Trọng Sinh Thành Hổ",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Vạn Yêu Chi Tổ_Cô Độc Phiêu Lưu/README.md",
+      "toc": "Output/Vạn Yêu Chi Tổ_Cô Độc Phiêu Lưu/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720342+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Vạn Yêu Chi Tổ_Cô Độc Phiêu Lưu/README.md",
-      "toc_path": "Output/Vạn Yêu Chi Tổ_Cô Độc Phiêu Lưu/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720342+07:00"
     },
     {
       "branch": "Vạn Tộc Chi Kiếp_Lão Ưng Cật Tiểu Kê",
       "title": "Unknown",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Vạn Tộc Chi Kiếp_Lão Ưng Cật Tiểu Kê/README.md",
+      "toc": "Output/Vạn Tộc Chi Kiếp_Lão Ưng Cật Tiểu Kê/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720360+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Vạn Tộc Chi Kiếp_Lão Ưng Cật Tiểu Kê/README.md",
-      "toc_path": "Output/Vạn Tộc Chi Kiếp_Lão Ưng Cật Tiểu Kê/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720360+07:00"
     },
     {
       "branch": "Vạn Tượng Chi Chủ_Trung Nguyên Ngũ Bách",
       "title": "Unknown",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 6 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Vạn Tượng Chi Chủ_Trung Nguyên Ngũ Bách/README.md",
+      "toc": "Output/Vạn Tượng Chi Chủ_Trung Nguyên Ngũ Bách/State/toc.json",
       "completed_chapters": 6,
-      "detail": "Tiến độ: 6 chương",
-      "updated_at": "2026-06-29T03:01:31.720372+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Vạn Tượng Chi Chủ_Trung Nguyên Ngũ Bách/README.md",
-      "toc_path": "Output/Vạn Tượng Chi Chủ_Trung Nguyên Ngũ Bách/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720372+07:00"
     },
     {
       "branch": "Vạn Tướng Chi Vương_Thiên Tàm Thổ Đậu",
       "title": "Vạn Tướng Chi Vương",
       "author": "Thiên Tàm Thổ Đậu",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Vạn Tướng Chi Vương_Thiên Tàm Thổ Đậu/README.md",
+      "toc": "Output/Vạn Tướng Chi Vương_Thiên Tàm Thổ Đậu/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720379+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Vạn Tướng Chi Vương_Thiên Tàm Thổ Đậu/README.md",
-      "toc_path": "Output/Vạn Tướng Chi Vương_Thiên Tàm Thổ Đậu/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720379+07:00"
     },
     {
       "branch": "Vạn Pháp Đạo Quân, Theo Tiểu Vân Mưa Thuật Bắt Đầu_Nhất Kiện Hoa Khai",
       "title": "Chương 1: Gánh nợ",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 6 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Vạn Pháp Đạo Quân, Theo Tiểu Vân Mưa Thuật Bắt Đầu_Nhất Kiện Hoa Khai/README.md",
+      "toc": "Output/Vạn Pháp Đạo Quân, Theo Tiểu Vân Mưa Thuật Bắt Đầu_Nhất Kiện Hoa Khai/State/toc.json",
       "completed_chapters": 6,
-      "detail": "Tiến độ: 6 chương",
-      "updated_at": "2026-06-29T03:01:31.720387+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Vạn Pháp Đạo Quân, Theo Tiểu Vân Mưa Thuật Bắt Đầu_Nhất Kiện Hoa Khai/README.md",
-      "toc_path": "Output/Vạn Pháp Đạo Quân, Theo Tiểu Vân Mưa Thuật Bắt Đầu_Nhất Kiện Hoa Khai/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720387+07:00"
     },
     {
       "branch": "Vạn Cổ Đao_Tuyết Mãn Cung Đao",
       "title": "Sơn Trung Khách",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 7 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Vạn Cổ Đao_Tuyết Mãn Cung Đao/README.md",
+      "toc": "Output/Vạn Cổ Đao_Tuyết Mãn Cung Đao/State/toc.json",
       "completed_chapters": 7,
-      "detail": "Tiến độ: 7 chương",
-      "updated_at": "2026-06-29T03:01:31.720397+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Vạn Cổ Đao_Tuyết Mãn Cung Đao/README.md",
-      "toc_path": "Output/Vạn Cổ Đao_Tuyết Mãn Cung Đao/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720397+07:00"
     },
     {
       "branch": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới_Hỉ Hoan Tất Thị Đích Hà Kì",
       "title": "Xuyên qua: Kỵ sĩ hô hấp pháp",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 7 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới_Hỉ Hoan Tất Thị Đích Hà Kì/README.md",
+      "toc": "Output/Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới_Hỉ Hoan Tất Thị Đích Hà Kì/State/toc.json",
       "completed_chapters": 7,
-      "detail": "Tiến độ: 7 chương",
-      "updated_at": "2026-06-29T03:01:31.720404+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới_Hỉ Hoan Tất Thị Đích Hà Kì/README.md",
-      "toc_path": "Output/Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới_Hỉ Hoan Tất Thị Đích Hà Kì/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720404+07:00"
     },
     {
       "branch": "Vu Sư Chi Lữ_Nhất Hành Bạch Lộ Thượng Thanh Thiên",
       "title": "Phù Thủy Thế Giới",
       "author": "Khấu Nguyệt",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 3 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Vu Sư Chi Lữ_Nhất Hành Bạch Lộ Thượng Thanh Thiên/README.md",
+      "toc": "Output/Vu Sư Chi Lữ_Nhất Hành Bạch Lộ Thượng Thanh Thiên/State/toc.json",
       "completed_chapters": 3,
-      "detail": "Tiến độ: 3 chương",
-      "updated_at": "2026-06-29T03:01:31.720413+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Vu Sư Chi Lữ_Nhất Hành Bạch Lộ Thượng Thanh Thiên/README.md",
-      "toc_path": "Output/Vu Sư Chi Lữ_Nhất Hành Bạch Lộ Thượng Thanh Thiên/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720413+07:00"
     },
     {
       "branch": "Vu Giới Thuật Sĩ_Văn Sao Công",
       "title": "Thuật sĩ thế giới phù thủy",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 7 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Vu Giới Thuật Sĩ_Văn Sao Công/README.md",
+      "toc": "Output/Vu Giới Thuật Sĩ_Văn Sao Công/State/toc.json",
       "completed_chapters": 7,
-      "detail": "Tiến độ: 7 chương",
-      "updated_at": "2026-06-29T03:01:31.720421+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Vu Giới Thuật Sĩ_Văn Sao Công/README.md",
-      "toc_path": "Output/Vu Giới Thuật Sĩ_Văn Sao Công/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720421+07:00"
     },
     {
       "branch": "Tu Chân Bốn Vạn Năm_Ngọa Ngưu Chân Nhân",
       "title": "Chương 1: Bảo vật huyệt",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 64 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Tu Chân Bốn Vạn Năm_Ngọa Ngưu Chân Nhân/README.md",
+      "toc": "Output/Tu Chân Bốn Vạn Năm_Ngọa Ngưu Chân Nhân/State/toc.json",
       "completed_chapters": 64,
-      "detail": "Tiến độ: 64 chương",
-      "updated_at": "2026-06-29T03:01:31.720429+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Tu Chân Bốn Vạn Năm_Ngọa Ngưu Chân Nhân/README.md",
-      "toc_path": "Output/Tu Chân Bốn Vạn Năm_Ngọa Ngưu Chân Nhân/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720429+07:00"
     },
     {
       "branch": "Trận Vấn Trường Sinh_Quan Hư_9d465cb6",
       "title": "Trận Vấn Trường Sinh",
       "author": "Quan Hư_9d465cb6",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 54 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Trận Vấn Trường Sinh_Quan Hư_9d465cb6/README.md",
+      "toc": "Output/Trận Vấn Trường Sinh_Quan Hư_9d465cb6/State/toc.json",
       "completed_chapters": 54,
-      "detail": "Tiến độ: 54 chương",
-      "updated_at": "2026-06-29T03:01:31.720435+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Trận Vấn Trường Sinh_Quan Hư_9d465cb6/README.md",
-      "toc_path": "Output/Trận Vấn Trường Sinh_Quan Hư_9d465cb6/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720435+07:00"
     },
     {
       "branch": "Tiêu Dao Mộng Lộ_Văn Sao Công",
       "title": "Unknown",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 68 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Tiêu Dao Mộng Lộ_Văn Sao Công/README.md",
+      "toc": "Output/Tiêu Dao Mộng Lộ_Văn Sao Công/State/toc.json",
       "completed_chapters": 68,
-      "detail": "Tiến độ: 68 chương",
-      "updated_at": "2026-06-29T03:01:31.720444+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Tiêu Dao Mộng Lộ_Văn Sao Công/README.md",
-      "toc_path": "Output/Tiêu Dao Mộng Lộ_Văn Sao Công/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720444+07:00"
     },
     {
       "branch": "Tiên Dược Thương Nghiệp Cung Ứng_Đường Thố Vu",
       "title": "Dược Sư Hệ Thống",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Tiên Dược Thương Nghiệp Cung Ứng_Đường Thố Vu/README.md",
+      "toc": "Output/Tiên Dược Thương Nghiệp Cung Ứng_Đường Thố Vu/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720451+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Tiên Dược Thương Nghiệp Cung Ứng_Đường Thố Vu/README.md",
-      "toc_path": "Output/Tiên Dược Thương Nghiệp Cung Ứng_Đường Thố Vu/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720451+07:00"
     },
     {
       "branch": "Thần Bí Khôi Phục_Phật Tiền Hiến Hoa",
       "title": "Thần Bí Phục Tô",
       "author": "Phật Tiền Hiến Hoa",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Thần Bí Khôi Phục_Phật Tiền Hiến Hoa/README.md",
+      "toc": "Output/Thần Bí Khôi Phục_Phật Tiền Hiến Hoa/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720458+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Thần Bí Khôi Phục_Phật Tiền Hiến Hoa/README.md",
-      "toc_path": "Output/Thần Bí Khôi Phục_Phật Tiền Hiến Hoa/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720458+07:00"
     },
     {
       "branch": "Thả Câu Chi Thần_Hội Lang Khiếu Đích Trư",
       "title": "Unknown",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Thả Câu Chi Thần_Hội Lang Khiếu Đích Trư/README.md",
+      "toc": "Output/Thả Câu Chi Thần_Hội Lang Khiếu Đích Trư/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720466+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Thả Câu Chi Thần_Hội Lang Khiếu Đích Trư/README.md",
-      "toc_path": "Output/Thả Câu Chi Thần_Hội Lang Khiếu Đích Trư/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720466+07:00"
     },
     {
       "branch": "Thái Nhất Đạo Quả_Hàm Vũ",
       "title": "Thái Nhất Đạo Quả",
       "author": "Hàm Vũ",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 68 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Thái Nhất Đạo Quả_Hàm Vũ/README.md",
+      "toc": "Output/Thái Nhất Đạo Quả_Hàm Vũ/State/toc.json",
       "completed_chapters": 68,
-      "detail": "Tiến độ: 68 chương",
-      "updated_at": "2026-06-29T03:01:31.720472+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Thái Nhất Đạo Quả_Hàm Vũ/README.md",
-      "toc_path": "Output/Thái Nhất Đạo Quả_Hàm Vũ/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720472+07:00"
     },
     {
       "branch": "Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn_Khởi Phi Đích Đại Tượng",
       "title": "Ta có một loại vẻ đẹp của thông số",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 77 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn_Khởi Phi Đích Đại Tượng/README.md",
+      "toc": "Output/Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn_Khởi Phi Đích Đại Tượng/State/toc.json",
       "completed_chapters": 77,
-      "detail": "Tiến độ: 77 chương",
-      "updated_at": "2026-06-29T03:01:31.720479+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn_Khởi Phi Đích Đại Tượng/README.md",
-      "toc_path": "Output/Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn_Khởi Phi Đích Đại Tượng/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720479+07:00"
     },
     {
       "branch": "Tam Thốn Nhân Gian_Nhĩ Căn",
       "title": "Không tên",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Tam Thốn Nhân Gian_Nhĩ Căn/README.md",
+      "toc": "Output/Tam Thốn Nhân Gian_Nhĩ Căn/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720487+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Tam Thốn Nhân Gian_Nhĩ Căn/README.md",
-      "toc_path": "Output/Tam Thốn Nhân Gian_Nhĩ Căn/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720487+07:00"
     },
     {
       "branch": "Tam Giới Độc Tôn_Lê Thiên",
       "title": "Tam Giới Độc Tôn",
       "author": "Lê Thiên",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 3 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Tam Giới Độc Tôn_Lê Thiên/README.md",
+      "toc": "Output/Tam Giới Độc Tôn_Lê Thiên/State/toc.json",
       "completed_chapters": 3,
-      "detail": "Tiến độ: 3 chương",
-      "updated_at": "2026-06-29T03:01:31.720495+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Tam Giới Độc Tôn_Lê Thiên/README.md",
-      "toc_path": "Output/Tam Giới Độc Tôn_Lê Thiên/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720495+07:00"
     },
     {
       "branch": "Ta Tế Bào Ngục Giam_Xuyên Hoàng Y Đích A Phì",
       "title": "Cầu Ma",
       "author": "Trí Bạch",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 67 chương",
       "ongoing": true,
-      "genre": "Đang cập nhật",
-      "style_tags": [],
-      "categories": [],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Ta Tế Bào Ngục Giam_Xuyên Hoàng Y Đích A Phì/README.md",
+      "toc": "Output/Ta Tế Bào Ngục Giam_Xuyên Hoàng Y Đích A Phì/State/toc.json",
       "completed_chapters": 67,
-      "detail": "Tiến độ: 67 chương",
-      "updated_at": "2026-06-29T03:01:31.720501+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Ta Tế Bào Ngục Giam_Xuyên Hoàng Y Đích A Phì/README.md",
-      "toc_path": "Output/Ta Tế Bào Ngục Giam_Xuyên Hoàng Y Đích A Phì/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720501+07:00"
     },
     {
       "branch": "Số Mệnh Chi Hoàn_Ái Tiềm Thủy Đích Ô Tặc",
       "title": "Người Xa Lạ",
       "author": "Ái Tiềm Thủy Đích Ô Tặc",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Số Mệnh Chi Hoàn_Ái Tiềm Thủy Đích Ô Tặc/README.md",
+      "toc": "Output/Số Mệnh Chi Hoàn_Ái Tiềm Thủy Đích Ô Tặc/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720509+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Số Mệnh Chi Hoàn_Ái Tiềm Thủy Đích Ô Tặc/README.md",
-      "toc_path": "Output/Số Mệnh Chi Hoàn_Ái Tiềm Thủy Đích Ô Tặc/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720509+07:00"
     },
     {
       "branch": "Rạp Chiếu Phim Địa Ngục_Hỏa Chủng",
       "title": "Rạp Chiếu Phim Địa Ngục",
       "author": "Hỏa Chủng",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 64 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Rạp Chiếu Phim Địa Ngục_Hỏa Chủng/README.md",
+      "toc": "Output/Rạp Chiếu Phim Địa Ngục/State/toc.json",
       "completed_chapters": 64,
-      "detail": "Tiến độ: 64 chương",
-      "updated_at": "2026-06-29T03:01:31.720517+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Rạp Chiếu Phim Địa Ngục_Hỏa Chủng/README.md",
-      "toc_path": "Output/Rạp Chiếu Phim Địa Ngục/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720517+07:00"
     },
     {
       "branch": "Phi Phàm Hồng Hoang_Ngã Tự Phi Phàm",
       "title": "Phi Phàm Hồng Hoang",
       "author": "Đang cập nhật",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 62 chương",
       "ongoing": true,
-      "genre": "Đang cập nhật",
-      "style_tags": [],
-      "categories": [],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Phi Phàm Hồng Hoang_Ngã Tự Phi Phàm/README.md",
+      "toc": "Output/Phi Phàm Hồng Hoang_Ngã Tự Phi Phàm/State/toc.json",
       "completed_chapters": 62,
-      "detail": "Tiến độ: 62 chương",
-      "updated_at": "2026-06-29T03:01:31.720526+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Phi Phàm Hồng Hoang_Ngã Tự Phi Phàm/README.md",
-      "toc_path": "Output/Phi Phàm Hồng Hoang_Ngã Tự Phi Phàm/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720526+07:00"
     },
     {
       "branch": "Nhất Thế Chi Tôn_Ái Tiềm Thủy Đích Ô Tặc",
       "title": "Nhất Th��� Chi Tôn",
       "author": "Ái Tiềm Thủy Đích Ô Tặc",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Đang cập nhật",
-      "style_tags": [],
-      "categories": [],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Nhất Thế Chi Tôn_Ái Tiềm Thủy Đích Ô Tặc/README.md",
+      "toc": "Output/Nhất Thế Chi Tôn_Ái Tiềm Thủy Đích Ô Tặc/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720535+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Nhất Thế Chi Tôn_Ái Tiềm Thủy Đích Ô Tặc/README.md",
-      "toc_path": "Output/Nhất Thế Chi Tôn_Ái Tiềm Thủy Đích Ô Tặc/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720535+07:00"
     },
     {
       "branch": "Nhất Niệm Vĩnh Hằng_Nhĩ Căn",
       "title": "Nhất Niệm Vĩnh Hằng",
       "author": "Đang cập nhật",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Nhất Niệm Vĩnh Hằng_Nhĩ Căn/README.md",
+      "toc": "Output/Nhất Niệm Vĩnh Hằng_Nhĩ Căn/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720547+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Nhất Niệm Vĩnh Hằng_Nhĩ Căn/README.md",
-      "toc_path": "Output/Nhất Niệm Vĩnh Hằng_Nhĩ Căn/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720547+07:00"
     },
     {
       "branch": "Một Cái Thần Trưởng Thành_Lại Nhân Zero",
       "title": "Hàm Chúc Chi Long",
       "author": "Đang cập nhật",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 6 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Một Cái Thần Trưởng Thành_Lại Nhân Zero/README.md",
+      "toc": "Output/Một Cái Thần Trưởng Thành_Lại Nhân Zero/State/toc.json",
       "completed_chapters": 6,
-      "detail": "Tiến độ: 6 chương",
-      "updated_at": "2026-06-29T03:01:31.720558+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Một Cái Thần Trưởng Thành_Lại Nhân Zero/README.md",
-      "toc_path": "Output/Một Cái Thần Trưởng Thành_Lại Nhân Zero/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720558+07:00"
     },
     {
       "branch": "Một Chỉ Thành Tiên_Đàm Tử",
       "title": "Nhất Độ Vi Trần",
       "author": "Vân Đạm Phong Khinh",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Một Chỉ Thành Tiên_Đàm Tử/README.md",
+      "toc": "Output/Một Chỉ Thành Tiên_Đàm Tử/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720574+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Một Chỉ Thành Tiên_Đàm Tử/README.md",
-      "toc_path": "Output/Một Chỉ Thành Tiên_Đàm Tử/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720574+07:00"
     },
     {
       "branch": "Linh Hồn Negary_Hư Minh",
       "title": "Linh Hồn Negary",
       "author": "Hư Minh",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Linh Hồn Negary_Hư Minh/README.md",
+      "toc": "Output/Linh Hồn Negary_Hư Minh/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720587+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Linh Hồn Negary_Hư Minh/README.md",
-      "toc_path": "Output/Linh Hồn Negary_Hư Minh/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720587+07:00"
     },
     {
       "branch": "Linh Hồn Mũ Miện_Hư Minh",
       "title": "Thần Sẽ Che Chở Tín Đồ",
       "author": "Đang cập nhật",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 5 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Linh Hồn Mũ Miện_Hư Minh/README.md",
+      "toc": "Output/Linh Hồn Mũ Miện_Hư Minh/State/toc.json",
       "completed_chapters": 5,
-      "detail": "Tiến độ: 5 chương",
-      "updated_at": "2026-06-29T03:01:31.720605+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Linh Hồn Mũ Miện_Hư Minh/README.md",
-      "toc_path": "Output/Linh Hồn Mũ Miện_Hư Minh/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720605+07:00"
     },
     {
       "branch": "Gen Đại Thời Đại_Trư Tam Bất",
       "title": "Kỷ Nguyên Gene",
       "author": "Trư Tam Bất",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Gen Đại Thời Đại_Trư Tam Bất/README.md",
+      "toc": "Output/Gen Đại Thời Đại_Trư Tam Bất/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720619+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Gen Đại Thời Đại_Trư Tam Bất/README.md",
-      "toc_path": "Output/Gen Đại Thời Đại_Trư Tam Bất/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720619+07:00"
     },
     {
       "branch": "DC Mới Khắc Tinh_Trạch Gia Đích Thông",
       "title": "Hael: Krypton Thức Tỉnh",
       "author": "Đang cập nhật",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/DC Mới Khắc Tinh_Trạch Gia Đích Thông/README.md",
+      "toc": "Output/DC Mới Khắc Tinh_Trạch Gia Đích Thông/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720631+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/DC Mới Khắc Tinh_Trạch Gia Đích Thông/README.md",
-      "toc_path": "Output/DC Mới Khắc Tinh_Trạch Gia Đích Thông/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720631+07:00"
     },
     {
       "branch": "Cửu Tiên Đồ_Thu Thần",
       "title": "Cửu Tiên Đồ",
       "author": "Lăng Tiên",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Cửu Tiên Đồ_Thu Thần/README.md",
+      "toc": "Output/Cửu Tiên Đồ_Thu Thần/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720640+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Cửu Tiên Đồ_Thu Thần/README.md",
-      "toc_path": "Output/Cửu Tiên Đồ_Thu Thần/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720640+07:00"
     },
     {
       "branch": "Cửu Thiên_Hắc Sơn Lão Quỷ",
       "title": "Tiên Phàm Đều Cần Phải Nỗ Lực",
       "author": "Hắc Sơn Lão Quỷ",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Cửu Thiên_Hắc Sơn Lão Quỷ/README.md",
+      "toc": "Output/Cửu Thiên_Hắc Sơn Lão Quỷ/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720648+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Cửu Thiên_Hắc Sơn Lão Quỷ/README.md",
-      "toc_path": "Output/Cửu Thiên_Hắc Sơn Lão Quỷ/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720648+07:00"
     },
     {
       "branch": "Cổ Chân Nhân_Cổ Chân Nhân",
       "title": "Cổ Chân Nhân",
       "author": "Cổ Chân Nhân",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 62 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Cổ Chân Nhân_Cổ Chân Nhân/README.md",
+      "toc": "Output/Cổ Chân Nhân_Cổ Chân Nhân/State/toc.json",
       "completed_chapters": 62,
-      "detail": "Tiến độ: 62 chương",
-      "updated_at": "2026-06-29T03:01:31.720657+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Cổ Chân Nhân_Cổ Chân Nhân/README.md",
-      "toc_path": "Output/Cổ Chân Nhân_Cổ Chân Nhân/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720657+07:00"
     },
     {
       "branch": "Chủ Thần Đại Đạo_Cổ Nguyệt Cư Sĩ",
       "title": "Chủ Thần Đại Đạo",
       "author": "Cổ Nguyệt Cư Sĩ",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 39 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Chủ Thần Đại Đạo_Cổ Nguyệt Cư Sĩ/README.md",
+      "toc": "Output/Chủ Thần Đại Đạo_Cổ Nguyệt Cư Sĩ/State/toc.json",
       "completed_chapters": 39,
-      "detail": "Tiến độ: 39 chương",
-      "updated_at": "2026-06-29T03:01:31.720668+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Chủ Thần Đại Đạo_Cổ Nguyệt Cư Sĩ/README.md",
-      "toc_path": "Output/Chủ Thần Đại Đạo_Cổ Nguyệt Cư Sĩ/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720668+07:00"
     },
     {
       "branch": "Chủ Thần Quật Khởi_Văn Sao Công",
       "title": "Chủ Thần Quật Khởi",
       "author": "Văn Sao Công",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 70 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Chủ Thần Quật Khởi_Văn Sao Công/README.md",
+      "toc": "Output/Chủ Thần Quật Khởi_Văn Sao Công/State/toc.json",
       "completed_chapters": 70,
-      "detail": "Tiến độ: 70 chương",
-      "updated_at": "2026-06-29T03:01:31.720682+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Chủ Thần Quật Khởi_Văn Sao Công/README.md",
-      "toc_path": "Output/Chủ Thần Quật Khởi_Văn Sao Công/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720682+07:00"
     },
     {
       "branch": "Bất Hủ Phàm Nhân_Nga Thị Lão Ngũ",
       "title": "Bất Hủ Phàm Nhân",
       "author": "Ngã Cật Tây Hồng Thị (tên khác: Nga Lão Ngũ)",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Bất Hủ Phàm Nhân_Nga Thị Lão Ngũ/README.md",
+      "toc": "Output/Bất Hủ Phàm Nhân_Nga Thị Lão Ngũ/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720690+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Bất Hủ Phàm Nhân_Nga Thị Lão Ngũ/README.md",
-      "toc_path": "Output/Bất Hủ Phàm Nhân_Nga Thị Lão Ngũ/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720690+07:00"
     },
     {
       "branch": "Bát Cơm Sắt Đệ Nhất Đại Tấn_Họa Bút Xao Xao_36833700",
       "title": "Bát Cơm Sắt Đệ Nhất Đại Tấn",
       "author": "Họa Bút Xao Xao",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 15 chương",
       "ongoing": true,
-      "genre": "Tiên hiệp",
-      "style_tags": [
-        "Tiên hiệp",
-        "Đô thị",
-        "Kinh dị"
-      ],
-      "categories": [
-        {
-          "key": "genre:tiên-hiệp",
-          "token": "Tiên hiệp",
-          "title": "Tiên hiệp"
-        },
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        },
-        {
-          "key": "genre:kinh-dị",
-          "token": "Kinh dị",
-          "title": "Kinh dị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/Bát Cơm Sắt Đệ Nhất Đại Tấn_Họa Bút Xao Xao_36833700/README.md",
+      "toc": "Output/Bát Cơm Sắt Đệ Nhất Đại Tấn_Họa Bút Xao Xao_36833700/State/toc.json",
       "completed_chapters": 15,
-      "detail": "Tiến độ: 15 chương",
-      "updated_at": "2026-06-29T03:01:31.720697+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/Bát Cơm Sắt Đệ Nhất Đại Tấn_Họa Bút Xao Xao_36833700/README.md",
-      "toc_path": "Output/Bát Cơm Sắt Đệ Nhất Đại Tấn_Họa Bút Xao Xao_36833700/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720697+07:00"
     },
     {
       "branch": "7 Hào Căn Cứ_Tịnh Vô Ngân",
       "title": "Địa Hạ Thế Giới",
       "author": "Unknown",
       "summary": "Đang cập nhật",
-      "description": "Đang cập nhật",
-      "status": "in_progress",
-      "status_label": "Đang ra",
+      "description": "Tiến độ: 4 chương",
       "ongoing": true,
-      "genre": "Đô thị",
-      "style_tags": [
-        "Đô thị"
-      ],
-      "categories": [
-        {
-          "key": "genre:đô-thị",
-          "token": "Đô thị",
-          "title": "Đô thị"
-        }
-      ],
+      "cover": "illustrations/cover/cover.png",
+      "readme": "Output/7 Hào Căn Cứ_Tịnh Vô Ngân/README.md",
+      "toc": "Output/7 Hào Căn Cứ_Tịnh Vô Ngân/State/toc.json",
       "completed_chapters": 4,
-      "detail": "Tiến độ: 4 chương",
-      "updated_at": "2026-06-29T03:01:31.720706+07:00",
-      "cover_relative_path": "illustrations/cover/cover.png",
-      "readme_path": "Output/7 Hào Căn Cứ_Tịnh Vô Ngân/README.md",
-      "toc_path": "Output/7 Hào Căn Cứ_Tịnh Vô Ngân/State/toc.json"
+      "updated_at": "2026-06-29T03:01:31.720706+07:00"
     }
   ]
 }

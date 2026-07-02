@@ -1741,5 +1741,26 @@
     "type": "character",
     "origin": "chinese",
     "name_type": "person"
+  },
+  {
+    "raw": "正觉",
+    "target": "Chánh Giác",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "毛椮",
+    "target": "Mao Sầm",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "正觉",
+    "target": "Chánh Giác",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
   }
 ]

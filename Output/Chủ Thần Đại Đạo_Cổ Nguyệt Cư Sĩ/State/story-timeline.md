@@ -1079,3 +1079,6 @@
 ## Chương 316: Chương 0316 Nhất Giai Thí Luyện, Biến Dị Không Biết.md
 - **Sự kiện chính:** Offline fallback mode
 
+## Chương 318: Chương 0318 Tiểu đội hoà hợp.md
+- **Sự kiện chính:** Tại thế giới, Phật môn trải qua đại lễ và thanh lọc với sự giám sát của Sơn Vương Thế Tôn, dẫn đến sự ra đời của Bồ đề chứng và Công đức chứng để phản chiếu khí số. Bùi Kiện và các đồng đội Rakureiin, Chánh Giác, Mao Sầm tiến vào phó bản Tam quốc tại Xích Bích, thảo luận về việc chọn chư hầu và nhận ra sự tồn tại của một đội ngũ đối thủ.
+

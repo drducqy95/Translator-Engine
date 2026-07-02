@@ -2839,5 +2839,19 @@
     "type": "item",
     "origin": "chinese",
     "name_type": "concept"
+  },
+  {
+    "raw": "菩提证",
+    "target": "Bồ đề chứng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "功德证",
+    "target": "Công đức chứng",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
   }
 ]

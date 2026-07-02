@@ -406,3 +406,5 @@
 - **白宫** (location) -> Shiromiya
 - **华尔街** (location) -> Hanajimachi
 - **神币** (item) -> Thần tệ
+- **菩提证** (glossary) -> Bồ đề chứng
+- **功德证** (glossary) -> Công đức chứng
