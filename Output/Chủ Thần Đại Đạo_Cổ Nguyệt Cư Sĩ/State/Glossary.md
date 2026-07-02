@@ -424,3 +424,10 @@
 - **赤色光辉** (glossary) -> Ánh sáng Xích Sắc
 - **五帝龙拳** (glossary) -> Ngũ Đế Long Quyền
 - **五子良将** (glossary) -> Ngũ Tử Lương Tướng
+- **五帝圣皇书** (glossary) -> Ngũ Đế Thánh Hoàng Thư
+- **太阴炼神阴魄宝录** (glossary) -> Thái Âm Luyện Thần Âm Phách Bảo Lục
+- **太阴炼尸阳神密纂** (glossary) -> Thái Âm Luyện Thi Dương Thần Mật Toản
+- **九幽鬼王之躯** (glossary) -> Cửu U Quỷ Vương Chi Khu
+- **大汉天柱** (glossary) -> Đại Hán thiên trụ
+- **人皇天柱** (glossary) -> Nhân Hoàng thiên trụ
+- **大幽天反魂之阵** (glossary) -> Đại U Thiên Phản Hồn Chi Trận

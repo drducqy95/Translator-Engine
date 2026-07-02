@@ -1096,3 +1096,6 @@
 ## Chương 325: Chương 0325 Binh đối binh, Tướng đấu tướng, Oukenou.md
 - **Sự kiện chính:** Hai đại quân của Ryuukyou và Tào Tháo cuối cùng cũng chạm trán trên chiến trường. Ryuukyou thể hiện sức mạnh phi thường với Ngũ Đế Long Quyền và thủ hạ thần bí, trong khi Tào Tháo điều động tướng lĩnh đỉnh cao bao gồm Ngũ Tử Lương Tướng tấn công. Đây là cuộc đối đầu quyết định cho số phận phương Bắc và ngôi vị.
 
+## Chương 327: Chương 0327 Mọi Thứ Đã Định.md
+- **Sự kiện chính:** Bùi Kiện và nhóm người chơi thất bại trong thế giới phó bản tam quốc, nơi Lưu Hiệp hồi sinh anh hùng bốn trăm năm nhà Hán, củng cố quyền lực phương Bắc, ép Lưu Bị và Tôn Quyền đi theo con đường ma đạo. Sau hai tháng tích lũy, hai bên giao chiến tại Xích Bích với sức mạnh siêu phàm cấp bốn. Cuối cùng, Lưu Hiệp thành công tái lập Nhân Hoàng thiên trụ, đánh bại tất cả, khiến nhóm người chơi bị xóa bỏ và trục xuất.
+

@@ -2965,5 +2965,54 @@
     "type": "glossary",
     "origin": "chinese",
     "name_type": "group"
+  },
+  {
+    "raw": "五帝圣皇书",
+    "target": "Ngũ Đế Thánh Hoàng Thư",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "太阴炼神阴魄宝录",
+    "target": "Thái Âm Luyện Thần Âm Phách Bảo Lục",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "太阴炼尸阳神密纂",
+    "target": "Thái Âm Luyện Thi Dương Thần Mật Toản",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "九幽鬼王之躯",
+    "target": "Cửu U Quỷ Vương Chi Khu",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "skill"
+  },
+  {
+    "raw": "大汉天柱",
+    "target": "Đại Hán thiên trụ",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "人皇天柱",
+    "target": "Nhân Hoàng thiên trụ",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "concept"
+  },
+  {
+    "raw": "大幽天反魂之阵",
+    "target": "Đại U Thiên Phản Hồn Chi Trận",
+    "type": "glossary",
+    "origin": "chinese",
+    "name_type": "skill"
   }
 ]

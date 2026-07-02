@@ -1797,5 +1797,12 @@
     "type": "character",
     "origin": "chinese",
     "name_type": "title"
+  },
+  {
+    "raw": "毛糁道长",
+    "target": "Mao Tảm đạo trường",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
   }
 ]
