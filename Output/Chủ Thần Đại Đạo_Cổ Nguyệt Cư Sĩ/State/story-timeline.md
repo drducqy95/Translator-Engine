@@ -1115,3 +1115,6 @@
 - **Sự kiện chính:** Kim Bằng và Bằng Ma Vương giáng lâm, Khương Lăng tiếp đón, tiết lộ bí mật tu luyện siêu phàm và quan hệ với Chí Cao Thần Sáng Tạo. Gặp Lộ Viễn và Bằng Ma Vương.
 - **Nhân vật mới xuất hiện:** Lộ Viễn, Bằng Ma Vương
 
+## Chương 335: Chương 0335 Khắc Khắc Khắc, Không Nạp Tiền, Sao Mạnh Được.md
+- **Sự kiện chính:** Offline fallback mode
+
