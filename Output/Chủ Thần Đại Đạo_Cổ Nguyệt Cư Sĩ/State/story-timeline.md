@@ -1124,3 +1124,6 @@
 ## Chương 339: Chương 0339 Mười năm cày cấy, ngày thu hoạch.md
 - **Sự kiện chính:** Triệu Kì sau 10 năm gieo mầm đã đến lúc thu hoạch, triệu tập các Chí Cao Thần. Thế giới hiện thực đang thay đổi mạnh mẽ khi Yêu tộc lộ diện và các siêu phàm giả tăng trưởng thực lực nhanh chóng.
 
+## Chương 340: Chương 0340 Giao phó tiền đề, hồi tố hậu quả.md
+- **Sự kiện chính:** Triệu Kì triệu tập các vị thần dưới trướng đến Chân Thực Giới để thông báo về việc mình sắp đăng thần trong ba ngày tới. Ngài giải thích rằng việc trì hoãn là để hoàn thiện bốn cửa ải thành thần nhằm đạt tới giới hạn cao nhất, đồng thời giao phó nhiệm vụ cho họ để đối phó với những biến động sắp tới.
+
