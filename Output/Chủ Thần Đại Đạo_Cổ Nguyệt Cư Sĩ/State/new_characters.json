@@ -1804,5 +1804,12 @@
     "type": "character",
     "origin": "chinese",
     "name_type": "person"
+  },
+  {
+    "raw": "毛道长",
+    "target": "Đạo trưởng Mao",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
   }
 ]

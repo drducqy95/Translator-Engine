@@ -1099,3 +1099,6 @@
 ## Chương 327: Chương 0327 Mọi Thứ Đã Định.md
 - **Sự kiện chính:** Bùi Kiện và nhóm người chơi thất bại trong thế giới phó bản tam quốc, nơi Lưu Hiệp hồi sinh anh hùng bốn trăm năm nhà Hán, củng cố quyền lực phương Bắc, ép Lưu Bị và Tôn Quyền đi theo con đường ma đạo. Sau hai tháng tích lũy, hai bên giao chiến tại Xích Bích với sức mạnh siêu phàm cấp bốn. Cuối cùng, Lưu Hiệp thành công tái lập Nhân Hoàng thiên trụ, đánh bại tất cả, khiến nhóm người chơi bị xóa bỏ và trục xuất.
 
+## Chương 328: Chương 0328 Thần cách, thần hồn, thần khu, thần hỏa thành tựu thần.md
+- **Sự kiện chính:** Bùi Kiện trở về sau nhiệm vụ thất bại ở phó bản Tam quốc, chứng kiến hiện tượng kỳ lạ với giọt nước thế giới và hai ngón tay thần bí. Triệu Kì đang tu luyện thần lực, hoàn thiện các yếu tố thành thần (thần cách, thần hồn, thần khu, thần hỏa).
+
