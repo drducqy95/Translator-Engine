@@ -1144,5 +1144,5 @@
 - **Sự kiện chính:** Triệu Kì tiết lộ rằng Sa ên và các thần khác đã rơi vào bẫy của hắn ngay từ đầu, khi hắn đang trong quá trình thành tựu thần chỉ. Hắn đã sử dụng thần quốc Hệ Mặt Trời và Vô Hạn Giới để giam giữ hóa thân của Sa ên, đồng thời ra lệnh cho Hạo Thiên và Mệnh Vận bắt đầu thu lưới.
 
 ## Chương 349: Chương 0349 Nguyên Thủy, Thái Nhất, Sáng Tạo Chi Thần.md
-- **Sự kiện chính:** Triệu Kì thành thần (Sáng Tạo Chi Thần), phát ra tuyên ngôn thần chỉ. Đồng thời đánh bại các thần xâm lược: Tiamat, La Ti, Sa ên, Âm Mưu chi thần, Vương tử Dối Trá. Huyết Hải dưới quyền Tu Nhĩ Tư nuốt chửng phân thân của chúng. Triệu Kì phong ấn Sa ên và La Ti. Cuối cùng ra lệnh dọn dẹp chiến trường.
+- **Sự kiện chính:** Triệu Kì thành thần với các danh hiệu Nguyên Thủy, Thái Nhất, Sáng Tạo. Các thần xâm lược (Âm Mưu chi thần, Vương tử Dối Trá, La Ti, Sa ên) bị đánh bại hoặc tiêu diệt. Triệu Kì ra lệnh dọn dẹp chiến trường.
 
