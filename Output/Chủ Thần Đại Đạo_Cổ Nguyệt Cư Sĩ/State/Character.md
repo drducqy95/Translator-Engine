@@ -265,3 +265,6 @@
 - **精灵生命女神** -> Tinh Linh Sinh Mệnh nữ thần
 - **龙母** -> Ryuuhaha
 - **艾欧** -> Ngải Âu
+- **苏伦** -> Sorin
+- **精灵主神** -> Tinh Linh chủ thần
+- **文学之神** -> Văn học chi thần

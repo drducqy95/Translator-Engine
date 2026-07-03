@@ -1853,5 +1853,26 @@
     "type": "character",
     "origin": "chinese",
     "name_type": "person"
+  },
+  {
+    "raw": "苏伦",
+    "target": "Sorin",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "精灵主神",
+    "target": "Tinh Linh chủ thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "文学之神",
+    "target": "Văn học chi thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
   }
 ]

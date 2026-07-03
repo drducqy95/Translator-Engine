@@ -456,3 +456,4 @@
 - **历史砥柱** (concept) -> trụ cột lịch sử
 - **诸人** (common) -> những người ở đây
 - **主神** (title) -> Chủ thần
+- **银月女士** (title) -> Ngân Nguyệt nữ sĩ

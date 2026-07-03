@@ -1153,3 +1153,7 @@
 - **Sự kiện chính:** Triệu Kì đánh bại và thu phục hai nữ thần Sa ên và La Ti, biến họ thành tòng thần của mình bằng cách cho họ đi vào thần quốc Vô Hạn để tái tạo căn cơ. Triệu Kì dự định sẽ xây dựng đội ngũ của mình với sự tham gia của Jakushi.
 - **Nhân vật mới xuất hiện:** Triệu Kì, Sa ên, La Ti, Jakushi
 
+## Chương 353: Chương 0353 Tìm hiểu con đường thần chỉ.md
+- **Sự kiện chính:** Triệu Kì khắc ấn niệm lên hai thần hồn dị giới (La Ti và Sa ên) vừa chảy vào Vô Hạn Giới. Hắn phân tích sự suy đồi của tín ngưỡng thần, rút ra tia Hắc ám thần tính nguyên sơ từ Sa ên — thứ nàng đã mất — và biết việc này khiến hắn trở thành tử địch với nàng. Kết luận cần tăng tốc hệ thống thần quốc Hệ Mặt Trời.
+- **Nhân vật mới xuất hiện:** Sorin (银月女士), Tinh Linh chủ thần
+

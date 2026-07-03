@@ -2820,14 +2820,16 @@
       "status": "done",
       "title": "Chương 0352 Thần chỉ chi lộ, xây dựng đội ngũ",
       "error": "",
-      "translated_file": "Chương 0352 Thần chỉ chi lộ, xây dựng đội ngũ.md",
-      "fail_count": 1
+      "translated_file": "Chương 0352 Thần chỉ chi lộ, xây dựng đội ngũ.md"
     },
     {
       "index": 353,
       "file": "Chapter 0353 探知神祗道路.md",
-      "status": "pending",
-      "title": "探知神祗道路"
+      "status": "done",
+      "title": "Chương 0353 Tìm hiểu con đường thần chỉ",
+      "error": "",
+      "fail_count": 1,
+      "translated_file": "Chương 0353 Tìm hiểu con đường thần chỉ.md"
     },
     {
       "index": 354,
