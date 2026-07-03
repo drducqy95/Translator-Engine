@@ -2796,20 +2796,23 @@
       "status": "done",
       "title": "Chương 0349 Nguyên Thủy, Thái Nhất, Sáng Tạo Chi Thần",
       "error": "",
-      "translated_file": "Chương 0349 Nguyên Thủy, Thái Nhất, Sáng Tạo Chi Thần.md",
-      "fail_count": 1
+      "translated_file": "Chương 0349 Nguyên Thủy, Thái Nhất, Sáng Tạo Chi Thần.md"
     },
     {
       "index": 350,
       "file": "Chapter 0350 神战扫尾.md",
-      "status": "pending",
-      "title": "神战扫尾"
+      "status": "blocked",
+      "title": "神战扫尾",
+      "error": "[Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'Seimakoto' (Gốc: '成真', nhóm: characters)\"]\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 765, in process_chapter\n    raise e\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 758, in process_chapter\n    self._validate_stage3(stage3_data, context_pack)\n    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 252, in _validate_stage3\n    self._stage_fail(\"Stage 3\", f\"QC fail: {qc.get('errors', [])}\")\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 116, in _stage_fail\n    raise ValueError(f\"[{stage} FAILED] {message}\")\nValueError: [Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'Seimakoto' (Gốc: '成真', nhóm: characters)\"]\n",
+      "fail_count": 3
     },
     {
       "index": 351,
       "file": "Chapter 0351 概念分割，真神化身.md",
-      "status": "pending",
-      "title": "概念分割，真神化身"
+      "status": "done",
+      "title": "Chương 0351 Phân cắt khái niệm, hóa thân chân thần",
+      "error": "",
+      "translated_file": "Chương 0351 Phân cắt khái niệm, hóa thân chân thần.md"
     },
     {
       "index": 352,

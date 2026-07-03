@@ -1146,3 +1146,6 @@
 ## Chương 349: Chương 0349 Nguyên Thủy, Thái Nhất, Sáng Tạo Chi Thần.md
 - **Sự kiện chính:** Triệu Kì thành thần với các danh hiệu Nguyên Thủy, Thái Nhất, Sáng Tạo. Các thần xâm lược (Âm Mưu chi thần, Vương tử Dối Trá, La Ti, Sa ên) bị đánh bại hoặc tiêu diệt. Triệu Kì ra lệnh dọn dẹp chiến trường.
 
+## Chương 351: Chương 0351 Phân cắt khái niệm, hóa thân chân thần.md
+- **Sự kiện chính:** Triệu Kì bày tỏ dự định tạo ra các tồn tại thay thế, nhưng sự xuất hiện của Tà Thần dị vực khiến y thay đổi kế hoạch. Y bắt hai nữ thần Sa ên và La Ti làm tù binh, phân cắt khái niệm của chúng khỏi bản thể, ép chúng quy phục làm tòng thần.
+
