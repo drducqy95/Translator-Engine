@@ -3070,5 +3070,61 @@
     "type": "title",
     "origin": "chinese",
     "name_type": "person"
+  },
+  {
+    "raw": "神则",
+    "target": "thần tắc",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "glossary"
+  },
+  {
+    "raw": "山颠",
+    "target": "Santen",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "云海",
+    "target": "Unkai",
+    "type": "location",
+    "origin": "japanese",
+    "name_type": "place"
+  },
+  {
+    "raw": "天基",
+    "target": "Tenmoto",
+    "type": "concept",
+    "origin": "japanese",
+    "name_type": "glossary"
+  },
+  {
+    "raw": "井喷",
+    "target": "Ifun",
+    "type": "concept",
+    "origin": "japanese",
+    "name_type": "glossary"
+  },
+  {
+    "raw": "旁门",
+    "target": "Boumon",
+    "type": "concept",
+    "origin": "japanese",
+    "name_type": "glossary"
+  },
+  {
+    "raw": "抚平",
+    "target": "Butaira",
+    "type": "action",
+    "origin": "japanese",
+    "name_type": "glossary"
+  },
+  {
+    "raw": "串联",
+    "target": "xâu chuỗi",
+    "type": "action",
+    "origin": "chinese",
+    "name_type": "glossary"
   }
 ]

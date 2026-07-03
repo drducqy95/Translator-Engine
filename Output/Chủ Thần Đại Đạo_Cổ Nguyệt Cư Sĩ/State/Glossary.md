@@ -439,3 +439,11 @@
 - **种田** (action) -> cày cấy
 - **历史剧本** (glossary) -> kịch bản lịch sử
 - **物理學佛祖** (title) -> Phật Tổ Vật Lý Học
+- **神则** (concept) -> thần tắc
+- **山颠** (location) -> Santen
+- **云海** (location) -> Unkai
+- **天基** (concept) -> Tenmoto
+- **井喷** (concept) -> Ifun
+- **旁门** (concept) -> Boumon
+- **抚平** (action) -> Butaira
+- **串联** (action) -> xâu chuỗi

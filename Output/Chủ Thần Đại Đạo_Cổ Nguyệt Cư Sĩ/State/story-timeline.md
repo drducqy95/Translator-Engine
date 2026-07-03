@@ -1133,3 +1133,6 @@
 ## Chương 342: Chương 0342 Triệu Kì Phân Bảo, Thế Giới Quyền Bính (2).md
 - **Sự kiện chính:** Triệu Kì phân phát bảo vật cho các phân hồn: tặng Sơn Vương chuỗi tràng hạt chứa nhân quả hệ mặt trời, trao cho Nhã Uy và Địch Nại Nhĩ nhẫn khống chế quyền bính Thế Giới Thụ. Ngài giảm sức mạnh, tập trung chuẩn bị đăng thần ba ngày sau, rút kinh nghiệm từ thất bại ở dòng thời gian khác.
 
+## Chương 343: Chương 0343 Bước đầu tiên của Thần Chỉ.md
+- **Sự kiện chính:** Triệu Kì hoàn tất chuẩn bị cuối cùng, thao túng thần tắc và địa mạch toàn cầu, tái lập tham số vật lý. Thế giới chấn động, Khương Lăng trấn an công chúng. Nhã Uy và Địch Nại Nhĩ ổn định Vũ trụ. Cuối cùng, Triệu Kì hiện thân trên Vũ Trụ Tinh Hải, bắt đầu thành tựu Thần Chỉ.
+
