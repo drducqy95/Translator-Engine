@@ -438,3 +438,4 @@
 - **金鹏亲王** (title) -> Thân vương Kim Bằng
 - **种田** (action) -> cày cấy
 - **历史剧本** (glossary) -> kịch bản lịch sử
+- **物理學佛祖** (title) -> Phật Tổ Vật Lý Học

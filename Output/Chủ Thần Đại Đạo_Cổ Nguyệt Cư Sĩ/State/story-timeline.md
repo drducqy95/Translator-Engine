@@ -1130,3 +1130,6 @@
 ## Chương 341: Chương 0341 Triệu Kì phân bảo, thế giới quyền bính.md
 - **Sự kiện chính:** Triệu Kì triệu tập các phân thân để phân chia quyền bính thế giới trước khi thành tựu thần linh, nhằm đảm bảo sự thuần khiết của thần cách và chuẩn bị cho những biến cố không thể dự đoán.
 
+## Chương 342: Chương 0342 Triệu Kì Phân Bảo, Thế Giới Quyền Bính (2).md
+- **Sự kiện chính:** Triệu Kì phân phát bảo vật cho các phân hồn: tặng Sơn Vương chuỗi tràng hạt chứa nhân quả hệ mặt trời, trao cho Nhã Uy và Địch Nại Nhĩ nhẫn khống chế quyền bính Thế Giới Thụ. Ngài giảm sức mạnh, tập trung chuẩn bị đăng thần ba ngày sau, rút kinh nghiệm từ thất bại ở dòng thời gian khác.
+
