@@ -3133,5 +3133,12 @@
     "type": "location",
     "origin": "chinese",
     "name_type": "place"
+  },
+  {
+    "raw": "生杀夺于",
+    "target": "Sanh sát đoạt vu",
+    "type": "technique",
+    "origin": "chinese",
+    "name_type": "other"
   }
 ]

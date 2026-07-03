@@ -2748,32 +2748,39 @@
       "status": "done",
       "title": "Chương 0343 Bước đầu tiên của Thần Chỉ",
       "error": "",
-      "fail_count": 2,
       "translated_file": "Chương 0343 Bước đầu tiên của Thần Chỉ.md"
     },
     {
       "index": 344,
       "file": "Chapter 0344 初始.md",
-      "status": "pending",
-      "title": "初始"
+      "status": "blocked",
+      "title": "初始",
+      "error": "[Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'Shuubi' (Gốc: '秀眉', nhóm: characters)\", \"Thiếu term đã khóa: 'Fumenarisa' (Gốc: '不免有些', nhóm: characters)\", \"Thiếu term đã khóa: 'Morimori' (Gốc: '森森', nhóm: characters)\", \"Thiếu term đã khóa: 'Kyoryuu' (Gốc: '巨龙', nhóm: characters)\"]\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 765, in process_chapter\n    raise e\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 758, in process_chapter\n    self._validate_stage3(stage3_data, context_pack)\n    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 252, in _validate_stage3\n    self._stage_fail(\"Stage 3\", f\"QC fail: {qc.get('errors', [])}\")\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 116, in _stage_fail\n    raise ValueError(f\"[{stage} FAILED] {message}\")\nValueError: [Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'Shuubi' (Gốc: '秀眉', nhóm: characters)\", \"Thiếu term đã khóa: 'Fumenarisa' (Gốc: '不免有些', nhóm: characters)\", \"Thiếu term đã khóa: 'Morimori' (Gốc: '森森', nhóm: characters)\", \"Thiếu term đã khóa: 'Kyoryuu' (Gốc: '巨龙', nhóm: characters)\"]\n",
+      "fail_count": 3
     },
     {
       "index": 345,
       "file": "Chapter 0345 事态升级.md",
-      "status": "pending",
-      "title": "事态升级"
+      "status": "blocked",
+      "title": "事态升级",
+      "error": "[Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'Tatsuyukiso' (Gốc: '龙之祖', nhóm: characters)\", \"Thiếu term đã khóa: 'Monmyousekai' (Gốc: '闻名世界', nhóm: characters)\", \"Thiếu term đã khóa: 'Ryuushou' (Gốc: '龙啸', nhóm: characters)\", \"Thiếu term đã khóa: 'Shuubi' (Gốc: '秀眉', nhóm: characters)\"]\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 765, in process_chapter\n    raise e\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 758, in process_chapter\n    self._validate_stage3(stage3_data, context_pack)\n    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 252, in _validate_stage3\n    self._stage_fail(\"Stage 3\", f\"QC fail: {qc.get('errors', [])}\")\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 116, in _stage_fail\n    raise ValueError(f\"[{stage} FAILED] {message}\")\nValueError: [Stage 3 FAILED] QC fail: [\"Thiếu term đã khóa: 'Tatsuyukiso' (Gốc: '龙之祖', nhóm: characters)\", \"Thiếu term đã khóa: 'Monmyousekai' (Gốc: '闻名世界', nhóm: characters)\", \"Thiếu term đã khóa: 'Ryuushou' (Gốc: '龙啸', nhóm: characters)\", \"Thiếu term đã khóa: 'Shuubi' (Gốc: '秀眉', nhóm: characters)\"]\n",
+      "fail_count": 3
     },
     {
       "index": 346,
       "file": "Chapter 0346 神战.md",
-      "status": "pending",
-      "title": "神战"
+      "status": "blocked",
+      "title": "神战",
+      "error": "Fallback segment 15 thất bại: CJK\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_ai_refiner.py\", line 78, in _extract_json_object\n    data, _ = json.JSONDecoder().raw_decode(text[start:])\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 361, in raw_decode\n    obj, end = self.scan_once(s, idx)\n               ~~~~~~~~~~~~~~^^^^^^^^\njson.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 23 column 6 (char 1006)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_ai_refiner.py\", line 150, in run\n    data = _extract_json_object(response_text)\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_ai_refiner.py\", line 80, in _extract_json_object\n    raise ValueError(f\"JSON không hợp lệ: {e}\")\nValueError: JSON không hợp lệ: Expecting property name enclosed in double quotes: line 23 column 6 (char 1006)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 765, in process_chapter\n    raise e\n  File \"/sdcard/My Agent/Translator Engine/Script/pipeline_manager.py\", line 753, in process_chapter\n    stage3_data = stage3_ai_refiner.run(\n        novel_id=self.novel_id,\n        context_pack=context_pack,\n        output_dir=str(self.out_dir)\n    )\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_ai_refiner.py\", line 156, in run\n    data = stage3_offline_hymt.run_fallback(novel_id, cp, output_dir, response_text, meta_safe)\n  File \"/sdcard/My Agent/Translator Engine/Script/stage3_offline_hymt.py\", line 114, in run_fallback\n    raise ValueError(f\"Fallback segment {sid} thất bại: {err or 'CJK'}\")\nValueError: Fallback segment 15 thất bại: CJK\n",
+      "fail_count": 3
     },
     {
       "index": 347,
       "file": "Chapter 0347 成就神祗，最终收网（一）.md",
-      "status": "pending",
-      "title": "成就神祗，最终收网（一）"
+      "status": "done",
+      "title": "Chương 0347 Thành tựu thần chỉ, cuối cùng thu lưới (1)",
+      "error": "",
+      "translated_file": "Chương 0347 Thành tựu thần chỉ, cuối cùng thu lưới (1).md"
     },
     {
       "index": 348,

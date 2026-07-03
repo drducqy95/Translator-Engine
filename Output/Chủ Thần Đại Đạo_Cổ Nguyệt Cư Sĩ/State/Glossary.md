@@ -448,3 +448,4 @@
 - **抚平** (action) -> Butaira
 - **串联** (action) -> xâu chuỗi
 - **无限岛** (location) -> Vô Hạn Đảo
+- **生杀夺于** (technique) -> Sanh sát đoạt vu

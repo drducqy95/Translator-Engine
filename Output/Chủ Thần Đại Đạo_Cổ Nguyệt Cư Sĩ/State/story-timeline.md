@@ -1136,3 +1136,7 @@
 ## Chương 343: Chương 0343 Bước đầu tiên của Thần Chỉ.md
 - **Sự kiện chính:** Triệu Kì đứng trên đỉnh Santen của Himalaya, tiến hành giai đoạn cuối cùng của việc điều chỉnh quy tắc siêu phàm và thần tắc trong lòng Trái Đất, ổn định các tham số vật lý. Đồng thời, Khương Lăng trấn an thế giới qua thông báo của Vô Hạn Giới, còn Địch Nại Nhĩ và Nhã Uy quan sát từ vũ trụ, chờ đợi khoảnh khắc Triệu Kì thành tựu Thần Chỉ. Cuối cùng, một đạo Thần quang từ Trái Đất xuyên lên vũ trụ, tôn thần hình của Triệu Kì hiện ra trên Vũ Trụ Tinh Hải.
 
+## Chương 347: Chương 0347 Thành tựu thần chỉ, cuối cùng thu lưới (1).md
+- **Sự kiện chính:** Ám Dạ nữ thần Sa ên xuất hiện định đoạt Chí Cao thần cách, Triệu Kì tiết lộ nàng chỉ là hóa thân, phát động tấn công nhưng vô hiệu.
+- **Nhân vật mới xuất hiện:** Sa ên, Ngũ Sắc Long Mẫu, Tri Chu nữ thần La Ti, Vương tử Dối Trá, Âm Mưu chi thần
+
