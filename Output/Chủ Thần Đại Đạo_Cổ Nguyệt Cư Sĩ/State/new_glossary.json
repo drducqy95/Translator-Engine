@@ -3126,5 +3126,12 @@
     "type": "action",
     "origin": "chinese",
     "name_type": "glossary"
+  },
+  {
+    "raw": "无限岛",
+    "target": "Vô Hạn Đảo",
+    "type": "location",
+    "origin": "chinese",
+    "name_type": "place"
   }
 ]

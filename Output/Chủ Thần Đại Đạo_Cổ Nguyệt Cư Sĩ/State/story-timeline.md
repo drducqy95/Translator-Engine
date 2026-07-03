@@ -1134,5 +1134,5 @@
 - **Sự kiện chính:** Triệu Kì phân phát bảo vật cho các phân hồn: tặng Sơn Vương chuỗi tràng hạt chứa nhân quả hệ mặt trời, trao cho Nhã Uy và Địch Nại Nhĩ nhẫn khống chế quyền bính Thế Giới Thụ. Ngài giảm sức mạnh, tập trung chuẩn bị đăng thần ba ngày sau, rút kinh nghiệm từ thất bại ở dòng thời gian khác.
 
 ## Chương 343: Chương 0343 Bước đầu tiên của Thần Chỉ.md
-- **Sự kiện chính:** Triệu Kì hoàn tất chuẩn bị cuối cùng, thao túng thần tắc và địa mạch toàn cầu, tái lập tham số vật lý. Thế giới chấn động, Khương Lăng trấn an công chúng. Nhã Uy và Địch Nại Nhĩ ổn định Vũ trụ. Cuối cùng, Triệu Kì hiện thân trên Vũ Trụ Tinh Hải, bắt đầu thành tựu Thần Chỉ.
+- **Sự kiện chính:** Triệu Kì đứng trên đỉnh Santen của Himalaya, tiến hành giai đoạn cuối cùng của việc điều chỉnh quy tắc siêu phàm và thần tắc trong lòng Trái Đất, ổn định các tham số vật lý. Đồng thời, Khương Lăng trấn an thế giới qua thông báo của Vô Hạn Giới, còn Địch Nại Nhĩ và Nhã Uy quan sát từ vũ trụ, chờ đợi khoảnh khắc Triệu Kì thành tựu Thần Chỉ. Cuối cùng, một đạo Thần quang từ Trái Đất xuyên lên vũ trụ, tôn thần hình của Triệu Kì hiện ra trên Vũ Trụ Tinh Hải.
 
