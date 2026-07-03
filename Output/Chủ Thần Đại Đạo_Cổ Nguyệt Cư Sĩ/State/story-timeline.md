@@ -1158,5 +1158,5 @@
 - **Nhân vật mới xuất hiện:** Sorin (银月女士), Tinh Linh chủ thần
 
 ## Chương 354: Chương 0354 Vô Hạn Giới Chính Thức Nâng Cấp.md
-- **Sự kiện chính:** Triệu Kì quyết định nâng cấp Vô Hạn Giới, hòa nhập hai thần quốc, trao quyền bính cho các thần chi, và chuẩn bị các đồng minh cho việc mở rộng và khai thác các thế giới phụ.
+- **Sự kiện chính:** Triệu Kì quyết định nâng cấp Vô Hạn Giới, dù sức mạnh hiện tại chưa đủ, và nhận được đồng thuận từ các thần chi cao cấp; các quyền bính thực tế bị giải phóng và trở lại hư vô.
 
