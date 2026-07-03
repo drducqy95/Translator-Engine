@@ -1157,3 +1157,6 @@
 - **Sự kiện chính:** Triệu Kì khắc ấn niệm lên hai thần hồn dị giới (La Ti và Sa ên) vừa chảy vào Vô Hạn Giới. Hắn phân tích sự suy đồi của tín ngưỡng thần, rút ra tia Hắc ám thần tính nguyên sơ từ Sa ên — thứ nàng đã mất — và biết việc này khiến hắn trở thành tử địch với nàng. Kết luận cần tăng tốc hệ thống thần quốc Hệ Mặt Trời.
 - **Nhân vật mới xuất hiện:** Sorin (银月女士), Tinh Linh chủ thần
 
+## Chương 354: Chương 0354 Vô Hạn Giới Chính Thức Nâng Cấp.md
+- **Sự kiện chính:** Triệu Kì quyết định nâng cấp Vô Hạn Giới, hòa nhập hai thần quốc, trao quyền bính cho các thần chi, và chuẩn bị các đồng minh cho việc mở rộng và khai thác các thế giới phụ.
+
