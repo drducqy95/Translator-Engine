@@ -1150,5 +1150,6 @@
 - **Sự kiện chính:** Triệu Kì bày tỏ dự định tạo ra các tồn tại thay thế, nhưng sự xuất hiện của Tà Thần dị vực khiến y thay đổi kế hoạch. Y bắt hai nữ thần Sa ên và La Ti làm tù binh, phân cắt khái niệm của chúng khỏi bản thể, ép chúng quy phục làm tòng thần.
 
 ## Chương 352: Chương 0352 Thần chỉ chi lộ, xây dựng đội ngũ.md
-- **Sự kiện chính:** Offline fallback mode
+- **Sự kiện chính:** Triệu Kì đánh bại và thu phục hai nữ thần Sa ên và La Ti, biến họ thành tòng thần của mình bằng cách cho họ đi vào thần quốc Vô Hạn để tái tạo căn cơ. Triệu Kì dự định sẽ xây dựng đội ngũ của mình với sự tham gia của Jakushi.
+- **Nhân vật mới xuất hiện:** Triệu Kì, Sa ên, La Ti, Jakushi
 

@@ -1811,5 +1811,47 @@
     "type": "character",
     "origin": "chinese",
     "name_type": "person"
+  },
+  {
+    "raw": "暗夜女神",
+    "target": "Ám Dạ nữ thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "蜘蛛女神",
+    "target": "Tri Chu nữ thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "罗丝",
+    "target": "La Ti",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
+  },
+  {
+    "raw": "精灵生命女神",
+    "target": "Tinh Linh Sinh Mệnh nữ thần",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "龙母",
+    "target": "Ryuuhaha",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "title"
+  },
+  {
+    "raw": "艾欧",
+    "target": "Ngải Âu",
+    "type": "character",
+    "origin": "chinese",
+    "name_type": "person"
   }
 ]

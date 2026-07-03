@@ -259,3 +259,9 @@
 - **伪帝** -> Ngụy đế
 - **毛糁道长** -> Mao Tảm đạo trường
 - **毛道长** -> Đạo trưởng Mao
+- **暗夜女神** -> Ám Dạ nữ thần
+- **蜘蛛女神** -> Tri Chu nữ thần
+- **罗丝** -> La Ti
+- **精灵生命女神** -> Tinh Linh Sinh Mệnh nữ thần
+- **龙母** -> Ryuuhaha
+- **艾欧** -> Ngải Âu
