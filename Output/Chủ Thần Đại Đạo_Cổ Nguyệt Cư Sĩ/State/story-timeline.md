@@ -1140,3 +1140,6 @@
 - **Sự kiện chính:** Triệu Kì nhận ra Ám Dạ nữ thần Sa ên mới là đối thủ thực sự, trong khi các thần khác chỉ là hóa thân. Sa ên tấn công bằng nhiều Siêu Phàm Thần Lực nhưng bị Triệu Kì coi là vô dụng, ám chỉ hắn đã chuẩn bị sẵn kế hoạch.
 - **Nhân vật mới xuất hiện:** Sa ên (Ám Dạ nữ thần)
 
+## Chương 348: Chương 0348 Thành tựu thần chỉ, cuối cùng giăng lưới (2).md
+- **Sự kiện chính:** Triệu Kì tiết lộ rằng Sa ên và các thần khác đã rơi vào bẫy của hắn ngay từ đầu, khi hắn đang trong quá trình thành tựu thần chỉ. Hắn đã sử dụng thần quốc Hệ Mặt Trời và Vô Hạn Giới để giam giữ hóa thân của Sa ên, đồng thời ra lệnh cho Hạo Thiên và Mệnh Vận bắt đầu thu lưới.
+
