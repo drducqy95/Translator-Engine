@@ -3140,5 +3140,54 @@
     "type": "technique",
     "origin": "chinese",
     "name_type": "other"
+  },
+  {
+    "raw": "元始",
+    "target": "Nguyên Thủy",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "太一",
+    "target": "Thái Nhất",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "创造之神",
+    "target": "Sáng Tạo Chi Thần",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "时间线",
+    "target": "thời gian tuyến",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "历史砥柱",
+    "target": "trụ cột lịch sử",
+    "type": "concept",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "诸人",
+    "target": "những người ở đây",
+    "type": "common",
+    "origin": "chinese",
+    "name_type": "other"
+  },
+  {
+    "raw": "主神",
+    "target": "Chủ thần",
+    "type": "title",
+    "origin": "chinese",
+    "name_type": "other"
   }
 ]

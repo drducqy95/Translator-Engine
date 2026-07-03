@@ -449,3 +449,10 @@
 - **串联** (action) -> xâu chuỗi
 - **无限岛** (location) -> Vô Hạn Đảo
 - **生杀夺于** (technique) -> Sanh sát đoạt vu
+- **元始** (title) -> Nguyên Thủy
+- **太一** (title) -> Thái Nhất
+- **创造之神** (title) -> Sáng Tạo Chi Thần
+- **时间线** (concept) -> thời gian tuyến
+- **历史砥柱** (concept) -> trụ cột lịch sử
+- **诸人** (common) -> những người ở đây
+- **主神** (title) -> Chủ thần
